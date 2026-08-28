@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-08-29T06:25:30+09:00",
+  "dataset_generated_at": "2026-08-29T07:18:02+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -865,6 +865,334 @@
       "upc": null,
       "connection_methods": [
         "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-magic-ns-2",
+      "manufacturer": "MAYFLASH",
+      "product_name": "MAGIC NS 2 Wireless Bluetooth Controller USB Adapter",
+      "model_number": "MAGIC-NS 2",
+      "aliases": [
+        "MAGIC-NS 2",
+        "MAGIC NS 2 Wireless Bluetooth Controller USB Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MAGIC-NS 2",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-magic-s-ultimate",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Magic-S Ultimate Wireless Bluetooth USB Adapter",
+      "model_number": "Magic-S Ultimate",
+      "aliases": [
+        "Magic-S Ultimate",
+        "Magic-S Ultimate Wireless Bluetooth USB Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Magic-S Ultimate",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-magic-ns-lite",
+      "manufacturer": "MAYFLASH",
+      "product_name": "MAGIC-NS Lite Wireless Bluetooth USB Adapter",
+      "model_number": "MAGIC-NS Lite",
+      "aliases": [
+        "MAGIC-NS Lite",
+        "MAGIC-NS Lite Wireless Bluetooth USB Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MAGIC-NS Lite",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-magic-s-pro-2",
+      "manufacturer": "MAYFLASH",
+      "product_name": "MAGIC-S PRO 2 Wireless Bluetooth Controller USB Adapter",
+      "model_number": "MAGIC-S PRO 2",
+      "aliases": [
+        "MAGIC-S PRO 2",
+        "MAGIC-S PRO 2 Wireless Bluetooth Controller USB Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MAGIC-S PRO 2",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-magic-x",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Magic-X Wireless Bluetooth USB Adapter",
+      "model_number": "Magic-X",
+      "aliases": [
+        "Magic-X",
+        "Magic-X Wireless Bluetooth USB Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Magic-X",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-n64-controller-adapter-mf103",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Nintendo 64 Controller Adapter",
+      "model_number": "MF103",
+      "aliases": [
+        "MF103",
+        "Nintendo 64 Controller Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MF103",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-mega-drive-adapter-mf104",
+      "manufacturer": "MAYFLASH",
+      "product_name": "SEGA Genesis & Mega Drive Controller Adapter",
+      "model_number": "MF104",
+      "aliases": [
+        "MF104",
+        "SEGA Genesis & Mega Drive Controller Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MF104",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-snes-controller-adapter-mf105",
+      "manufacturer": "MAYFLASH",
+      "product_name": "SNES Controller Adapter",
+      "model_number": "MF105",
+      "aliases": [
+        "MF105",
+        "SNES Controller Adapter"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MF105",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-gamecube-controller-adapter-w012",
+      "manufacturer": "MAYFLASH",
+      "product_name": "GameCube Controller Adapter 4 Port",
+      "model_number": "W012",
+      "aliases": [
+        "W012",
+        "GameCube Controller Adapter 4 Port"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "W012",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-ras1ution-2",
+      "manufacturer": "Brook",
+      "product_name": "Ras1ution 2",
+      "model_number": "Ras1ution 2",
+      "aliases": [
+        "Ras1ution 2"
+      ],
+      "category": "レーシングホイール変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Ras1ution 2",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-wingman-xe-2",
+      "manufacturer": "Brook",
+      "product_name": "Wingman XE 2",
+      "model_number": "Wingman XE 2",
+      "aliases": [
+        "Wingman XE 2"
+      ],
+      "category": "コントローラー変換アダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Wingman XE 2",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nyko-playpad-glow",
+      "manufacturer": "Nyko",
+      "product_name": "PlayPad Glow Wireless RGB Controller",
+      "model_number": "87326",
+      "aliases": [
+        "87326",
+        "PlayPad Glow Wireless RGB Controller"
+      ],
+      "category": "コントローラー",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "87326",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nyko-wireless-core-controller",
+      "manufacturer": "Nyko",
+      "product_name": "Wireless Core Controller for Nintendo Switch",
+      "model_number": null,
+      "aliases": [
+        "Wireless Core Controller for Nintendo Switch"
+      ],
+      "category": "コントローラー",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nyko-mini-wireless-core-controller",
+      "manufacturer": "Nyko",
+      "product_name": "Mini Wireless Core Controller for Nintendo Switch",
+      "model_number": null,
+      "aliases": [
+        "Mini Wireless Core Controller for Nintendo Switch"
+      ],
+      "category": "コントローラー",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nyko-black-dualies",
+      "manufacturer": "Nyko",
+      "product_name": "Black Dualies for Nintendo Switch",
+      "model_number": null,
+      "aliases": [
+        "Black Dualies for Nintendo Switch"
+      ],
+      "category": "コントローラー",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth"
       ],
       "lifecycle_status": "unknown",
       "successor_product_id": null,
@@ -8077,6 +8405,2594 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-ns-2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-magic-ns-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-magic-ns-2-feature-1",
+          "feature_name": "Switch 2でのコントローラー変換",
+          "status": "supported",
+          "notes": "公式にSwitch 2対応を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-ns-2-feature-2",
+          "feature_name": "Switch Pro Mode",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro Modeを選択して使用する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-ns-2-feature-3",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-ns-2-feature-4",
+          "feature_name": "モーション・振動",
+          "status": "supported_with_requirements",
+          "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-ns-2-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "Switch 2/Switch対応を掲載。SKU: MAGIC-NS 2。公式最新ファームウェアへ更新するよう案内。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-2",
+              "feature_name": "公式ファームウェア更新",
+              "status": "supported_with_requirements",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-2-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "MAYFLASH公式のSwitch Pro Mode、Pro Controller Wired Communication、モーション・振動のモード条件をrequirementsおよびfeature_assessmentsへ反映。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-s-ultimate-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-magic-s-ultimate",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-magic-s-ultimate-feature-1",
+          "feature_name": "Switch 2でのコントローラー変換",
+          "status": "supported",
+          "notes": "公式にSwitch 2対応を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-s-ultimate-feature-2",
+          "feature_name": "Switch Pro Mode",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro Modeを選択して使用する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-s-ultimate-feature-3",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-s-ultimate-feature-4",
+          "feature_name": "モーション・振動",
+          "status": "supported_with_requirements",
+          "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-s-ultimate-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "Switch 2/Switch対応を掲載。SKU: Magic-S Ultimate。公式最新ファームウェアへ更新するよう案内。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-2",
+              "feature_name": "公式ファームウェア更新",
+              "status": "supported_with_requirements",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-ultimate-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "MAYFLASH公式のSwitch Pro Mode、Pro Controller Wired Communication、モーション・振動のモード条件をrequirementsおよびfeature_assessmentsへ反映。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-ns-lite-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-magic-ns-lite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-magic-ns-lite-feature-1",
+          "feature_name": "Switch 2でのコントローラー変換",
+          "status": "supported",
+          "notes": "公式にSwitch 2対応を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-ns-lite-feature-2",
+          "feature_name": "Switch Pro Mode",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro Modeを選択して使用する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-ns-lite-feature-3",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-ns-lite-feature-4",
+          "feature_name": "モーション・振動",
+          "status": "supported_with_requirements",
+          "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-ns-lite-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "Switch 2/Switch対応を掲載。SKU: MAGIC-NS Lite。公式最新ファームウェアへ更新するよう案内。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-2",
+              "feature_name": "公式ファームウェア更新",
+              "status": "supported_with_requirements",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-ns-lite-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "MAYFLASH公式のSwitch Pro Mode、Pro Controller Wired Communication、モーション・振動のモード条件をrequirementsおよびfeature_assessmentsへ反映。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-s-pro-2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-magic-s-pro-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-magic-s-pro-2-feature-1",
+          "feature_name": "Switch 2でのコントローラー変換",
+          "status": "supported",
+          "notes": "公式にSwitch 2対応を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-s-pro-2-feature-2",
+          "feature_name": "Switch Pro Mode",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro Modeを選択して使用する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-s-pro-2-feature-3",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-s-pro-2-feature-4",
+          "feature_name": "モーション・振動",
+          "status": "supported_with_requirements",
+          "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-s-pro-2-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "Switch 2/Switch対応を掲載。SKU: MAGIC-S PRO 2。公式最新ファームウェアへ更新するよう案内。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-2",
+              "feature_name": "公式ファームウェア更新",
+              "status": "supported_with_requirements",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-s-pro-2-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro-2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "MAYFLASH公式のSwitch Pro Mode、Pro Controller Wired Communication、モーション・振動のモード条件をrequirementsおよびfeature_assessmentsへ反映。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-x-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-magic-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-magic-x-feature-1",
+          "feature_name": "Switch 2でのコントローラー変換",
+          "status": "supported",
+          "notes": "公式にSwitch 2対応を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-x-feature-2",
+          "feature_name": "Switch Pro Mode",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro Modeを選択して使用する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-x-feature-3",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported_with_requirements",
+          "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "mayflash-magic-x-feature-4",
+          "feature_name": "モーション・振動",
+          "status": "supported_with_requirements",
+          "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-x-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-x-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "Switch 2/Switch対応を掲載。SKU: Magic-X。公式最新ファームウェアへ更新するよう案内。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-2",
+              "feature_name": "公式ファームウェア更新",
+              "status": "supported_with_requirements",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-x-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式がSwitch 2/Switch対応を掲載。Switch Pro Modeでの利用には、本体のPro Controller Wired Communication設定をONにする。モーション・振動の対応は選択モードに依存する。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch Pro Modeで使用する場合は、Switch 2のPro Controller Wired CommunicationをONにする"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-magic-x-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported",
+              "notes": "公式にSwitch 2対応を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-2",
+              "feature_name": "Switch Pro Mode",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro Modeを選択して使用する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-3",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported_with_requirements",
+              "notes": "Switch Pro ModeではSwitch 2本体側のPro Controller Wired CommunicationをONにする。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mayflash-magic-x-feature-4",
+              "feature_name": "モーション・振動",
+              "status": "supported_with_requirements",
+              "notes": "公式仕様上、モーション・振動の可否は選択モードに依存する。",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-x-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "MAYFLASH公式のSwitch Pro Mode、Pro Controller Wired Communication、モーション・振動のモード条件をrequirementsおよびfeature_assessmentsへ反映。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-n64-controller-adapter-mf103-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-n64-controller-adapter-mf103",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-n64-controller-adapter-mf103-feature-1",
+          "feature_name": "Switch 2でのN64コントローラー入力",
+          "status": "supported",
+          "notes": "Nintendo Switch 2/Switch対応、SKU MF103、N64コントローラー最大2台接続を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-n64-controller-adapter-mf103-feature-1",
+              "feature_name": "Switch 2でのN64コントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU MF103、N64コントローラー最大2台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-n64-controller-adapter-mf103-feature-1",
+              "feature_name": "Switch 2でのN64コントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU MF103、N64コントローラー最大2台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-mega-drive-adapter-mf104-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-mega-drive-adapter-mf104",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-mega-drive-adapter-mf104-feature-1",
+          "feature_name": "Switch 2でのMega Drive/Genesisコントローラー入力",
+          "status": "supported",
+          "notes": "Nintendo Switch 2/Switch対応、SKU MF104、Mega Drive/Genesisコントローラー最大2台接続を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-mega-drive-adapter-mf104-feature-1",
+              "feature_name": "Switch 2でのMega Drive/Genesisコントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU MF104、Mega Drive/Genesisコントローラー最大2台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-mega-drive-adapter-mf104-feature-1",
+              "feature_name": "Switch 2でのMega Drive/Genesisコントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU MF104、Mega Drive/Genesisコントローラー最大2台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-snes-controller-adapter-mf105-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-snes-controller-adapter-mf105",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-snes-controller-adapter-mf105-feature-1",
+          "feature_name": "Switch 2でのSNES/Super Famicomコントローラー入力",
+          "status": "supported",
+          "notes": "Nintendo Switch 2/Switch対応、SKU MF105、SNES/Super Famicomコントローラー最大2台接続を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-snes-controller-adapter-mf105-feature-1",
+              "feature_name": "Switch 2でのSNES/Super Famicomコントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU MF105、SNES/Super Famicomコントローラー最大2台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-snes-controller-adapter-mf105-feature-1",
+              "feature_name": "Switch 2でのSNES/Super Famicomコントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU MF105、SNES/Super Famicomコントローラー最大2台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-gamecube-controller-adapter-w012-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-gamecube-controller-adapter-w012",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-gamecube-controller-adapter-w012-feature-1",
+          "feature_name": "Switch 2でのGameCubeコントローラー入力",
+          "status": "supported",
+          "notes": "Nintendo Switch 2/Switch対応、SKU W012、GameCubeコントローラー最大4台接続を掲載。",
+          "evidence_ids": [
+            "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-gamecube-controller-adapter-w012-feature-1",
+              "feature_name": "Switch 2でのGameCubeコントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU W012、GameCubeコントローラー最大4台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "MAYFLASH公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-gamecube-controller-adapter-w012-feature-1",
+              "feature_name": "Switch 2でのGameCubeコントローラー入力",
+              "status": "supported",
+              "notes": "Nintendo Switch 2/Switch対応、SKU W012、GameCubeコントローラー最大4台接続を掲載。",
+              "evidence_ids": [
+                "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-brook-ras1ution-2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "brook-ras1ution-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Brook公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "使用するレースゲームとホイールが公式互換リストの対象であることを確認する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "brook-ras1ution-2-feature-1",
+          "feature_name": "Switch 2でのレーシングホイール変換",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2対応を掲載。対応するレースゲームおよびホイール互換リストの確認を案内。",
+          "evidence_ids": [
+            "ev-brook-ras1ution-2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-ras1ution-2-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Brook公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "使用するレースゲームとホイールが公式互換リストの対象であることを確認する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-ras1ution-2-feature-1",
+              "feature_name": "Switch 2でのレーシングホイール変換",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2対応を掲載。対応するレースゲームおよびホイール互換リストの確認を案内。",
+              "evidence_ids": [
+                "ev-brook-ras1ution-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-ras1ution-2-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Brook公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "使用するレースゲームとホイールが公式互換リストの対象であることを確認する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-ras1ution-2-feature-1",
+              "feature_name": "Switch 2でのレーシングホイール変換",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2対応を掲載。対応するレースゲームおよびホイール互換リストの確認を案内。",
+              "evidence_ids": [
+                "ev-brook-ras1ution-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-ras1ution-2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-brook-wingman-xe-2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "brook-wingman-xe-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Brook公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [
+        "公式最新ファームウェアへ更新する",
+        "Switch 2のProコントローラー有線通信をONにする",
+        "NSモードに切り替えて接続する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "brook-wingman-xe-2-feature-1",
+          "feature_name": "Switch 2でのコントローラー変換",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2で使う手順として最新ファームウェア、Proコントローラー有線通信ON、NSモードへの切替を案内。",
+          "evidence_ids": [
+            "ev-brook-wingman-xe-2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-wingman-xe-2-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Brook公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch 2のProコントローラー有線通信をONにする",
+            "NSモードに切り替えて接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-wingman-xe-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2で使う手順として最新ファームウェア、Proコントローラー有線通信ON、NSモードへの切替を案内。",
+              "evidence_ids": [
+                "ev-brook-wingman-xe-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-wingman-xe-2-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Brook公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式最新ファームウェアへ更新する",
+            "Switch 2のProコントローラー有線通信をONにする",
+            "NSモードに切り替えて接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-wingman-xe-2-feature-1",
+              "feature_name": "Switch 2でのコントローラー変換",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2で使う手順として最新ファームウェア、Proコントローラー有線通信ON、NSモードへの切替を案内。",
+              "evidence_ids": [
+                "ev-brook-wingman-xe-2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-wingman-xe-2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nyko-playpad-glow-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nyko-playpad-glow",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [
+        "公式PCファームウェア更新を適用する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nyko-playpad-glow-feature-1",
+          "feature_name": "Switch 2での基本操作",
+          "status": "supported_with_requirements",
+          "notes": "PlayPad Glow（87326）のファームウェア更新がSwitch 2互換性を追加すると掲載。Cボタン非対応。",
+          "evidence_ids": [
+            "ev-nyko-playpad-glow-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-playpad-glow-feature-2",
+          "feature_name": "Cボタン",
+          "status": "unsupported",
+          "notes": "公式情報に記載された制約。",
+          "evidence_ids": [
+            "ev-nyko-playpad-glow-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nyko-playpad-glow-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式PCファームウェア更新を適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-playpad-glow-feature-1",
+              "feature_name": "Switch 2での基本操作",
+              "status": "supported_with_requirements",
+              "notes": "PlayPad Glow（87326）のファームウェア更新がSwitch 2互換性を追加すると掲載。Cボタン非対応。",
+              "evidence_ids": [
+                "ev-nyko-playpad-glow-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-playpad-glow-feature-2",
+              "feature_name": "Cボタン",
+              "status": "unsupported",
+              "notes": "公式情報に記載された制約。",
+              "evidence_ids": [
+                "ev-nyko-playpad-glow-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-playpad-glow-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [
+            "公式PCファームウェア更新を適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-playpad-glow-feature-1",
+              "feature_name": "Switch 2での基本操作",
+              "status": "supported_with_requirements",
+              "notes": "PlayPad Glow（87326）のファームウェア更新がSwitch 2互換性を追加すると掲載。Cボタン非対応。",
+              "evidence_ids": [
+                "ev-nyko-playpad-glow-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-playpad-glow-feature-2",
+              "feature_name": "Cボタン",
+              "status": "unsupported",
+              "notes": "公式情報に記載された制約。",
+              "evidence_ids": [
+                "ev-nyko-playpad-glow-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-playpad-glow-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nyko-wireless-core-controller-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nyko-wireless-core-controller",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nyko-wireless-core-controller-feature-1",
+          "feature_name": "Switch 2での無線操作",
+          "status": "supported",
+          "notes": "Switch 2との無線接続、6軸ジャイロ、振動を掲載。NFC非搭載、Cボタン機能はSwitch 2で利用不可。公式ページにSKU掲載なし。",
+          "evidence_ids": [
+            "ev-nyko-wireless-core-controller-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-wireless-core-controller-feature-2",
+          "feature_name": "ジャイロ・振動",
+          "status": "supported",
+          "notes": "公式情報に記載された機能。",
+          "evidence_ids": [
+            "ev-nyko-wireless-core-controller-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-wireless-core-controller-feature-3",
+          "feature_name": "NFC（amiibo）",
+          "status": "unsupported",
+          "notes": "公式情報に記載された制約。",
+          "evidence_ids": [
+            "ev-nyko-wireless-core-controller-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-wireless-core-controller-feature-4",
+          "feature_name": "Cボタン",
+          "status": "unsupported",
+          "notes": "公式情報に記載された制約。",
+          "evidence_ids": [
+            "ev-nyko-wireless-core-controller-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nyko-wireless-core-controller-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "Switch 2との無線接続、6軸ジャイロ、振動を掲載。NFC非搭載、Cボタン機能はSwitch 2で利用不可。公式ページにSKU掲載なし。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-2",
+              "feature_name": "ジャイロ・振動",
+              "status": "supported",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-3",
+              "feature_name": "NFC（amiibo）",
+              "status": "unsupported",
+              "notes": "公式情報に記載された制約。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-4",
+              "feature_name": "Cボタン",
+              "status": "unsupported",
+              "notes": "公式情報に記載された制約。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-wireless-core-controller-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "Switch 2との無線接続、6軸ジャイロ、振動を掲載。NFC非搭載、Cボタン機能はSwitch 2で利用不可。公式ページにSKU掲載なし。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-2",
+              "feature_name": "ジャイロ・振動",
+              "status": "supported",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-3",
+              "feature_name": "NFC（amiibo）",
+              "status": "unsupported",
+              "notes": "公式情報に記載された制約。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-wireless-core-controller-feature-4",
+              "feature_name": "Cボタン",
+              "status": "unsupported",
+              "notes": "公式情報に記載された制約。",
+              "evidence_ids": [
+                "ev-nyko-wireless-core-controller-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-wireless-core-controller-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nyko-mini-wireless-core-controller-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nyko-mini-wireless-core-controller",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Nyko公式はSwitch 2との互換性、Bluetooth、ジャイロ、振動を掲載する一方、NFCリーダー非搭載を明記する。Cボタンについて公式記載がないため未確定。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nyko-mini-wireless-core-controller-feature-1",
+          "feature_name": "Switch 2での無線操作",
+          "status": "supported",
+          "notes": "公式にSwitch 2との互換性を記載。",
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-mini-wireless-core-controller-feature-2",
+          "feature_name": "ジャイロ・振動",
+          "status": "supported",
+          "notes": "公式にジャイロと振動を記載。",
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-mini-wireless-core-controller-feature-3",
+          "feature_name": "NFC（amiibo）",
+          "status": "unsupported",
+          "notes": "公式にNFCリーダー非搭載と明記。",
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "nyko-mini-wireless-core-controller-feature-4",
+          "feature_name": "Cボタン",
+          "status": "unknown",
+          "notes": "公式ページにCボタンの対応・非対応記載を確認できない。",
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nyko公式情報でNintendo Switch 2に関する対応・制約を確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "Switch 2ハードウェアとの互換性、Bluetooth接続、ジャイロ、振動を掲載。公式ページにSKU掲載なし。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-2",
+              "feature_name": "ジャイロ・振動",
+              "status": "supported",
+              "notes": "公式情報に記載された機能。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Nyko公式はSwitch 2との互換性、Bluetooth、ジャイロ、振動を掲載する一方、NFCリーダー非搭載を明記する。Cボタンについて公式記載がないため未確定。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "公式にSwitch 2との互換性を記載。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-2",
+              "feature_name": "ジャイロ・振動",
+              "status": "supported",
+              "notes": "公式にジャイロと振動を記載。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-3",
+              "feature_name": "NFC（amiibo）",
+              "status": "unsupported",
+              "notes": "公式にNFCリーダー非搭載と明記。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-4",
+              "feature_name": "Cボタン",
+              "status": "unknown",
+              "notes": "公式ページにCボタンの対応・非対応記載を確認できない。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Nyko公式はSwitch 2との互換性、Bluetooth、ジャイロ、振動を掲載する一方、NFCリーダー非搭載を明記する。Cボタンについて公式記載がないため未確定。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "公式にSwitch 2との互換性を記載。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-2",
+              "feature_name": "ジャイロ・振動",
+              "status": "supported",
+              "notes": "公式にジャイロと振動を記載。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-3",
+              "feature_name": "NFC（amiibo）",
+              "status": "unsupported",
+              "notes": "公式にNFCリーダー非搭載と明記。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "nyko-mini-wireless-core-controller-feature-4",
+              "feature_name": "Cボタン",
+              "status": "unknown",
+              "notes": "公式ページにCボタンの対応・非対応記載を確認できない。",
+              "evidence_ids": [
+                "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-mini-wireless-core-controller-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "Nyko公式製品ページに合わせ、NFC非搭載を明記しCボタンは推測せずunknownへ変更。overall_statusをlimited_compatibilityへ見直し。",
+          "previous_status": "compatible",
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nyko-black-dualies-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nyko-black-dualies",
+      "region": "JP",
+      "overall_status": "incompatible",
+      "publication_status": "published",
+      "summary": "Nyko公式情報で、Nintendo Switch 2には現時点で非対応と確認。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nyko-black-dualies-feature-1",
+          "feature_name": "Switch 2での基本操作",
+          "status": "unsupported",
+          "notes": "Black Dualiesは現時点でSwitch 2非対応と明記。公式ページにSKU掲載なし。",
+          "evidence_ids": [
+            "ev-nyko-black-dualies-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nyko-black-dualies-switch2-20260829"
+      ],
+      "created_by": "candidate_research_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T07:18:02+09:00",
+      "verified_at": "2026-08-29T09:30:00+09:00",
+      "next_review_at": "2026-11-27T09:30:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "overall_status": "incompatible",
+          "publication_status": "under_review",
+          "summary": "Nyko公式情報で、Nintendo Switch 2には現時点で非対応と確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-black-dualies-feature-1",
+              "feature_name": "Switch 2での基本操作",
+              "status": "unsupported",
+              "notes": "Black Dualiesは現時点でSwitch 2非対応と明記。公式ページにSKU掲載なし。",
+              "evidence_ids": [
+                "ev-nyko-black-dualies-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-black-dualies-switch2-20260829"
+          ],
+          "revision": 1,
+          "captured_at": "2026-08-29T09:30:00+09:00",
+          "captured_by": "candidate_research_20260829"
+        },
+        {
+          "overall_status": "incompatible",
+          "publication_status": "under_review",
+          "summary": "Nyko公式情報で、Nintendo Switch 2には現時点で非対応と確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-black-dualies-feature-1",
+              "feature_name": "Switch 2での基本操作",
+              "status": "unsupported",
+              "notes": "Black Dualiesは現時点でSwitch 2非対応と明記。公式ページにSKU掲載なし。",
+              "evidence_ids": [
+                "ev-nyko-black-dualies-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-black-dualies-switch2-20260829"
+          ],
+          "revision": 2,
+          "captured_at": "2026-08-29T10:15:00+09:00",
+          "captured_by": "candidate_research_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T07:18:02+09:00",
+          "captured_by": "jun19",
+          "overall_status": "incompatible",
+          "publication_status": "published",
+          "summary": "Nyko公式情報で、Nintendo Switch 2には現時点で非対応と確認。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nyko-black-dualies-feature-1",
+              "feature_name": "Switch 2での基本操作",
+              "status": "unsupported",
+              "notes": "Black Dualiesは現時点でSwitch 2非対応と明記。公式ページにSKU掲載なし。",
+              "evidence_ids": [
+                "ev-nyko-black-dualies-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nyko-black-dualies-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T09:30:00+09:00",
+          "changed_by": "candidate_research_20260829",
+          "change_reason": "メーカー公式一次情報でNintendo Switch 2対応・制約を新規確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "incompatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T10:15:00+09:00",
+          "changed_by": "candidate_research_20260829_fix",
+          "change_reason": "Nyko公式の接続方式表記に合わせ、connection_methodsをBluetoothへ修正。",
+          "previous_status": "incompatible",
+          "new_status": "incompatible"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T07:18:02+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "incompatible",
+          "new_status": "incompatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -9537,6 +12453,276 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "製品型番 NSW-079。Nintendo Switch専用の太鼓コントローラーとして仕様を記載。また、本品のHOMEボタンではNintendo Switch 2本体のスリープを解除できない旨を明記。",
       "created_by": "revalidation_20260829_hori6"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-ns-2-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/magic_ns_2.html",
+      "source_title": "MAYFLASH MAGIC NS 2 Wireless Bluetooth Controller USB Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-s-ultimate-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/magic_s_ultimate.html",
+      "source_title": "MAYFLASH Magic-S Ultimate Wireless Bluetooth USB Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-ns-lite-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/magic_ns_lite.html",
+      "source_title": "MAYFLASH MAGIC-NS Lite Wireless Bluetooth USB Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-s-pro-2-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/magic_s_pro_2.html",
+      "source_title": "MAYFLASH MAGIC-S PRO 2 Wireless Bluetooth Controller USB Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-x-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/magic_x.html",
+      "source_title": "MAYFLASH Magic-X Wireless Bluetooth USB Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-n64-controller-adapter-mf103-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/n64_controller_adapter_mf103.html",
+      "source_title": "MAYFLASH Nintendo 64 Controller Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2/Switch対応、SKU MF103、N64コントローラー最大2台接続を掲載。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/sega_genesis_mega_drive_controller_adapter_mf104.html",
+      "source_title": "MAYFLASH SEGA Genesis & Mega Drive Controller Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2/Switch対応、SKU MF104、Mega Drive/Genesisコントローラー最大2台接続を掲載。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-snes-controller-adapter-mf105-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/snes_controller_adapter_mf105.html",
+      "source_title": "MAYFLASH SNES Controller Adapter",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2/Switch対応、SKU MF105、SNES/Super Famicomコントローラー最大2台接続を掲載。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-mayflash-gamecube-controller-adapter-w012-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/W012.html",
+      "source_title": "MAYFLASH GameCube Controller Adapter 4 Port",
+      "source_label": "MAYFLASH 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2/Switch対応、SKU W012、GameCubeコントローラー最大4台接続を掲載。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-brook-ras1ution-2-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/ras1ution2/index.html",
+      "source_title": "Brook Ras1ution 2",
+      "source_label": "Brook 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2対応を掲載。対応するレースゲームおよびホイール互換リストの確認を案内。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-brook-wingman-xe-2-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/support/future-proofed-brook-now-supports-ns2.php",
+      "source_title": "Brook Wingman XE 2",
+      "source_label": "Brook 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2で使う手順として最新ファームウェア、Proコントローラー有線通信ON、NSモードへの切替を案内。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-nyko-playpad-glow-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://nyko.com/pages/firmware-updates-downloads-product-updates-here",
+      "source_title": "Nyko PlayPad Glow Wireless RGB Controller",
+      "source_label": "Nyko 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "PlayPad Glow（87326）のファームウェア更新がSwitch 2互換性を追加すると掲載。Cボタン非対応。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-nyko-wireless-core-controller-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://nyko.com/products/wireless-core-controller-for-nintendo-switch",
+      "source_title": "Nyko Wireless Core Controller for Nintendo Switch",
+      "source_label": "Nyko 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2との無線接続、6軸ジャイロ、振動を掲載。NFC非搭載、Cボタン機能はSwitch 2で利用不可。公式ページにSKU掲載なし。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-nyko-mini-wireless-core-controller-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://nyko.com/products/mini-wireless-core-controller-for-nintendo-switch",
+      "source_title": "Nyko Mini Wireless Core Controller for Nintendo Switch",
+      "source_label": "Nyko 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2ハードウェアとの互換性、Bluetooth、ジャイロ、振動を掲載。NFCリーダー非搭載を明記。Cボタンに関する記載は確認できない。",
+      "created_by": "candidate_research_20260829"
+    },
+    {
+      "evidence_id": "ev-nyko-black-dualies-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://nyko.com/products/dualies-for-nintendo-switch",
+      "source_title": "Nyko Black Dualies for Nintendo Switch",
+      "source_label": "Nyko 公式製品・サポート情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T09:30:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Black Dualiesは現時点でSwitch 2非対応と明記。Dualiesの接続方式は公式にwireless motion control & rumbleと記載。公式ページにSKU掲載なし。",
+      "created_by": "candidate_research_20260829"
     }
   ]
 }
