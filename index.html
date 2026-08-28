@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>これ、使える？ — デバイス互換性検索</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>これ、使える？</h1>
+      <p class="sub">Nintendo Switch 2 と周辺機器の互換性を、公開承認済みデータから検索します。</p>
+      <form id="searchForm">
+        <input id="query" autocomplete="off" placeholder="例: HAC-013 / Pro Controller / 8BitDo">
+        <button type="submit">検索</button>
+      </form>
+      <div id="stats" class="stats">データ読込中...</div>
+    </header>
+    <main id="result"></main>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabase-config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
