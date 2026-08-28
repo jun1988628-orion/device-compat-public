@@ -57,4 +57,9 @@
   <url><loc>https://device-compat-public.vercel.app/products/nyko-wireless-core-controller/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://device-compat-public.vercel.app/products/nyko-mini-wireless-core-controller/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://device-compat-public.vercel.app/products/nyko-black-dualies/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://device-compat-public.vercel.app/products/gamesir-super-nova/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://device-compat-public.vercel.app/products/mobapad-m6-hd/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://device-compat-public.vercel.app/products/retrobit-legacy16-24g-v2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://device-compat-public.vercel.app/products/retrobit-tribute64-24g-v2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://device-compat-public.vercel.app/products/retrobit-saturn-24g-pro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
