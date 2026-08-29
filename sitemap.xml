@@ -12,13 +12,13 @@
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-n30-pro2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-pro2-wired/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-sn30-gp/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/8bitdo-sn30-pro-plus/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-sn30-pro-usb/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/8bitdo-sn30-pro-plus/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate2-bluetooth/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate2c-bluetooth/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate-bluetooth/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate-c-bluetooth/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate-wired/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate2-bluetooth/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/8bitdo-ultimate2c-bluetooth/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-usb-adapter/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-usb-adapter2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/8bitdo-zero2/</loc></url>
@@ -31,56 +31,68 @@
   <url><loc>https://device-compat-public.vercel.app/products/elgato-game-capture-neo/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/elgato-hd60-x/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/gamesir-super-nova/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/legacy-microsd/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/hori-karaoke-mic-nsw-088/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/hori-mariokart-racing-wheel-dx-nsw-228/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/hori-mariokart-racing-wheel-nsw-204/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/hori-taiko-tb-nsw-079/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/hori-wireless-horipad-nsw-077/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/hori-wireless-karaoke-mic-nsw-352/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/hori-wireless-horipad-nsw-077/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/hori-taiko-tb-nsw-079/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/iodata-gd243ud-series/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/iodata-gdq271jawos-series/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/iodata-gdq271ra-series/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/iodata-gdq271uel/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/iodata-gdu271jlaqd-series/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/jsaux-dock-adapter-cv0086/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/jsaux-tv-dock-adapter-cv0088/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/jsaux-dock-adapter-cv0087/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/jsaux-6in1-gaming-dock-hb0610/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/jsaux-7in1-docking-station-hb0704/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/jsaux-dock-adapter-cv0087/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/jsaux-multi-controller-energy-station-gp0507/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/jsaux-omnicentro-charger-dock/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/legacy-microsd/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-gamecube-controller-adapter-w012/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-magic-ns-2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-magic-ns-lite/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-magic-s-pro-2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-magic-s-ultimate/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-magic-x/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/mayflash-mega-drive-adapter-mf104/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-n64-controller-adapter-mf103/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/mayflash-mega-drive-adapter-mf104/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mayflash-snes-controller-adapter-mf105/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/mobapad-m6-hd/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/nintendo-famicom-controller/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/nintendo-gamecube-adapter/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/nextorage-g-series-ex-nm3a/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-joy-con-switch1/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-joycon2-charging-grip-bee010/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/nintendo-megadrive-6b/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-n64-controller/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/nintendo-sfc-controller/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/nintendo-switch-pro-controller/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-switch2-ac-adapter-ngn01/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-switch2-camera/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-switch2-dock-set/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/switch-ac-adapter/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/nintendo-switch-pro-controller/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/switch-dock/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/switch-hdmi-cable/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/switch-charging-stand/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/nintendo-sfc-controller/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/nintendo-megadrive-6b/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/nintendo-gamecube-adapter/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-usb-mic/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nintendo-usb-wireless-mic/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/nintendo-famicom-controller/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nyko-black-dualies/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nyko-mini-wireless-core-controller/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nyko-playpad-glow/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/nyko-wireless-core-controller/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/pny-microsd-express-u3-v30-a1/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/powera-advantage-wired-controller-switch2/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/powera-advantage-wired-lumectra-switch2/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/powera-advantage-wireless-controller-switch2/</loc></url>
+  <url><loc>https://device-compat-public.vercel.app/products/powera-wired-earbuds-switch2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/retrobit-legacy16-24g-v2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/retrobit-saturn-24g-pro/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/retrobit-tribute64-24g-v2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/samsung-p9-express/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/sandisk-gameplay-microsd-express/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/sandisk-microsd-express-switch2/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/switch-ac-adapter/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/switch-charging-stand/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/switch-dock/</loc></url>
-  <url><loc>https://device-compat-public.vercel.app/products/switch-hdmi-cable/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/teamgroup-apex-sd71/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/turtlebeach-airlite-fit-switch2/</loc></url>
   <url><loc>https://device-compat-public.vercel.app/products/turtlebeach-recon70/</loc></url>
