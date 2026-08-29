@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-08-29T08:22:47+09:00",
+  "dataset_generated_at": "2026-08-29T09:00:56+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -1305,6 +1305,502 @@
         "USB-A"
       ],
       "lifecycle_status": "unknown",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-microsd-express-switch2",
+      "manufacturer": "SanDisk",
+      "product_name": "microSD Express Card for Nintendo Switch 2",
+      "model_number": "SDSQXFN-xxx-GR6Zx / SDSQXF8-1T00-GR6ZN",
+      "aliases": [
+        "microSD Express Card for Nintendo Switch 2"
+      ],
+      "category": "microSD Expressカード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "256GB: SDSQXFN-256G-GR6ZZ; 512GB: SDSQXFN-512G-GR6ZN; 1TB: SDSQXF8-1T00-GR6ZN",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-gameplay-microsd-express",
+      "manufacturer": "SanDisk",
+      "product_name": "GamePlay microSD Express Card",
+      "model_number": "SDSQXFN series",
+      "aliases": [
+        "GamePlay microSD Express Card"
+      ],
+      "category": "microSD Expressカード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "SDSQXFN series",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "samsung-p9-express",
+      "manufacturer": "Samsung",
+      "product_name": "P9 Express microSD Express Card",
+      "model_number": "MB-MKxxxT/WW",
+      "aliases": [
+        "P9 Express microSD Express Card"
+      ],
+      "category": "microSD Expressカード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "MB-MKxxxT/WW",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "adata-sd71-express",
+      "manufacturer": "ADATA",
+      "product_name": "Premier Extreme microSDXC SD7.1 Express Card",
+      "model_number": "Premier Extreme SD7.1 Express",
+      "aliases": [
+        "Premier Extreme microSDXC SD7.1 Express Card"
+      ],
+      "category": "microSD Expressカード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "teamgroup-apex-sd71",
+      "manufacturer": "TEAMGROUP",
+      "product_name": "APEX SD7.1 MicroSD Express Memory Card",
+      "model_number": "TAPMSDE series",
+      "aliases": [
+        "APEX SD7.1 MicroSD Express Memory Card"
+      ],
+      "category": "microSD Expressカード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "TAPMSDE series",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "pny-microsd-express-u3-v30-a1",
+      "manufacturer": "PNY",
+      "product_name": "microSD Express U3 V30 A1 microSD Flash Memory Card",
+      "model_number": "microSD Express U3 V30 A1 (128GB / 256GB / 512GB / 1TB)",
+      "aliases": [
+        "microSD Express U3 V30 A1 microSD Flash Memory Card"
+      ],
+      "category": "microSD Expressカード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "P-SDU128P31880EXP-GE / P-SDU256P31880EXP-GE / P-SDU512P31EXP-GE / P-SDU1TBP31EXP-GE",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-switch2-ac-adapter-ngn01",
+      "manufacturer": "Nintendo",
+      "product_name": "Nintendo Switch 2 AC Adapter",
+      "model_number": "NGN-01(JP)",
+      "aliases": [
+        "Nintendo Switch 2 AC Adapter"
+      ],
+      "category": "ACアダプター",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "NGN-01(JP)",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "elevated"
+    },
+    {
+      "product_id": "nintendo-joycon2-charging-grip-bee010",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con 2 Charging Grip",
+      "model_number": "BEE-010",
+      "aliases": [
+        "Joy-Con 2 Charging Grip"
+      ],
+      "category": "充電グリップ",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "BEE-010",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-switch2-dock-set",
+      "manufacturer": "Nintendo",
+      "product_name": "Nintendo Switch 2 Dock Set",
+      "model_number": "BEE-005",
+      "aliases": [
+        "Nintendo Switch 2 Dock Set"
+      ],
+      "category": "Dock / 映像出力",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "BEE-005",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-switch2-camera",
+      "manufacturer": "Nintendo",
+      "product_name": "Nintendo Switch 2 Camera",
+      "model_number": "BEE-019",
+      "aliases": [
+        "Nintendo Switch 2 Camera"
+      ],
+      "category": "カメラ",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "BEE-019",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-multi-controller-energy-station-gp0507",
+      "manufacturer": "JSAUX",
+      "product_name": "Multi-Controller Energy Station for Switch 2",
+      "model_number": "GP0507",
+      "aliases": [
+        "Multi-Controller Energy Station for Switch 2"
+      ],
+      "category": "充電ステーション",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "GP0507",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-omnicentro-charger-dock",
+      "manufacturer": "JSAUX",
+      "product_name": "OmniCentro Charger Dock for Switch 2",
+      "model_number": "HC6502 / HC6503 / HC6504",
+      "aliases": [
+        "OmniCentro Charger Dock for Switch 2"
+      ],
+      "category": "Dock / 映像出力",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "HC6502 / HC6503 / HC6504",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-6in1-gaming-dock-hb0610",
+      "manufacturer": "JSAUX",
+      "product_name": "6-in-1 Gaming Dock for Switch 2",
+      "model_number": "HB0610",
+      "aliases": [
+        "6-in-1 Gaming Dock for Switch 2"
+      ],
+      "category": "Dock / 映像出力",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "HB0610",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-7in1-docking-station-hb0704",
+      "manufacturer": "JSAUX",
+      "product_name": "7-in-1 Multifunctional Docking Station for Switch 2",
+      "model_number": "HB0704",
+      "aliases": [
+        "7-in-1 Multifunctional Docking Station for Switch 2"
+      ],
+      "category": "Dock / 映像出力",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "HB0704",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C",
+        "Ethernet"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-dock-adapter-cv0087",
+      "manufacturer": "JSAUX",
+      "product_name": "3-in-1 Dock Adapter for Switch 2",
+      "model_number": "CV0087",
+      "aliases": [
+        "3-in-1 Dock Adapter for Switch 2"
+      ],
+      "category": "Dock / 映像出力",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "CV0087",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "turtlebeach-stealth500-switch2",
+      "manufacturer": "Turtle Beach",
+      "product_name": "Stealth 500 Headset for Nintendo Switch 2",
+      "model_number": "Stealth 500",
+      "aliases": [
+        "Stealth 500 Headset for Nintendo Switch 2"
+      ],
+      "category": "ヘッドセット",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "2.4GHz",
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "turtlebeach-airlite-fit-switch2",
+      "manufacturer": "Turtle Beach",
+      "product_name": "Airlite Fit Wired Gaming Headset for Nintendo Switch 2",
+      "model_number": "Airlite Fit",
+      "aliases": [
+        "Airlite Fit Wired Gaming Headset for Nintendo Switch 2"
+      ],
+      "category": "ヘッドセット",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "turtlebeach-recon70",
+      "manufacturer": "Turtle Beach",
+      "product_name": "Recon 70 Headset",
+      "model_number": "Recon 70",
+      "aliases": [
+        "Recon 70 Headset"
+      ],
+      "category": "ヘッドセット",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-4k-s",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture 4K S",
+      "model_number": "4K S",
+      "aliases": [
+        "Game Capture 4K S"
+      ],
+      "category": "キャプチャーボード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "4K S",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-4k-x",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture 4K X",
+      "model_number": "4K X",
+      "aliases": [
+        "Game Capture 4K X"
+      ],
+      "category": "キャプチャーボード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "4K X",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-4k-pro",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture 4K Pro",
+      "model_number": "4K Pro",
+      "aliases": [
+        "Game Capture 4K Pro"
+      ],
+      "category": "キャプチャーボード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "4K Pro",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "PCIe"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-neo",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture Neo",
+      "model_number": "Neo",
+      "aliases": [
+        "Game Capture Neo"
+      ],
+      "category": "キャプチャーボード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Neo",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-hd60-x",
+      "manufacturer": "Elgato",
+      "product_name": "HD60 X",
+      "model_number": "HD60 X",
+      "aliases": [
+        "HD60 X"
+      ],
+      "category": "キャプチャーボード",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "HD60 X",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
     }
@@ -11110,7 +11606,7 @@
       "accessory_product_id": "gamesir-super-nova",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "published",
+      "publication_status": "under_review",
       "summary": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
       "requirements": [
         "コントローラーファームウェアを1.13以上へ更新する"
@@ -11142,11 +11638,11 @@
         "ev-gamesir-super-nova-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": "codex_technical_review",
-      "approved_at": "2026-08-29T08:22:47+09:00",
+      "reviewed_by": null,
+      "approved_at": null,
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 2,
+      "revision": 1,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11184,43 +11680,6 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
-        },
-        {
-          "revision": 2,
-          "captured_at": "2026-08-29T08:22:47+09:00",
-          "captured_by": "jun19",
-          "overall_status": "compatible_with_requirements",
-          "publication_status": "published",
-          "summary": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
-          "requirements": [
-            "コントローラーファームウェアを1.13以上へ更新する"
-          ],
-          "minimum_firmware": null,
-          "verified_firmware": null,
-          "host_os_version": null,
-          "feature_assessments": [
-            {
-              "feature_id": "gamesir-super-nova-feature-1",
-              "feature_name": "Switch 2での無線操作",
-              "status": "supported",
-              "notes": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
-              "evidence_ids": [
-                "ev-gamesir-super-nova-switch2-20260829"
-              ]
-            },
-            {
-              "feature_id": "gamesir-super-nova-feature-2",
-              "feature_name": "HOMEボタンによるWake",
-              "status": "supported_with_requirements",
-              "notes": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
-              "evidence_ids": [
-                "ev-gamesir-super-nova-switch2-20260829"
-              ]
-            }
-          ],
-          "evidence_ids": [
-            "ev-gamesir-super-nova-switch2-20260829"
-          ]
         }
       ],
       "change_history": [
@@ -11230,14 +11689,6 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
-          "new_status": "compatible_with_requirements"
-        },
-        {
-          "revision": 2,
-          "changed_at": "2026-08-29T08:22:47+09:00",
-          "changed_by": "jun19",
-          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
-          "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
       ],
@@ -11251,7 +11702,7 @@
       "accessory_product_id": "mobapad-m6-hd",
       "region": "JP",
       "overall_status": "limited_compatibility",
-      "publication_status": "published",
+      "publication_status": "under_review",
       "summary": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
       "requirements": [
         "携帯モードではC70 Proアダプターを使用し、先に無線ペアリングを完了する"
@@ -11310,11 +11761,11 @@
         "ev-mobapad-m6-hd-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": "codex_technical_review",
-      "approved_at": "2026-08-29T08:22:47+09:00",
+      "reviewed_by": null,
+      "approved_at": null,
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 2,
+      "revision": 1,
       "revision_snapshots": [
         {
           "overall_status": "limited_compatibility",
@@ -11379,70 +11830,6 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
-        },
-        {
-          "revision": 2,
-          "captured_at": "2026-08-29T08:22:47+09:00",
-          "captured_by": "jun19",
-          "overall_status": "limited_compatibility",
-          "publication_status": "published",
-          "summary": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
-          "requirements": [
-            "携帯モードではC70 Proアダプターを使用し、先に無線ペアリングを完了する"
-          ],
-          "minimum_firmware": null,
-          "verified_firmware": null,
-          "host_os_version": null,
-          "feature_assessments": [
-            {
-              "feature_id": "mobapad-m6-hd-feature-1",
-              "feature_name": "Switch 2での無線操作",
-              "status": "supported",
-              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
-              "evidence_ids": [
-                "ev-mobapad-m6-hd-switch2-20260829"
-              ]
-            },
-            {
-              "feature_id": "mobapad-m6-hd-feature-2",
-              "feature_name": "HOMEボタンによるWake",
-              "status": "supported",
-              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
-              "evidence_ids": [
-                "ev-mobapad-m6-hd-switch2-20260829"
-              ]
-            },
-            {
-              "feature_id": "mobapad-m6-hd-feature-3",
-              "feature_name": "携帯モード",
-              "status": "supported_with_requirements",
-              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
-              "evidence_ids": [
-                "ev-mobapad-m6-hd-switch2-20260829"
-              ]
-            },
-            {
-              "feature_id": "mobapad-m6-hd-feature-4",
-              "feature_name": "NFC（amiibo）",
-              "status": "supported",
-              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
-              "evidence_ids": [
-                "ev-mobapad-m6-hd-switch2-20260829"
-              ]
-            },
-            {
-              "feature_id": "mobapad-m6-hd-feature-5",
-              "feature_name": "6軸モーション・HD Rumble",
-              "status": "supported",
-              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
-              "evidence_ids": [
-                "ev-mobapad-m6-hd-switch2-20260829"
-              ]
-            }
-          ],
-          "evidence_ids": [
-            "ev-mobapad-m6-hd-switch2-20260829"
-          ]
         }
       ],
       "change_history": [
@@ -11452,14 +11839,6 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
-          "new_status": "limited_compatibility"
-        },
-        {
-          "revision": 2,
-          "changed_at": "2026-08-29T08:22:47+09:00",
-          "changed_by": "jun19",
-          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
-          "previous_status": "limited_compatibility",
           "new_status": "limited_compatibility"
         }
       ],
@@ -11473,7 +11852,7 @@
       "accessory_product_id": "retrobit-legacy16-24g-v2",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "published",
+      "publication_status": "under_review",
       "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
       "requirements": [
         "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
@@ -11496,11 +11875,11 @@
         "ev-retrobit-legacy16-24g-v2-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": "codex_technical_review",
-      "approved_at": "2026-08-29T08:22:47+09:00",
+      "reviewed_by": null,
+      "approved_at": null,
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 2,
+      "revision": 1,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11529,34 +11908,6 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
-        },
-        {
-          "revision": 2,
-          "captured_at": "2026-08-29T08:22:47+09:00",
-          "captured_by": "jun19",
-          "overall_status": "compatible_with_requirements",
-          "publication_status": "published",
-          "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
-          "requirements": [
-            "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
-          ],
-          "minimum_firmware": null,
-          "verified_firmware": null,
-          "host_os_version": null,
-          "feature_assessments": [
-            {
-              "feature_id": "retrobit-legacy16-24g-v2-feature-1",
-              "feature_name": "Switch 2での無線操作",
-              "status": "supported_with_requirements",
-              "notes": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
-              "evidence_ids": [
-                "ev-retrobit-legacy16-24g-v2-switch2-20260829"
-              ]
-            }
-          ],
-          "evidence_ids": [
-            "ev-retrobit-legacy16-24g-v2-switch2-20260829"
-          ]
         }
       ],
       "change_history": [
@@ -11566,14 +11917,6 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
-          "new_status": "compatible_with_requirements"
-        },
-        {
-          "revision": 2,
-          "changed_at": "2026-08-29T08:22:47+09:00",
-          "changed_by": "jun19",
-          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
-          "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
       ],
@@ -11587,7 +11930,7 @@
       "accessory_product_id": "retrobit-tribute64-24g-v2",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "published",
+      "publication_status": "under_review",
       "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
       "requirements": [
         "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
@@ -11610,11 +11953,11 @@
         "ev-retrobit-tribute64-24g-v2-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": "codex_technical_review",
-      "approved_at": "2026-08-29T08:22:47+09:00",
+      "reviewed_by": null,
+      "approved_at": null,
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 2,
+      "revision": 1,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11643,34 +11986,6 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
-        },
-        {
-          "revision": 2,
-          "captured_at": "2026-08-29T08:22:47+09:00",
-          "captured_by": "jun19",
-          "overall_status": "compatible_with_requirements",
-          "publication_status": "published",
-          "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
-          "requirements": [
-            "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
-          ],
-          "minimum_firmware": null,
-          "verified_firmware": null,
-          "host_os_version": null,
-          "feature_assessments": [
-            {
-              "feature_id": "retrobit-tribute64-24g-v2-feature-1",
-              "feature_name": "Switch 2での無線操作",
-              "status": "supported_with_requirements",
-              "notes": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
-              "evidence_ids": [
-                "ev-retrobit-tribute64-24g-v2-switch2-20260829"
-              ]
-            }
-          ],
-          "evidence_ids": [
-            "ev-retrobit-tribute64-24g-v2-switch2-20260829"
-          ]
         }
       ],
       "change_history": [
@@ -11680,14 +11995,6 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
-          "new_status": "compatible_with_requirements"
-        },
-        {
-          "revision": 2,
-          "changed_at": "2026-08-29T08:22:47+09:00",
-          "changed_by": "jun19",
-          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
-          "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
       ],
@@ -11701,7 +12008,7 @@
       "accessory_product_id": "retrobit-saturn-24g-pro",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "published",
+      "publication_status": "under_review",
       "summary": "Retro-Bit公式サポートがSaturn ProをSwitch 2互換FW更新対象として掲載。Saturn Pro自体のV2製品・V2受信機要件は公式情報で確認できないため記録しない。",
       "requirements": [
         "Switch 2対応USB Receiver Firmware 1.1を適用する"
@@ -11724,11 +12031,11 @@
         "ev-retrobit-saturn-24g-pro-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": "codex_technical_review",
-      "approved_at": "2026-08-29T08:22:47+09:00",
+      "reviewed_by": null,
+      "approved_at": null,
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 3,
+      "revision": 2,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11785,34 +12092,6 @@
           "revision": 2,
           "captured_at": "2026-08-29T11:20:00+09:00",
           "captured_by": "candidate_revalidation_20260829_fix"
-        },
-        {
-          "revision": 3,
-          "captured_at": "2026-08-29T08:22:47+09:00",
-          "captured_by": "jun19",
-          "overall_status": "compatible_with_requirements",
-          "publication_status": "published",
-          "summary": "Retro-Bit公式サポートがSaturn ProをSwitch 2互換FW更新対象として掲載。Saturn Pro自体のV2製品・V2受信機要件は公式情報で確認できないため記録しない。",
-          "requirements": [
-            "Switch 2対応USB Receiver Firmware 1.1を適用する"
-          ],
-          "minimum_firmware": null,
-          "verified_firmware": null,
-          "host_os_version": null,
-          "feature_assessments": [
-            {
-              "feature_id": "retrobit-saturn-24g-pro-feature-1",
-              "feature_name": "Switch 2での無線操作",
-              "status": "supported_with_requirements",
-              "notes": "公式サポートに掲載されたSwitch 2対応USB Receiver Firmware 1.1を適用して使用する。",
-              "evidence_ids": [
-                "ev-retrobit-saturn-24g-pro-switch2-20260829"
-              ]
-            }
-          ],
-          "evidence_ids": [
-            "ev-retrobit-saturn-24g-pro-switch2-20260829"
-          ]
         }
       ],
       "change_history": [
@@ -11831,10 +12110,2879 @@
           "change_reason": "Saturn ProのV2区分を公式情報で確認できないため、hardware_revisionとV2受信機要件を削除。Switch 2対応USB Receiver Firmware 1.1のみ要件化。",
           "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-microsd-express-switch2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "sandisk-microsd-express-switch2",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2向けに設計・試験・承認済み。容量違いは同一シリーズとして統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-microsd-express-switch2-feature-1",
+          "feature_name": "Switch 2ストレージ拡張",
+          "status": "supported",
+          "notes": "任天堂正式ライセンス、Switch 2用として設計・試験・承認済み。",
+          "evidence_ids": [
+            "ev-sandisk-microsd-express-switch2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-microsd-express-switch2-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2向けに設計・試験・承認済み。容量違いは同一シリーズとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-microsd-express-switch2-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "任天堂正式ライセンス、Switch 2用として設計・試験・承認済み。",
+              "evidence_ids": [
+                "ev-sandisk-microsd-express-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sandisk-microsd-express-switch2-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2向けに設計・試験・承認済み。容量違いは同一シリーズとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-microsd-express-switch2-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "任天堂正式ライセンス、Switch 2用として設計・試験・承認済み。",
+              "evidence_ids": [
+                "ev-sandisk-microsd-express-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sandisk-microsd-express-switch2-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
         },
         {
           "revision": 3,
-          "changed_at": "2026-08-29T08:22:47+09:00",
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2向けに設計・試験・承認済み。容量違いは同一シリーズとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-microsd-express-switch2-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "任天堂正式ライセンス、Switch 2用として設計・試験・承認済み。",
+              "evidence_ids": [
+                "ev-sandisk-microsd-express-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sandisk-microsd-express-switch2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-gameplay-microsd-express-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "sandisk-gameplay-microsd-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2互換。128GB/256GB/512GBは容量variantとして統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-gameplay-microsd-express-feature-1",
+          "feature_name": "Switch 2ストレージ拡張",
+          "status": "supported",
+          "notes": "公式製品ページがNintendo Switch 2互換を明記。容量違いは同一シリーズとして統合。",
+          "evidence_ids": [
+            "ev-sandisk-gameplay-microsd-express-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-gameplay-microsd-express-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2互換。128GB/256GB/512GBは容量variantとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-gameplay-microsd-express-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "公式製品ページがNintendo Switch 2互換を明記。容量違いは同一シリーズとして統合。",
+              "evidence_ids": [
+                "ev-sandisk-gameplay-microsd-express-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sandisk-gameplay-microsd-express-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2互換。128GB/256GB/512GBは容量variantとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-gameplay-microsd-express-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "公式製品ページがNintendo Switch 2互換を明記。容量違いは同一シリーズとして統合。",
+              "evidence_ids": [
+                "ev-sandisk-gameplay-microsd-express-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sandisk-gameplay-microsd-express-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-p9-express-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "samsung-p9-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "P9 ExpressはNintendo Switch 2に対応。256GB/512GBは容量variantとして統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-p9-express-feature-1",
+          "feature_name": "Switch 2ストレージ拡張",
+          "status": "supported",
+          "notes": "Samsung公式製品ページがNintendo Switch 2互換を明記。",
+          "evidence_ids": [
+            "ev-samsung-p9-express-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-p9-express-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "P9 ExpressはNintendo Switch 2に対応。256GB/512GBは容量variantとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-p9-express-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "Samsung公式製品ページがNintendo Switch 2互換を明記。",
+              "evidence_ids": [
+                "ev-samsung-p9-express-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-samsung-p9-express-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "P9 ExpressはNintendo Switch 2に対応。256GB/512GBは容量variantとして統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-p9-express-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "Samsung公式製品ページがNintendo Switch 2互換を明記。",
+              "evidence_ids": [
+                "ev-samsung-p9-express-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-samsung-p9-express-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-adata-sd71-express-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "adata-sd71-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "公式データシートにNintendo Switch 2 Readyと記載。容量variantは統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "adata-sd71-express-feature-1",
+          "feature_name": "Switch 2ストレージ拡張",
+          "status": "supported",
+          "notes": "ADATA公式データシートにNintendo Switch 2 Readyと記載。",
+          "evidence_ids": [
+            "ev-adata-sd71-express-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-adata-sd71-express-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "公式データシートにNintendo Switch 2 Readyと記載。容量variantは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "adata-sd71-express-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "ADATA公式データシートにNintendo Switch 2 Readyと記載。",
+              "evidence_ids": [
+                "ev-adata-sd71-express-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-adata-sd71-express-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "公式データシートにNintendo Switch 2 Readyと記載。容量variantは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "adata-sd71-express-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "ADATA公式データシートにNintendo Switch 2 Readyと記載。",
+              "evidence_ids": [
+                "ev-adata-sd71-express-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-adata-sd71-express-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-teamgroup-apex-sd71-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "teamgroup-apex-sd71",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2のmicroSD Expressスロットに対応。容量variantは統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "teamgroup-apex-sd71-feature-1",
+          "feature_name": "Switch 2ストレージ拡張",
+          "status": "supported",
+          "notes": "公式製品ページがNintendo Switch 2のmicroSD Expressスロット対応を明記。",
+          "evidence_ids": [
+            "ev-teamgroup-apex-sd71-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-teamgroup-apex-sd71-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2のmicroSD Expressスロットに対応。容量variantは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "teamgroup-apex-sd71-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "公式製品ページがNintendo Switch 2のmicroSD Expressスロット対応を明記。",
+              "evidence_ids": [
+                "ev-teamgroup-apex-sd71-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-teamgroup-apex-sd71-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2のmicroSD Expressスロットに対応。容量variantは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "teamgroup-apex-sd71-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported",
+              "notes": "公式製品ページがNintendo Switch 2のmicroSD Expressスロット対応を明記。",
+              "evidence_ids": [
+                "ev-teamgroup-apex-sd71-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-teamgroup-apex-sd71-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-pny-microsd-express-u3-v30-a1-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "pny-microsd-express-u3-v30-a1",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2用microSD Expressとして掲載。1TBのみ公式FW更新案内があるため条件化。",
+      "requirements": [
+        "1TB容量品で認識問題がある場合は、PNY公式案内に従いmicroSD Expressカードのファームウェアを更新する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "pny-microsd-express-u3-v30-a1-feature-1",
+          "feature_name": "Switch 2ストレージ拡張",
+          "status": "supported_with_requirements",
+          "notes": "公式製品ページはSwitch 2を対象とし、1TB容量品の認識問題ではカードFW更新を案内。",
+          "evidence_ids": [
+            "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2用microSD Expressとして掲載。1TBのみ公式FW更新案内があるため条件化。",
+          "requirements": [
+            "1TB容量品で認識問題がある場合は、PNY公式案内に従いmicroSD Expressカードのファームウェアを更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "pny-microsd-express-u3-v30-a1-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported_with_requirements",
+              "notes": "公式製品ページはSwitch 2を対象とし、1TB容量品の認識問題ではカードFW更新を案内。",
+              "evidence_ids": [
+                "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2用microSD Expressとして掲載。1TBのみ公式FW更新案内があるため条件化。",
+          "requirements": [
+            "1TB容量品で認識問題がある場合は、PNY公式案内に従いmicroSD Expressカードのファームウェアを更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "pny-microsd-express-u3-v30-a1-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported_with_requirements",
+              "notes": "公式製品ページはSwitch 2を対象とし、1TB容量品の認識問題ではカードFW更新を案内。",
+              "evidence_ids": [
+                "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2用microSD Expressとして掲載。1TBのみ公式FW更新案内があるため条件化。",
+          "requirements": [
+            "1TB容量品で認識問題がある場合は、PNY公式案内に従いmicroSD Expressカードのファームウェアを更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "pny-microsd-express-u3-v30-a1-feature-1",
+              "feature_name": "Switch 2ストレージ拡張",
+              "status": "supported_with_requirements",
+              "notes": "公式製品ページはSwitch 2を対象とし、1TB容量品の認識問題ではカードFW更新を案内。",
+              "evidence_ids": [
+                "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-pny-microsd-express-u3-v30-a1-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-switch2-ac-adapter-ngn01-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-switch2-ac-adapter-ngn01",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2のTVモードでは公式ACアダプターNGN-01を確認するよう案内。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-switch2-ac-adapter-ngn01-feature-1",
+          "feature_name": "本体・ドック給電",
+          "status": "supported",
+          "notes": "任天堂公式はNGN-01をSwitch 2本体およびドック向けとして案内。",
+          "evidence_ids": [
+            "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2のTVモードでは公式ACアダプターNGN-01を確認するよう案内。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-ac-adapter-ngn01-feature-1",
+              "feature_name": "本体・ドック給電",
+              "status": "supported",
+              "notes": "任天堂公式はNGN-01をSwitch 2本体およびドック向けとして案内。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2のTVモードでは公式ACアダプターNGN-01を確認するよう案内。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-ac-adapter-ngn01-feature-1",
+              "feature_name": "本体・ドック給電",
+              "status": "supported",
+              "notes": "任天堂公式はNGN-01をSwitch 2本体およびドック向けとして案内。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon2-charging-grip-bee010-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon2-charging-grip-bee010",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BEE-010はNGN-01またはUSB充電ケーブルでJoy-Con 2を充電可能。",
+      "requirements": [
+        "Joy-Con 2を装着し、Nintendo Switch 2 AC Adapter NGN-01または指定USB充電ケーブルで充電する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon2-charging-grip-bee010-feature-1",
+          "feature_name": "Joy-Con 2充電",
+          "status": "supported_with_requirements",
+          "notes": "任天堂公式がBEE-010とNGN-01/指定USB充電ケーブルでの充電を案内。",
+          "evidence_ids": [
+            "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BEE-010はNGN-01またはUSB充電ケーブルでJoy-Con 2を充電可能。",
+          "requirements": [
+            "Joy-Con 2を装着し、Nintendo Switch 2 AC Adapter NGN-01または指定USB充電ケーブルで充電する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon2-charging-grip-bee010-feature-1",
+              "feature_name": "Joy-Con 2充電",
+              "status": "supported_with_requirements",
+              "notes": "任天堂公式がBEE-010とNGN-01/指定USB充電ケーブルでの充電を案内。",
+              "evidence_ids": [
+                "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BEE-010はNGN-01またはUSB充電ケーブルでJoy-Con 2を充電可能。",
+          "requirements": [
+            "Joy-Con 2を装着し、Nintendo Switch 2 AC Adapter NGN-01または指定USB充電ケーブルで充電する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon2-charging-grip-bee010-feature-1",
+              "feature_name": "Joy-Con 2充電",
+              "status": "supported_with_requirements",
+              "notes": "任天堂公式がBEE-010とNGN-01/指定USB充電ケーブルでの充電を案内。",
+              "evidence_ids": [
+                "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-switch2-dock-set-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-switch2-dock-set",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Dock SetはSwitch 2用ドック一式。TVモードは正規給電・HDMI接続が前提。",
+      "requirements": [
+        "TVモードでは付属のNGN-01 ACアダプターとUltra High Speed HDMIケーブルを使用する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-switch2-dock-set-feature-1",
+          "feature_name": "TVモード映像出力",
+          "status": "supported_with_requirements",
+          "notes": "任天堂公式Dock Setにはドック、NGN-01、USB-C充電ケーブル、Ultra High-Speed HDMIケーブルが含まれる。",
+          "evidence_ids": [
+            "ev-nintendo-switch2-dock-set-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-switch2-dock-set-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Dock SetはSwitch 2用ドック一式。TVモードは正規給電・HDMI接続が前提。",
+          "requirements": [
+            "TVモードでは付属のNGN-01 ACアダプターとUltra High Speed HDMIケーブルを使用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-dock-set-feature-1",
+              "feature_name": "TVモード映像出力",
+              "status": "supported_with_requirements",
+              "notes": "任天堂公式Dock Setにはドック、NGN-01、USB-C充電ケーブル、Ultra High-Speed HDMIケーブルが含まれる。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-dock-set-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-dock-set-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Dock SetはSwitch 2用ドック一式。TVモードは正規給電・HDMI接続が前提。",
+          "requirements": [
+            "TVモードでは付属のNGN-01 ACアダプターとUltra High Speed HDMIケーブルを使用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-dock-set-feature-1",
+              "feature_name": "TVモード映像出力",
+              "status": "supported_with_requirements",
+              "notes": "任天堂公式Dock Setにはドック、NGN-01、USB-C充電ケーブル、Ultra High-Speed HDMIケーブルが含まれる。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-dock-set-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-dock-set-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-switch2-camera-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-switch2-camera",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "モデルBEE-019。USB-CケーブルでNintendo Switch 2に接続。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-switch2-camera-feature-1",
+          "feature_name": "USB-Cカメラ接続",
+          "status": "supported",
+          "notes": "任天堂公式カメラ文書はBEE-019をSwitch 2本体へUSB-Cケーブルで接続すると案内。",
+          "evidence_ids": [
+            "ev-nintendo-switch2-camera-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-switch2-camera-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "モデルBEE-019。USB-CケーブルでNintendo Switch 2に接続。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-camera-feature-1",
+              "feature_name": "USB-Cカメラ接続",
+              "status": "supported",
+              "notes": "任天堂公式カメラ文書はBEE-019をSwitch 2本体へUSB-Cケーブルで接続すると案内。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-camera-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-camera-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "モデルBEE-019。USB-CケーブルでNintendo Switch 2に接続。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-camera-feature-1",
+              "feature_name": "USB-Cカメラ接続",
+              "status": "supported",
+              "notes": "任天堂公式カメラ文書はBEE-019をSwitch 2本体へUSB-Cケーブルで接続すると案内。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-camera-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-camera-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-jsaux-multi-controller-energy-station-gp0507-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-multi-controller-energy-station-gp0507",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Multi-Controller Energy Station for Switch 2、型番GP0507として掲載。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "jsaux-multi-controller-energy-station-gp0507-feature-1",
+          "feature_name": "Switch 2向けコントローラー充電",
+          "status": "supported",
+          "notes": "JSAUX公式Switch 2アクセサリ一覧にGP0507として掲載。",
+          "evidence_ids": [
+            "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Multi-Controller Energy Station for Switch 2、型番GP0507として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-multi-controller-energy-station-gp0507-feature-1",
+              "feature_name": "Switch 2向けコントローラー充電",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2アクセサリ一覧にGP0507として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Multi-Controller Energy Station for Switch 2、型番GP0507として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-multi-controller-energy-station-gp0507-feature-1",
+              "feature_name": "Switch 2向けコントローラー充電",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2アクセサリ一覧にGP0507として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-jsaux-omnicentro-charger-dock-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-omnicentro-charger-dock",
+      "region": "JP",
+      "overall_status": "unknown",
+      "publication_status": "published",
+      "summary": "JSAUX公式はOmniCentroをSwitch 2向けとして掲載する一方、System Version 21.0.0対応パッチを生産品へ統合中と告知している。旧/初期生産品を含む対応条件・配布済みFWが公式に確定していないため確認不能とする。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "jsaux-omnicentro-charger-dock-feature-1",
+          "feature_name": "Switch 2用ドック機能",
+          "status": "unknown",
+          "notes": "JSAUX公式はOmniCentroをSwitch 2向けとして掲載する一方、System Version 21.0.0対応パッチを生産品へ統合中と告知している。旧/初期生産品を含む対応条件・配布済みFWが公式に確定していないため確認不能とする。",
+          "evidence_ids": [
+            "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "HC6502/HC6503/HC6504は同一OmniCentro Charger Dock製品群として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-omnicentro-charger-dock-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2ドック一覧でHC6502/HC6503/HC6504を同一OmniCentro製品として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "unknown",
+          "publication_status": "under_review",
+          "summary": "JSAUX公式はOmniCentroをSwitch 2向けとして掲載する一方、System Version 21.0.0対応パッチを生産品へ統合中と告知している。旧/初期生産品を含む対応条件・配布済みFWが公式に確定していないため確認不能とする。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-omnicentro-charger-dock-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "unknown",
+              "notes": "JSAUX公式はOmniCentroをSwitch 2向けとして掲載する一方、System Version 21.0.0対応パッチを生産品へ統合中と告知している。旧/初期生産品を含む対応条件・配布済みFWが公式に確定していないため確認不能とする。",
+              "evidence_ids": [
+                "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "unknown",
+          "publication_status": "published",
+          "summary": "JSAUX公式はOmniCentroをSwitch 2向けとして掲載する一方、System Version 21.0.0対応パッチを生産品へ統合中と告知している。旧/初期生産品を含む対応条件・配布済みFWが公式に確定していないため確認不能とする。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-omnicentro-charger-dock-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "unknown",
+              "notes": "JSAUX公式はOmniCentroをSwitch 2向けとして掲載する一方、System Version 21.0.0対応パッチを生産品へ統合中と告知している。旧/初期生産品を含む対応条件・配布済みFWが公式に確定していないため確認不能とする。",
+              "evidence_ids": [
+                "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-omnicentro-charger-dock-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "unknown",
+          "new_status": "unknown"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "unknown",
+          "new_status": "unknown"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-jsaux-6in1-gaming-dock-hb0610-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-6in1-gaming-dock-hb0610",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "6-in-1 Gaming Dock for Switch 2、型番HB0610として掲載。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "jsaux-6in1-gaming-dock-hb0610-feature-1",
+          "feature_name": "Switch 2用ドック機能",
+          "status": "supported",
+          "notes": "JSAUX公式Switch 2ドック一覧にHB0610として掲載。",
+          "evidence_ids": [
+            "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "6-in-1 Gaming Dock for Switch 2、型番HB0610として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-6in1-gaming-dock-hb0610-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2ドック一覧にHB0610として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "6-in-1 Gaming Dock for Switch 2、型番HB0610として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-6in1-gaming-dock-hb0610-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2ドック一覧にHB0610として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-jsaux-7in1-docking-station-hb0704-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-7in1-docking-station-hb0704",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "7-in-1 Multifunctional Docking Station for Switch 2、型番HB0704として掲載。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "jsaux-7in1-docking-station-hb0704-feature-1",
+          "feature_name": "Switch 2用ドック機能",
+          "status": "supported",
+          "notes": "JSAUX公式Switch 2ドック一覧にHB0704として掲載。",
+          "evidence_ids": [
+            "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "7-in-1 Multifunctional Docking Station for Switch 2、型番HB0704として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-7in1-docking-station-hb0704-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2ドック一覧にHB0704として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "7-in-1 Multifunctional Docking Station for Switch 2、型番HB0704として掲載。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-7in1-docking-station-hb0704-feature-1",
+              "feature_name": "Switch 2用ドック機能",
+              "status": "supported",
+              "notes": "JSAUX公式Switch 2ドック一覧にHB0704として掲載。",
+              "evidence_ids": [
+                "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-jsaux-dock-adapter-cv0087-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-dock-adapter-cv0087",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "CV0087のSystem Version 21.0.0対応はファームウェア更新で復旧すると公式告知。",
+      "requirements": [
+        "Nintendo Switch 2 system version 21.0.0以降では、JSAUX公式手順に従いCV0087の対応ファームウェアを適用する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "jsaux-dock-adapter-cv0087-feature-1",
+          "feature_name": "TVモード映像出力",
+          "status": "supported_with_requirements",
+          "notes": "JSAUXはSystem Version 21.0.0での映像出力問題をCV0087用FW更新で解決したと公式告知。",
+          "evidence_ids": [
+            "ev-jsaux-dock-adapter-cv0087-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-dock-adapter-cv0087-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "CV0087のSystem Version 21.0.0対応はファームウェア更新で復旧すると公式告知。",
+          "requirements": [
+            "Nintendo Switch 2 system version 21.0.0以降では、JSAUX公式手順に従いCV0087の対応ファームウェアを適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-dock-adapter-cv0087-feature-1",
+              "feature_name": "TVモード映像出力",
+              "status": "supported_with_requirements",
+              "notes": "JSAUXはSystem Version 21.0.0での映像出力問題をCV0087用FW更新で解決したと公式告知。",
+              "evidence_ids": [
+                "ev-jsaux-dock-adapter-cv0087-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-dock-adapter-cv0087-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "CV0087のSystem Version 21.0.0対応はファームウェア更新で復旧すると公式告知。",
+          "requirements": [
+            "Nintendo Switch 2 system version 21.0.0以降では、JSAUX公式手順に従いCV0087の対応ファームウェアを適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "jsaux-dock-adapter-cv0087-feature-1",
+              "feature_name": "TVモード映像出力",
+              "status": "supported_with_requirements",
+              "notes": "JSAUXはSystem Version 21.0.0での映像出力問題をCV0087用FW更新で解決したと公式告知。",
+              "evidence_ids": [
+                "ev-jsaux-dock-adapter-cv0087-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-dock-adapter-cv0087-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-turtlebeach-stealth500-switch2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "turtlebeach-stealth500-switch2",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Switch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "turtlebeach-stealth500-switch2-feature-1",
+          "feature_name": "Switch 2音声出力",
+          "status": "supported",
+          "notes": "公式一覧はSwitch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続と明記。",
+          "evidence_ids": [
+            "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "turtlebeach-stealth500-switch2-feature-mic",
+          "feature_name": "マイク入力・voice chat",
+          "status": "supported",
+          "notes": "USB-Cトランスミッターの2.4GHz接続でSwitch 2向け低遅延音声、無指向性フリップミュートマイクでvoice chatを明記。",
+          "evidence_ids": [
+            "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Switch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-stealth500-switch2-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はSwitch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続と明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Switch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-stealth500-switch2-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はSwitch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続と明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "turtlebeach-stealth500-switch2-feature-mic",
+              "feature_name": "マイク入力・voice chat",
+              "status": "supported",
+              "notes": "USB-Cトランスミッターの2.4GHz接続でSwitch 2向け低遅延音声、無指向性フリップミュートマイクでvoice chatを明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Switch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-stealth500-switch2-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はSwitch 2用公式ライセンス無線ヘッドセット、低遅延2.4GHz接続と明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "turtlebeach-stealth500-switch2-feature-mic",
+              "feature_name": "マイク入力・voice chat",
+              "status": "supported",
+              "notes": "USB-Cトランスミッターの2.4GHz接続でSwitch 2向け低遅延音声、無指向性フリップミュートマイクでvoice chatを明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-stealth500-switch2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-turtlebeach-airlite-fit-switch2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "turtlebeach-airlite-fit-switch2",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2向け公式ライセンス有線ヘッドセット。色違いは統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "turtlebeach-airlite-fit-switch2-feature-1",
+          "feature_name": "Switch 2音声出力",
+          "status": "supported",
+          "notes": "公式一覧はNintendo Switch 2向け公式ライセンス有線ヘッドセットと明記。色違いは統合。",
+          "evidence_ids": [
+            "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "turtlebeach-airlite-fit-switch2-feature-mic",
+          "feature_name": "マイク入力・voice chat",
+          "status": "supported",
+          "notes": "Switch 2向け公式ライセンスAirlite Fitはノイズキャンセリングマイクでvoice chatを明記。",
+          "evidence_ids": [
+            "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2向け公式ライセンス有線ヘッドセット。色違いは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-airlite-fit-switch2-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はNintendo Switch 2向け公式ライセンス有線ヘッドセットと明記。色違いは統合。",
+              "evidence_ids": [
+                "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2向け公式ライセンス有線ヘッドセット。色違いは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-airlite-fit-switch2-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はNintendo Switch 2向け公式ライセンス有線ヘッドセットと明記。色違いは統合。",
+              "evidence_ids": [
+                "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "turtlebeach-airlite-fit-switch2-feature-mic",
+              "feature_name": "マイク入力・voice chat",
+              "status": "supported",
+              "notes": "Switch 2向け公式ライセンスAirlite Fitはノイズキャンセリングマイクでvoice chatを明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2向け公式ライセンス有線ヘッドセット。色違いは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-airlite-fit-switch2-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はNintendo Switch 2向け公式ライセンス有線ヘッドセットと明記。色違いは統合。",
+              "evidence_ids": [
+                "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "turtlebeach-airlite-fit-switch2-feature-mic",
+              "feature_name": "マイク入力・voice chat",
+              "status": "supported",
+              "notes": "Switch 2向け公式ライセンスAirlite Fitはノイズキャンセリングマイクでvoice chatを明記。",
+              "evidence_ids": [
+                "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-airlite-fit-switch2-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-turtlebeach-recon70-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "turtlebeach-recon70",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Recon 70はNintendo Switch 2で動作すると明記。色違いは統合。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "turtlebeach-recon70-feature-1",
+          "feature_name": "Switch 2音声出力",
+          "status": "supported",
+          "notes": "公式一覧はRecon 70がNintendo Switch 2で動作すると明記。色違いは統合。",
+          "evidence_ids": [
+            "ev-turtlebeach-recon70-switch2-20260829"
+          ]
+        },
+        {
+          "feature_id": "turtlebeach-recon70-feature-mic",
+          "feature_name": "マイク入力・voice chat",
+          "status": "supported",
+          "notes": "Recon 70はNintendo Switch 2で動作し、フリップミュートマイクを搭載すると公式一覧に記載。",
+          "evidence_ids": [
+            "ev-turtlebeach-recon70-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-turtlebeach-recon70-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Recon 70はNintendo Switch 2で動作すると明記。色違いは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-recon70-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はRecon 70がNintendo Switch 2で動作すると明記。色違いは統合。",
+              "evidence_ids": [
+                "ev-turtlebeach-recon70-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-recon70-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Recon 70はNintendo Switch 2で動作すると明記。色違いは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-recon70-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はRecon 70がNintendo Switch 2で動作すると明記。色違いは統合。",
+              "evidence_ids": [
+                "ev-turtlebeach-recon70-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "turtlebeach-recon70-feature-mic",
+              "feature_name": "マイク入力・voice chat",
+              "status": "supported",
+              "notes": "Recon 70はNintendo Switch 2で動作し、フリップミュートマイクを搭載すると公式一覧に記載。",
+              "evidence_ids": [
+                "ev-turtlebeach-recon70-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-recon70-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Recon 70はNintendo Switch 2で動作すると明記。色違いは統合。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "turtlebeach-recon70-feature-1",
+              "feature_name": "Switch 2音声出力",
+              "status": "supported",
+              "notes": "公式一覧はRecon 70がNintendo Switch 2で動作すると明記。色違いは統合。",
+              "evidence_ids": [
+                "ev-turtlebeach-recon70-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "turtlebeach-recon70-feature-mic",
+              "feature_name": "マイク入力・voice chat",
+              "status": "supported",
+              "notes": "Recon 70はNintendo Switch 2で動作し、フリップミュートマイクを搭載すると公式一覧に記載。",
+              "evidence_ids": [
+                "ev-turtlebeach-recon70-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-turtlebeach-recon70-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-s-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elgato-game-capture-4k-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Game Capture 4K SはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "requirements": [
+        "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+        "対応するホストPCまたはiPadと接続する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elgato-game-capture-4k-s-feature-1",
+          "feature_name": "Switch 2 HDMIキャプチャ",
+          "status": "supported_with_requirements",
+          "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-s-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-4k-s-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Game Capture 4K SはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-s-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-s-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-s-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Game Capture 4K SはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-s-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-s-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-s-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-x-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elgato-game-capture-4k-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Game Capture 4K XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "requirements": [
+        "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+        "対応するホストPCまたはiPadと接続する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elgato-game-capture-4k-x-feature-1",
+          "feature_name": "Switch 2 HDMIキャプチャ",
+          "status": "supported_with_requirements",
+          "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-x-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-4k-x-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Game Capture 4K XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-x-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-x-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Game Capture 4K XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-x-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-x-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato公式Switch 2ガイドに4K Proを掲載。Switch 2はドック接続が必要で、4K ProはWindowsデスクトップPCのPCIeスロットへ装着する。",
+      "requirements": [
+        "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+        "WindowsデスクトップPCの空きPCIeスロットへ4K Proを装着する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elgato-game-capture-4k-pro-feature-1",
+          "feature_name": "Switch 2 HDMIキャプチャ",
+          "status": "supported_with_requirements",
+          "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIで4K Proへ接続すると案内。4K ProはWindowsデスクトップPCのPCIeスロットへ装着する。携帯モードはHDMI映像出力不可。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-pro-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-4k-pro-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 3,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Game Capture 4K ProはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-pro-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-pro-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-pro-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato公式Switch 2ガイドに4K Proを掲載。Switch 2はドック接続が必要で、4K ProはWindowsデスクトップPCのPCIeスロットへ装着する。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "WindowsデスクトップPCの空きPCIeスロットへ4K Proを装着する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-pro-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIで4K Proへ接続すると案内。4K ProはWindowsデスクトップPCのPCIeスロットへ装着する。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-pro-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-pro-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T15:00:00+09:00",
+          "captured_by": "independent_audit_20260829"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato公式Switch 2ガイドに4K Proを掲載。Switch 2はドック接続が必要で、4K ProはWindowsデスクトップPCのPCIeスロットへ装着する。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "WindowsデスクトップPCの空きPCIeスロットへ4K Proを装着する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-4k-pro-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIで4K Proへ接続すると案内。4K ProはWindowsデスクトップPCのPCIeスロットへ装着する。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-4k-pro-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-pro-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T15:00:00+09:00",
+          "changed_by": "independent_audit_20260829",
+          "change_reason": "独立監査指摘を反映し、公式製品識別・接続条件・ファームウェア不確実性・マイク機能を訂正。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-neo-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elgato-game-capture-neo",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Game Capture NeoはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "requirements": [
+        "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+        "対応するホストPCまたはiPadと接続する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elgato-game-capture-neo-feature-1",
+          "feature_name": "Switch 2 HDMIキャプチャ",
+          "status": "supported_with_requirements",
+          "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-neo-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-neo-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Game Capture NeoはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-neo-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-neo-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-neo-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Game Capture NeoはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-game-capture-neo-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-game-capture-neo-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-game-capture-neo-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elgato-hd60-x-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elgato-hd60-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "HD60 XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "requirements": [
+        "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+        "対応するホストPCまたはiPadと接続する"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elgato-hd60-x-feature-1",
+          "feature_name": "Switch 2 HDMIキャプチャ",
+          "status": "supported_with_requirements",
+          "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+          "evidence_ids": [
+            "ev-elgato-hd60-x-switch2-20260829"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-hd60-x-switch2-20260829"
+      ],
+      "created_by": "candidate_revalidation_20260829",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:00:56+09:00",
+      "verified_at": "2026-08-29T14:00:00+09:00",
+      "next_review_at": "2026-11-27T14:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "HD60 XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-hd60-x-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-hd60-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-hd60-x-switch2-20260829"
+          ],
+          "captured_at": "2026-08-29T14:00:00+09:00",
+          "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:00:56+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "HD60 XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+          "requirements": [
+            "Nintendo Switch 2をドックに接続し、ドックのHDMI出力をキャプチャーボードへ接続する",
+            "対応するホストPCまたはiPadと接続する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elgato-hd60-x-feature-1",
+              "feature_name": "Switch 2 HDMIキャプチャ",
+              "status": "supported_with_requirements",
+              "notes": "Elgato公式手順はSwitch 2をドック接続し、HDMIでキャプチャーボードへ接続すると案内。携帯モードはHDMI映像出力不可。",
+              "evidence_ids": [
+                "ev-elgato-hd60-x-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-hd60-x-switch2-20260829"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-08-29T14:00:00+09:00",
+          "changed_by": "candidate_revalidation_20260829",
+          "change_reason": "公式一次情報で製品識別・Switch 2対応・必要条件を確認。公開承認は未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:00:56+09:00",
           "changed_by": "jun19",
           "change_reason": "Second review completed by codex_technical_review; approved for publication.",
           "previous_status": "compatible_with_requirements",
@@ -13663,6 +16811,420 @@
       "applies_to_firmware": null,
       "applies_to_host_os": null,
       "excerpt_or_location": "Saturn ProはSwitch 2互換FW更新対象として掲載。V1/V2の非互換と受信機V2表記はLegacy16/Tribute64に対する記載であり、Saturn Proには適用しない。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-sandisk-microsd-express-switch2-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.sandisk.com/en-gb/products/memory-cards/microsd-cards/sandisk-microsd-express-card-for-nintendo-switch-2",
+      "source_title": "SanDisk microSD Express Card for Nintendo Switch 2",
+      "source_label": "SanDisk 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2向けに設計・試験・承認済み。容量違いは同一シリーズとして統合。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-sandisk-gameplay-microsd-express-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://shop.sandisk.com/content/sandisk/en-gb/products/memory-cards/microsd-cards/sandisk-gameplay-microsd-express-card.html",
+      "source_title": "SanDisk GamePlay microSD Express Card",
+      "source_label": "SanDisk 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2互換。128GB/256GB/512GBは容量variantとして統合。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-samsung-p9-express-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/uk/memory-storage/memory-card/p9-express-microsd-express-card-512gb-mb-mk512t-ww/",
+      "source_title": "Samsung P9 Express microSD Express Card",
+      "source_label": "Samsung 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "P9 ExpressはNintendo Switch 2に対応。256GB/512GBは容量variantとして統合。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-adata-sd71-express-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://webapi3.adata.com/storage/downloadfile/datasheet_premier_extreme_microsdxc_sd71_express_card_20250930.pdf",
+      "source_title": "ADATA Premier Extreme microSDXC SD7.1 Express Card",
+      "source_label": "ADATA 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "公式データシートにNintendo Switch 2 Readyと記載。容量variantは統合。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-teamgroup-apex-sd71-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.teamgroupinc.com/en/product-detail/card/microsd/apex-sd-7-1-microsd-express/apex-sd-7-1-microsd-express-TAPMSDE128GIV30A102/",
+      "source_title": "TEAMGROUP APEX SD7.1 MicroSD Express Memory Card",
+      "source_label": "TEAMGROUP 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2のmicroSD Expressスロットに対応。容量variantは統合。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-pny-microsd-express-u3-v30-a1-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.pny.com/PNY-microSD-Express-U3-V30-A1-microSD-Flash-Memory-Card",
+      "source_title": "PNY microSD Express U3 V30 A1",
+      "source_label": "PNY 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2用microSD Expressとして掲載。1TBのみ公式FW更新案内があるため条件化。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-nintendo-switch2-ac-adapter-ngn01-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68285/c/208",
+      "source_title": "Nintendo Support: NGN-01 and Switch 2 Dock",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2のTVモードでは公式ACアダプターNGN-01を確認するよう案内。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon2-charging-grip-bee010-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/charge-girp/index.html",
+      "source_title": "Joy-Con 2 Charging Grip support",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BEE-010はNGN-01またはUSB充電ケーブルでJoy-Con 2を充電可能。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-nintendo-switch2-dock-set-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.nintendo.com/us/gaming-systems/switch-2/accessories/",
+      "source_title": "Nintendo Switch 2 Accessories",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Dock SetはSwitch 2用ドック一式。TVモードは正規給電・HDMI接続が前提。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-nintendo-switch2-camera-switch2-20260829",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.nintendo.com/eu/media/downloads/support_1/nintendoswitch2/NSwitch2_Information_Camera_EUR.pdf",
+      "source_title": "Nintendo Switch 2 Camera information",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "モデルBEE-019。USB-CケーブルでNintendo Switch 2に接続。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-jsaux-multi-controller-energy-station-gp0507-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/collections/nintendo-switch-2-accessories",
+      "source_title": "JSAUX Nintendo Switch 2 Accessories",
+      "source_label": "JSAUX 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Multi-Controller Energy Station for Switch 2、型番GP0507として掲載。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-jsaux-omnicentro-charger-dock-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/blogs/news/official-statement-on-switch-2-system-version-21-0-0-compatibility-with-jsaux-display-adapters",
+      "source_title": "JSAUX Official Statement on Switch 2 System Version 21.0.0 Compatibility",
+      "source_label": "JSAUX 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "OmniCentro Charger Dockについて、Switch 2 System Version 21.0.0対応パッチを生産品に統合する最終テスト中と公式告知。旧/初期生産品への適用済みFWは確認できない。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-jsaux-6in1-gaming-dock-hb0610-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/collections/nintendo-switch-2-docks",
+      "source_title": "JSAUX Nintendo Switch 2 Docks",
+      "source_label": "JSAUX 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "6-in-1 Gaming Dock for Switch 2、型番HB0610として掲載。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-jsaux-7in1-docking-station-hb0704-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/collections/nintendo-switch-2-docks",
+      "source_title": "JSAUX Nintendo Switch 2 Docks",
+      "source_label": "JSAUX 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "7-in-1 Multifunctional Docking Station for Switch 2、型番HB0704として掲載。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-jsaux-dock-adapter-cv0087-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/blogs/news/official-statement-on-switch-2-system-version-21-0-0-compatibility-with-jsaux-display-adapters",
+      "source_title": "JSAUX CV0087 Switch 2 System Version 21.0.0 compatibility",
+      "source_label": "JSAUX 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "CV0087のSystem Version 21.0.0対応はファームウェア更新で復旧すると公式告知。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-turtlebeach-stealth500-switch2-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.turtlebeach.com/products/stealth-500-headset-nintendo-switch-2",
+      "source_title": "Stealth 500 Headset for Nintendo Switch 2",
+      "source_label": "Turtle Beach 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "USB-Cトランスミッターの2.4GHz接続でSwitch 2向け低遅延音声、無指向性フリップミュートマイクでvoice chatを明記。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-turtlebeach-airlite-fit-switch2-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://corp.turtlebeach.com/news/news-details/2025/TURTLE-BEACHS-FIRST-OFFICIALLY-LICENSED-GAMING-HEADSET-FOR-NINTENDO-SWITCH-2-THE-TURTLE-BEACH-AIRLITE-FIT-IS-NOW-AVAILABLE-2025-WujV8EM5q9/default.aspx",
+      "source_title": "Turtle Beach Airlite Fit Nintendo Switch 2 announcement",
+      "source_label": "Turtle Beach 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2向け公式ライセンスAirlite Fitはノイズキャンセリングマイクでvoice chatを明記。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-turtlebeach-recon70-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.turtlebeach.com/collections/nintendo-switch-headsets",
+      "source_title": "Turtle Beach Nintendo Switch Headsets",
+      "source_label": "Turtle Beach 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Recon 70はNintendo Switch 2で動作し、フリップミュートマイクを搭載すると公式一覧に記載。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-4k-s-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/jp/ja/explorer/products/capture/learn-how-to-record-or-stream-kirby-air-riders-on-nintendo-switch-2/",
+      "source_title": "Elgato Switch 2 recording and streaming guide",
+      "source_label": "Elgato 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Game Capture 4K SはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-4k-x-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/jp/ja/explorer/products/capture/learn-how-to-record-or-stream-kirby-air-riders-on-nintendo-switch-2/",
+      "source_title": "Elgato Switch 2 recording and streaming guide",
+      "source_label": "Elgato 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Game Capture 4K XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-4k-pro-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/jp/ja/explorer/products/capture/learn-how-to-record-or-stream-kirby-air-riders-on-nintendo-switch-2/",
+      "source_title": "Elgato Switch 2 recording and streaming guide",
+      "source_label": "Elgato 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Game Capture 4K ProはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-neo-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/jp/ja/explorer/products/capture/learn-how-to-record-or-stream-kirby-air-riders-on-nintendo-switch-2/",
+      "source_title": "Elgato Switch 2 recording and streaming guide",
+      "source_label": "Elgato 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Game Capture NeoはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
+      "created_by": "candidate_revalidation_20260829"
+    },
+    {
+      "evidence_id": "ev-elgato-hd60-x-switch2-20260829",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/jp/ja/explorer/products/capture/learn-how-to-record-or-stream-kirby-air-riders-on-nintendo-switch-2/",
+      "source_title": "Elgato Switch 2 recording and streaming guide",
+      "source_label": "Elgato 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-08-29T14:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "HD60 XはElgato公式Switch 2ガイドに掲載。Switch 2はドック接続が必要で、携帯モードはHDMI映像出力不可。",
       "created_by": "candidate_revalidation_20260829"
     }
   ]
