@@ -25,18 +25,6 @@ function initSupabase() {
   SUPABASE = window.supabase.createClient(cfg.url, cfg.anonKey);
 }
 
-function strictModelKey(value) {
-  return (value || "")
-    .trim()
-    .toUpperCase()
-    .normalize("NFKC")
-    .replace(/[‐‑‒–—―]/g, "-");
-}
-
-function relaxedModelKey(value) {
-  return strictModelKey(value).replace(/[\s-]+/g, "");
-}
-
 function nameKey(value) {
   return (value || "")
     .trim()
@@ -113,35 +101,14 @@ function updateStats() {
 }
 
 function searchProducts(query) {
-  const strict = strictModelKey(query);
-  const relaxed = relaxedModelKey(query);
-  const nk = nameKey(query);
+  if (!window.DeviceCompatibilitySearch) {
+    console.error("検索モジュールを読み込めませんでした。");
+    return [];
+  }
 
-  const accessories = DATASET.products.filter((p) => p.product_id !== HOST_ID);
-
-  const exactStrict = accessories.filter(
-    (p) => p.model_number && strictModelKey(p.model_number) === strict
-  );
-  if (exactStrict.length) return exactStrict;
-
-  const exactRelaxed = accessories.filter(
-    (p) => p.model_number && relaxedModelKey(p.model_number) === relaxed
-  );
-  if (exactRelaxed.length) return exactRelaxed;
-
-  const exactName = accessories.filter((p) =>
-    [p.product_name, ...(p.aliases || [])].some((v) => nameKey(v) === nk)
-  );
-  if (exactName.length) return exactName;
-
-  if (nk.length < 3) return [];
-
-  const fuzzy = accessories.filter((p) =>
-    [p.manufacturer, p.product_name, ...(p.aliases || [])]
-      .some((v) => nameKey(v).includes(nk))
-  );
-
-  return fuzzy.slice(0, 20);
+  return window.DeviceCompatibilitySearch
+    .searchPublishedProducts(DATASET, query)
+    .map(({ product }) => product);
 }
 
 function publishedRecord(productId) {
