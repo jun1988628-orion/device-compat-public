@@ -2,7 +2,7 @@ let DATASET = null;
 let PRODUCTS = new Map();
 let EVIDENCE = new Map();
 
-const DATA_FILE = "data.revalidated.all34.v1.3.auditfixed.json";
+const DATA_FILE = "public-data.json";
 const HOST_ID = "host-switch2";
 const REGION = "JP";
 

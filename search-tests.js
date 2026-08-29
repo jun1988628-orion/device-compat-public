@@ -1,7 +1,7 @@
 const fs = require("fs");
 const assert = require("assert");
 const search = require("./search-utils.js");
-const dataset = JSON.parse(fs.readFileSync("data.revalidated.all34.v1.3.auditfixed.json", "utf8"));
+const dataset = JSON.parse(fs.readFileSync("public-data.json", "utf8"));
 
 function ids(query) {
   return search.searchPublishedProducts(dataset, query).map((entry) => entry.product.product_id);
