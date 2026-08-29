@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-08-29T09:00:56+09:00",
+  "dataset_generated_at": "2026-08-29T09:08:17+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -11606,7 +11606,7 @@
       "accessory_product_id": "gamesir-super-nova",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "under_review",
+      "publication_status": "published",
       "summary": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
       "requirements": [
         "コントローラーファームウェアを1.13以上へ更新する"
@@ -11638,11 +11638,11 @@
         "ev-gamesir-super-nova-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": null,
-      "approved_at": null,
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:08:17+09:00",
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 1,
+      "revision": 2,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11680,6 +11680,43 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:08:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
+          "requirements": [
+            "コントローラーファームウェアを1.13以上へ更新する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "gamesir-super-nova-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
+              "evidence_ids": [
+                "ev-gamesir-super-nova-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "gamesir-super-nova-feature-2",
+              "feature_name": "HOMEボタンによるWake",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2のWakeにはコントローラーFW 1.13以上が必要と公式チュートリアルに記載。",
+              "evidence_ids": [
+                "ev-gamesir-super-nova-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-gamesir-super-nova-switch2-20260829"
+          ]
         }
       ],
       "change_history": [
@@ -11689,6 +11726,14 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:08:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
       ],
@@ -11702,7 +11747,7 @@
       "accessory_product_id": "mobapad-m6-hd",
       "region": "JP",
       "overall_status": "limited_compatibility",
-      "publication_status": "under_review",
+      "publication_status": "published",
       "summary": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
       "requirements": [
         "携帯モードではC70 Proアダプターを使用し、先に無線ペアリングを完了する"
@@ -11761,11 +11806,11 @@
         "ev-mobapad-m6-hd-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": null,
-      "approved_at": null,
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:08:17+09:00",
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 1,
+      "revision": 2,
       "revision_snapshots": [
         {
           "overall_status": "limited_compatibility",
@@ -11830,6 +11875,70 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:08:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
+          "requirements": [
+            "携帯モードではC70 Proアダプターを使用し、先に無線ペアリングを完了する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-m6-hd-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported",
+              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
+              "evidence_ids": [
+                "ev-mobapad-m6-hd-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mobapad-m6-hd-feature-2",
+              "feature_name": "HOMEボタンによるWake",
+              "status": "supported",
+              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
+              "evidence_ids": [
+                "ev-mobapad-m6-hd-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mobapad-m6-hd-feature-3",
+              "feature_name": "携帯モード",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
+              "evidence_ids": [
+                "ev-mobapad-m6-hd-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mobapad-m6-hd-feature-4",
+              "feature_name": "NFC（amiibo）",
+              "status": "supported",
+              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
+              "evidence_ids": [
+                "ev-mobapad-m6-hd-switch2-20260829"
+              ]
+            },
+            {
+              "feature_id": "mobapad-m6-hd-feature-5",
+              "feature_name": "6軸モーション・HD Rumble",
+              "status": "supported",
+              "notes": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
+              "evidence_ids": [
+                "ev-mobapad-m6-hd-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-m6-hd-switch2-20260829"
+          ]
         }
       ],
       "change_history": [
@@ -11839,6 +11948,14 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:08:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "limited_compatibility",
           "new_status": "limited_compatibility"
         }
       ],
@@ -11852,7 +11969,7 @@
       "accessory_product_id": "retrobit-legacy16-24g-v2",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "under_review",
+      "publication_status": "published",
       "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
       "requirements": [
         "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
@@ -11875,11 +11992,11 @@
         "ev-retrobit-legacy16-24g-v2-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": null,
-      "approved_at": null,
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:08:17+09:00",
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 1,
+      "revision": 2,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11908,6 +12025,34 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:08:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
+          "requirements": [
+            "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "retrobit-legacy16-24g-v2-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
+              "evidence_ids": [
+                "ev-retrobit-legacy16-24g-v2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-retrobit-legacy16-24g-v2-switch2-20260829"
+          ]
         }
       ],
       "change_history": [
@@ -11917,6 +12062,14 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:08:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
       ],
@@ -11930,7 +12083,7 @@
       "accessory_product_id": "retrobit-tribute64-24g-v2",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "under_review",
+      "publication_status": "published",
       "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
       "requirements": [
         "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
@@ -11953,11 +12106,11 @@
         "ev-retrobit-tribute64-24g-v2-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": null,
-      "approved_at": null,
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:08:17+09:00",
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 1,
+      "revision": 2,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -11986,6 +12139,34 @@
           "revision": 1,
           "captured_at": "2026-08-29T11:00:00+09:00",
           "captured_by": "candidate_revalidation_20260829"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-08-29T09:08:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
+          "requirements": [
+            "受信機にV2表記があることを確認し、Switch 2対応USBレシーバーFWを適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "retrobit-tribute64-24g-v2-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
+              "evidence_ids": [
+                "ev-retrobit-tribute64-24g-v2-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-retrobit-tribute64-24g-v2-switch2-20260829"
+          ]
         }
       ],
       "change_history": [
@@ -11995,6 +12176,14 @@
           "changed_by": "candidate_revalidation_20260829",
           "change_reason": "公式一次情報でSwitch 2対応・条件を確認。公開承認は未実施。",
           "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-08-29T09:08:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
+          "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
       ],
@@ -12008,7 +12197,7 @@
       "accessory_product_id": "retrobit-saturn-24g-pro",
       "region": "JP",
       "overall_status": "compatible_with_requirements",
-      "publication_status": "under_review",
+      "publication_status": "published",
       "summary": "Retro-Bit公式サポートがSaturn ProをSwitch 2互換FW更新対象として掲載。Saturn Pro自体のV2製品・V2受信機要件は公式情報で確認できないため記録しない。",
       "requirements": [
         "Switch 2対応USB Receiver Firmware 1.1を適用する"
@@ -12031,11 +12220,11 @@
         "ev-retrobit-saturn-24g-pro-switch2-20260829"
       ],
       "created_by": "candidate_revalidation_20260829",
-      "reviewed_by": null,
-      "approved_at": null,
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-08-29T09:08:17+09:00",
       "verified_at": "2026-08-29T11:00:00+09:00",
       "next_review_at": "2026-11-27T11:00:00+09:00",
-      "revision": 2,
+      "revision": 3,
       "revision_snapshots": [
         {
           "overall_status": "compatible_with_requirements",
@@ -12092,6 +12281,34 @@
           "revision": 2,
           "captured_at": "2026-08-29T11:20:00+09:00",
           "captured_by": "candidate_revalidation_20260829_fix"
+        },
+        {
+          "revision": 3,
+          "captured_at": "2026-08-29T09:08:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Retro-Bit公式サポートがSaturn ProをSwitch 2互換FW更新対象として掲載。Saturn Pro自体のV2製品・V2受信機要件は公式情報で確認できないため記録しない。",
+          "requirements": [
+            "Switch 2対応USB Receiver Firmware 1.1を適用する"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "retrobit-saturn-24g-pro-feature-1",
+              "feature_name": "Switch 2での無線操作",
+              "status": "supported_with_requirements",
+              "notes": "公式サポートに掲載されたSwitch 2対応USB Receiver Firmware 1.1を適用して使用する。",
+              "evidence_ids": [
+                "ev-retrobit-saturn-24g-pro-switch2-20260829"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-retrobit-saturn-24g-pro-switch2-20260829"
+          ]
         }
       ],
       "change_history": [
@@ -12108,6 +12325,14 @@
           "changed_at": "2026-08-29T11:20:00+09:00",
           "changed_by": "candidate_revalidation_20260829_fix",
           "change_reason": "Saturn ProのV2区分を公式情報で確認できないため、hardware_revisionとV2受信機要件を削除。Switch 2対応USB Receiver Firmware 1.1のみ要件化。",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 3,
+          "changed_at": "2026-08-29T09:08:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; approved for publication.",
           "previous_status": "compatible_with_requirements",
           "new_status": "compatible_with_requirements"
         }
