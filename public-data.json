@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-08-29T21:29:15+09:00",
+  "dataset_generated_at": "2026-09-01T00:48:39+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -2059,6 +2059,674 @@
       "connection_methods": [
         "HDMI",
         "DisplayPort"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-g274qpf-e2",
+      "manufacturer": "MSI",
+      "product_name": "G274QPF E2",
+      "model_number": "G274QPF E2",
+      "aliases": [
+        "G274QPF E2",
+        "G274QPFE2"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-g274qrfw",
+      "manufacturer": "MSI",
+      "product_name": "G274QRFW",
+      "model_number": "G274QRFW",
+      "aliases": [
+        "G274QRFW"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-274qrfw",
+      "manufacturer": "MSI",
+      "product_name": "MAG 274QRFW",
+      "model_number": "MAG 274QRFW",
+      "aliases": [
+        "MAG 274QRFW",
+        "MAG274QRFW"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-274qrfw-e20",
+      "manufacturer": "MSI",
+      "product_name": "MAG 274QRFW E20",
+      "model_number": "MAG 274QRFW E20",
+      "aliases": [
+        "MAG 274QRFW E20",
+        "MAG274QRFWE20"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-274qrf-qd-e2",
+      "manufacturer": "MSI",
+      "product_name": "MAG 274QRF QD E2",
+      "model_number": "MAG 274QRF QD E2",
+      "aliases": [
+        "MAG 274QRF QD E2",
+        "MAG274QRFQDE2"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-275qf",
+      "manufacturer": "MSI",
+      "product_name": "MAG 275QF",
+      "model_number": "MAG 275QF",
+      "aliases": [
+        "MAG 275QF",
+        "MAG275QF"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-27cq6pf",
+      "manufacturer": "MSI",
+      "product_name": "MAG 27CQ6PF",
+      "model_number": "MAG 27CQ6PF",
+      "aliases": [
+        "MAG 27CQ6PF",
+        "MAG27CQ6PF"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mpg-275cqrxf",
+      "manufacturer": "MSI",
+      "product_name": "MPG 275CQRXF",
+      "model_number": "MPG 275CQRXF",
+      "aliases": [
+        "MPG 275CQRXF",
+        "MPG275CQRXF"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-275cqrf-qd-e2",
+      "manufacturer": "MSI",
+      "product_name": "MAG 275CQRF QD E2",
+      "model_number": "MAG 275CQRF QD E2",
+      "aliases": [
+        "MAG 275CQRF QD E2",
+        "MAG275CQRFQDE2"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-g32cq5p",
+      "manufacturer": "MSI",
+      "product_name": "G32CQ5P",
+      "model_number": "G32CQ5P",
+      "aliases": [
+        "G32CQ5P"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "msi-mag-325cqrf-qd-e2",
+      "manufacturer": "MSI",
+      "product_name": "MAG 325CQRF QD E2",
+      "model_number": "MAG 325CQRF QD E2",
+      "aliases": [
+        "MAG 325CQRF QD E2",
+        "MAG325CQRFQDE2"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc311",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Gamer MINI",
+      "model_number": "GC311",
+      "aliases": [
+        "Live Gamer MINI",
+        "GC311"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc551g2",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Gamer EXTREME 3",
+      "model_number": "GC551G2",
+      "aliases": [
+        "Live Gamer EXTREME 3",
+        "GC551G2"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc515",
+      "manufacturer": "AVerMedia",
+      "product_name": "X'TRA GO",
+      "model_number": "GC515",
+      "aliases": [
+        "X'TRA GO",
+        "GC515"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc313pro",
+      "manufacturer": "AVerMedia",
+      "product_name": "ELITE GO",
+      "model_number": "GC313Pro",
+      "aliases": [
+        "ELITE GO",
+        "GC313Pro"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc313",
+      "manufacturer": "AVerMedia",
+      "product_name": "CORE GO",
+      "model_number": "GC313",
+      "aliases": [
+        "CORE GO",
+        "GC313"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-pw313",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Streamer CAM 313",
+      "model_number": "PW313",
+      "aliases": [
+        "Live Streamer CAM 313",
+        "PW313"
+      ],
+      "category": "usb_camera",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-pw315",
+      "manufacturer": "AVerMedia",
+      "product_name": "1080p60 Wide Angle Webcam",
+      "model_number": "PW315",
+      "aliases": [
+        "1080p60 Wide Angle Webcam",
+        "PW315"
+      ],
+      "category": "usb_camera",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-huben2",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad HuBen2",
+      "model_number": "HuBen2",
+      "aliases": [
+        "Mobapad HuBen2",
+        "HuBen2"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-chitu-hd",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad ChiTu HD",
+      "model_number": "ChiTu HD",
+      "aliases": [
+        "Mobapad ChiTu HD",
+        "ChiTu HD"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-m6s",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad M6S",
+      "model_number": "M6S",
+      "aliases": [
+        "Mobapad M6S",
+        "M6S"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-n1-hd",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad N1-HD",
+      "model_number": "N1-HD",
+      "aliases": [
+        "Mobapad N1-HD",
+        "N1-HD"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-n1-s",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad N1-S",
+      "model_number": "N1-S",
+      "aliases": [
+        "Mobapad N1-S",
+        "N1-S"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-s1-hd",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad S1-HD",
+      "model_number": "S1-HD",
+      "aliases": [
+        "Mobapad S1-HD",
+        "S1-HD"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mobapad-s1-s",
+      "manufacturer": "Mobapad",
+      "product_name": "Mobapad S1-S",
+      "model_number": "S1-S",
+      "aliases": [
+        "Mobapad S1-S",
+        "S1-S"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-ex321ux",
+      "manufacturer": "BenQ",
+      "product_name": "EX321UX",
+      "model_number": "EX321UX",
+      "aliases": [
+        "EX321UX"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-ex271u",
+      "manufacturer": "BenQ",
+      "product_name": "EX271U",
+      "model_number": "EX271U",
+      "aliases": [
+        "EX271U"
+      ],
+      "category": "gaming_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f700-elite",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Wireless Arcade Stick F700 Elite",
+      "model_number": "F700 Elite",
+      "aliases": [
+        "Wireless Arcade Stick F700 Elite",
+        "F700 Elite"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f700-flat-elite",
+      "manufacturer": "MAYFLASH",
+      "product_name": "All-Button Arcade Controller F700 FLAT Elite",
+      "model_number": "F700 FLAT Elite",
+      "aliases": [
+        "All-Button Arcade Controller F700 FLAT Elite",
+        "F700 FLAT Elite"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-lua5-u3-cgte",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB LAN Adapter LUA5-U3-CGTE family",
+      "model_number": "LUA5-U3-CGTE",
+      "aliases": [
+        "LUA5-U3-CGTE",
+        "LUA5-U3-CGTE-BK",
+        "LUA5-U3-CGTE-WH"
+      ],
+      "category": "usb_ethernet_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "LUA5-U3-CGTE-BK / LUA5-U3-CGTE-WH",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -17925,6 +18593,3546 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-g274qpf-e2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-g274qpf-e2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-g274qpf-e2-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-g274qpf-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-g274qpf-e2-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-g274qpf-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-g274qpf-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g274qpf-e2-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-g274qpf-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-g274qpf-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g274qpf-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-g274qrfw-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-g274qrfw",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-g274qrfw-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-g274qrfw-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-g274qrfw-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-g274qrfw-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-g274qrfw-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g274qrfw-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-g274qrfw-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-g274qrfw-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g274qrfw-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-274qrfw-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-274qrfw",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-274qrfw-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mag-274qrfw-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-274qrfw-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-274qrfw-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-274qrfw-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-274qrfw-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-274qrfw-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-274qrfw-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-274qrfw-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-274qrfw-e20-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-274qrfw-e20",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。当該rowにはHDR OFF注記なし。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-274qrfw-e20-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。当該rowにはHDR OFF注記なし。",
+          "evidence_ids": [
+            "ev-msi-mag-274qrfw-e20-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-274qrfw-e20-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。当該rowにはHDR OFF注記なし。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-274qrfw-e20-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。当該rowにはHDR OFF注記なし。",
+              "evidence_ids": [
+                "ev-msi-mag-274qrfw-e20-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-274qrfw-e20-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。当該rowにはHDR OFF注記なし。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-274qrfw-e20-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。当該rowにはHDR OFF注記なし。",
+              "evidence_ids": [
+                "ev-msi-mag-274qrfw-e20-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-274qrfw-e20-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-274qrf-qd-e2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-274qrf-qd-e2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-274qrf-qd-e2-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mag-274qrf-qd-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-274qrf-qd-e2-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-274qrf-qd-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-274qrf-qd-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-274qrf-qd-e2-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-274qrf-qd-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-274qrf-qd-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-274qrf-qd-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-275qf-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-275qf",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-275qf-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mag-275qf-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-275qf-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-275qf-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-275qf-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-275qf-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-275qf-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-275qf-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-275qf-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-27cq6pf-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-27cq6pf",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-27cq6pf-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mag-27cq6pf-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-27cq6pf-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-27cq6pf-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-27cq6pf-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-27cq6pf-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-27cq6pf-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-27cq6pf-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-27cq6pf-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mpg-275cqrxf-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mpg-275cqrxf",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mpg-275cqrxf-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mpg-275cqrxf-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mpg-275cqrxf-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mpg-275cqrxf-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mpg-275cqrxf-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mpg-275cqrxf-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mpg-275cqrxf-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mpg-275cqrxf-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mpg-275cqrxf-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-275cqrf-qd-e2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-275cqrf-qd-e2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-275cqrf-qd-e2-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mag-275cqrf-qd-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-275cqrf-qd-e2-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-275cqrf-qd-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-275cqrf-qd-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-275cqrf-qd-e2-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-275cqrf-qd-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-275cqrf-qd-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-275cqrf-qd-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-g32cq5p-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-g32cq5p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-g32cq5p-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-g32cq5p-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-g32cq5p-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-g32cq5p-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-g32cq5p-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g32cq5p-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-g32cq5p-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-g32cq5p-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g32cq5p-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-325cqrf-qd-e2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "msi-mag-325cqrf-qd-e2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+      "requirements": [
+        "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "msi-mag-325cqrf-qd-e2-feature-1",
+          "feature_name": "Switch 2映像入力",
+          "status": "supported",
+          "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "evidence_ids": [
+            "ev-msi-mag-325cqrf-qd-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag-325cqrf-qd-e2-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-325cqrf-qd-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-325cqrf-qd-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-325cqrf-qd-e2-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+          "requirements": [
+            "Nintendo Switch 2で1440p/120Hzを使う場合、HDR出力をOFFにする。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "msi-mag-325cqrf-qd-e2-feature-1",
+              "feature_name": "Switch 2映像入力",
+              "status": "supported",
+              "notes": "MSI公式対応表で1080pおよび1440p/120Hz対応。1440p/120HzはSwitch 2のHDR出力をOFFにする条件。",
+              "evidence_ids": [
+                "ev-msi-mag-325cqrf-qd-e2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag-325cqrf-qd-e2-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc311-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-gc311",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Live Gamer MINI GC311は公式Switch 2互換表でファームウェア更新が必要とされる。",
+      "requirements": [
+        "AVerMedia公式のv2.3.4.11以降の当該モデル用Switch 2ファームウェアを適用する。"
+      ],
+      "minimum_firmware": "v2.3.4.11",
+      "verified_firmware": "v2.3.4.11",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-gc311-feature-1",
+          "feature_name": "Switch 2キャプチャー",
+          "status": "supported",
+          "notes": "公式のモデル別FW更新後に利用可能。",
+          "evidence_ids": [
+            "ev-avermedia-gc311-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc311-switch2-20260901",
+        "ev-avermedia-gc311-firmware-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Live Gamer MINI GC311は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv2.3.4.11以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v2.3.4.11",
+          "verified_firmware": "v2.3.4.11",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc311-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc311-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc311-switch2-20260901",
+            "ev-avermedia-gc311-firmware-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Live Gamer MINI GC311は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv2.3.4.11以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v2.3.4.11",
+          "verified_firmware": "v2.3.4.11",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc311-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc311-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc311-switch2-20260901",
+            "ev-avermedia-gc311-firmware-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc551g2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-gc551g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Live Gamer EXTREME 3 GC551G2は公式Switch 2互換表でファームウェア更新が必要とされる。",
+      "requirements": [
+        "AVerMedia公式のv1.2.6.0以降の当該モデル用Switch 2ファームウェアを適用する。"
+      ],
+      "minimum_firmware": "v1.2.6.0",
+      "verified_firmware": "v1.2.6.0",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-gc551g2-feature-1",
+          "feature_name": "Switch 2キャプチャー",
+          "status": "supported",
+          "notes": "公式のモデル別FW更新後に利用可能。",
+          "evidence_ids": [
+            "ev-avermedia-gc551g2-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc551g2-switch2-20260901",
+        "ev-avermedia-gc551g2-firmware-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Live Gamer EXTREME 3 GC551G2は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv1.2.6.0以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v1.2.6.0",
+          "verified_firmware": "v1.2.6.0",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc551g2-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc551g2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc551g2-switch2-20260901",
+            "ev-avermedia-gc551g2-firmware-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Live Gamer EXTREME 3 GC551G2は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv1.2.6.0以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v1.2.6.0",
+          "verified_firmware": "v1.2.6.0",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc551g2-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc551g2-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc551g2-switch2-20260901",
+            "ev-avermedia-gc551g2-firmware-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc515-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-gc515",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "X'TRA GO GC515は公式Switch 2互換表でファームウェア更新が必要とされる。",
+      "requirements": [
+        "AVerMedia公式のv1.0.1.15以降の当該モデル用Switch 2ファームウェアを適用する。"
+      ],
+      "minimum_firmware": "v1.0.1.15",
+      "verified_firmware": "v1.0.1.15",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-gc515-feature-1",
+          "feature_name": "Switch 2キャプチャー",
+          "status": "supported",
+          "notes": "公式のモデル別FW更新後に利用可能。",
+          "evidence_ids": [
+            "ev-avermedia-gc515-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc515-switch2-20260901",
+        "ev-avermedia-gc515-firmware-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "X'TRA GO GC515は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv1.0.1.15以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v1.0.1.15",
+          "verified_firmware": "v1.0.1.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc515-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc515-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc515-switch2-20260901",
+            "ev-avermedia-gc515-firmware-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "X'TRA GO GC515は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv1.0.1.15以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v1.0.1.15",
+          "verified_firmware": "v1.0.1.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc515-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc515-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc515-switch2-20260901",
+            "ev-avermedia-gc515-firmware-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313pro-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-gc313pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "ELITE GO GC313Proは公式Switch 2互換表でファームウェア更新が必要とされる。",
+      "requirements": [
+        "AVerMedia公式のv24.8.30.16.1.19.24以降の当該モデル用Switch 2ファームウェアを適用する。"
+      ],
+      "minimum_firmware": "v24.8.30.16.1.19.24",
+      "verified_firmware": "v24.8.30.16.1.19.24",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-gc313pro-feature-1",
+          "feature_name": "Switch 2キャプチャー",
+          "status": "supported",
+          "notes": "公式のモデル別FW更新後に利用可能。",
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc313pro-switch2-20260901",
+        "ev-avermedia-gc313pro-firmware-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "ELITE GO GC313Proは公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv24.8.30.16.1.19.24以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v24.8.30.16.1.19.24",
+          "verified_firmware": "v24.8.30.16.1.19.24",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc313pro-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc313pro-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-switch2-20260901",
+            "ev-avermedia-gc313pro-firmware-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "ELITE GO GC313Proは公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv24.8.30.16.1.19.24以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v24.8.30.16.1.19.24",
+          "verified_firmware": "v24.8.30.16.1.19.24",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc313pro-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc313pro-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-switch2-20260901",
+            "ev-avermedia-gc313pro-firmware-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-gc313",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "CORE GO GC313は公式Switch 2互換表でファームウェア更新が必要とされる。",
+      "requirements": [
+        "AVerMedia公式のv1.19.24以降の当該モデル用Switch 2ファームウェアを適用する。"
+      ],
+      "minimum_firmware": "v1.19.24",
+      "verified_firmware": "v1.19.24",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-gc313-feature-1",
+          "feature_name": "Switch 2キャプチャー",
+          "status": "supported",
+          "notes": "公式のモデル別FW更新後に利用可能。",
+          "evidence_ids": [
+            "ev-avermedia-gc313-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc313-switch2-20260901",
+        "ev-avermedia-gc313-firmware-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "CORE GO GC313は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv1.19.24以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v1.19.24",
+          "verified_firmware": "v1.19.24",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc313-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc313-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313-switch2-20260901",
+            "ev-avermedia-gc313-firmware-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "CORE GO GC313は公式Switch 2互換表でファームウェア更新が必要とされる。",
+          "requirements": [
+            "AVerMedia公式のv1.19.24以降の当該モデル用Switch 2ファームウェアを適用する。"
+          ],
+          "minimum_firmware": "v1.19.24",
+          "verified_firmware": "v1.19.24",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-gc313-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported",
+              "notes": "公式のモデル別FW更新後に利用可能。",
+              "evidence_ids": [
+                "ev-avermedia-gc313-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313-switch2-20260901",
+            "ev-avermedia-gc313-firmware-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-pw313-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-pw313",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Live Streamer CAM 313 PW313は公式互換表でSwitch 2に完全対応とされる。",
+      "requirements": [
+        "Nintendo Switch 2 DockのUSB-Aポートへ接続する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-pw313-feature-1",
+          "feature_name": "USB camera / GameChat接続",
+          "status": "supported",
+          "notes": "Switch 2 DockのUSB-Aポートに接続する。",
+          "evidence_ids": [
+            "ev-avermedia-pw313-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-pw313-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Live Streamer CAM 313 PW313は公式互換表でSwitch 2に完全対応とされる。",
+          "requirements": [
+            "Nintendo Switch 2 DockのUSB-Aポートへ接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-pw313-feature-1",
+              "feature_name": "USB camera / GameChat接続",
+              "status": "supported",
+              "notes": "Switch 2 DockのUSB-Aポートに接続する。",
+              "evidence_ids": [
+                "ev-avermedia-pw313-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-pw313-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Live Streamer CAM 313 PW313は公式互換表でSwitch 2に完全対応とされる。",
+          "requirements": [
+            "Nintendo Switch 2 DockのUSB-Aポートへ接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-pw313-feature-1",
+              "feature_name": "USB camera / GameChat接続",
+              "status": "supported",
+              "notes": "Switch 2 DockのUSB-Aポートに接続する。",
+              "evidence_ids": [
+                "ev-avermedia-pw313-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-pw313-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-avermedia-pw315-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "avermedia-pw315",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "1080p60 Wide Angle Webcam PW315は公式互換表でSwitch 2に完全対応とされる。",
+      "requirements": [
+        "Nintendo Switch 2 DockのUSB-Aポートへ接続する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "avermedia-pw315-feature-1",
+          "feature_name": "USB camera / GameChat接続",
+          "status": "supported",
+          "notes": "Switch 2 DockのUSB-Aポートに接続する。",
+          "evidence_ids": [
+            "ev-avermedia-pw315-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-pw315-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "1080p60 Wide Angle Webcam PW315は公式互換表でSwitch 2に完全対応とされる。",
+          "requirements": [
+            "Nintendo Switch 2 DockのUSB-Aポートへ接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-pw315-feature-1",
+              "feature_name": "USB camera / GameChat接続",
+              "status": "supported",
+              "notes": "Switch 2 DockのUSB-Aポートに接続する。",
+              "evidence_ids": [
+                "ev-avermedia-pw315-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-pw315-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "1080p60 Wide Angle Webcam PW315は公式互換表でSwitch 2に完全対応とされる。",
+          "requirements": [
+            "Nintendo Switch 2 DockのUSB-Aポートへ接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "avermedia-pw315-feature-1",
+              "feature_name": "USB camera / GameChat接続",
+              "status": "supported",
+              "notes": "Switch 2 DockのUSB-Aポートに接続する。",
+              "evidence_ids": [
+                "ev-avermedia-pw315-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-pw315-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-huben2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-huben2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad HuBen2はMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-huben2-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-huben2-switch2-20260901"
+          ]
+        },
+        {
+          "feature_id": "mobapad-huben2-feature-2",
+          "feature_name": "Switch 2スリープ解除",
+          "status": "supported",
+          "notes": "HuBen2のみ、公式FW 0.50と初回設定を前提にHOMEボタンでスリープ解除する。",
+          "evidence_ids": [
+            "ev-mobapad-huben2-wake-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-huben2-switch2-20260901",
+        "ev-mobapad-huben2-wake-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad HuBen2はMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-huben2-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-huben2-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "mobapad-huben2-feature-2",
+              "feature_name": "Switch 2スリープ解除",
+              "status": "supported",
+              "notes": "HuBen2のみ、公式FW 0.50と初回設定を前提にHOMEボタンでスリープ解除する。",
+              "evidence_ids": [
+                "ev-mobapad-huben2-wake-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-huben2-switch2-20260901",
+            "ev-mobapad-huben2-wake-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad HuBen2はMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-huben2-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-huben2-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "mobapad-huben2-feature-2",
+              "feature_name": "Switch 2スリープ解除",
+              "status": "supported",
+              "notes": "HuBen2のみ、公式FW 0.50と初回設定を前提にHOMEボタンでスリープ解除する。",
+              "evidence_ids": [
+                "ev-mobapad-huben2-wake-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-huben2-switch2-20260901",
+            "ev-mobapad-huben2-wake-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-chitu-hd-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-chitu-hd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad ChiTu HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-chitu-hd-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-chitu-hd-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-chitu-hd-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad ChiTu HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-chitu-hd-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-chitu-hd-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-chitu-hd-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad ChiTu HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-chitu-hd-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-chitu-hd-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-chitu-hd-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-m6s-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-m6s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad M6SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-m6s-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-m6s-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-m6s-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad M6SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-m6s-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-m6s-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-m6s-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad M6SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-m6s-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-m6s-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-m6s-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-n1-hd-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-n1-hd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad N1-HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-n1-hd-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-n1-hd-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-n1-hd-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad N1-HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-n1-hd-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-n1-hd-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-n1-hd-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad N1-HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-n1-hd-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-n1-hd-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-n1-hd-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-n1-s-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-n1-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad N1-SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-n1-s-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-n1-s-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-n1-s-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:39+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad N1-SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-n1-s-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-n1-s-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-n1-s-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:39+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad N1-SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-n1-s-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-n1-s-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-n1-s-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:39+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-s1-hd-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-s1-hd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad S1-HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-s1-hd-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-s1-hd-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-s1-hd-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad S1-HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-s1-hd-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-s1-hd-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-s1-hd-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad S1-HDはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-s1-hd-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-s1-hd-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-s1-hd-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mobapad-s1-s-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mobapad-s1-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Mobapad S1-SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+      "requirements": [
+        "Mobapad Assistantで当該モデルの公式FWを更新する。"
+      ],
+      "minimum_firmware": "latest official Mobapad firmware",
+      "verified_firmware": "latest official Mobapad firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mobapad-s1-s-feature-1",
+          "feature_name": "Switch 2無線接続",
+          "status": "supported",
+          "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+          "evidence_ids": [
+            "ev-mobapad-s1-s-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mobapad-s1-s-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Mobapad S1-SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-s1-s-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-s1-s-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-s1-s-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Mobapad S1-SはMobapad公式のSwitch 2対応リストにあり、FW更新後の無線接続が案内される。",
+          "requirements": [
+            "Mobapad Assistantで当該モデルの公式FWを更新する。"
+          ],
+          "minimum_firmware": "latest official Mobapad firmware",
+          "verified_firmware": "latest official Mobapad firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mobapad-s1-s-feature-1",
+              "feature_name": "Switch 2無線接続",
+              "status": "supported",
+              "notes": "公式Mobapad Assistantで当該モデルのFWを更新後、Bluetoothまたは2.4GHzで接続する。",
+              "evidence_ids": [
+                "ev-mobapad-s1-s-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mobapad-s1-s-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-benq-ex321ux-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "benq-ex321ux",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "EX321UXはBenQ公式V6でNintendo Switch 2の1440p対応が追加された。",
+      "requirements": [
+        "BenQ公式FW V6を適用する。"
+      ],
+      "minimum_firmware": "V6",
+      "verified_firmware": "V6",
+      "host_os_version": "Windows 10/11; macOS 13 or later",
+      "feature_assessments": [
+        {
+          "feature_id": "benq-ex321ux-feature-1",
+          "feature_name": "Switch 2 1440p表示",
+          "status": "supported",
+          "notes": "BenQ公式FW V6適用後に1440p対応。",
+          "evidence_ids": [
+            "ev-benq-ex321ux-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq-ex321ux-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "EX321UXはBenQ公式V6でNintendo Switch 2の1440p対応が追加された。",
+          "requirements": [
+            "BenQ公式FW V6を適用する。"
+          ],
+          "minimum_firmware": "V6",
+          "verified_firmware": "V6",
+          "host_os_version": "Windows 10/11; macOS 13 or later",
+          "feature_assessments": [
+            {
+              "feature_id": "benq-ex321ux-feature-1",
+              "feature_name": "Switch 2 1440p表示",
+              "status": "supported",
+              "notes": "BenQ公式FW V6適用後に1440p対応。",
+              "evidence_ids": [
+                "ev-benq-ex321ux-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex321ux-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "EX321UXはBenQ公式V6でNintendo Switch 2の1440p対応が追加された。",
+          "requirements": [
+            "BenQ公式FW V6を適用する。"
+          ],
+          "minimum_firmware": "V6",
+          "verified_firmware": "V6",
+          "host_os_version": "Windows 10/11; macOS 13 or later",
+          "feature_assessments": [
+            {
+              "feature_id": "benq-ex321ux-feature-1",
+              "feature_name": "Switch 2 1440p表示",
+              "status": "supported",
+              "notes": "BenQ公式FW V6適用後に1440p対応。",
+              "evidence_ids": [
+                "ev-benq-ex321ux-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex321ux-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271u-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "benq-ex271u",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "EX271UはBenQ公式V3でNintendo Switch 2の1440p対応が追加された。",
+      "requirements": [
+        "BenQ公式FW V3を適用する。"
+      ],
+      "minimum_firmware": "V3",
+      "verified_firmware": "V3",
+      "host_os_version": "Windows 10/11; macOS 12 or later",
+      "feature_assessments": [
+        {
+          "feature_id": "benq-ex271u-feature-1",
+          "feature_name": "Switch 2 1440p表示",
+          "status": "supported",
+          "notes": "BenQ公式FW V3適用後に1440p対応。",
+          "evidence_ids": [
+            "ev-benq-ex271u-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq-ex271u-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "EX271UはBenQ公式V3でNintendo Switch 2の1440p対応が追加された。",
+          "requirements": [
+            "BenQ公式FW V3を適用する。"
+          ],
+          "minimum_firmware": "V3",
+          "verified_firmware": "V3",
+          "host_os_version": "Windows 10/11; macOS 12 or later",
+          "feature_assessments": [
+            {
+              "feature_id": "benq-ex271u-feature-1",
+              "feature_name": "Switch 2 1440p表示",
+              "status": "supported",
+              "notes": "BenQ公式FW V3適用後に1440p対応。",
+              "evidence_ids": [
+                "ev-benq-ex271u-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "EX271UはBenQ公式V3でNintendo Switch 2の1440p対応が追加された。",
+          "requirements": [
+            "BenQ公式FW V3を適用する。"
+          ],
+          "minimum_firmware": "V3",
+          "verified_firmware": "V3",
+          "host_os_version": "Windows 10/11; macOS 12 or later",
+          "feature_assessments": [
+            {
+              "feature_id": "benq-ex271u-feature-1",
+              "feature_name": "Switch 2 1440p表示",
+              "status": "supported",
+              "notes": "BenQ公式FW V3適用後に1440p対応。",
+              "evidence_ids": [
+                "ev-benq-ex271u-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700-elite-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f700-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wireless Arcade Stick F700 Eliteは公式V1.02.15でSwitch 2の有線USB・2.4GHz・Bluetooth対応が明記される。",
+      "requirements": [
+        "MAYFLASH公式FW V1.02.15を適用する。",
+        "Nintendo Switch 2の「Pro Controller Wired Communication」を有効にする。"
+      ],
+      "minimum_firmware": "V1.02.15",
+      "verified_firmware": "V1.02.15",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-f700-elite-feature-1",
+          "feature_name": "Switch 2接続モード",
+          "status": "supported",
+          "notes": "有線USB、2.4GHz、Bluetoothで対応。",
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-switch2-20260901"
+          ]
+        },
+        {
+          "feature_id": "mayflash-f700-elite-feature-2",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported",
+          "notes": "Switch 2設定で有効化が必要。",
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700-elite-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Wireless Arcade Stick F700 Eliteは公式V1.02.15でSwitch 2の有線USB・2.4GHz・Bluetooth対応が明記される。",
+          "requirements": [
+            "MAYFLASH公式FW V1.02.15を適用する。",
+            "Nintendo Switch 2の「Pro Controller Wired Communication」を有効にする。"
+          ],
+          "minimum_firmware": "V1.02.15",
+          "verified_firmware": "V1.02.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-f700-elite-feature-1",
+              "feature_name": "Switch 2接続モード",
+              "status": "supported",
+              "notes": "有線USB、2.4GHz、Bluetoothで対応。",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700-elite-feature-2",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported",
+              "notes": "Switch 2設定で有効化が必要。",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Wireless Arcade Stick F700 Eliteは公式V1.02.15でSwitch 2の有線USB・2.4GHz・Bluetooth対応が明記される。",
+          "requirements": [
+            "MAYFLASH公式FW V1.02.15を適用する。",
+            "Nintendo Switch 2の「Pro Controller Wired Communication」を有効にする。"
+          ],
+          "minimum_firmware": "V1.02.15",
+          "verified_firmware": "V1.02.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-f700-elite-feature-1",
+              "feature_name": "Switch 2接続モード",
+              "status": "supported",
+              "notes": "有線USB、2.4GHz、Bluetoothで対応。",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700-elite-feature-2",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported",
+              "notes": "Switch 2設定で有効化が必要。",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700-flat-elite-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f700-flat-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F700 FLAT Eliteは公式V1.05.15でSwitch 2の有線USB・2.4GHz・Bluetooth対応が明記される。",
+      "requirements": [
+        "MAYFLASH公式FW V1.05.15を適用する。",
+        "Nintendo Switch 2の「Pro Controller Wired Communication」を有効にする。"
+      ],
+      "minimum_firmware": "V1.05.15",
+      "verified_firmware": "V1.05.15",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-f700-flat-elite-feature-1",
+          "feature_name": "Switch 2接続モード",
+          "status": "supported",
+          "notes": "有線USB、2.4GHz、Bluetoothで対応。",
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-switch2-20260901"
+          ]
+        },
+        {
+          "feature_id": "mayflash-f700-flat-elite-feature-2",
+          "feature_name": "Pro Controller Wired Communication",
+          "status": "supported",
+          "notes": "Switch 2設定で有効化が必要。",
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700-flat-elite-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F700 FLAT Eliteは公式V1.05.15でSwitch 2の有線USB・2.4GHz・Bluetooth対応が明記される。",
+          "requirements": [
+            "MAYFLASH公式FW V1.05.15を適用する。",
+            "Nintendo Switch 2の「Pro Controller Wired Communication」を有効にする。"
+          ],
+          "minimum_firmware": "V1.05.15",
+          "verified_firmware": "V1.05.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-f700-flat-elite-feature-1",
+              "feature_name": "Switch 2接続モード",
+              "status": "supported",
+              "notes": "有線USB、2.4GHz、Bluetoothで対応。",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700-flat-elite-feature-2",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported",
+              "notes": "Switch 2設定で有効化が必要。",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F700 FLAT Eliteは公式V1.05.15でSwitch 2の有線USB・2.4GHz・Bluetooth対応が明記される。",
+          "requirements": [
+            "MAYFLASH公式FW V1.05.15を適用する。",
+            "Nintendo Switch 2の「Pro Controller Wired Communication」を有効にする。"
+          ],
+          "minimum_firmware": "V1.05.15",
+          "verified_firmware": "V1.05.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-f700-flat-elite-feature-1",
+              "feature_name": "Switch 2接続モード",
+              "status": "supported",
+              "notes": "有線USB、2.4GHz、Bluetoothで対応。",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700-flat-elite-feature-2",
+              "feature_name": "Pro Controller Wired Communication",
+              "status": "supported",
+              "notes": "Switch 2設定で有効化が必要。",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-lua5-u3-cgte-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-lua5-u3-cgte",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "LUA5-U3-CGTEは公式カタログでNintendo Switch 2動作確認済み・ドライバー不要とされる。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-lua5-u3-cgte-feature-1",
+          "feature_name": "USB Ethernet接続",
+          "status": "supported",
+          "notes": "公式カタログの当該USB Type-A familyに限定して動作確認済み。",
+          "evidence_ids": [
+            "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+          ]
+        },
+        {
+          "feature_id": "buffalo-lua5-u3-cgte-feature-2",
+          "feature_name": "ドライバー",
+          "status": "supported",
+          "notes": "ドライバーインストール不要。",
+          "evidence_ids": [
+            "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+      ],
+      "created_by": "candidates1000_batch1_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T00:48:28+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "LUA5-U3-CGTEは公式カタログでNintendo Switch 2動作確認済み・ドライバー不要とされる。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lua5-u3-cgte-feature-1",
+              "feature_name": "USB Ethernet接続",
+              "status": "supported",
+              "notes": "公式カタログの当該USB Type-A familyに限定して動作確認済み。",
+              "evidence_ids": [
+                "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "buffalo-lua5-u3-cgte-feature-2",
+              "feature_name": "ドライバー",
+              "status": "supported",
+              "notes": "ドライバーインストール不要。",
+              "evidence_ids": [
+                "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+          ],
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "candidates1000_batch1_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T00:48:28+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "LUA5-U3-CGTEは公式カタログでNintendo Switch 2動作確認済み・ドライバー不要とされる。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lua5-u3-cgte-feature-1",
+              "feature_name": "USB Ethernet接続",
+              "status": "supported",
+              "notes": "公式カタログの当該USB Type-A familyに限定して動作確認済み。",
+              "evidence_ids": [
+                "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+              ]
+            },
+            {
+              "feature_id": "buffalo-lua5-u3-cgte-feature-2",
+              "feature_name": "ドライバー",
+              "status": "supported",
+              "notes": "ドライバーインストール不要。",
+              "evidence_ids": [
+                "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-buffalo-lua5-u3-cgte-switch2-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "candidates1000_batch1_preparation",
+          "change_reason": "第1追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T00:48:28+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -19763,6 +23971,654 @@
       "applies_to_host_os": "21.0.0",
       "excerpt_or_location": "統合ページはCV0086をNintendo Switch 2対応として掲載し、CV0086はHDMIメスポート、CV0087は3-in-1として仕様を記載。System Version 21.0.0のFW更新必須はCV0087に対して記載され、CV0086について解決済みとは記載していない。",
       "created_by": "final_audit_20260829"
+    },
+    {
+      "evidence_id": "ev-msi-g274qpf-e2-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "G274QPF E2: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-g274qrfw-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "G274QRFW: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-274qrfw-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 274QRFW: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-274qrfw-e20-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 274QRFW E20: 1080p、1440p/120Hz対応。当該rowにHDR OFF注記なし。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-274qrf-qd-e2-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 274QRF QD E2: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-275qf-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 275QF: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-27cq6pf-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 27CQ6PF: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mpg-275cqrxf-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MPG 275CQRXF: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-275cqrf-qd-e2-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 275CQRF QD E2: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-g32cq5p-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "G32CQ5P: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-msi-mag-325cqrf-qd-e2-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jp.msi.com/support/technical_details/MNT_SW2",
+      "source_title": "Nintendo Switch 2 動作確認済みモニターリスト",
+      "source_label": "MSI 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MAG 325CQRF QD E2: 1080p、1440p/120Hz対応。1440p/120HzはSwitch 2側でHDR出力をOFFにする条件。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc311-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v2.3.4.11",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC311は「firmware update required」一覧に掲載。Switch 2で映像のみで音声が出ない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc311-firmware-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/event/switch2-firmware-software/software/",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Firmware and Software",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v2.3.4.11",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC311 v2.3.4.11: Switch 2で映像のみで音声が出ない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc551g2-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v1.2.6.0",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC551G2は「firmware update required」一覧に掲載。Switch 2設定で1440pを選択できない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc551g2-firmware-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/event/switch2-firmware-software/software/",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Firmware and Software",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v1.2.6.0",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC551G2 v1.2.6.0: Switch 2設定で1440pを選択できない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc515-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v1.0.1.15",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC515は「firmware update required」一覧に掲載。Switch 2で映像・音声出力がない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc515-firmware-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/event/switch2-firmware-software/software/",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Firmware and Software",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v1.0.1.15",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC515 v1.0.1.15: Switch 2で映像・音声出力がない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc313pro-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v24.8.30.16.1.19.24",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC313Proは「firmware update required」一覧に掲載。Switch 2で映像・音声出力がない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc313pro-firmware-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/event/switch2-firmware-software/software/",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Firmware and Software",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v24.8.30.16.1.19.24",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC313Pro v24.8.30.16.1.19.24: Switch 2で映像・音声出力がない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc313-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v1.19.24",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC313は「firmware update required」一覧に掲載。Switch 2で映像・音声出力がない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc313-firmware-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/event/switch2-firmware-software/software/",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Firmware and Software",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "v1.19.24",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC313 v1.19.24: Switch 2で映像・音声出力がない問題を修正。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-pw313-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "zh-TW",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "PW313はfully compatible一覧に掲載。WebcamはSwitch 2 DockのUSB-Aポートへ接続する注記。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-avermedia-pw315-switch2-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/tw/NS2-compatibility-status",
+      "source_title": "AVerMedia Nintendo Switch 2 Compatibility Status",
+      "source_label": "AVerMedia 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "zh-TW",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "PW315はfully compatible一覧に掲載。WebcamはSwitch 2 DockのUSB-Aポートへ接続する注記。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-huben2-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "HuBen2はFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-huben2-wake-20260901",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/tutorial/tutorial-waking-up-nintendo-switch-2-with-mobapad-huben-2-controller",
+      "source_title": "Tutorial: Waking Up Nintendo Switch 2 with Mobapad Huben 2 Controller",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "0.50",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "HuBen2は公式FW 0.50と初回設定後、HOMEボタンによるスリープ解除手順を掲載。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-chitu-hd-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "ChiTu HDはFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-m6s-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "M6SはFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-n1-hd-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "N1-HDはFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-n1-s-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "N1-SはFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-s1-hd-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "S1-HDはFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mobapad-s1-s-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mobapad.com/blogs/update-mobapad-controller-support-switch2/update-mobapad-controller-switch-2",
+      "source_title": "Mobapad Firmware Update: Switch 2 Compatible Controllers",
+      "source_label": "Mobapad 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "latest official Mobapad firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "S1-SはFW更新後にSwitch 2対応とする公式リストに掲載。無線はBluetoothまたは2.4GHz。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-benq-ex321ux-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://esupportdownload.benq.com/esupport/WORK%20%26%20ENTERTAINMENT%20DISPLAY/Firmware/EX321UX/EX321UX_Firmware%20release%20note_V6_Others_250925184840.pdf",
+      "source_title": "BenQ EX321UX Firmware Release Note V6",
+      "source_label": "BenQ 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "V6",
+      "applies_to_host_os": "Windows 10/11; macOS 13 or later",
+      "excerpt_or_location": "V6: Support Nintendo Switch 2 1440p。FW更新には Windows 10/11; macOS 13 or later が記載。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-benq-ex271u-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://esupportdownload.benq.com/esupport/WORK%20%26%20ENTERTAINMENT%20DISPLAY/Firmware/EX271U/EX271U_Firmware%20release%20note_V3_Others_250925185125.pdf",
+      "source_title": "BenQ EX271U Firmware Release Note V3",
+      "source_label": "BenQ 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "V3",
+      "applies_to_host_os": "Windows 10/11; macOS 12 or later",
+      "excerpt_or_location": "V3: Support Nintendo Switch 2 1440p。FW更新には Windows 10/11; macOS 12 or later が記載。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mayflash-f700-elite-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/Support/list-36-3.html",
+      "source_title": "MAYFLASH Firmware (Windows)",
+      "source_label": "MAYFLASH 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "V1.02.15",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Wireless Arcade Stick F700 Elite V1.02.15: Switch 2でwired USB、wireless 2.4G、Bluetooth対応。Pro Controller Wired Communicationを有効にする。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-mayflash-f700-flat-elite-switch2-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/Support/list-36-3.html",
+      "source_title": "MAYFLASH Firmware (Windows)",
+      "source_label": "MAYFLASH 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "en",
+      "applies_to_firmware": "V1.05.15",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "All-Button Arcade Controller F700 FLAT Elite V1.05.15: Switch 2でwired USB、wireless 2.4G、Bluetooth対応。Pro Controller Wired Communicationを有効にする。",
+      "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-buffalo-lua5-u3-cgte-switch2-20260901",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/vol239-4.pdf",
+      "source_title": "BUFFALO current product catalogue",
+      "source_label": "BUFFALO 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "INTL",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "LUA5-U3-CGTE-BK / LUA5-U3-CGTE-WH: Nintendo Switch (Switch 2 / Switch / Switch Lite)動作確認済み、ドライバーインストール不要。",
+      "created_by": "candidates1000_batch1_preparation"
     }
   ]
 }

@@ -32,5 +32,5 @@ assert.strictEqual(search.searchPublishedProducts(dataset, "a").length, 0, "sing
 assert(search.searchPublishedProducts(dataset, "powera").every((entry) => entry.record.publication_status === "published"), "only published records may be returned");
 const unpublishedDataset = structuredClone(dataset);
 unpublishedDataset.compatibility_records.find((record) => record.accessory_product_id === "nintendo-switch2-camera").publication_status = "under_review";
-assert.deepStrictEqual(idsFrom(unpublishedDataset, "カメラ"), [], "under_review records must not be returned");
+assert(!idsFrom(unpublishedDataset, "カメラ").includes("nintendo-switch2-camera"), "under_review records must not be returned");
 console.log("SEARCH TESTS: PASS (15 assertions)");
