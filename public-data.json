@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-01T00:48:39+09:00",
+  "dataset_generated_at": "2026-09-01T01:12:17+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -2727,6 +2727,588 @@
       "upc": null,
       "connection_methods": [
         "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-switch2-pro-controller",
+      "manufacturer": "Nintendo",
+      "product_name": "Nintendo Switch 2 Pro Controller",
+      "model_number": null,
+      "aliases": [
+        "Nintendo Switch 2 Pro Controller",
+        "Nintendo Switch 2 Proコントローラー"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon2-grip",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con 2 Grip",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con 2 グリップ",
+        "Joy-Con2 Grip"
+      ],
+      "category": "controller_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-switch-touch-pen",
+      "manufacturer": "Nintendo",
+      "product_name": "Nintendo Switch Touch Pen",
+      "model_number": null,
+      "aliases": [
+        "Nintendo Switch Stylus",
+        "Nintendo Switch タッチペン"
+      ],
+      "category": "input_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "touchscreen"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-usb-charging-cable-hac010",
+      "manufacturer": "Nintendo",
+      "product_name": "USB Charging Cable",
+      "model_number": "HAC-010",
+      "aliases": [
+        "HAC-010",
+        "USB Charging Cable HAC-010"
+      ],
+      "category": "charging_cable",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon-strap-switch1",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con Strap",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con Strap"
+      ],
+      "category": "controller_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon-grip-switch1",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con Grip",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con Grip"
+      ],
+      "category": "controller_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon-charging-grip-switch1",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con Charging Grip",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con Charging Grip"
+      ],
+      "category": "charging_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon-aa-battery-pack",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con AA Battery Pack",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con AA Battery Pack"
+      ],
+      "category": "power_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon-wheel-switch1",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con Wheel",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con Wheel"
+      ],
+      "category": "controller_accessory",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-joycon-charging-stand-2way",
+      "manufacturer": "Nintendo",
+      "product_name": "Joy-Con Charging Stand (2way)",
+      "model_number": null,
+      "aliases": [
+        "Joy-Con Charging Stand (2way)"
+      ],
+      "category": "charging_stand",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "nintendo-ringcon-leg-strap-system",
+      "manufacturer": "Nintendo",
+      "product_name": "Ring-Con / Leg Strap system",
+      "model_number": null,
+      "aliases": [
+        "Ring-Con",
+        "Leg Strap",
+        "Ring Fit Adventure accessories"
+      ],
+      "category": "exercise_input_system",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "physical_attachment"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "8bitdo-pro3-bluetooth",
+      "manufacturer": "8BitDo",
+      "product_name": "Pro 3 Bluetooth Gamepad",
+      "model_number": "Pro 3",
+      "aliases": [
+        "8BitDo Pro 3",
+        "Pro 3 Bluetooth Gamepad"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "8bitdo-arcade-controller",
+      "manufacturer": "8BitDo",
+      "product_name": "Arcade Controller",
+      "model_number": "Arcade Controller",
+      "aliases": [
+        "8BitDo Arcade Controller"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "gamesir-x5s",
+      "manufacturer": "GameSir",
+      "product_name": "X5S Wireless Mobile Game Controller",
+      "model_number": "X5S",
+      "aliases": [
+        "GameSir X5S",
+        "X5S"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-wingman-ns-lite",
+      "manufacturer": "Brook",
+      "product_name": "Wingman NS Lite",
+      "model_number": "Wingman NS Lite",
+      "aliases": [
+        "Brook Wingman NS Lite",
+        "Wingman NS Lite"
+      ],
+      "category": "controller_converter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f700x",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Wireless Arcade Stick F700X",
+      "model_number": "F700X",
+      "aliases": [
+        "MAYFLASH F700X",
+        "F700X"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "Bluetooth",
+        "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "powera-wired-stereo-headset-switch2",
+      "manufacturer": "PowerA",
+      "product_name": "Wired Stereo Headset for Nintendo Switch 2",
+      "model_number": "NSHS0581JP-01",
+      "aliases": [
+        "NSHS0581JP-01",
+        "PowerA Wired Stereo Headset"
+      ],
+      "category": "headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "powera-enhanced-wireless-controller-switch1",
+      "manufacturer": "PowerA",
+      "product_name": "Enhanced Wireless Controller for Nintendo Switch",
+      "model_number": "1518390JP-02 family",
+      "aliases": [
+        "PowerA Enhanced Wireless Controller",
+        "1518390JP-02"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "8bitdo-pro2-bluetooth",
+      "manufacturer": "8BitDo",
+      "product_name": "Pro 2 Bluetooth Gamepad",
+      "model_number": "Pro 2",
+      "aliases": [
+        "8BitDo Pro 2",
+        "Pro 2 Bluetooth Gamepad"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "8bitdo-lite2",
+      "manufacturer": "8BitDo",
+      "product_name": "Lite 2 Bluetooth Gamepad",
+      "model_number": "Lite 2",
+      "aliases": [
+        "8BitDo Lite 2",
+        "Lite2"
+      ],
+      "category": "controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-gen5x-fighting-board",
+      "manufacturer": "Brook",
+      "product_name": "Gen-5X Fighting Board",
+      "model_number": "Gen-5X",
+      "aliases": [
+        "Gen-5X Fighting Board",
+        "Gen-5X"
+      ],
+      "category": "diy_controller_board",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-gen5x-mini-fighting-board",
+      "manufacturer": "Brook",
+      "product_name": "Gen-5X mini Fighting Board",
+      "model_number": "Gen-5X mini",
+      "aliases": [
+        "Gen-5X mini Fighting Board",
+        "Gen-5X mini"
+      ],
+      "category": "diy_controller_board",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "kioxia-exceria-g2-microsd",
+      "manufacturer": "KIOXIA",
+      "product_name": "EXCERIA G2 microSDHC/microSDXC UHS-I",
+      "model_number": "EXCERIA G2",
+      "aliases": [
+        "KIOXIA EXCERIA G2",
+        "EXCERIA G2"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "KMU-B series",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "kingston-canvas-go-plus-microsd",
+      "manufacturer": "Kingston",
+      "product_name": "Canvas Go! Plus microSD",
+      "model_number": "Canvas Go! Plus",
+      "aliases": [
+        "Kingston Canvas Go! Plus",
+        "Canvas Go Plus microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "genki-shadowcast-3-pro",
+      "manufacturer": "Genki",
+      "product_name": "ShadowCast 3 Pro",
+      "model_number": "ShadowCast 3 Pro",
+      "aliases": [
+        "Genki ShadowCast 3 Pro",
+        "ShadowCast 3 Pro"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "lexar-play-pro-microsd-express",
+      "manufacturer": "Lexar",
+      "product_name": "PLAY PRO microSDXC Express Card",
+      "model_number": "PLAY PRO microSDXC Express",
+      "aliases": [
+        "Lexar PLAY PRO",
+        "PLAY PRO microSDXC Express",
+        "LMSXPS0256G-BNNNU",
+        "LMSXPS0512G-BNNNU",
+        "LMSXPS0001T-BNNNU"
+      ],
+      "category": "microSD_express_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "LMSXPS0256G-BNNNU / LMSXPS0512G-BNNNU / LMSXPS0001T-BNNNU",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD Express"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -22133,6 +22715,4128 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-switch2-pro-controller-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-switch2-pro-controller",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "任天堂公式がNintendo Switch 2専用ワイヤレスコントローラーとして案内する。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-switch2-pro-controller-feature-1",
+          "feature_name": "Switch 2コントローラー接続",
+          "status": "supported",
+          "notes": "Nintendo Switch 2専用コントローラーとして公式掲載。",
+          "evidence_ids": [
+            "ev-nintendo-switch2-pro-controller-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-switch2-pro-controller-feature-2",
+          "feature_name": "Cボタン",
+          "status": "supported",
+          "notes": "公式仕様にCボタンを記載。",
+          "evidence_ids": [
+            "ev-nintendo-switch2-pro-controller-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-switch2-pro-controller-feature-3",
+          "feature_name": "HD振動2",
+          "status": "supported",
+          "notes": "公式仕様にHD振動2対応を記載。",
+          "evidence_ids": [
+            "ev-nintendo-switch2-pro-controller-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-switch2-pro-controller-feature-4",
+          "feature_name": "個別ソフト対応",
+          "status": "unknown",
+          "notes": "ソフトごとの対応可否は各ソフト公式情報を要する。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-switch2-pro-controller-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "任天堂公式がNintendo Switch 2専用ワイヤレスコントローラーとして案内する。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-1",
+              "feature_name": "Switch 2コントローラー接続",
+              "status": "supported",
+              "notes": "Nintendo Switch 2専用コントローラーとして公式掲載。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-pro-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-2",
+              "feature_name": "Cボタン",
+              "status": "supported",
+              "notes": "公式仕様にCボタンを記載。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-pro-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-3",
+              "feature_name": "HD振動2",
+              "status": "supported",
+              "notes": "公式仕様にHD振動2対応を記載。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-pro-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-4",
+              "feature_name": "個別ソフト対応",
+              "status": "unknown",
+              "notes": "ソフトごとの対応可否は各ソフト公式情報を要する。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-pro-controller-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "任天堂公式がNintendo Switch 2専用ワイヤレスコントローラーとして案内する。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-1",
+              "feature_name": "Switch 2コントローラー接続",
+              "status": "supported",
+              "notes": "Nintendo Switch 2専用コントローラーとして公式掲載。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-pro-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-2",
+              "feature_name": "Cボタン",
+              "status": "supported",
+              "notes": "公式仕様にCボタンを記載。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-pro-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-3",
+              "feature_name": "HD振動2",
+              "status": "supported",
+              "notes": "公式仕様にHD振動2対応を記載。",
+              "evidence_ids": [
+                "ev-nintendo-switch2-pro-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch2-pro-controller-feature-4",
+              "feature_name": "個別ソフト対応",
+              "status": "unknown",
+              "notes": "ソフトごとの対応可否は各ソフト公式情報を要する。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch2-pro-controller-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon2-grip-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon2-grip",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Joy-Con 2を装着するグリップとしてNintendo Switch 2本体セットに含まれる専用周辺機器。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon2-grip-feature-1",
+          "feature_name": "Joy-Con 2装着",
+          "status": "supported",
+          "notes": "Nintendo Switch 2専用周辺機器として掲載。",
+          "evidence_ids": [
+            "ev-nintendo-joycon2-grip-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon2-grip-feature-2",
+          "feature_name": "充電",
+          "status": "unknown",
+          "notes": "本ページでは充電機能を確認していない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon2-grip-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Joy-Con 2を装着するグリップとしてNintendo Switch 2本体セットに含まれる専用周辺機器。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon2-grip-feature-1",
+              "feature_name": "Joy-Con 2装着",
+              "status": "supported",
+              "notes": "Nintendo Switch 2専用周辺機器として掲載。",
+              "evidence_ids": [
+                "ev-nintendo-joycon2-grip-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon2-grip-feature-2",
+              "feature_name": "充電",
+              "status": "unknown",
+              "notes": "本ページでは充電機能を確認していない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon2-grip-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Joy-Con 2を装着するグリップとしてNintendo Switch 2本体セットに含まれる専用周辺機器。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon2-grip-feature-1",
+              "feature_name": "Joy-Con 2装着",
+              "status": "supported",
+              "notes": "Nintendo Switch 2専用周辺機器として掲載。",
+              "evidence_ids": [
+                "ev-nintendo-joycon2-grip-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon2-grip-feature-2",
+              "feature_name": "充電",
+              "status": "unknown",
+              "notes": "本ページでは充電機能を確認していない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon2-grip-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-switch-touch-pen-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-switch-touch-pen",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "任天堂公式のSwitch 2アクセサリー互換表で使用可能とされるタッチペンfamily。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-switch-touch-pen-feature-1",
+          "feature_name": "タッチ入力",
+          "status": "supported",
+          "notes": "公式互換表に使用可能と掲載。",
+          "evidence_ids": [
+            "ev-nintendo-switch-touch-pen-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-switch-touch-pen-feature-2",
+          "feature_name": "対応ソフト",
+          "status": "unknown",
+          "notes": "ソフト別のタッチペン対応はこの根拠では確定しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-switch-touch-pen-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "任天堂公式のSwitch 2アクセサリー互換表で使用可能とされるタッチペンfamily。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch-touch-pen-feature-1",
+              "feature_name": "タッチ入力",
+              "status": "supported",
+              "notes": "公式互換表に使用可能と掲載。",
+              "evidence_ids": [
+                "ev-nintendo-switch-touch-pen-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch-touch-pen-feature-2",
+              "feature_name": "対応ソフト",
+              "status": "unknown",
+              "notes": "ソフト別のタッチペン対応はこの根拠では確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch-touch-pen-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "任天堂公式のSwitch 2アクセサリー互換表で使用可能とされるタッチペンfamily。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-switch-touch-pen-feature-1",
+              "feature_name": "タッチ入力",
+              "status": "supported",
+              "notes": "公式互換表に使用可能と掲載。",
+              "evidence_ids": [
+                "ev-nintendo-switch-touch-pen-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-switch-touch-pen-feature-2",
+              "feature_name": "対応ソフト",
+              "status": "unknown",
+              "notes": "ソフト別のタッチペン対応はこの根拠では確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-switch-touch-pen-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-usb-charging-cable-hac010-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-usb-charging-cable-hac010",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "HAC-010はSwitch 2 Dockを介したコントローラー登録・充電の公式案内に使用される。",
+      "requirements": [
+        "Nintendo Switch 2 Dockを用いる公式案内のコントローラー登録・充電用途に限定する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-usb-charging-cable-hac010-feature-1",
+          "feature_name": "コントローラー登録・充電",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2 Dockを経由する公式案内の用途。",
+          "evidence_ids": [
+            "ev-nintendo-usb-charging-cable-hac010-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-usb-charging-cable-hac010-feature-2",
+          "feature_name": "映像出力",
+          "status": "unknown",
+          "notes": "公式根拠は映像出力を記載しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-usb-charging-cable-hac010-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "HAC-010はSwitch 2 Dockを介したコントローラー登録・充電の公式案内に使用される。",
+          "requirements": [
+            "Nintendo Switch 2 Dockを用いる公式案内のコントローラー登録・充電用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-usb-charging-cable-hac010-feature-1",
+              "feature_name": "コントローラー登録・充電",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 Dockを経由する公式案内の用途。",
+              "evidence_ids": [
+                "ev-nintendo-usb-charging-cable-hac010-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-usb-charging-cable-hac010-feature-2",
+              "feature_name": "映像出力",
+              "status": "unknown",
+              "notes": "公式根拠は映像出力を記載しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-usb-charging-cable-hac010-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "HAC-010はSwitch 2 Dockを介したコントローラー登録・充電の公式案内に使用される。",
+          "requirements": [
+            "Nintendo Switch 2 Dockを用いる公式案内のコントローラー登録・充電用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-usb-charging-cable-hac010-feature-1",
+              "feature_name": "コントローラー登録・充電",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 Dockを経由する公式案内の用途。",
+              "evidence_ids": [
+                "ev-nintendo-usb-charging-cable-hac010-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-usb-charging-cable-hac010-feature-2",
+              "feature_name": "映像出力",
+              "status": "unknown",
+              "notes": "公式根拠は映像出力を記載しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-usb-charging-cable-hac010-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon-strap-switch1-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon-strap-switch1",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Joy-Con Strapは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+      "requirements": [
+        "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon-strap-switch1-feature-1",
+          "feature_name": "初代Joy-Con利用",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-strap-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon-strap-switch1-feature-2",
+          "feature_name": "Joy-Con 2装着",
+          "status": "unsupported",
+          "notes": "Joy-Con 2には使用できない。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-strap-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon-strap-switch1-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Joy-Con Strapは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-strap-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-strap-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-strap-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-strap-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-strap-switch1-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Joy-Con Strapは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-strap-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-strap-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-strap-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-strap-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-strap-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon-grip-switch1-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon-grip-switch1",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Joy-Con Gripは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+      "requirements": [
+        "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon-grip-switch1-feature-1",
+          "feature_name": "初代Joy-Con利用",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-grip-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon-grip-switch1-feature-2",
+          "feature_name": "Joy-Con 2装着",
+          "status": "unsupported",
+          "notes": "Joy-Con 2には使用できない。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-grip-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon-grip-switch1-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Joy-Con Gripは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-grip-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-grip-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-grip-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-grip-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-grip-switch1-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Joy-Con Gripは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-grip-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-grip-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-grip-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-grip-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-grip-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon-charging-grip-switch1-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon-charging-grip-switch1",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Joy-Con Charging Gripは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+      "requirements": [
+        "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon-charging-grip-switch1-feature-1",
+          "feature_name": "初代Joy-Con利用",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon-charging-grip-switch1-feature-2",
+          "feature_name": "Joy-Con 2装着・充電",
+          "status": "unsupported",
+          "notes": "Joy-Con 2には使用できない。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Joy-Con Charging Gripは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-charging-grip-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-charging-grip-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着・充電",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Joy-Con Charging Gripは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-charging-grip-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-charging-grip-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着・充電",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-grip-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon-aa-battery-pack-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon-aa-battery-pack",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Joy-Con AA Battery Packは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+      "requirements": [
+        "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon-aa-battery-pack-feature-1",
+          "feature_name": "初代Joy-Con利用",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon-aa-battery-pack-feature-2",
+          "feature_name": "Joy-Con 2装着",
+          "status": "unsupported",
+          "notes": "Joy-Con 2には使用できない。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Joy-Con AA Battery Packは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-aa-battery-pack-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-aa-battery-pack-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Joy-Con AA Battery Packは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-aa-battery-pack-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-aa-battery-pack-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-aa-battery-pack-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon-wheel-switch1-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon-wheel-switch1",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Joy-Con Wheelは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+      "requirements": [
+        "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon-wheel-switch1-feature-1",
+          "feature_name": "初代Joy-Con利用",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon-wheel-switch1-feature-2",
+          "feature_name": "Joy-Con 2装着",
+          "status": "unsupported",
+          "notes": "Joy-Con 2には使用できない。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Joy-Con Wheelは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-wheel-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-wheel-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Joy-Con Wheelは、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-wheel-switch1-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-wheel-switch1-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-wheel-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-joycon-charging-stand-2way-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-joycon-charging-stand-2way",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Joy-Con Charging Stand (2way)は、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+      "requirements": [
+        "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-joycon-charging-stand-2way-feature-1",
+          "feature_name": "初代Joy-Con利用",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-joycon-charging-stand-2way-feature-2",
+          "feature_name": "Joy-Con 2装着・充電",
+          "status": "unsupported",
+          "notes": "Joy-Con 2には使用できない。",
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Joy-Con Charging Stand (2way)は、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-charging-stand-2way-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-charging-stand-2way-feature-2",
+              "feature_name": "Joy-Con 2装着・充電",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Joy-Con Charging Stand (2way)は、Switch 2本体で初代Joy-Conを使う場合のみ利用できる旧Joy-Con用アクセサリー。",
+          "requirements": [
+            "初代Joy-ConをSwitch 2環境で使用する場合に限る。Joy-Con 2には使用できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-joycon-charging-stand-2way-feature-1",
+              "feature_name": "初代Joy-Con利用",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2環境で初代Joy-Conを使用する場合のアクセサリー互換。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-joycon-charging-stand-2way-feature-2",
+              "feature_name": "Joy-Con 2装着・充電",
+              "status": "unsupported",
+              "notes": "Joy-Con 2には使用できない。",
+              "evidence_ids": [
+                "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-joycon-charging-stand-2way-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-nintendo-ringcon-leg-strap-system-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "nintendo-ringcon-leg-strap-system",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Ring-ConとLeg Strapは、初代Joy-Conを取り付けて使う同一運動入力systemとして公式に同じ制約で案内される。",
+      "requirements": [
+        "初代Joy-Conを使用する。Joy-Con 2はRing-ConおよびLeg Strapへ装着できない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "nintendo-ringcon-leg-strap-system-feature-1",
+          "feature_name": "初代Joy-Con装着",
+          "status": "supported_with_requirements",
+          "notes": "Ring-Con／Leg Strapの両方で初代Joy-Conを使う。",
+          "evidence_ids": [
+            "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "nintendo-ringcon-leg-strap-system-feature-2",
+          "feature_name": "Joy-Con 2装着",
+          "status": "unsupported",
+          "notes": "Joy-Con 2はRing-ConおよびLeg Strapへ装着できない。",
+          "evidence_ids": [
+            "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Ring-ConとLeg Strapは、初代Joy-Conを取り付けて使う同一運動入力systemとして公式に同じ制約で案内される。",
+          "requirements": [
+            "初代Joy-Conを使用する。Joy-Con 2はRing-ConおよびLeg Strapへ装着できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-ringcon-leg-strap-system-feature-1",
+              "feature_name": "初代Joy-Con装着",
+              "status": "supported_with_requirements",
+              "notes": "Ring-Con／Leg Strapの両方で初代Joy-Conを使う。",
+              "evidence_ids": [
+                "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-ringcon-leg-strap-system-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2はRing-ConおよびLeg Strapへ装着できない。",
+              "evidence_ids": [
+                "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Ring-ConとLeg Strapは、初代Joy-Conを取り付けて使う同一運動入力systemとして公式に同じ制約で案内される。",
+          "requirements": [
+            "初代Joy-Conを使用する。Joy-Con 2はRing-ConおよびLeg Strapへ装着できない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "nintendo-ringcon-leg-strap-system-feature-1",
+              "feature_name": "初代Joy-Con装着",
+              "status": "supported_with_requirements",
+              "notes": "Ring-Con／Leg Strapの両方で初代Joy-Conを使う。",
+              "evidence_ids": [
+                "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "nintendo-ringcon-leg-strap-system-feature-2",
+              "feature_name": "Joy-Con 2装着",
+              "status": "unsupported",
+              "notes": "Joy-Con 2はRing-ConおよびLeg Strapへ装着できない。",
+              "evidence_ids": [
+                "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-nintendo-ringcon-leg-strap-system-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-pro3-bluetooth-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "8bitdo-pro3-bluetooth",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Pro 3は公式FW 1.02でSwitch 2対応。Shake-to-Wakeは2.00、wake安定性改善は2.02で別管理する。",
+      "requirements": [
+        "コントローラーFW 1.02以降を適用する。"
+      ],
+      "minimum_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+      "verified_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "8bitdo-pro3-bluetooth-feature-1",
+          "feature_name": "Switch 2接続",
+          "status": "supported_with_requirements",
+          "notes": "FW 1.02でSwitch 2対応が追加。",
+          "evidence_ids": [
+            "ev-8bitdo-pro3-bluetooth-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-pro3-bluetooth-feature-2",
+          "feature_name": "Shake-to-Wake",
+          "status": "supported_with_requirements",
+          "notes": "FW 2.00で追加。",
+          "evidence_ids": [
+            "ev-8bitdo-pro3-bluetooth-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-pro3-bluetooth-feature-3",
+          "feature_name": "Wake安定性",
+          "status": "supported_with_requirements",
+          "notes": "FW 2.02で安定性改善。",
+          "evidence_ids": [
+            "ev-8bitdo-pro3-bluetooth-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-pro3-bluetooth-feature-4",
+          "feature_name": "NFC/amiibo",
+          "status": "unknown",
+          "notes": "公式FW履歴はNFC対応可否を確定しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-pro3-bluetooth-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Pro 3は公式FW 1.02でSwitch 2対応。Shake-to-Wakeは2.00、wake安定性改善は2.02で別管理する。",
+          "requirements": [
+            "コントローラーFW 1.02以降を適用する。"
+          ],
+          "minimum_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+          "verified_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "FW 1.02でSwitch 2対応が追加。",
+              "evidence_ids": [
+                "ev-8bitdo-pro3-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-2",
+              "feature_name": "Shake-to-Wake",
+              "status": "supported_with_requirements",
+              "notes": "FW 2.00で追加。",
+              "evidence_ids": [
+                "ev-8bitdo-pro3-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-3",
+              "feature_name": "Wake安定性",
+              "status": "supported_with_requirements",
+              "notes": "FW 2.02で安定性改善。",
+              "evidence_ids": [
+                "ev-8bitdo-pro3-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-4",
+              "feature_name": "NFC/amiibo",
+              "status": "unknown",
+              "notes": "公式FW履歴はNFC対応可否を確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro3-bluetooth-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Pro 3は公式FW 1.02でSwitch 2対応。Shake-to-Wakeは2.00、wake安定性改善は2.02で別管理する。",
+          "requirements": [
+            "コントローラーFW 1.02以降を適用する。"
+          ],
+          "minimum_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+          "verified_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "FW 1.02でSwitch 2対応が追加。",
+              "evidence_ids": [
+                "ev-8bitdo-pro3-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-2",
+              "feature_name": "Shake-to-Wake",
+              "status": "supported_with_requirements",
+              "notes": "FW 2.00で追加。",
+              "evidence_ids": [
+                "ev-8bitdo-pro3-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-3",
+              "feature_name": "Wake安定性",
+              "status": "supported_with_requirements",
+              "notes": "FW 2.02で安定性改善。",
+              "evidence_ids": [
+                "ev-8bitdo-pro3-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro3-bluetooth-feature-4",
+              "feature_name": "NFC/amiibo",
+              "status": "unknown",
+              "notes": "公式FW履歴はNFC対応可否を確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro3-bluetooth-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-arcade-controller-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "8bitdo-arcade-controller",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo Arcade ControllerはSwitch 2 system version 20.1.1以降に対応する。",
+      "requirements": [
+        "Nintendo Switch 2 system version 20.1.1以降を使用する。"
+      ],
+      "minimum_firmware": "1.04 (Switch 2 support)",
+      "verified_firmware": "1.04 (Switch 2 support)",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "8bitdo-arcade-controller-feature-1",
+          "feature_name": "Switch 2接続",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2 20.1.1以降。",
+          "evidence_ids": [
+            "ev-8bitdo-arcade-controller-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-arcade-controller-feature-2",
+          "feature_name": "Bluetooth接続",
+          "status": "supported",
+          "notes": "Switch向けBluetooth接続を公式仕様に記載。",
+          "evidence_ids": [
+            "ev-8bitdo-arcade-controller-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-arcade-controller-feature-3",
+          "feature_name": "有線接続",
+          "status": "supported",
+          "notes": "Switch向けwired接続を公式仕様に記載。",
+          "evidence_ids": [
+            "ev-8bitdo-arcade-controller-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-arcade-controller-feature-4",
+          "feature_name": "2.4GHz接続",
+          "status": "unsupported",
+          "notes": "公式仕様は2.4GHzをWindows向けとしており、Switch 2向けには記載しない。",
+          "evidence_ids": [
+            "ev-8bitdo-arcade-controller-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-arcade-controller-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo Arcade ControllerはSwitch 2 system version 20.1.1以降に対応する。",
+          "requirements": [
+            "Nintendo Switch 2 system version 20.1.1以降を使用する。"
+          ],
+          "minimum_firmware": "1.04 (Switch 2 support)",
+          "verified_firmware": "1.04 (Switch 2 support)",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 20.1.1以降。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-2",
+              "feature_name": "Bluetooth接続",
+              "status": "supported",
+              "notes": "Switch向けBluetooth接続を公式仕様に記載。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-3",
+              "feature_name": "有線接続",
+              "status": "supported",
+              "notes": "Switch向けwired接続を公式仕様に記載。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-4",
+              "feature_name": "2.4GHz接続",
+              "status": "unsupported",
+              "notes": "公式仕様は2.4GHzをWindows向けとしており、Switch 2向けには記載しない。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-arcade-controller-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo Arcade ControllerはSwitch 2 system version 20.1.1以降に対応する。",
+          "requirements": [
+            "Nintendo Switch 2 system version 20.1.1以降を使用する。"
+          ],
+          "minimum_firmware": "1.04 (Switch 2 support)",
+          "verified_firmware": "1.04 (Switch 2 support)",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 20.1.1以降。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-2",
+              "feature_name": "Bluetooth接続",
+              "status": "supported",
+              "notes": "Switch向けBluetooth接続を公式仕様に記載。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-3",
+              "feature_name": "有線接続",
+              "status": "supported",
+              "notes": "Switch向けwired接続を公式仕様に記載。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-arcade-controller-feature-4",
+              "feature_name": "2.4GHz接続",
+              "status": "unsupported",
+              "notes": "公式仕様は2.4GHzをWindows向けとしており、Switch 2向けには記載しない。",
+              "evidence_ids": [
+                "ev-8bitdo-arcade-controller-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-arcade-controller-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-gamesir-x5s-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "gamesir-x5s",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "GameSir X5SはSwitch 2 Bluetooth接続を公式マニュアルで明示。有線接続時だけ設定条件がある。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "gamesir-x5s-feature-1",
+          "feature_name": "Switch 2 Bluetooth接続",
+          "status": "supported",
+          "notes": "Switch/Switch 2 Bluetoothを公式マニュアルに記載。",
+          "evidence_ids": [
+            "ev-gamesir-x5s-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "gamesir-x5s-feature-2",
+          "feature_name": "USB-C有線接続",
+          "status": "supported_with_requirements",
+          "notes": "有線時はPro Controller Wired Communicationを有効化する。",
+          "evidence_ids": [
+            "ev-gamesir-x5s-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "gamesir-x5s-feature-3",
+          "feature_name": "2.4GHz接続",
+          "status": "unknown",
+          "notes": "2.4GHzドングルは別売で、Switch 2向け接続可否は明記されない。",
+          "evidence_ids": []
+        },
+        {
+          "feature_id": "gamesir-x5s-feature-4",
+          "feature_name": "Wake/NFC/Cボタン",
+          "status": "unknown",
+          "notes": "公式マニュアルでSwitch 2機能として確認できない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-gamesir-x5s-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "GameSir X5SはSwitch 2 Bluetooth接続を公式マニュアルで明示。有線接続時だけ設定条件がある。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "gamesir-x5s-feature-1",
+              "feature_name": "Switch 2 Bluetooth接続",
+              "status": "supported",
+              "notes": "Switch/Switch 2 Bluetoothを公式マニュアルに記載。",
+              "evidence_ids": [
+                "ev-gamesir-x5s-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "gamesir-x5s-feature-2",
+              "feature_name": "USB-C有線接続",
+              "status": "supported_with_requirements",
+              "notes": "有線時はPro Controller Wired Communicationを有効化する。",
+              "evidence_ids": [
+                "ev-gamesir-x5s-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "gamesir-x5s-feature-3",
+              "feature_name": "2.4GHz接続",
+              "status": "unknown",
+              "notes": "2.4GHzドングルは別売で、Switch 2向け接続可否は明記されない。",
+              "evidence_ids": []
+            },
+            {
+              "feature_id": "gamesir-x5s-feature-4",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式マニュアルでSwitch 2機能として確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-gamesir-x5s-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "GameSir X5SはSwitch 2 Bluetooth接続を公式マニュアルで明示。有線接続時だけ設定条件がある。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "gamesir-x5s-feature-1",
+              "feature_name": "Switch 2 Bluetooth接続",
+              "status": "supported",
+              "notes": "Switch/Switch 2 Bluetoothを公式マニュアルに記載。",
+              "evidence_ids": [
+                "ev-gamesir-x5s-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "gamesir-x5s-feature-2",
+              "feature_name": "USB-C有線接続",
+              "status": "supported_with_requirements",
+              "notes": "有線時はPro Controller Wired Communicationを有効化する。",
+              "evidence_ids": [
+                "ev-gamesir-x5s-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "gamesir-x5s-feature-3",
+              "feature_name": "2.4GHz接続",
+              "status": "unknown",
+              "notes": "2.4GHzドングルは別売で、Switch 2向け接続可否は明記されない。",
+              "evidence_ids": []
+            },
+            {
+              "feature_id": "gamesir-x5s-feature-4",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式マニュアルでSwitch 2機能として確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-gamesir-x5s-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-brook-wingman-ns-lite-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "brook-wingman-ns-lite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wingman NS LiteはFW 1.0.3.6 betaでSwitch 2 Auto Detect Console Modeを追加。Dock USB接続と設定有効化が必要。",
+      "requirements": [
+        "FW 1.0.3.6 beta以降を適用する。",
+        "Nintendo Switch 2 DockのUSBポートへ接続する。",
+        "Pro Controller Wired Communicationを有効にする。"
+      ],
+      "minimum_firmware": "1.0.3.6 beta",
+      "verified_firmware": "1.0.3.6 beta",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "brook-wingman-ns-lite-feature-1",
+          "feature_name": "Switch 2コンバーター接続",
+          "status": "supported_with_requirements",
+          "notes": "FW、Dock USB接続、設定有効化を前提とする。",
+          "evidence_ids": [
+            "ev-brook-wingman-ns-lite-primary-20260901",
+            "ev-brook-wingman-ns-lite-product-20260901"
+          ]
+        },
+        {
+          "feature_id": "brook-wingman-ns-lite-feature-2",
+          "feature_name": "接続先コントローラー",
+          "status": "limited",
+          "notes": "公式互換リスト掲載製品に限る。未掲載品は対応と扱わない。",
+          "evidence_ids": [
+            "ev-brook-wingman-ns-lite-product-20260901"
+          ]
+        },
+        {
+          "feature_id": "brook-wingman-ns-lite-feature-3",
+          "feature_name": "Wake/NFC/Cボタン",
+          "status": "unknown",
+          "notes": "変換後の個別機能はこの根拠から確定しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-wingman-ns-lite-primary-20260901",
+        "ev-brook-wingman-ns-lite-product-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Wingman NS LiteはFW 1.0.3.6 betaでSwitch 2 Auto Detect Console Modeを追加。Dock USB接続と設定有効化が必要。",
+          "requirements": [
+            "FW 1.0.3.6 beta以降を適用する。",
+            "Nintendo Switch 2 DockのUSBポートへ接続する。",
+            "Pro Controller Wired Communicationを有効にする。"
+          ],
+          "minimum_firmware": "1.0.3.6 beta",
+          "verified_firmware": "1.0.3.6 beta",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-wingman-ns-lite-feature-1",
+              "feature_name": "Switch 2コンバーター接続",
+              "status": "supported_with_requirements",
+              "notes": "FW、Dock USB接続、設定有効化を前提とする。",
+              "evidence_ids": [
+                "ev-brook-wingman-ns-lite-primary-20260901",
+                "ev-brook-wingman-ns-lite-product-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-wingman-ns-lite-feature-2",
+              "feature_name": "接続先コントローラー",
+              "status": "limited",
+              "notes": "公式互換リスト掲載製品に限る。未掲載品は対応と扱わない。",
+              "evidence_ids": [
+                "ev-brook-wingman-ns-lite-product-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-wingman-ns-lite-feature-3",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "変換後の個別機能はこの根拠から確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-wingman-ns-lite-primary-20260901",
+            "ev-brook-wingman-ns-lite-product-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Wingman NS LiteはFW 1.0.3.6 betaでSwitch 2 Auto Detect Console Modeを追加。Dock USB接続と設定有効化が必要。",
+          "requirements": [
+            "FW 1.0.3.6 beta以降を適用する。",
+            "Nintendo Switch 2 DockのUSBポートへ接続する。",
+            "Pro Controller Wired Communicationを有効にする。"
+          ],
+          "minimum_firmware": "1.0.3.6 beta",
+          "verified_firmware": "1.0.3.6 beta",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-wingman-ns-lite-feature-1",
+              "feature_name": "Switch 2コンバーター接続",
+              "status": "supported_with_requirements",
+              "notes": "FW、Dock USB接続、設定有効化を前提とする。",
+              "evidence_ids": [
+                "ev-brook-wingman-ns-lite-primary-20260901",
+                "ev-brook-wingman-ns-lite-product-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-wingman-ns-lite-feature-2",
+              "feature_name": "接続先コントローラー",
+              "status": "limited",
+              "notes": "公式互換リスト掲載製品に限る。未掲載品は対応と扱わない。",
+              "evidence_ids": [
+                "ev-brook-wingman-ns-lite-product-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-wingman-ns-lite-feature-3",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "変換後の個別機能はこの根拠から確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-wingman-ns-lite-primary-20260901",
+            "ev-brook-wingman-ns-lite-product-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700x-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f700x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "F700XはV1.04.15でSwitch 2の有線USB・2.4GHz・Bluetoothに対応。Stickとreceiverの個別FW更新が必要。",
+      "requirements": [
+        "F700X Arcade Stickと2.4GHz receiverをそれぞれV1.04.15へ更新する。",
+        "Pro Controller Wired Communicationを有効にする。"
+      ],
+      "minimum_firmware": "V1.04.15",
+      "verified_firmware": "V1.04.15",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "mayflash-f700x-feature-1",
+          "feature_name": "有線USB",
+          "status": "supported_with_requirements",
+          "notes": "V1.04.15および設定有効化後。",
+          "evidence_ids": [
+            "ev-mayflash-f700x-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "mayflash-f700x-feature-2",
+          "feature_name": "2.4GHz",
+          "status": "supported_with_requirements",
+          "notes": "receiverも個別FW更新が必要。",
+          "evidence_ids": [
+            "ev-mayflash-f700x-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "mayflash-f700x-feature-3",
+          "feature_name": "Bluetooth",
+          "status": "supported_with_requirements",
+          "notes": "V1.04.15および設定有効化後。",
+          "evidence_ids": [
+            "ev-mayflash-f700x-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "mayflash-f700x-feature-4",
+          "feature_name": "Wake/NFC/Cボタン",
+          "status": "unknown",
+          "notes": "公式FW情報では確認できない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700x-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "F700XはV1.04.15でSwitch 2の有線USB・2.4GHz・Bluetoothに対応。Stickとreceiverの個別FW更新が必要。",
+          "requirements": [
+            "F700X Arcade Stickと2.4GHz receiverをそれぞれV1.04.15へ更新する。",
+            "Pro Controller Wired Communicationを有効にする。"
+          ],
+          "minimum_firmware": "V1.04.15",
+          "verified_firmware": "V1.04.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-f700x-feature-1",
+              "feature_name": "有線USB",
+              "status": "supported_with_requirements",
+              "notes": "V1.04.15および設定有効化後。",
+              "evidence_ids": [
+                "ev-mayflash-f700x-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700x-feature-2",
+              "feature_name": "2.4GHz",
+              "status": "supported_with_requirements",
+              "notes": "receiverも個別FW更新が必要。",
+              "evidence_ids": [
+                "ev-mayflash-f700x-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700x-feature-3",
+              "feature_name": "Bluetooth",
+              "status": "supported_with_requirements",
+              "notes": "V1.04.15および設定有効化後。",
+              "evidence_ids": [
+                "ev-mayflash-f700x-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700x-feature-4",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式FW情報では確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700x-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "F700XはV1.04.15でSwitch 2の有線USB・2.4GHz・Bluetoothに対応。Stickとreceiverの個別FW更新が必要。",
+          "requirements": [
+            "F700X Arcade Stickと2.4GHz receiverをそれぞれV1.04.15へ更新する。",
+            "Pro Controller Wired Communicationを有効にする。"
+          ],
+          "minimum_firmware": "V1.04.15",
+          "verified_firmware": "V1.04.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "mayflash-f700x-feature-1",
+              "feature_name": "有線USB",
+              "status": "supported_with_requirements",
+              "notes": "V1.04.15および設定有効化後。",
+              "evidence_ids": [
+                "ev-mayflash-f700x-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700x-feature-2",
+              "feature_name": "2.4GHz",
+              "status": "supported_with_requirements",
+              "notes": "receiverも個別FW更新が必要。",
+              "evidence_ids": [
+                "ev-mayflash-f700x-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700x-feature-3",
+              "feature_name": "Bluetooth",
+              "status": "supported_with_requirements",
+              "notes": "V1.04.15および設定有効化後。",
+              "evidence_ids": [
+                "ev-mayflash-f700x-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "mayflash-f700x-feature-4",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式FW情報では確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700x-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-powera-wired-stereo-headset-switch2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "powera-wired-stereo-headset-switch2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "PowerA公式のSwitch 2用有線ヘッドセット。ボイスチャットにはサービス側のアカウント・ネットワーク条件があり得る。",
+      "requirements": [
+        "ボイスチャット利用時はNintendo Account、インターネット接続、Nintendo Switch Online等のサービス条件を満たす。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "powera-wired-stereo-headset-switch2-feature-1",
+          "feature_name": "3.5mm音声",
+          "status": "supported",
+          "notes": "Switch 2向け有線ステレオヘッドセットとして掲載。",
+          "evidence_ids": [
+            "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "powera-wired-stereo-headset-switch2-feature-2",
+          "feature_name": "マイク入力",
+          "status": "supported",
+          "notes": "脱着式ブームマイクとマイクON/OFFを公式仕様に記載。",
+          "evidence_ids": [
+            "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "powera-wired-stereo-headset-switch2-feature-3",
+          "feature_name": "ボイスチャット",
+          "status": "supported_with_requirements",
+          "notes": "アカウント・ネットワーク・サービス条件が必要となる場合がある。",
+          "evidence_ids": [
+            "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "powera-wired-stereo-headset-switch2-feature-4",
+          "feature_name": "Bluetooth/USB音声",
+          "status": "unknown",
+          "notes": "公式根拠は3.5mm有線以外を確認しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "PowerA公式のSwitch 2用有線ヘッドセット。ボイスチャットにはサービス側のアカウント・ネットワーク条件があり得る。",
+          "requirements": [
+            "ボイスチャット利用時はNintendo Account、インターネット接続、Nintendo Switch Online等のサービス条件を満たす。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-1",
+              "feature_name": "3.5mm音声",
+              "status": "supported",
+              "notes": "Switch 2向け有線ステレオヘッドセットとして掲載。",
+              "evidence_ids": [
+                "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-2",
+              "feature_name": "マイク入力",
+              "status": "supported",
+              "notes": "脱着式ブームマイクとマイクON/OFFを公式仕様に記載。",
+              "evidence_ids": [
+                "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-3",
+              "feature_name": "ボイスチャット",
+              "status": "supported_with_requirements",
+              "notes": "アカウント・ネットワーク・サービス条件が必要となる場合がある。",
+              "evidence_ids": [
+                "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-4",
+              "feature_name": "Bluetooth/USB音声",
+              "status": "unknown",
+              "notes": "公式根拠は3.5mm有線以外を確認しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "PowerA公式のSwitch 2用有線ヘッドセット。ボイスチャットにはサービス側のアカウント・ネットワーク条件があり得る。",
+          "requirements": [
+            "ボイスチャット利用時はNintendo Account、インターネット接続、Nintendo Switch Online等のサービス条件を満たす。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-1",
+              "feature_name": "3.5mm音声",
+              "status": "supported",
+              "notes": "Switch 2向け有線ステレオヘッドセットとして掲載。",
+              "evidence_ids": [
+                "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-2",
+              "feature_name": "マイク入力",
+              "status": "supported",
+              "notes": "脱着式ブームマイクとマイクON/OFFを公式仕様に記載。",
+              "evidence_ids": [
+                "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-3",
+              "feature_name": "ボイスチャット",
+              "status": "supported_with_requirements",
+              "notes": "アカウント・ネットワーク・サービス条件が必要となる場合がある。",
+              "evidence_ids": [
+                "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-wired-stereo-headset-switch2-feature-4",
+              "feature_name": "Bluetooth/USB音声",
+              "status": "unknown",
+              "notes": "公式根拠は3.5mm有線以外を確認しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-powera-wired-stereo-headset-switch2-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-powera-enhanced-wireless-controller-switch1-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "powera-enhanced-wireless-controller-switch1",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "PowerA Enhanced Wireless ControllerはSwitch 2対応として掲載されるがCボタンを持たない。公式未記載機能はunknown。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "powera-enhanced-wireless-controller-switch1-feature-1",
+          "feature_name": "Switch 2基本接続",
+          "status": "supported",
+          "notes": "公式製品ページでSwitch 2対応を明示。",
+          "evidence_ids": [
+            "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "powera-enhanced-wireless-controller-switch1-feature-2",
+          "feature_name": "Cボタン",
+          "status": "unsupported",
+          "notes": "公式にCボタンなしと記載。",
+          "evidence_ids": [
+            "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "powera-enhanced-wireless-controller-switch1-feature-3",
+          "feature_name": "モーションセンサー",
+          "status": "supported",
+          "notes": "公式にモーションセンサーありと記載。",
+          "evidence_ids": [
+            "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "powera-enhanced-wireless-controller-switch1-feature-4",
+          "feature_name": "NFC/HD振動2/スリープ解除",
+          "status": "unknown",
+          "notes": "公式根拠で確認できないため推測しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "PowerA Enhanced Wireless ControllerはSwitch 2対応として掲載されるがCボタンを持たない。公式未記載機能はunknown。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-1",
+              "feature_name": "Switch 2基本接続",
+              "status": "supported",
+              "notes": "公式製品ページでSwitch 2対応を明示。",
+              "evidence_ids": [
+                "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-2",
+              "feature_name": "Cボタン",
+              "status": "unsupported",
+              "notes": "公式にCボタンなしと記載。",
+              "evidence_ids": [
+                "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-3",
+              "feature_name": "モーションセンサー",
+              "status": "supported",
+              "notes": "公式にモーションセンサーありと記載。",
+              "evidence_ids": [
+                "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-4",
+              "feature_name": "NFC/HD振動2/スリープ解除",
+              "status": "unknown",
+              "notes": "公式根拠で確認できないため推測しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "PowerA Enhanced Wireless ControllerはSwitch 2対応として掲載されるがCボタンを持たない。公式未記載機能はunknown。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-1",
+              "feature_name": "Switch 2基本接続",
+              "status": "supported",
+              "notes": "公式製品ページでSwitch 2対応を明示。",
+              "evidence_ids": [
+                "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-2",
+              "feature_name": "Cボタン",
+              "status": "unsupported",
+              "notes": "公式にCボタンなしと記載。",
+              "evidence_ids": [
+                "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-3",
+              "feature_name": "モーションセンサー",
+              "status": "supported",
+              "notes": "公式にモーションセンサーありと記載。",
+              "evidence_ids": [
+                "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "powera-enhanced-wireless-controller-switch1-feature-4",
+              "feature_name": "NFC/HD振動2/スリープ解除",
+              "status": "unknown",
+              "notes": "公式根拠で確認できないため推測しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-powera-enhanced-wireless-controller-switch1-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-pro2-bluetooth-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "8bitdo-pro2-bluetooth",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Pro 2はSwitch 2 system version 20.1.1以降に対応し、公式がFW更新を案内する。",
+      "requirements": [
+        "Nintendo Switch 2 system version 20.1.1以降を使用する。",
+        "8BitDo公式FW更新を適用する。"
+      ],
+      "minimum_firmware": "latest official Pro 2 firmware",
+      "verified_firmware": "latest official Pro 2 firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "8bitdo-pro2-bluetooth-feature-1",
+          "feature_name": "Switch 2接続",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2 20.1.1以降とFW更新。",
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-pro2-bluetooth-feature-2",
+          "feature_name": "モーションコントロール",
+          "status": "supported",
+          "notes": "Switch向けmotion controlを公式仕様に記載。",
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-pro2-bluetooth-feature-3",
+          "feature_name": "Wake/NFC/Cボタン",
+          "status": "unknown",
+          "notes": "公式根拠でSwitch 2機能として確認できない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-pro2-bluetooth-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Pro 2はSwitch 2 system version 20.1.1以降に対応し、公式がFW更新を案内する。",
+          "requirements": [
+            "Nintendo Switch 2 system version 20.1.1以降を使用する。",
+            "8BitDo公式FW更新を適用する。"
+          ],
+          "minimum_firmware": "latest official Pro 2 firmware",
+          "verified_firmware": "latest official Pro 2 firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-pro2-bluetooth-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 20.1.1以降とFW更新。",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro2-bluetooth-feature-2",
+              "feature_name": "モーションコントロール",
+              "status": "supported",
+              "notes": "Switch向けmotion controlを公式仕様に記載。",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro2-bluetooth-feature-3",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式根拠でSwitch 2機能として確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Pro 2はSwitch 2 system version 20.1.1以降に対応し、公式がFW更新を案内する。",
+          "requirements": [
+            "Nintendo Switch 2 system version 20.1.1以降を使用する。",
+            "8BitDo公式FW更新を適用する。"
+          ],
+          "minimum_firmware": "latest official Pro 2 firmware",
+          "verified_firmware": "latest official Pro 2 firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-pro2-bluetooth-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 20.1.1以降とFW更新。",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro2-bluetooth-feature-2",
+              "feature_name": "モーションコントロール",
+              "status": "supported",
+              "notes": "Switch向けmotion controlを公式仕様に記載。",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-bluetooth-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-pro2-bluetooth-feature-3",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式根拠でSwitch 2機能として確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-lite2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "8bitdo-lite2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Lite 2はSwitch 2 system version 20.1.1以降に対応する。",
+      "requirements": [
+        "Nintendo Switch 2 system version 20.1.1以降を使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "8bitdo-lite2-feature-1",
+          "feature_name": "Switch 2接続",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2 20.1.1以降。",
+          "evidence_ids": [
+            "ev-8bitdo-lite2-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-lite2-feature-2",
+          "feature_name": "Bluetooth接続",
+          "status": "supported",
+          "notes": "公式仕様にBluetoothを記載。",
+          "evidence_ids": [
+            "ev-8bitdo-lite2-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-lite2-feature-3",
+          "feature_name": "USB-C有線接続",
+          "status": "supported",
+          "notes": "公式仕様にUSB-Cを記載。",
+          "evidence_ids": [
+            "ev-8bitdo-lite2-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "8bitdo-lite2-feature-4",
+          "feature_name": "Wake/NFC/Cボタン",
+          "status": "unknown",
+          "notes": "公式根拠で確認できない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-lite2-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Lite 2はSwitch 2 system version 20.1.1以降に対応する。",
+          "requirements": [
+            "Nintendo Switch 2 system version 20.1.1以降を使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-lite2-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 20.1.1以降。",
+              "evidence_ids": [
+                "ev-8bitdo-lite2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-lite2-feature-2",
+              "feature_name": "Bluetooth接続",
+              "status": "supported",
+              "notes": "公式仕様にBluetoothを記載。",
+              "evidence_ids": [
+                "ev-8bitdo-lite2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-lite2-feature-3",
+              "feature_name": "USB-C有線接続",
+              "status": "supported",
+              "notes": "公式仕様にUSB-Cを記載。",
+              "evidence_ids": [
+                "ev-8bitdo-lite2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-lite2-feature-4",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式根拠で確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-lite2-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Lite 2はSwitch 2 system version 20.1.1以降に対応する。",
+          "requirements": [
+            "Nintendo Switch 2 system version 20.1.1以降を使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "8bitdo-lite2-feature-1",
+              "feature_name": "Switch 2接続",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 20.1.1以降。",
+              "evidence_ids": [
+                "ev-8bitdo-lite2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-lite2-feature-2",
+              "feature_name": "Bluetooth接続",
+              "status": "supported",
+              "notes": "公式仕様にBluetoothを記載。",
+              "evidence_ids": [
+                "ev-8bitdo-lite2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-lite2-feature-3",
+              "feature_name": "USB-C有線接続",
+              "status": "supported",
+              "notes": "公式仕様にUSB-Cを記載。",
+              "evidence_ids": [
+                "ev-8bitdo-lite2-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "8bitdo-lite2-feature-4",
+              "feature_name": "Wake/NFC/Cボタン",
+              "status": "unknown",
+              "notes": "公式根拠で確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-lite2-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5x-fighting-board-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "brook-gen5x-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5X Fighting BoardはDIY用の別基板。完成後のケース、配線、ボタン構成はメーカー互換保証の対象外。",
+      "requirements": [
+        "受領後にBrook公式の当該基板用最新FWへ更新する。",
+        "DIY組み込み後のケース、配線、ボタン構成は個別に検証する。"
+      ],
+      "minimum_firmware": "latest official Gen-5X firmware",
+      "verified_firmware": "latest official Gen-5X firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "brook-gen5x-fighting-board-feature-1",
+          "feature_name": "Switch 2基板対応",
+          "status": "supported_with_requirements",
+          "notes": "当該DIY基板の公式Switch 2対応。FW更新が必要。",
+          "evidence_ids": [
+            "ev-brook-gen5x-fighting-board-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "brook-gen5x-fighting-board-feature-2",
+          "feature_name": "完成品コントローラー保証",
+          "status": "unknown",
+          "notes": "ケース、配線、ボタン構成に依存する完成品の互換性は確定しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5x-fighting-board-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5X Fighting BoardはDIY用の別基板。完成後のケース、配線、ボタン構成はメーカー互換保証の対象外。",
+          "requirements": [
+            "受領後にBrook公式の当該基板用最新FWへ更新する。",
+            "DIY組み込み後のケース、配線、ボタン構成は個別に検証する。"
+          ],
+          "minimum_firmware": "latest official Gen-5X firmware",
+          "verified_firmware": "latest official Gen-5X firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-gen5x-fighting-board-feature-1",
+              "feature_name": "Switch 2基板対応",
+              "status": "supported_with_requirements",
+              "notes": "当該DIY基板の公式Switch 2対応。FW更新が必要。",
+              "evidence_ids": [
+                "ev-brook-gen5x-fighting-board-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-gen5x-fighting-board-feature-2",
+              "feature_name": "完成品コントローラー保証",
+              "status": "unknown",
+              "notes": "ケース、配線、ボタン構成に依存する完成品の互換性は確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-fighting-board-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5X Fighting BoardはDIY用の別基板。完成後のケース、配線、ボタン構成はメーカー互換保証の対象外。",
+          "requirements": [
+            "受領後にBrook公式の当該基板用最新FWへ更新する。",
+            "DIY組み込み後のケース、配線、ボタン構成は個別に検証する。"
+          ],
+          "minimum_firmware": "latest official Gen-5X firmware",
+          "verified_firmware": "latest official Gen-5X firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-gen5x-fighting-board-feature-1",
+              "feature_name": "Switch 2基板対応",
+              "status": "supported_with_requirements",
+              "notes": "当該DIY基板の公式Switch 2対応。FW更新が必要。",
+              "evidence_ids": [
+                "ev-brook-gen5x-fighting-board-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-gen5x-fighting-board-feature-2",
+              "feature_name": "完成品コントローラー保証",
+              "status": "unknown",
+              "notes": "ケース、配線、ボタン構成に依存する完成品の互換性は確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-fighting-board-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5x-mini-fighting-board-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "brook-gen5x-mini-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5X mini Fighting BoardはDIY用の別基板。完成後のケース、配線、ボタン構成はメーカー互換保証の対象外。",
+      "requirements": [
+        "受領後にBrook公式の当該基板用最新FWへ更新する。",
+        "DIY組み込み後のケース、配線、ボタン構成は個別に検証する。"
+      ],
+      "minimum_firmware": "latest official Gen-5X firmware",
+      "verified_firmware": "latest official Gen-5X firmware",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "brook-gen5x-mini-fighting-board-feature-1",
+          "feature_name": "Switch 2基板対応",
+          "status": "supported_with_requirements",
+          "notes": "当該DIY基板の公式Switch 2対応。FW更新が必要。",
+          "evidence_ids": [
+            "ev-brook-gen5x-mini-fighting-board-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "brook-gen5x-mini-fighting-board-feature-2",
+          "feature_name": "完成品コントローラー保証",
+          "status": "unknown",
+          "notes": "ケース、配線、ボタン構成に依存する完成品の互換性は確定しない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5x-mini-fighting-board-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5X mini Fighting BoardはDIY用の別基板。完成後のケース、配線、ボタン構成はメーカー互換保証の対象外。",
+          "requirements": [
+            "受領後にBrook公式の当該基板用最新FWへ更新する。",
+            "DIY組み込み後のケース、配線、ボタン構成は個別に検証する。"
+          ],
+          "minimum_firmware": "latest official Gen-5X firmware",
+          "verified_firmware": "latest official Gen-5X firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-gen5x-mini-fighting-board-feature-1",
+              "feature_name": "Switch 2基板対応",
+              "status": "supported_with_requirements",
+              "notes": "当該DIY基板の公式Switch 2対応。FW更新が必要。",
+              "evidence_ids": [
+                "ev-brook-gen5x-mini-fighting-board-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-gen5x-mini-fighting-board-feature-2",
+              "feature_name": "完成品コントローラー保証",
+              "status": "unknown",
+              "notes": "ケース、配線、ボタン構成に依存する完成品の互換性は確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-mini-fighting-board-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5X mini Fighting BoardはDIY用の別基板。完成後のケース、配線、ボタン構成はメーカー互換保証の対象外。",
+          "requirements": [
+            "受領後にBrook公式の当該基板用最新FWへ更新する。",
+            "DIY組み込み後のケース、配線、ボタン構成は個別に検証する。"
+          ],
+          "minimum_firmware": "latest official Gen-5X firmware",
+          "verified_firmware": "latest official Gen-5X firmware",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "brook-gen5x-mini-fighting-board-feature-1",
+              "feature_name": "Switch 2基板対応",
+              "status": "supported_with_requirements",
+              "notes": "当該DIY基板の公式Switch 2対応。FW更新が必要。",
+              "evidence_ids": [
+                "ev-brook-gen5x-mini-fighting-board-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "brook-gen5x-mini-fighting-board-feature-2",
+              "feature_name": "完成品コントローラー保証",
+              "status": "unknown",
+              "notes": "ケース、配線、ボタン構成に依存する完成品の互換性は確定しない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-mini-fighting-board-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-kioxia-exceria-g2-microsd-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "kioxia-exceria-g2-microsd",
+      "region": "JP",
+      "overall_status": "incompatible",
+      "publication_status": "published",
+      "summary": "KIOXIAがEXCERIA G2はmicroSD Express規格ではないためNintendo Switch 2非対応と直接明記する。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "kioxia-exceria-g2-microsd-feature-1",
+          "feature_name": "Switch 2ストレージ利用",
+          "status": "unsupported",
+          "notes": "KIOXIA公式がSwitch 2非対応と直接明記。",
+          "evidence_ids": [
+            "ev-kioxia-exceria-g2-microsd-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "kioxia-exceria-g2-microsd-feature-2",
+          "feature_name": "Nintendo Switch利用",
+          "status": "supported",
+          "notes": "Nintendo Switchの動作確認済みとして併記される。",
+          "evidence_ids": [
+            "ev-kioxia-exceria-g2-microsd-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-kioxia-exceria-g2-microsd-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "incompatible",
+          "publication_status": "under_review",
+          "summary": "KIOXIAがEXCERIA G2はmicroSD Express規格ではないためNintendo Switch 2非対応と直接明記する。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kioxia-exceria-g2-microsd-feature-1",
+              "feature_name": "Switch 2ストレージ利用",
+              "status": "unsupported",
+              "notes": "KIOXIA公式がSwitch 2非対応と直接明記。",
+              "evidence_ids": [
+                "ev-kioxia-exceria-g2-microsd-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "kioxia-exceria-g2-microsd-feature-2",
+              "feature_name": "Nintendo Switch利用",
+              "status": "supported",
+              "notes": "Nintendo Switchの動作確認済みとして併記される。",
+              "evidence_ids": [
+                "ev-kioxia-exceria-g2-microsd-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-kioxia-exceria-g2-microsd-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "incompatible",
+          "publication_status": "published",
+          "summary": "KIOXIAがEXCERIA G2はmicroSD Express規格ではないためNintendo Switch 2非対応と直接明記する。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kioxia-exceria-g2-microsd-feature-1",
+              "feature_name": "Switch 2ストレージ利用",
+              "status": "unsupported",
+              "notes": "KIOXIA公式がSwitch 2非対応と直接明記。",
+              "evidence_ids": [
+                "ev-kioxia-exceria-g2-microsd-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "kioxia-exceria-g2-microsd-feature-2",
+              "feature_name": "Nintendo Switch利用",
+              "status": "supported",
+              "notes": "Nintendo Switchの動作確認済みとして併記される。",
+              "evidence_ids": [
+                "ev-kioxia-exceria-g2-microsd-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-kioxia-exceria-g2-microsd-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "incompatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "incompatible",
+          "new_status": "incompatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-kingston-canvas-go-plus-microsd-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "kingston-canvas-go-plus-microsd",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Canvas Go! Plusを含む標準microSDは、Switch 2では初代Switchのスクリーンショット／動画の読込みのみ可能で、ゲーム・セーブデータ保存には使えない。",
+      "requirements": [
+        "用途をNintendo Switchのスクリーンショットおよび動画の読込みに限定する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "kingston-canvas-go-plus-microsd-feature-1",
+          "feature_name": "スクリーンショット・動画読込み",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch由来のスクリーンショット／動画読込み用途。",
+          "evidence_ids": [
+            "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "kingston-canvas-go-plus-microsd-feature-2",
+          "feature_name": "ゲーム・セーブデータ保存",
+          "status": "unsupported",
+          "notes": "デジタルゲームおよびセーブデータの保存／読込みは不可。",
+          "evidence_ids": [
+            "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "Canvas Go! Plusを含む標準microSDは、Switch 2では初代Switchのスクリーンショット／動画の読込みのみ可能で、ゲーム・セーブデータ保存には使えない。",
+          "requirements": [
+            "用途をNintendo Switchのスクリーンショットおよび動画の読込みに限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature-1",
+              "feature_name": "スクリーンショット・動画読込み",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch由来のスクリーンショット／動画読込み用途。",
+              "evidence_ids": [
+                "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature-2",
+              "feature_name": "ゲーム・セーブデータ保存",
+              "status": "unsupported",
+              "notes": "デジタルゲームおよびセーブデータの保存／読込みは不可。",
+              "evidence_ids": [
+                "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Canvas Go! Plusを含む標準microSDは、Switch 2では初代Switchのスクリーンショット／動画の読込みのみ可能で、ゲーム・セーブデータ保存には使えない。",
+          "requirements": [
+            "用途をNintendo Switchのスクリーンショットおよび動画の読込みに限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature-1",
+              "feature_name": "スクリーンショット・動画読込み",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch由来のスクリーンショット／動画読込み用途。",
+              "evidence_ids": [
+                "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature-2",
+              "feature_name": "ゲーム・セーブデータ保存",
+              "status": "unsupported",
+              "notes": "デジタルゲームおよびセーブデータの保存／読込みは不可。",
+              "evidence_ids": [
+                "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-kingston-canvas-go-plus-microsd-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-genki-shadowcast-3-pro-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "genki-shadowcast-3-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "ShadowCast 3 ProはSwitch 2向け4K60キャプチャー製品として掲載。Switch 2のHDMI出力とUSB-C接続可能なhostが必要。",
+      "requirements": [
+        "Nintendo Switch 2のHDMI出力を使用する。",
+        "USB-C入力に対応するPC、タブレットまたはスマートフォンへ接続する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "genki-shadowcast-3-pro-feature-1",
+          "feature_name": "Switch 2キャプチャー",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2のHDMI出力と対応hostを用いる。",
+          "evidence_ids": [
+            "ev-genki-shadowcast-3-pro-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "genki-shadowcast-3-pro-feature-2",
+          "feature_name": "4K60キャプチャー",
+          "status": "supported",
+          "notes": "公式が4K60 capture cardと記載。",
+          "evidence_ids": [
+            "ev-genki-shadowcast-3-pro-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "genki-shadowcast-3-pro-feature-3",
+          "feature_name": "USB-C host接続",
+          "status": "supported",
+          "notes": "PC、タブレット、スマートフォン向けUSB-C入力を記載。",
+          "evidence_ids": [
+            "ev-genki-shadowcast-3-pro-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "genki-shadowcast-3-pro-feature-4",
+          "feature_name": "パススルー",
+          "status": "supported",
+          "notes": "zero latency passthroughを公式に記載。",
+          "evidence_ids": [
+            "ev-genki-shadowcast-3-pro-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "genki-shadowcast-3-pro-feature-5",
+          "feature_name": "HDR・OS別詳細",
+          "status": "unknown",
+          "notes": "公式根拠でHDRおよびOS別要件を確認できない。",
+          "evidence_ids": []
+        }
+      ],
+      "evidence_ids": [
+        "ev-genki-shadowcast-3-pro-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "ShadowCast 3 ProはSwitch 2向け4K60キャプチャー製品として掲載。Switch 2のHDMI出力とUSB-C接続可能なhostが必要。",
+          "requirements": [
+            "Nintendo Switch 2のHDMI出力を使用する。",
+            "USB-C入力に対応するPC、タブレットまたはスマートフォンへ接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2のHDMI出力と対応hostを用いる。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-2",
+              "feature_name": "4K60キャプチャー",
+              "status": "supported",
+              "notes": "公式が4K60 capture cardと記載。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-3",
+              "feature_name": "USB-C host接続",
+              "status": "supported",
+              "notes": "PC、タブレット、スマートフォン向けUSB-C入力を記載。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-4",
+              "feature_name": "パススルー",
+              "status": "supported",
+              "notes": "zero latency passthroughを公式に記載。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-5",
+              "feature_name": "HDR・OS別詳細",
+              "status": "unknown",
+              "notes": "公式根拠でHDRおよびOS別要件を確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-genki-shadowcast-3-pro-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "ShadowCast 3 ProはSwitch 2向け4K60キャプチャー製品として掲載。Switch 2のHDMI出力とUSB-C接続可能なhostが必要。",
+          "requirements": [
+            "Nintendo Switch 2のHDMI出力を使用する。",
+            "USB-C入力に対応するPC、タブレットまたはスマートフォンへ接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-1",
+              "feature_name": "Switch 2キャプチャー",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2のHDMI出力と対応hostを用いる。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-2",
+              "feature_name": "4K60キャプチャー",
+              "status": "supported",
+              "notes": "公式が4K60 capture cardと記載。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-3",
+              "feature_name": "USB-C host接続",
+              "status": "supported",
+              "notes": "PC、タブレット、スマートフォン向けUSB-C入力を記載。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-4",
+              "feature_name": "パススルー",
+              "status": "supported",
+              "notes": "zero latency passthroughを公式に記載。",
+              "evidence_ids": [
+                "ev-genki-shadowcast-3-pro-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "genki-shadowcast-3-pro-feature-5",
+              "feature_name": "HDR・OS別詳細",
+              "status": "unknown",
+              "notes": "公式根拠でHDRおよびOS別要件を確認できない。",
+              "evidence_ids": []
+            }
+          ],
+          "evidence_ids": [
+            "ev-genki-shadowcast-3-pro-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-pro-microsd-express-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "lexar-play-pro-microsd-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar PLAY PROはNintendo Switch 2向けmicroSDXC Express card。256GB／512GB／1TBを同一familyとして統合する。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-pro-microsd-express-feature-1",
+          "feature_name": "Switch 2ストレージ",
+          "status": "supported",
+          "notes": "公式仕様でNintendo Switch 2をDevicesとして掲載。",
+          "evidence_ids": [
+            "ev-lexar-play-pro-microsd-express-primary-20260901"
+          ]
+        },
+        {
+          "feature_id": "lexar-play-pro-microsd-express-feature-2",
+          "feature_name": "microSD Express接続",
+          "status": "supported",
+          "notes": "microSDXC Express製品として掲載。",
+          "evidence_ids": [
+            "ev-lexar-play-pro-microsd-express-primary-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-play-pro-microsd-express-primary-20260901"
+      ],
+      "created_by": "candidates1000_batch2_preparation",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T01:12:17+09:00",
+      "verified_at": "2026-09-01T16:00:00+09:00",
+      "next_review_at": "2026-12-01T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar PLAY PROはNintendo Switch 2向けmicroSDXC Express card。256GB／512GB／1TBを同一familyとして統合する。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature-1",
+              "feature_name": "Switch 2ストレージ",
+              "status": "supported",
+              "notes": "公式仕様でNintendo Switch 2をDevicesとして掲載。",
+              "evidence_ids": [
+                "ev-lexar-play-pro-microsd-express-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature-2",
+              "feature_name": "microSD Express接続",
+              "status": "supported",
+              "notes": "microSDXC Express製品として掲載。",
+              "evidence_ids": [
+                "ev-lexar-play-pro-microsd-express-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-play-pro-microsd-express-primary-20260901"
+          ],
+          "captured_at": "2026-09-01T16:00:00+09:00",
+          "captured_by": "candidates1000_batch2_preparation"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T01:12:17+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar PLAY PROはNintendo Switch 2向けmicroSDXC Express card。256GB／512GB／1TBを同一familyとして統合する。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature-1",
+              "feature_name": "Switch 2ストレージ",
+              "status": "supported",
+              "notes": "公式仕様でNintendo Switch 2をDevicesとして掲載。",
+              "evidence_ids": [
+                "ev-lexar-play-pro-microsd-express-primary-20260901"
+              ]
+            },
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature-2",
+              "feature_name": "microSD Express接続",
+              "status": "supported",
+              "notes": "microSDXC Express製品として掲載。",
+              "evidence_ids": [
+                "ev-lexar-play-pro-microsd-express-primary-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-play-pro-microsd-express-primary-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T16:00:00+09:00",
+          "changed_by": "candidates1000_batch2_preparation",
+          "change_reason": "第2追加Batchの公式一次情報に基づく初回under_review登録。human approval未実施。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T01:12:17+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -24619,6 +29323,492 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "LUA5-U3-CGTE-BK / LUA5-U3-CGTE-WH: Nintendo Switch (Switch 2 / Switch / Switch Lite)動作確認済み、ドライバーインストール不要。",
       "created_by": "candidates1000_batch1_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-switch2-pro-controller-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.nintendo.com/jp/hardware/switch2/accessories/index.html",
+      "source_title": "Nintendo Switch 2 専用周辺機器",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2 Pro ControllerはTVモード・テーブルモード向けワイヤレスコントローラーとして掲載。Cボタン、GL/GR、ヘッドホンマイクジャック、HD振動2を案内。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon2-grip-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.nintendo.com/jp/hardware/switch2/accessories/index.html",
+      "source_title": "Nintendo Switch 2 専用周辺機器",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2本体セットのJoy-Con 2グリップとして掲載。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-switch-touch-pen-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.nintendo.com/jp/hardware/switch2/compatibility/accessories.html",
+      "source_title": "Nintendo Switch 2 アクセサリー互換表",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo SwitchタッチペンをNintendo Switch 2で使用可能とする公式互換表の記載。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-usb-charging-cable-hac010-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "HAC-010をSwitch 2 Dockへ接続してコントローラー登録・充電する案内。映像出力や本体給電の根拠ではない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon-strap-switch1-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "初代Joy-Con専用のストラップ。 Nintendo Switch 2では初代Joy-Conを使う場合のみ使用可能で、Joy-Con 2には使用できない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon-grip-switch1-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "初代Joy-Con専用のグリップ。 Nintendo Switch 2では初代Joy-Conを使う場合のみ使用可能で、Joy-Con 2には使用できない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon-charging-grip-switch1-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "初代Joy-Con専用の充電グリップ。 Nintendo Switch 2では初代Joy-Conを使う場合のみ使用可能で、Joy-Con 2には使用できない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon-aa-battery-pack-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "初代Joy-Con専用の電池パック。 Nintendo Switch 2では初代Joy-Conを使う場合のみ使用可能で、Joy-Con 2には使用できない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon-wheel-switch1-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "初代Joy-Con専用のハンドル。 Nintendo Switch 2では初代Joy-Conを使う場合のみ使用可能で、Joy-Con 2には使用できない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-joycon-charging-stand-2way-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "初代Joy-Con専用の充電スタンド。 Nintendo Switch 2では初代Joy-Conを使う場合のみ使用可能で、Joy-Con 2には使用できない。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-nintendo-ringcon-leg-strap-system-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.nintendo.com/jp/switch2/accessory/controller/switch-controller/index.html",
+      "source_title": "Nintendo Support: Switch peripherals with Switch 2",
+      "source_label": "Nintendo 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Ring-ConとLeg Strapはいずれも初代Joy-Con使用時のみ利用可能で、Joy-Con 2は装着不可。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-8bitdo-pro3-bluetooth-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.8bitdo.com/",
+      "source_title": "8BitDo Support Firmware History",
+      "source_label": "8BitDo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "1.02 (Switch 2); 2.00 (Shake-to-Wake); 2.02 (wake stability)",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Pro 3 Bluetooth Gamepad: FW 1.02 added Switch 2 support; FW 2.00 added shake-to-wake; FW 2.02 optimized Switch 2 wake-up stability.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-8bitdo-arcade-controller-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/arcade-controller/",
+      "source_title": "8BitDo Arcade Controller",
+      "source_label": "8BitDo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "1.04 (Switch 2 support)",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility: Switch 2 (20.1.1 and above). Switch connection is Bluetooth or wired; 2.4G is listed for Windows.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-gamesir-x5s-primary-20260901",
+      "source_type": "manufacturer_manual",
+      "source_authority": "official",
+      "source_url": "https://gamesir.com/support/manuals/gamesir-x5s-wireless-mobile-game-controller",
+      "source_title": "How to Use the GameSir X5S",
+      "source_label": "GameSir 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Working platform includes Switch 2. Switch/Switch 2 Bluetooth is listed; wired Switch connection requires Pro Controller Wired Communication.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-brook-wingman-ns-lite-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/dl.php",
+      "source_title": "Brook Wingman NS Lite Firmware Download",
+      "source_label": "Brook 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "1.0.3.6 beta",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Wingman NS Lite FW 1.0.3.6 BETA: Added Switch 2 (Auto Detect Console Mode).",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-brook-wingman-ns-lite-product-20260901",
+      "source_type": "manufacturer_manual",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/detail/09199275/",
+      "source_title": "Brook Wingman NS Lite",
+      "source_label": "Brook 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "1.0.3.6 beta",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Use PS/Xbox controller and arcade stick on Switch/Switch 2; first use requires Pro Controller Wired Communication and console USB connection.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-mayflash-f700x-primary-20260901",
+      "source_type": "manufacturer_firmware_history",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/Support/256.html",
+      "source_title": "MAYFLASH F700X Update V1.04.15",
+      "source_label": "MAYFLASH 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "V1.04.15",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "V1.04.15: Switch 2 compatible in wired USB and wireless 2.4G/Bluetooth. Enable Pro Controller Wired Communication. Stick and receiver use the same firmware but update separately.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-powera-wired-stereo-headset-switch2-primary-20260901",
+      "source_type": "manufacturer_manual",
+      "source_authority": "official",
+      "source_url": "https://www.powera.com/ja-jp/p/nintendo/nintendo-switch-2/audio/wired-stereo-headset-for-nintendo-switch-2-black-nshs0581jp-01/",
+      "source_title": "PowerA Wired Stereo Headset for Nintendo Switch 2",
+      "source_label": "PowerA 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "NSHS0581JP-01: Switch 2 wired stereo headset with detachable boom mic and microphone on/off; official page notes service requirements for voice chat.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-powera-enhanced-wireless-controller-switch1-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.powera.com/ja-jp/p/nintendo/nintendo-switch/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC/enhanced-wireless-controller-rechargeable-for-nintendo-switch-white-1518390jp-01/",
+      "source_title": "PowerA Enhanced Wireless Controller for Nintendo Switch",
+      "source_label": "PowerA 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official product page marks Switch 2 compatible; C button is absent and motion sensor is present.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-8bitdo-pro2-bluetooth-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/pro2/",
+      "source_title": "8BitDo Pro 2 Bluetooth Gamepad",
+      "source_label": "8BitDo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "latest official Pro 2 firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Now compatible with Switch 2 after firmware update; compatibility lists Switch 2 20.1.1 and above. Bluetooth and USB-C are listed.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-8bitdo-lite2-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/lite2/",
+      "source_title": "8BitDo Lite 2",
+      "source_label": "8BitDo 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility lists Switch 2 20.1.1 and above; Bluetooth and USB-C connectivity are listed.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-brook-gen5x-fighting-board-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5xseries/index.html",
+      "source_title": "Brook Gen-5X Series Fighting Board",
+      "source_label": "Brook 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "latest official Gen-5X firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Gen-5X Fighting Board: Switch 2 support is listed; firmware update after receipt is requested; terminal blocks, no soldering required.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-brook-gen5x-mini-fighting-board-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5xseries/index.html",
+      "source_title": "Brook Gen-5X Series Fighting Board",
+      "source_label": "Brook 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": "latest official Gen-5X firmware",
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Gen-5X mini Fighting Board: Switch 2 support is listed; firmware update after receipt is requested; 40x40mm board requiring soldering or a breakout board.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-kioxia-exceria-g2-microsd-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.kioxia.com/ja-jp/personal/micro-sd/exceria-g2.html",
+      "source_title": "KIOXIA EXCERIA G2 microSD",
+      "source_label": "KIOXIA 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "本製品はmicroSD Express規格でないため、Nintendo Switch 2非対応。容量32GBから1TBの同一EXCERIA G2 family。",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-kingston-canvas-go-plus-microsd-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.kingston.com/unitedkingdom/en/blog/personal-storage/choosing-a-microsd-card-for-your-nintendo-switch",
+      "source_title": "Kingston: Choosing a microSD card for Nintendo Switch",
+      "source_label": "Kingston 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2 accepts standard microSD cards for importing Nintendo Switch screenshots and videos, but not saving/loading digital games or save data; microSD Express is required for that.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-genki-shadowcast-3-pro-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.genkithings.com/products/shadowcast-3-pro",
+      "source_title": "Genki ShadowCast 3 Pro",
+      "source_label": "Genki 公式情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "ShadowCast 3 Pro: 4K60 capture card for Switch 2; USB-C connectivity; zero latency passthrough; turns HDMI output into USB-C input for PC, tablets and smartphones.",
+      "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-lexar-play-pro-microsd-express-primary-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://americas.lexar.com/product/lexar-play-pro-microsdxc-express-card/",
+      "source_title": "Lexar PLAY PRO microSDXC Express Card",
+      "source_label": "Lexar 公式情報",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official page lists Nintendo Switch 2 device compatibility and 256GB, 512GB and 1TB variants; part numbers LMSXPS0256G-BNNNU, LMSXPS0512G-BNNNU and LMSXPS0001T-BNNNU.",
+      "created_by": "candidates1000_batch2_preparation"
     }
   ]
 }

@@ -3,14 +3,18 @@
   <url><loc>https://switch2compatibility.com/</loc></url>
   <url><loc>https://switch2compatibility.com/products/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-64-controller/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/8bitdo-arcade-controller/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-arcade-stick/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-gbros/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-lite/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/8bitdo-lite2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-m30-bluetooth/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-micro/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-n30-ns/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-n30-pro2/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/8bitdo-pro2-bluetooth/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-pro2-wired/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/8bitdo-pro3-bluetooth/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-sn30-gp/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-sn30-pro-usb/</loc></url>
   <url><loc>https://switch2compatibility.com/products/8bitdo-sn30-pro-plus/</loc></url>
@@ -33,7 +37,10 @@
   <url><loc>https://switch2compatibility.com/products/buffalo-lua5-u3-cgte/</loc></url>
   <url><loc>https://switch2compatibility.com/products/benq-ex271u/</loc></url>
   <url><loc>https://switch2compatibility.com/products/benq-ex321ux/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/brook-gen5x-fighting-board/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/brook-gen5x-mini-fighting-board/</loc></url>
   <url><loc>https://switch2compatibility.com/products/brook-ras1ution-2/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/brook-wingman-ns-lite/</loc></url>
   <url><loc>https://switch2compatibility.com/products/brook-wingman-xe-2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/elgato-game-capture-4k-pro/</loc></url>
   <url><loc>https://switch2compatibility.com/products/elgato-game-capture-4k-s/</loc></url>
@@ -41,7 +48,9 @@
   <url><loc>https://switch2compatibility.com/products/elgato-game-capture-neo/</loc></url>
   <url><loc>https://switch2compatibility.com/products/elgato-hd60-x/</loc></url>
   <url><loc>https://switch2compatibility.com/products/gamesir-super-nova/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/gamesir-x5s/</loc></url>
   <url><loc>https://switch2compatibility.com/products/legacy-microsd/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/genki-shadowcast-3-pro/</loc></url>
   <url><loc>https://switch2compatibility.com/products/hori-karaoke-mic-nsw-088/</loc></url>
   <url><loc>https://switch2compatibility.com/products/hori-mariokart-racing-wheel-dx-nsw-228/</loc></url>
   <url><loc>https://switch2compatibility.com/products/hori-mariokart-racing-wheel-nsw-204/</loc></url>
@@ -60,6 +69,9 @@
   <url><loc>https://switch2compatibility.com/products/jsaux-7in1-docking-station-hb0704/</loc></url>
   <url><loc>https://switch2compatibility.com/products/jsaux-multi-controller-energy-station-gp0507/</loc></url>
   <url><loc>https://switch2compatibility.com/products/jsaux-omnicentro-charger-dock/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/kioxia-exceria-g2-microsd/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/kingston-canvas-go-plus-microsd/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/lexar-play-pro-microsd-express/</loc></url>
   <url><loc>https://switch2compatibility.com/products/mayflash-f700-flat-elite/</loc></url>
   <url><loc>https://switch2compatibility.com/products/mayflash-gamecube-controller-adapter-w012/</loc></url>
   <url><loc>https://switch2compatibility.com/products/mayflash-magic-ns-2/</loc></url>
@@ -71,6 +83,7 @@
   <url><loc>https://switch2compatibility.com/products/mayflash-mega-drive-adapter-mf104/</loc></url>
   <url><loc>https://switch2compatibility.com/products/mayflash-snes-controller-adapter-mf105/</loc></url>
   <url><loc>https://switch2compatibility.com/products/mayflash-f700-elite/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/mayflash-f700x/</loc></url>
   <url><loc>https://switch2compatibility.com/products/msi-g274qpf-e2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/msi-g274qrfw/</loc></url>
   <url><loc>https://switch2compatibility.com/products/msi-g32cq5p/</loc></url>
@@ -93,15 +106,26 @@
   <url><loc>https://switch2compatibility.com/products/nextorage-g-series-ex-nm3a/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-joy-con-switch1/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-joycon2-charging-grip-bee010/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon2-grip/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon-aa-battery-pack/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon-charging-grip-switch1/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon-charging-stand-2way/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon-grip-switch1/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon-strap-switch1/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-joycon-wheel-switch1/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-n64-controller/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-switch2-ac-adapter-ngn01/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-switch2-camera/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-switch2-dock-set/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-switch2-pro-controller/</loc></url>
   <url><loc>https://switch2compatibility.com/products/switch-ac-adapter/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-switch-pro-controller/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-switch-touch-pen/</loc></url>
   <url><loc>https://switch2compatibility.com/products/switch-dock/</loc></url>
   <url><loc>https://switch2compatibility.com/products/switch-hdmi-cable/</loc></url>
   <url><loc>https://switch2compatibility.com/products/switch-charging-stand/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-ringcon-leg-strap-system/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/nintendo-usb-charging-cable-hac010/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-sfc-controller/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-megadrive-6b/</loc></url>
   <url><loc>https://switch2compatibility.com/products/nintendo-gamecube-adapter/</loc></url>
@@ -116,7 +140,9 @@
   <url><loc>https://switch2compatibility.com/products/powera-advantage-wired-controller-switch2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/powera-advantage-wired-lumectra-switch2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/powera-advantage-wireless-controller-switch2/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/powera-enhanced-wireless-controller-switch1/</loc></url>
   <url><loc>https://switch2compatibility.com/products/powera-wired-earbuds-switch2/</loc></url>
+  <url><loc>https://switch2compatibility.com/products/powera-wired-stereo-headset-switch2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/retrobit-legacy16-24g-v2/</loc></url>
   <url><loc>https://switch2compatibility.com/products/retrobit-saturn-24g-pro/</loc></url>
   <url><loc>https://switch2compatibility.com/products/retrobit-tribute64-24g-v2/</loc></url>
