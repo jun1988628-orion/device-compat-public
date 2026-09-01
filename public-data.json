@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.2.0",
+  "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-01T01:12:17+09:00",
+  "dataset_generated_at": "2026-09-01T21:56:32+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -3309,6 +3309,73 @@
       "upc": null,
       "connection_methods": [
         "microSD Express"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-ps5",
+      "manufacturer": "Sony Interactive Entertainment",
+      "product_name": "PlayStation 5",
+      "model_number": null,
+      "aliases": [
+        "PS5",
+        "PlayStation 5"
+      ],
+      "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-steam-deck",
+      "manufacturer": "Valve",
+      "product_name": "Steam Deck",
+      "model_number": null,
+      "aliases": [
+        "Steam Deck"
+      ],
+      "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-rog-ally",
+      "manufacturer": "ASUS",
+      "product_name": "ROG Ally",
+      "model_number": null,
+      "aliases": [
+        "ROG Ally"
+      ],
+      "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -26837,6 +26904,2319 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-brook-ras1ution-2-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "brook-ras1ution-2",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "PS5 racing-wheel conversion is officially supported with game and wheel/pedal compatibility constraints.",
+      "requirements": [
+        "Use a supported racing game and compatible wheel/pedal configuration."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_racing_wheel_conversion",
+          "feature_name": "PS5 racing-wheel conversion",
+          "status": "limited",
+          "notes": "Game and wheel/pedal compatibility constrain use.",
+          "evidence_ids": [
+            "ev-brook-ras1ution2-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-ras1ution2-ps5-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "PS5 racing-wheel conversion is officially supported with game and wheel/pedal compatibility constraints.",
+          "requirements": [
+            "Use a supported racing game and compatible wheel/pedal configuration."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_racing_wheel_conversion",
+              "feature_name": "PS5 racing-wheel conversion",
+              "status": "limited",
+              "notes": "Game and wheel/pedal compatibility constrain use.",
+              "evidence_ids": [
+                "ev-brook-ras1ution2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-ras1ution2-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "PS5 racing-wheel conversion is officially supported with game and wheel/pedal compatibility constraints.",
+          "requirements": [
+            "Use a supported racing game and compatible wheel/pedal configuration."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_racing_wheel_conversion",
+              "feature_name": "PS5 racing-wheel conversion",
+              "status": "limited",
+              "notes": "Game and wheel/pedal compatibility constrain use.",
+              "evidence_ids": [
+                "ev-brook-ras1ution2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-ras1ution2-ps5-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5x-fighting-board-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "brook-gen5x-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5X Fighting Board is officially listed for PS5; final arcade-controller operation depends on DIY integration.",
+      "requirements": [
+        "Install and configure the DIY board in a compatible controller build."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_controller_input",
+          "feature_name": "PS5 controller input",
+          "status": "supported",
+          "notes": "PS5 is officially listed.",
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ]
+        },
+        {
+          "feature_id": "diy_integration",
+          "feature_name": "DIY integration",
+          "status": "limited",
+          "notes": "Case, wiring, and button configuration are outside the board guarantee.",
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5x-ps5-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5X Fighting Board is officially listed for PS5; final arcade-controller operation depends on DIY integration.",
+          "requirements": [
+            "Install and configure the DIY board in a compatible controller build."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_controller_input",
+              "feature_name": "PS5 controller input",
+              "status": "supported",
+              "notes": "PS5 is officially listed.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            },
+            {
+              "feature_id": "diy_integration",
+              "feature_name": "DIY integration",
+              "status": "limited",
+              "notes": "Case, wiring, and button configuration are outside the board guarantee.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5X Fighting Board is officially listed for PS5; final arcade-controller operation depends on DIY integration.",
+          "requirements": [
+            "Install and configure the DIY board in a compatible controller build."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_controller_input",
+              "feature_name": "PS5 controller input",
+              "status": "supported",
+              "notes": "PS5 is officially listed.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            },
+            {
+              "feature_id": "diy_integration",
+              "feature_name": "DIY integration",
+              "status": "limited",
+              "notes": "Case, wiring, and button configuration are outside the board guarantee.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5x-mini-fighting-board-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "brook-gen5x-mini-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5X mini is officially listed for PS5; PS5 Bluetooth must be disabled unless a Bluetooth module is installed.",
+      "requirements": [
+        "For PS5 use, disable console Bluetooth unless the board has a Bluetooth module.",
+        "Install and configure the DIY board in a compatible controller build."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_controller_input",
+          "feature_name": "PS5 controller input",
+          "status": "supported",
+          "notes": "PS5 is officially listed.",
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ]
+        },
+        {
+          "feature_id": "ps5_bluetooth_setting",
+          "feature_name": "PS5 Bluetooth setting",
+          "status": "supported_with_requirements",
+          "notes": "Disable PS5 Bluetooth unless a Bluetooth module is installed.",
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5x-ps5-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5X mini is officially listed for PS5; PS5 Bluetooth must be disabled unless a Bluetooth module is installed.",
+          "requirements": [
+            "For PS5 use, disable console Bluetooth unless the board has a Bluetooth module.",
+            "Install and configure the DIY board in a compatible controller build."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_controller_input",
+              "feature_name": "PS5 controller input",
+              "status": "supported",
+              "notes": "PS5 is officially listed.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            },
+            {
+              "feature_id": "ps5_bluetooth_setting",
+              "feature_name": "PS5 Bluetooth setting",
+              "status": "supported_with_requirements",
+              "notes": "Disable PS5 Bluetooth unless a Bluetooth module is installed.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5X mini is officially listed for PS5; PS5 Bluetooth must be disabled unless a Bluetooth module is installed.",
+          "requirements": [
+            "For PS5 use, disable console Bluetooth unless the board has a Bluetooth module.",
+            "Install and configure the DIY board in a compatible controller build."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_controller_input",
+              "feature_name": "PS5 controller input",
+              "status": "supported",
+              "notes": "PS5 is officially listed.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            },
+            {
+              "feature_id": "ps5_bluetooth_setting",
+              "feature_name": "PS5 Bluetooth setting",
+              "status": "supported_with_requirements",
+              "notes": "Disable PS5 Bluetooth unless a Bluetooth module is installed.",
+              "evidence_ids": [
+                "ev-brook-gen5x-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5x-ps5-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700-flat-elite-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f700-flat-elite",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "F700 FLAT Elite is officially supported on PS5 only for fighting games via 2.4G or wired USB.",
+      "requirements": [
+        "Use 2.4G or wired USB mode.",
+        "Use with supported PS5 fighting games."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_fighting_games",
+          "feature_name": "PS5 fighting-game use",
+          "status": "limited",
+          "notes": "Official support is limited to fighting games.",
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ]
+        },
+        {
+          "feature_id": "ps5_connection_mode",
+          "feature_name": "PS5 connection mode",
+          "status": "supported_with_requirements",
+          "notes": "Use 2.4G or wired USB.",
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "F700 FLAT Elite is officially supported on PS5 only for fighting games via 2.4G or wired USB.",
+          "requirements": [
+            "Use 2.4G or wired USB mode.",
+            "Use with supported PS5 fighting games."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_fighting_games",
+              "feature_name": "PS5 fighting-game use",
+              "status": "limited",
+              "notes": "Official support is limited to fighting games.",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+              ]
+            },
+            {
+              "feature_id": "ps5_connection_mode",
+              "feature_name": "PS5 connection mode",
+              "status": "supported_with_requirements",
+              "notes": "Use 2.4G or wired USB.",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "F700 FLAT Elite is officially supported on PS5 only for fighting games via 2.4G or wired USB.",
+          "requirements": [
+            "Use 2.4G or wired USB mode.",
+            "Use with supported PS5 fighting games."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_fighting_games",
+              "feature_name": "PS5 fighting-game use",
+              "status": "limited",
+              "notes": "Official support is limited to fighting games.",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+              ]
+            },
+            {
+              "feature_id": "ps5_connection_mode",
+              "feature_name": "PS5 connection mode",
+              "status": "supported_with_requirements",
+              "notes": "Use 2.4G or wired USB.",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700x-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f700x",
+      "region": "JP",
+      "overall_status": "incompatible",
+      "publication_status": "published",
+      "summary": "F700X is explicitly stated by MAYFLASH not to work with PS5.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_compatibility",
+          "feature_name": "PS5 compatibility",
+          "status": "unsupported",
+          "notes": "Official page states F700X does not work with PS5.",
+          "evidence_ids": [
+            "ev-mayflash-f700x-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700x-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "incompatible",
+          "publication_status": "under_review",
+          "summary": "F700X is explicitly stated by MAYFLASH not to work with PS5.",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_compatibility",
+              "feature_name": "PS5 compatibility",
+              "status": "unsupported",
+              "notes": "Official page states F700X does not work with PS5.",
+              "evidence_ids": [
+                "ev-mayflash-f700x-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700x-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "incompatible",
+          "publication_status": "published",
+          "summary": "F700X is explicitly stated by MAYFLASH not to work with PS5.",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_compatibility",
+              "feature_name": "PS5 compatibility",
+              "status": "unsupported",
+              "notes": "Official page states F700X does not work with PS5.",
+              "evidence_ids": [
+                "ev-mayflash-f700x-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700x-multiplatform-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "incompatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "incompatible",
+          "new_status": "incompatible"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271u-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "benq-ex271u",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "EX271U is listed by BenQ for PS5 at documented video modes.",
+      "requirements": [
+        "Use the PS5 mode documented by BenQ: 4K/2K/1080p 120Hz HDR."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "Official table lists 4K/2K/1080p 120Hz HDR for PS5.",
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq-ex271u-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "EX271U is listed by BenQ for PS5 at documented video modes.",
+          "requirements": [
+            "Use the PS5 mode documented by BenQ: 4K/2K/1080p 120Hz HDR."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Official table lists 4K/2K/1080p 120Hz HDR for PS5.",
+              "evidence_ids": [
+                "ev-benq-ex271u-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "EX271U is listed by BenQ for PS5 at documented video modes.",
+          "requirements": [
+            "Use the PS5 mode documented by BenQ: 4K/2K/1080p 120Hz HDR."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Official table lists 4K/2K/1080p 120Hz HDR for PS5.",
+              "evidence_ids": [
+                "ev-benq-ex271u-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271u-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "benq-ex271u",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "EX271U is listed by BenQ for Steam Deck at documented video modes.",
+      "requirements": [
+        "Use the Steam Deck mode documented by BenQ: 4K/2K/1080p 120Hz HDR."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "Official table lists 4K/2K/1080p 120Hz HDR for Steam Deck.",
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq-ex271u-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "EX271U is listed by BenQ for Steam Deck at documented video modes.",
+          "requirements": [
+            "Use the Steam Deck mode documented by BenQ: 4K/2K/1080p 120Hz HDR."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Official table lists 4K/2K/1080p 120Hz HDR for Steam Deck.",
+              "evidence_ids": [
+                "ev-benq-ex271u-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "EX271U is listed by BenQ for Steam Deck at documented video modes.",
+          "requirements": [
+            "Use the Steam Deck mode documented by BenQ: 4K/2K/1080p 120Hz HDR."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Official table lists 4K/2K/1080p 120Hz HDR for Steam Deck.",
+              "evidence_ids": [
+                "ev-benq-ex271u-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271u-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "benq-ex271u",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "EX271U is listed by BenQ for ROG Ally at documented video modes.",
+      "requirements": [
+        "Use the ROG Ally mode documented by BenQ: 4K/2K/1080p 144Hz HDR."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "Official table lists 4K/2K/1080p 144Hz HDR for ROG Ally.",
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq-ex271u-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "EX271U is listed by BenQ for ROG Ally at documented video modes.",
+          "requirements": [
+            "Use the ROG Ally mode documented by BenQ: 4K/2K/1080p 144Hz HDR."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Official table lists 4K/2K/1080p 144Hz HDR for ROG Ally.",
+              "evidence_ids": [
+                "ev-benq-ex271u-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "EX271U is listed by BenQ for ROG Ally at documented video modes.",
+          "requirements": [
+            "Use the ROG Ally mode documented by BenQ: 4K/2K/1080p 144Hz HDR."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Official table lists 4K/2K/1080p 144Hz HDR for ROG Ally.",
+              "evidence_ids": [
+                "ev-benq-ex271u-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq-ex271u-multiplatform-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-hd60-x-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "elgato-hd60-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "HD60 X officially supports PS5 as a capture source with HDMI and external capture-host requirements.",
+      "requirements": [
+        "Provide unencrypted HDMI output.",
+        "Use a compatible external capture host and capture software."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is an officially supported HDMI source.",
+          "evidence_ids": [
+            "ev-elgato-hd60x-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-hd60x-ps5-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "HD60 X officially supports PS5 as a capture source with HDMI and external capture-host requirements.",
+          "requirements": [
+            "Provide unencrypted HDMI output.",
+            "Use a compatible external capture host and capture software."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an officially supported HDMI source.",
+              "evidence_ids": [
+                "ev-elgato-hd60x-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-hd60x-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "HD60 X officially supports PS5 as a capture source with HDMI and external capture-host requirements.",
+          "requirements": [
+            "Provide unencrypted HDMI output.",
+            "Use a compatible external capture host and capture software."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an officially supported HDMI source.",
+              "evidence_ids": [
+                "ev-elgato-hd60x-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-hd60x-ps5-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc551g2-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "avermedia-gc551g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC551G2 official information lists PS5 compatibility; capture requires its separate compatible host environment.",
+      "requirements": [
+        "Use a compatible external capture host environment."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is listed by the official GC551G2 information.",
+          "evidence_ids": [
+            "ev-avermedia-gc551g2-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc551g2-ps5-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC551G2 official information lists PS5 compatibility; capture requires its separate compatible host environment.",
+          "requirements": [
+            "Use a compatible external capture host environment."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is listed by the official GC551G2 information.",
+              "evidence_ids": [
+                "ev-avermedia-gc551g2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc551g2-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC551G2 official information lists PS5 compatibility; capture requires its separate compatible host environment.",
+          "requirements": [
+            "Use a compatible external capture host environment."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is listed by the official GC551G2 information.",
+              "evidence_ids": [
+                "ev-avermedia-gc551g2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc551g2-ps5-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-usb-adapter-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "8bitdo-usb-adapter",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo Wireless USB Adapter is officially documented for Steam Deck in Xinput mode with SteamOS Holo 3.4+.",
+      "requirements": [
+        "Update Steam Deck and use adapter Xinput mode.",
+        "SteamOS Holo 3.4+ is required."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": "SteamOS Holo 3.4+",
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_adapter_connection",
+          "feature_name": "Steam Deck adapter connection",
+          "status": "supported_with_requirements",
+          "notes": "Use Xinput mode with SteamOS Holo 3.4+.",
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter-steamdeck-20260901"
+          ]
+        },
+        {
+          "feature_id": "controller_type",
+          "feature_name": "Controller type",
+          "status": "limited",
+          "notes": "2.4G controllers are not supported by this adapter.",
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter-steamdeck-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-usb-adapter-steamdeck-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo Wireless USB Adapter is officially documented for Steam Deck in Xinput mode with SteamOS Holo 3.4+.",
+          "requirements": [
+            "Update Steam Deck and use adapter Xinput mode.",
+            "SteamOS Holo 3.4+ is required."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_connection",
+              "feature_name": "Steam Deck adapter connection",
+              "status": "supported_with_requirements",
+              "notes": "Use Xinput mode with SteamOS Holo 3.4+.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter-steamdeck-20260901"
+              ]
+            },
+            {
+              "feature_id": "controller_type",
+              "feature_name": "Controller type",
+              "status": "limited",
+              "notes": "2.4G controllers are not supported by this adapter.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter-steamdeck-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter-steamdeck-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo Wireless USB Adapter is officially documented for Steam Deck in Xinput mode with SteamOS Holo 3.4+.",
+          "requirements": [
+            "Update Steam Deck and use adapter Xinput mode.",
+            "SteamOS Holo 3.4+ is required."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_connection",
+              "feature_name": "Steam Deck adapter connection",
+              "status": "supported_with_requirements",
+              "notes": "Use Xinput mode with SteamOS Holo 3.4+.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter-steamdeck-20260901"
+              ]
+            },
+            {
+              "feature_id": "controller_type",
+              "feature_name": "Controller type",
+              "status": "limited",
+              "notes": "2.4G controllers are not supported by this adapter.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter-steamdeck-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter-steamdeck-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700-flat-elite-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f700-flat-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "F700 FLAT Elite is officially listed for Steam Deck through Xinput 2.4G, Bluetooth, or wired USB.",
+      "requirements": [
+        "Use Xinput 2.4G, Bluetooth, or wired USB mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use an officially listed connection mode.",
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "F700 FLAT Elite is officially listed for Steam Deck through Xinput 2.4G, Bluetooth, or wired USB.",
+          "requirements": [
+            "Use Xinput 2.4G, Bluetooth, or wired USB mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use an officially listed connection mode.",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "F700 FLAT Elite is officially listed for Steam Deck through Xinput 2.4G, Bluetooth, or wired USB.",
+          "requirements": [
+            "Use Xinput 2.4G, Bluetooth, or wired USB mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use an officially listed connection mode.",
+              "evidence_ids": [
+                "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-flat-elite-multiplatform-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700x-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f700x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "F700X is officially listed for Steam Deck through Xinput 2.4G, Bluetooth, or wired USB.",
+      "requirements": [
+        "Use Xinput 2.4G, Bluetooth, or wired USB mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use an officially listed connection mode.",
+          "evidence_ids": [
+            "ev-mayflash-f700x-multiplatform-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700x-multiplatform-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "F700X is officially listed for Steam Deck through Xinput 2.4G, Bluetooth, or wired USB.",
+          "requirements": [
+            "Use Xinput 2.4G, Bluetooth, or wired USB mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use an officially listed connection mode.",
+              "evidence_ids": [
+                "ev-mayflash-f700x-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700x-multiplatform-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "F700X is officially listed for Steam Deck through Xinput 2.4G, Bluetooth, or wired USB.",
+          "requirements": [
+            "Use Xinput 2.4G, Bluetooth, or wired USB mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use an officially listed connection mode.",
+              "evidence_ids": [
+                "ev-mayflash-f700x-multiplatform-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700x-multiplatform-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "avermedia-gc313",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC313 is officially identified for Steamdeck dock use with documented video/capture limits.",
+      "requirements": [
+        "Use the documented USB-C display-output/dock connection."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "Use the documented USB-C dock/video connection.",
+          "evidence_ids": [
+            "ev-avermedia-gc313-steam-ally-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc313-steam-ally-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC313 is officially identified for Steamdeck dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313-steam-ally-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC313 is officially identified for Steamdeck dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313-steam-ally-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "avermedia-gc313",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC313 is officially identified for Rog Ally dock use with documented video/capture limits.",
+      "requirements": [
+        "Use the documented USB-C display-output/dock connection."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "Use the documented USB-C dock/video connection.",
+          "evidence_ids": [
+            "ev-avermedia-gc313-steam-ally-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc313-steam-ally-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC313 is officially identified for Rog Ally dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313-steam-ally-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC313 is officially identified for Rog Ally dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313-steam-ally-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313pro-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "avermedia-gc313pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC313Pro is officially identified for Steamdeck dock use with documented video/capture limits.",
+      "requirements": [
+        "Use the documented USB-C display-output/dock connection."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Use the documented USB-C dock/video connection.",
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-steam-ally-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc313pro-steam-ally-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC313Pro is officially identified for Steamdeck dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313pro-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-steam-ally-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC313Pro is officially identified for Steamdeck dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313pro-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-steam-ally-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313pro-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "avermedia-gc313pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC313Pro is officially identified for Rog Ally dock use with documented video/capture limits.",
+      "requirements": [
+        "Use the documented USB-C display-output/dock connection."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Use the documented USB-C dock/video connection.",
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-steam-ally-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc313pro-steam-ally-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC313Pro is officially identified for Rog Ally dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313pro-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-steam-ally-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC313Pro is officially identified for Rog Ally dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc313pro-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc313pro-steam-ally-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc515-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "avermedia-gc515",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC515 is officially identified for Steamdeck dock use with documented video/capture limits.",
+      "requirements": [
+        "Use the documented USB-C display-output/dock connection."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Use the documented USB-C dock/video connection.",
+          "evidence_ids": [
+            "ev-avermedia-gc515-steam-ally-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc515-steam-ally-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC515 is officially identified for Steamdeck dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc515-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc515-steam-ally-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC515 is officially identified for Steamdeck dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc515-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc515-steam-ally-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc515-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "avermedia-gc515",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC515 is officially identified for Rog Ally dock use with documented video/capture limits.",
+      "requirements": [
+        "Use the documented USB-C display-output/dock connection."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Use the documented USB-C dock/video connection.",
+          "evidence_ids": [
+            "ev-avermedia-gc515-steam-ally-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc515-steam-ally-20260901"
+      ],
+      "created_by": "multi_platform_first_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T21:56:32+09:00",
+      "verified_at": "2026-09-01T12:00:00+09:00",
+      "next_review_at": "2026-12-01T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC515 is officially identified for Rog Ally dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc515-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc515-steam-ally-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T12:00:00+09:00",
+          "captured_by": "multi_platform_first_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T21:56:32+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC515 is officially identified for Rog Ally dock use with documented video/capture limits.",
+          "requirements": [
+            "Use the documented USB-C display-output/dock connection."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Use the documented USB-C dock/video connection.",
+              "evidence_ids": [
+                "ev-avermedia-gc515-steam-ally-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc515-steam-ally-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T12:00:00+09:00",
+          "changed_by": "multi_platform_first_batch_20260901",
+          "change_reason": "Initial official-primary-source multi-platform assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T21:56:32+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -29809,6 +32189,204 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Official page lists Nintendo Switch 2 device compatibility and 256GB, 512GB and 1TB variants; part numbers LMSXPS0256G-BNNNU, LMSXPS0512G-BNNNU and LMSXPS0001T-BNNNU.",
       "created_by": "candidates1000_batch2_preparation"
+    },
+    {
+      "evidence_id": "ev-brook-ras1ution2-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/ras1ution2/index.html",
+      "source_title": "Brook Ras1ution 2",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official page lists PS5 support; racing-wheel conversion depends on supported games and wheel/pedal compatibility.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-brook-gen5x-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5xseries/index.html",
+      "source_title": "Brook Gen-5X Series",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official Gen-5X page lists PS5 support. Mini board requires PS5 Bluetooth disabled unless a Bluetooth module is installed.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-f700-flat-elite-multiplatform-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/All_Button_Arcade_Controller_F700_FLAT_Elite.html",
+      "source_title": "MAYFLASH F700 FLAT Elite",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official product page lists PS5 support for fighting games via 2.4G/wired USB and Steam Deck support via Xinput 2.4G, Bluetooth, or wired USB.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-f700x-multiplatform-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/Wireless_Arcade_Stick_F700X.html",
+      "source_title": "MAYFLASH F700X",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official page states F700X does not work with PS5 and lists Steam Deck support through Xinput 2.4G, Bluetooth, or wired USB.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-benq-ex271u-multiplatform-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/en-us/monitor/gaming/ex271u.html",
+      "source_title": "BenQ EX271U",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official game compatibility table lists PS5: 4K/2K/1080p 120Hz HDR; Steam Deck: 4K/2K/1080p 120Hz HDR; ROG Ally: 4K/2K/1080p 144Hz HDR.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-elgato-hd60x-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/5293216945805-Elgato-Game-Capture-HD60-X-Technical-Specifications",
+      "source_title": "Elgato Game Capture HD60 X technical specifications",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official technical specifications list PlayStation 5 as a supported HDMI source, subject to unencrypted HDMI and capture-host/software requirements.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc551g2-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://shop-us.avermedia.com/products/avermedia-live-gamer-extreme-3-gc551g2",
+      "source_title": "AVerMedia Live Gamer EXTREME 3 GC551G2",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official GC551G2 product information lists PS5 compatibility and the device's capture/passthrough specifications.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-8bitdo-usb-adapter-steamdeck-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/wireless-usb-adapter/",
+      "source_title": "8BitDo Wireless USB Adapter",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": "SteamOS Holo 3.4+",
+      "excerpt_or_location": "Official Steam Deck instructions require the adapter's Xinput mode and SteamOS Holo 3.4+; it supports classic Bluetooth controllers, not 2.4G controllers.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc313-steam-ally-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://shop-us.avermedia.com/products/gc313-core-go-black-portable-charger",
+      "source_title": "AVerMedia CORE GO GC313",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official product page identifies Steam Deck and ROG Ally dock use, USB-C DP Alt Mode video input, 4K60 HDMI output, and no on-device recording.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc313pro-steam-ally-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://shop-us.avermedia.com/products/gc313pro-elite-go-black-capture-card-and-chager",
+      "source_title": "AVerMedia ELITE GO GC313Pro",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official product page identifies Steam Deck and ROG Ally support, 1080p60 capture, 4K60 HDMI output, and 100W charging.",
+      "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc515-steam-ally-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://shop-us.avermedia.com/collections/all-products/products/xtra-go-gc515-black-steam-deck-dock",
+      "source_title": "AVerMedia X'TRA GO GC515",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official product page identifies Steam Deck and ROG Ally dock use, 4K30 one-touch recording, 4K60 HDMI output, and 65W charging.",
+      "created_by": "multi_platform_first_batch_20260901"
     }
   ]
 }

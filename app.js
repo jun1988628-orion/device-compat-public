@@ -3,7 +3,6 @@ let PRODUCTS = new Map();
 let EVIDENCE = new Map();
 
 const DATA_FILE = "public-data.json";
-const HOST_ID = "host-switch2";
 const REGION = "JP";
 
 const $ = (s) => document.querySelector(s);
@@ -111,20 +110,35 @@ function searchProducts(query) {
     .map(({ product }) => product);
 }
 
-function publishedRecord(productId) {
-  const matches = DATASET.compatibility_records
+function publishedRecordsForProduct(dataset, productId, region = REGION) {
+  return dataset.compatibility_records
     .filter((r) =>
       r.accessory_product_id === productId &&
-      r.host_product_id === HOST_ID &&
-      r.region === REGION &&
+      r.region === region &&
       r.publication_status === "published"
     )
     .sort((a, b) => {
+      // Keep the established Switch 2 result first when it exists. New hosts
+      // remain separate records and are never used to infer a missing result.
+      if (a.host_product_id === "host-switch2" && b.host_product_id !== "host-switch2") return -1;
+      if (b.host_product_id === "host-switch2" && a.host_product_id !== "host-switch2") return 1;
       if (b.revision !== a.revision) return b.revision - a.revision;
       return new Date(b.verified_at) - new Date(a.verified_at);
     });
+}
 
-  return matches[0] || null;
+function relationshipRoleNotice(role) {
+  if (role === "capture_source") {
+    return "<p class=\"role-note\">このplatformはこの製品への映像キャプチャー入力源として確認されています。PCがこのplatform上で動作する、またはPC host互換性を示すものではありません。</p>";
+  }
+  if (role === "display_sink") {
+    return "<p class=\"role-note\">このplatformから本製品へ映像を出力する用途として確認されています。</p>";
+  }
+  return "";
+}
+
+function publishedRecords(productId) {
+  return publishedRecordsForProduct(DATASET, productId);
 }
 
 function renderCandidates(products) {
@@ -182,9 +196,9 @@ function renderEvidence(ids) {
 
 function renderProduct(productId) {
   const p = PRODUCTS.get(productId);
-  const r = publishedRecord(productId);
+  const records = publishedRecords(productId);
 
-  if (!r) {
+  if (!records.length) {
     $("#result").innerHTML = `
       <article class="card">
         <h2>${escapeHtml(p.product_name)}</h2>
@@ -193,61 +207,90 @@ function renderProduct(productId) {
     return;
   }
 
-  const host = PRODUCTS.get(r.host_product_id);
-  const allEvidence = [
-    ...r.evidence_ids,
-    ...r.feature_assessments.flatMap((f) => f.evidence_ids || [])
-  ];
+  // Preserve the established Switch 2-only page rendering byte-for-byte in
+  // structure when exactly one published host record exists.
+  if (records.length === 1) {
+    const r = records[0];
+    const host = PRODUCTS.get(r.host_product_id);
+    const allEvidence = [
+      ...r.evidence_ids,
+      ...r.feature_assessments.flatMap((f) => f.evidence_ids || [])
+    ];
 
+    $("#result").innerHTML = `
+      <article class="card">
+        <div class="head">
+          <div>
+            <div class="kicker">${escapeHtml(p.manufacturer)} · ${escapeHtml(p.category)}</div>
+            <h2>${escapeHtml(p.product_name)} × ${escapeHtml(host?.product_name || r.host_product_id)}</h2>
+            <p>${escapeHtml(r.summary)}</p>
+          </div>
+          <span class="status ${statusClass(r.overall_status)}">
+            ${escapeHtml(overallLabel(r.overall_status))}
+          </span>
+        </div>
+
+        ${r.requirements.length ? `
+          <section>
+            <h3>必要条件</h3>
+            <ul>${r.requirements.map((x) => `<li>${escapeHtml(x)}</li>`).join("")}</ul>
+          </section>` : ""}
+
+        ${relationshipRoleNotice(r.relationship_role)}
+
+        <section class="meta">
+          <div><strong>型番:</strong> ${escapeHtml(p.model_number ?? "未記録")}</div>
+          <div><strong>最低FW:</strong> ${escapeHtml(r.minimum_firmware ?? "指定なし")}</div>
+          <div><strong>公式掲載FW:</strong> ${escapeHtml(r.verified_firmware ?? "未記録")}</div>
+          <div><strong>対象OS:</strong> ${escapeHtml(r.host_os_version ?? "指定なし")}</div>
+          <div><strong>最終検証:</strong> ${escapeHtml(r.verified_at)}</div>
+          <div><strong>Revision:</strong> ${r.revision}</div>
+        </section>
+
+        <section>
+          <h3>機能別</h3>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>機能</th><th>判定</th><th>補足</th></tr></thead>
+              <tbody>
+                ${r.feature_assessments.map((f) => `
+                  <tr>
+                    <td>${escapeHtml(f.feature_name)}</td>
+                    <td>${escapeHtml(featureLabel(f.status))}</td>
+                    <td>${escapeHtml(f.notes)}</td>
+                  </tr>`).join("")}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section>
+          <h3>根拠</h3>
+          ${renderEvidence(allEvidence)}
+        </section>
+      </article>`;
+    return;
+  }
+
+  // A missing host record is intentionally not rendered as unknown. Only
+  // published, explicitly recorded platforms appear below.
   $("#result").innerHTML = `
     <article class="card">
-      <div class="head">
-        <div>
-          <div class="kicker">${escapeHtml(p.manufacturer)} · ${escapeHtml(p.category)}</div>
-          <h2>${escapeHtml(p.product_name)} × ${escapeHtml(host?.product_name || r.host_product_id)}</h2>
-          <p>${escapeHtml(r.summary)}</p>
-        </div>
-        <span class="status ${statusClass(r.overall_status)}">
-          ${escapeHtml(overallLabel(r.overall_status))}
-        </span>
-      </div>
-
-      ${r.requirements.length ? `
-        <section>
-          <h3>必要条件</h3>
-          <ul>${r.requirements.map((x) => `<li>${escapeHtml(x)}</li>`).join("")}</ul>
-        </section>` : ""}
-
-      <section class="meta">
-        <div><strong>型番:</strong> ${escapeHtml(p.model_number ?? "未記録")}</div>
-        <div><strong>最低FW:</strong> ${escapeHtml(r.minimum_firmware ?? "指定なし")}</div>
-        <div><strong>公式掲載FW:</strong> ${escapeHtml(r.verified_firmware ?? "未記録")}</div>
-        <div><strong>対象OS:</strong> ${escapeHtml(r.host_os_version ?? "指定なし")}</div>
-        <div><strong>最終検証:</strong> ${escapeHtml(r.verified_at)}</div>
-        <div><strong>Revision:</strong> ${r.revision}</div>
-      </section>
-
-      <section>
-        <h3>機能別</h3>
-        <div class="table-wrap">
-          <table>
-            <thead><tr><th>機能</th><th>判定</th><th>補足</th></tr></thead>
-            <tbody>
-              ${r.feature_assessments.map((f) => `
-                <tr>
-                  <td>${escapeHtml(f.feature_name)}</td>
-                  <td>${escapeHtml(featureLabel(f.status))}</td>
-                  <td>${escapeHtml(f.notes)}</td>
-                </tr>`).join("")}
-            </tbody>
-          </table>
-        </div>
-      </section>
-
-      <section>
-        <h3>根拠</h3>
-        ${renderEvidence(allEvidence)}
-      </section>
+      <div class="kicker">${escapeHtml(p.manufacturer)} · ${escapeHtml(p.category)}</div>
+      <h2>${escapeHtml(p.product_name)}</h2>
+      <p>公開済みのplatform別判定のみを表示しています。recordがないplatformは表示しません。</p>
+      ${records.map((r) => {
+        const host = PRODUCTS.get(r.host_product_id);
+        const allEvidence = [...r.evidence_ids, ...r.feature_assessments.flatMap((f) => f.evidence_ids || [])];
+        return `<section class="platform-result">
+          <div class="head"><div><h3>${escapeHtml(host?.product_name || r.host_product_id)}</h3><p>${escapeHtml(r.summary)}</p></div>
+          <span class="status ${statusClass(r.overall_status)}">${escapeHtml(overallLabel(r.overall_status))}</span></div>
+          ${relationshipRoleNotice(r.relationship_role)}
+          ${r.requirements.length ? `<h4>必要条件</h4><ul>${r.requirements.map((x) => `<li>${escapeHtml(x)}</li>`).join("")}</ul>` : ""}
+          <h4>機能別</h4><ul>${r.feature_assessments.map((f) => `<li><strong>${escapeHtml(f.feature_name)}</strong>: ${escapeHtml(featureLabel(f.status))} — ${escapeHtml(f.notes)}</li>`).join("")}</ul>
+          <h4>根拠</h4>${renderEvidence(allEvidence)}
+        </section>`;
+      }).join("")}
     </article>`;
 }
 
@@ -375,7 +418,11 @@ function renderNotFound(query) {
   });
 }
 
-document.addEventListener("DOMContentLoaded", async () => {
+if (typeof module !== "undefined") {
+  module.exports = { publishedRecordsForProduct };
+}
+
+if (typeof document !== "undefined") document.addEventListener("DOMContentLoaded", async () => {
   try {
     initSupabase();
     await loadDataset();

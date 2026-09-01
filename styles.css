@@ -27,6 +27,8 @@ th{font-size:.86rem;color:#656d78}
 .evidence{border-left:3px solid #d7dce3;padding:10px 14px;margin:12px 0}
 .evidence div{font-size:.9rem;color:#616974;margin-top:4px;line-height:1.55}
 .evidence a{display:inline-block;margin-top:8px}
+.platform-result{margin-top:18px;padding-top:18px;border-top:1px solid #e1e5ea}
+.platform-result h3,.platform-result h4{margin-bottom:8px}
 .candidate{width:100%;display:block;text-align:left;background:#fff;border:1px solid #d7dce3;border-radius:11px;padding:13px;margin-top:9px;color:#17191c}
 .candidate:hover{background:#f7f8fa}
 .candidate span{display:block;color:#717985;font-size:.87rem;margin-top:4px}

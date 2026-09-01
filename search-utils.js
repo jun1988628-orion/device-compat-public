@@ -1,7 +1,6 @@
 (function (global) {
   "use strict";
 
-  const HOST_ID = "host-switch2";
   const REGION = "JP";
   const MAX_RESULTS = 20;
 
@@ -102,11 +101,29 @@
     const products = new Map(dataset.products.map((product) => [product.product_id, product]));
     const published = dataset.compatibility_records.filter((record) =>
       record.publication_status === "published" &&
-      record.host_product_id === HOST_ID &&
       record.region === REGION &&
       products.has(record.accessory_product_id)
     );
-    return published.map((record) => ({ product: products.get(record.accessory_product_id), record }));
+    // A product can have multiple explicit host-platform records. Search is
+    // product-oriented, so aggregate those records instead of duplicating the
+    // result or silently picking one platform's status.
+    const byProduct = new Map();
+    for (const record of published) {
+      const productId = record.accessory_product_id;
+      if (!byProduct.has(productId)) {
+        byProduct.set(productId, {
+          product: products.get(productId),
+          // `record` remains for backward-compatible consumers. It is never
+          // used to represent an absent platform; callers needing platform
+          // facts must use `records`.
+          record,
+          records: [record]
+        });
+      } else {
+        byProduct.get(productId).records.push(record);
+      }
+    }
+    return [...byProduct.values()];
   }
 
   function wordTokens(query) {

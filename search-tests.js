@@ -1,6 +1,7 @@
 const fs = require("fs");
 const assert = require("assert");
 const search = require("./search-utils.js");
+const app = require("./app.js");
 const dataset = JSON.parse(fs.readFileSync("public-data.json", "utf8"));
 
 function ids(query) {
@@ -33,4 +34,38 @@ assert(search.searchPublishedProducts(dataset, "powera").every((entry) => entry.
 const unpublishedDataset = structuredClone(dataset);
 unpublishedDataset.compatibility_records.find((record) => record.accessory_product_id === "nintendo-switch2-camera").publication_status = "under_review";
 assert(!idsFrom(unpublishedDataset, "カメラ").includes("nintendo-switch2-camera"), "under_review records must not be returned");
-console.log("SEARCH TESTS: PASS (15 assertions)");
+
+const multiHostDataset = structuredClone(dataset);
+const switch2Host = multiHostDataset.products.find((product) => product.product_id === "host-switch2");
+const switch2Record = multiHostDataset.compatibility_records.find((record) => record.accessory_product_id === "8bitdo-usb-adapter");
+if (!multiHostDataset.products.some((product) => product.product_id === "host-steam-deck")) {
+  multiHostDataset.products.push({
+    ...switch2Host,
+    product_id: "host-steam-deck",
+    manufacturer: "Valve",
+    product_name: "Steam Deck",
+    aliases: ["Steam Deck"]
+  });
+}
+// Isolate the fixture from newly published real platform records.
+multiHostDataset.compatibility_records = multiHostDataset.compatibility_records.filter(
+  (record) => record.accessory_product_id !== "8bitdo-usb-adapter"
+);
+multiHostDataset.compatibility_records.push(switch2Record);
+multiHostDataset.compatibility_records.push({
+  ...switch2Record,
+  compatibility_id: "cmp-search-fixture-8bitdo-usb-adapter-steamdeck-r1",
+  host_product_id: "host-steam-deck"
+});
+const multiHostResults = search.searchPublishedProducts(multiHostDataset, "8bitdo usb adapter");
+assert.strictEqual(
+  multiHostResults.filter((entry) => entry.product.product_id === "8bitdo-usb-adapter").length,
+  1,
+  "same product with two hosts must appear once in search results"
+);
+const aggregate = multiHostResults.find((entry) => entry.product.product_id === "8bitdo-usb-adapter");
+assert.strictEqual(aggregate.records.length, 2, "platform records must remain available to the renderer");
+const renderedRecords = app.publishedRecordsForProduct(multiHostDataset, "8bitdo-usb-adapter");
+assert.strictEqual(renderedRecords.length, 2, "renderer must retain two explicit host records");
+assert(!renderedRecords.some((record) => record.host_product_id === "host-ps5"), "absent host must be omitted, never represented as unknown");
+console.log("SEARCH TESTS: PASS (19 assertions)");
