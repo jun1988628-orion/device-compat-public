@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-01T21:56:32+09:00",
+  "dataset_generated_at": "2026-09-01T22:15:19+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -29217,6 +29217,2997 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700-elite-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f700-elite",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "F700 Elite is officially listed for PS5 fighting games only.",
+      "requirements": [
+        "Use 2.4G or wired USB.",
+        "Use only supported PS5 fighting games."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_fighting_game_use",
+          "feature_name": "PS5 fighting-game use",
+          "status": "limited",
+          "notes": "Official PS5 use is limited to fighting games.",
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ]
+        },
+        {
+          "feature_id": "ps5_connection",
+          "feature_name": "PS5 connection",
+          "status": "supported_with_requirements",
+          "notes": "Use 2.4G or wired USB.",
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700-elite-ps5-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "limited_compatibility",
+          "publication_status": "under_review",
+          "summary": "F700 Elite is officially listed for PS5 fighting games only.",
+          "requirements": [
+            "Use 2.4G or wired USB.",
+            "Use only supported PS5 fighting games."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_fighting_game_use",
+              "feature_name": "PS5 fighting-game use",
+              "status": "limited",
+              "notes": "Official PS5 use is limited to fighting games.",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-ps5-steam-20260901"
+              ]
+            },
+            {
+              "feature_id": "ps5_connection",
+              "feature_name": "PS5 connection",
+              "status": "supported_with_requirements",
+              "notes": "Use 2.4G or wired USB.",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "F700 Elite is officially listed for PS5 fighting games only.",
+          "requirements": [
+            "Use 2.4G or wired USB.",
+            "Use only supported PS5 fighting games."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_fighting_game_use",
+              "feature_name": "PS5 fighting-game use",
+              "status": "limited",
+              "notes": "Official PS5 use is limited to fighting games.",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-ps5-steam-20260901"
+              ]
+            },
+            {
+              "feature_id": "ps5_connection",
+              "feature_name": "PS5 connection",
+              "status": "supported_with_requirements",
+              "notes": "Use 2.4G or wired USB.",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f700-elite-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f700-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "F700 Elite is officially listed for Steam Deck.",
+      "requirements": [
+        "Use an official Xinput, 2.4G, Bluetooth, or wired connection mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use a documented connection mode.",
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f700-elite-ps5-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "F700 Elite is officially listed for Steam Deck.",
+          "requirements": [
+            "Use an official Xinput, 2.4G, Bluetooth, or wired connection mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use a documented connection mode.",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "F700 Elite is officially listed for Steam Deck.",
+          "requirements": [
+            "Use an official Xinput, 2.4G, Bluetooth, or wired connection mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use a documented connection mode.",
+              "evidence_ids": [
+                "ev-mayflash-f700-elite-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f700-elite-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-s-ultimate-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-magic-s-ultimate",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic-S Ultimate has official PS5 support documentation, mainly for fighting games.",
+      "requirements": [
+        "Use firmware M1.06/S1.31 or later.",
+        "Use for the manufacturer-documented PS5 fighting-game scope."
+      ],
+      "minimum_firmware": "M:V1.06 S:V1.31",
+      "verified_firmware": "M:V1.08 S:V1.39",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "ps5_adapter_use",
+          "feature_name": "PS5 adapter use",
+          "status": "supported_with_requirements",
+          "notes": "Official PS5 support is firmware-gated and mainly for fighting games.",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Magic-S Ultimate has official PS5 support documentation, mainly for fighting games.",
+          "requirements": [
+            "Use firmware M1.06/S1.31 or later.",
+            "Use for the manufacturer-documented PS5 fighting-game scope."
+          ],
+          "minimum_firmware": "M:V1.06 S:V1.31",
+          "verified_firmware": "M:V1.08 S:V1.39",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_adapter_use",
+              "feature_name": "PS5 adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Official PS5 support is firmware-gated and mainly for fighting games.",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Magic-S Ultimate has official PS5 support documentation, mainly for fighting games.",
+          "requirements": [
+            "Use firmware M1.06/S1.31 or later.",
+            "Use for the manufacturer-documented PS5 fighting-game scope."
+          ],
+          "minimum_firmware": "M:V1.06 S:V1.31",
+          "verified_firmware": "M:V1.08 S:V1.39",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "ps5_adapter_use",
+              "feature_name": "PS5 adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Official PS5 support is firmware-gated and mainly for fighting games.",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-s-ultimate-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-magic-s-ultimate",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic-S Ultimate is officially supported on Steam Deck.",
+      "requirements": [
+        "Use firmware M1.03/S1.25 or later.",
+        "Use green Steam Deck mode."
+      ],
+      "minimum_firmware": "M:V1.03 S:V1.25",
+      "verified_firmware": "M:V1.08 S:V1.39",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_adapter_use",
+          "feature_name": "Steam Deck adapter use",
+          "status": "supported_with_requirements",
+          "notes": "Official firmware history identifies green Steam Deck mode.",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Magic-S Ultimate is officially supported on Steam Deck.",
+          "requirements": [
+            "Use firmware M1.03/S1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.03 S:V1.25",
+          "verified_firmware": "M:V1.08 S:V1.39",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Official firmware history identifies green Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Magic-S Ultimate is officially supported on Steam Deck.",
+          "requirements": [
+            "Use firmware M1.03/S1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.03 S:V1.25",
+          "verified_firmware": "M:V1.08 S:V1.39",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Official firmware history identifies green Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-ultimate-ps5-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-s-pro-2-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-magic-s-pro-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic-S PRO 2 is officially documented for Steam Deck.",
+      "requirements": [
+        "Use firmware M:V1.10 S:V1.25 or later.",
+        "Use green Steam Deck mode."
+      ],
+      "minimum_firmware": "M:V1.10 S:V1.25",
+      "verified_firmware": "M:V1.11 S:V1.27",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_adapter_use",
+          "feature_name": "Steam Deck adapter use",
+          "status": "supported_with_requirements",
+          "notes": "Use the manufacturer-documented Steam Deck mode.",
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro2-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-s-pro2-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Magic-S PRO 2 is officially documented for Steam Deck.",
+          "requirements": [
+            "Use firmware M:V1.10 S:V1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.10 S:V1.25",
+          "verified_firmware": "M:V1.11 S:V1.27",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro2-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro2-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Magic-S PRO 2 is officially documented for Steam Deck.",
+          "requirements": [
+            "Use firmware M:V1.10 S:V1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.10 S:V1.25",
+          "verified_firmware": "M:V1.11 S:V1.27",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-s-pro2-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-s-pro2-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-ns-2-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-magic-ns-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic-NS 2 is officially documented for Steam Deck.",
+      "requirements": [
+        "Update firmware through MAYFLASH before use.",
+        "Use green Steam Deck mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_adapter_use",
+          "feature_name": "Steam Deck adapter use",
+          "status": "supported_with_requirements",
+          "notes": "Use the manufacturer-documented Steam Deck mode.",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns2-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-ns2-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Magic-NS 2 is officially documented for Steam Deck.",
+          "requirements": [
+            "Update firmware through MAYFLASH before use.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns2-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns2-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Magic-NS 2 is officially documented for Steam Deck.",
+          "requirements": [
+            "Update firmware through MAYFLASH before use.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns2-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns2-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-ns-lite-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-magic-ns-lite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic-NS Lite is officially documented for Steam Deck.",
+      "requirements": [
+        "Use firmware M:V1.05 S:V1.25 or later.",
+        "Use green Steam Deck mode."
+      ],
+      "minimum_firmware": "M:V1.05 S:V1.25",
+      "verified_firmware": "M:V1.06 S:V1.27",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_adapter_use",
+          "feature_name": "Steam Deck adapter use",
+          "status": "supported_with_requirements",
+          "notes": "Use the manufacturer-documented Steam Deck mode.",
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-ns-lite-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Magic-NS Lite is officially documented for Steam Deck.",
+          "requirements": [
+            "Use firmware M:V1.05 S:V1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.05 S:V1.25",
+          "verified_firmware": "M:V1.06 S:V1.27",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Magic-NS Lite is officially documented for Steam Deck.",
+          "requirements": [
+            "Use firmware M:V1.05 S:V1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.05 S:V1.25",
+          "verified_firmware": "M:V1.06 S:V1.27",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-ns-lite-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-ns-lite-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-magic-x-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-magic-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic-X is officially documented for Steam Deck.",
+      "requirements": [
+        "Use firmware M:V1.05 S:V1.25 or later.",
+        "Use green Steam Deck mode."
+      ],
+      "minimum_firmware": "M:V1.05 S:V1.25",
+      "verified_firmware": "M:V1.12 S:V1.39",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_adapter_use",
+          "feature_name": "Steam Deck adapter use",
+          "status": "supported_with_requirements",
+          "notes": "Use the manufacturer-documented Steam Deck mode.",
+          "evidence_ids": [
+            "ev-mayflash-magic-x-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-magic-x-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Magic-X is officially documented for Steam Deck.",
+          "requirements": [
+            "Use firmware M:V1.05 S:V1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.05 S:V1.25",
+          "verified_firmware": "M:V1.12 S:V1.39",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-x-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Magic-X is officially documented for Steam Deck.",
+          "requirements": [
+            "Use firmware M:V1.05 S:V1.25 or later.",
+            "Use green Steam Deck mode."
+          ],
+          "minimum_firmware": "M:V1.05 S:V1.25",
+          "verified_firmware": "M:V1.12 S:V1.39",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_adapter_use",
+              "feature_name": "Steam Deck adapter use",
+              "status": "supported_with_requirements",
+              "notes": "Use the manufacturer-documented Steam Deck mode.",
+              "evidence_ids": [
+                "ev-mayflash-magic-x-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-magic-x-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-pro2-bluetooth-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "8bitdo-pro2-bluetooth",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo Pro 2 Bluetooth is officially documented for Steam Deck.",
+      "requirements": [
+        "SteamOS 3.7.13 or later.",
+        "Select a documented controller mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": "SteamOS 3.7.13+",
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use the exact official SteamOS and mode conditions.",
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-pro2-bluetooth-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo Pro 2 Bluetooth is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS 3.7.13 or later.",
+            "Select a documented controller mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS 3.7.13+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-bluetooth-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo Pro 2 Bluetooth is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS 3.7.13 or later.",
+            "Select a documented controller mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS 3.7.13+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-bluetooth-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro2-bluetooth-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-pro2-wired-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "8bitdo-pro2-wired",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo Pro 2 Wired is officially documented for Steam Deck.",
+      "requirements": [
+        "SteamOS Holo 3.4 or later.",
+        "Connect in Xinput mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": "SteamOS Holo 3.4+",
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use the exact official SteamOS and mode conditions.",
+          "evidence_ids": [
+            "ev-8bitdo-pro2-wired-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-pro2-wired-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo Pro 2 Wired is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS Holo 3.4 or later.",
+            "Connect in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-wired-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro2-wired-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo Pro 2 Wired is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS Holo 3.4 or later.",
+            "Connect in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-pro2-wired-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-pro2-wired-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-ultimate-bluetooth-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "8bitdo-ultimate-bluetooth",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo Ultimate Bluetooth is officially documented for Steam Deck.",
+      "requirements": [
+        "SteamOS Holo 3.4 or later.",
+        "Connect in Xinput mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": "SteamOS Holo 3.4+",
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use the exact official SteamOS and mode conditions.",
+          "evidence_ids": [
+            "ev-8bitdo-ultimate-bluetooth-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-ultimate-bluetooth-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo Ultimate Bluetooth is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS Holo 3.4 or later.",
+            "Connect in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-ultimate-bluetooth-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-ultimate-bluetooth-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo Ultimate Bluetooth is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS Holo 3.4 or later.",
+            "Connect in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-ultimate-bluetooth-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-ultimate-bluetooth-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-ultimate-wired-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "8bitdo-ultimate-wired",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo Ultimate Wired is officially documented for Steam Deck.",
+      "requirements": [
+        "SteamOS Holo 3.4 or later.",
+        "Connect in Xinput mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": "SteamOS Holo 3.4+",
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use the exact official SteamOS and mode conditions.",
+          "evidence_ids": [
+            "ev-8bitdo-ultimate-wired-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-ultimate-wired-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo Ultimate Wired is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS Holo 3.4 or later.",
+            "Connect in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-ultimate-wired-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-ultimate-wired-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo Ultimate Wired is officially documented for Steam Deck.",
+          "requirements": [
+            "SteamOS Holo 3.4 or later.",
+            "Connect in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-ultimate-wired-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-ultimate-wired-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-8bitdo-usb-adapter2-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "8bitdo-usb-adapter2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "8BitDo USB Wireless Adapter 2 is officially documented for Steam Deck.",
+      "requirements": [
+        "Update Steam Deck.",
+        "SteamOS Holo 3.4 or later.",
+        "Connect adapter in Xinput mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": "SteamOS Holo 3.4+",
+      "feature_assessments": [
+        {
+          "feature_id": "steamdeck_connection",
+          "feature_name": "Steam Deck connection",
+          "status": "supported_with_requirements",
+          "notes": "Use the exact official SteamOS and mode conditions.",
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter2-steam-20260901"
+          ]
+        },
+        {
+          "feature_id": "controller_type",
+          "feature_name": "Controller type",
+          "status": "limited",
+          "notes": "Only Bluetooth controllers are supported; 2.4G controllers are not.",
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter2-steam-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-8bitdo-usb-adapter2-steam-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "8BitDo USB Wireless Adapter 2 is officially documented for Steam Deck.",
+          "requirements": [
+            "Update Steam Deck.",
+            "SteamOS Holo 3.4 or later.",
+            "Connect adapter in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter2-steam-20260901"
+              ]
+            },
+            {
+              "feature_id": "controller_type",
+              "feature_name": "Controller type",
+              "status": "limited",
+              "notes": "Only Bluetooth controllers are supported; 2.4G controllers are not.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter2-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter2-steam-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "8BitDo USB Wireless Adapter 2 is officially documented for Steam Deck.",
+          "requirements": [
+            "Update Steam Deck.",
+            "SteamOS Holo 3.4 or later.",
+            "Connect adapter in Xinput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": "SteamOS Holo 3.4+",
+          "feature_assessments": [
+            {
+              "feature_id": "steamdeck_connection",
+              "feature_name": "Steam Deck connection",
+              "status": "supported_with_requirements",
+              "notes": "Use the exact official SteamOS and mode conditions.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter2-steam-20260901"
+              ]
+            },
+            {
+              "feature_id": "controller_type",
+              "feature_name": "Controller type",
+              "status": "limited",
+              "notes": "Only Bluetooth controllers are supported; 2.4G controllers are not.",
+              "evidence_ids": [
+                "ev-8bitdo-usb-adapter2-steam-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-8bitdo-usb-adapter2-steam-20260901"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-s-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "elgato-game-capture-4k-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato 4K S officially supports PS5 as a capture input source.",
+      "requirements": [
+        "Provide unencrypted HDMI output.",
+        "Use a separate compatible capture host and software."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+          "evidence_ids": [
+            "ev-elgato-4ks-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-4ks-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato 4K S officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Provide unencrypted HDMI output.",
+            "Use a separate compatible capture host and software."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-4ks-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-4ks-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato 4K S officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Provide unencrypted HDMI output.",
+            "Use a separate compatible capture host and software."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-4ks-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-4ks-ps5-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-x-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "elgato-game-capture-4k-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato 4K X officially supports PS5 as a capture input source.",
+      "requirements": [
+        "Disable PS5 HDCP.",
+        "Use a separate USB 3.2 capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+          "evidence_ids": [
+            "ev-elgato-4kx-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-4kx-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato 4K X officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable PS5 HDCP.",
+            "Use a separate USB 3.2 capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-4kx-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-4kx-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato 4K X officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable PS5 HDCP.",
+            "Use a separate USB 3.2 capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-4kx-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-4kx-ps5-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato 4K Pro officially supports PS5 as a capture input source.",
+      "requirements": [
+        "Disable PS5 HDCP.",
+        "Use a separate PCIe Windows desktop capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+          "evidence_ids": [
+            "ev-elgato-4kpro-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-4kpro-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato 4K Pro officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable PS5 HDCP.",
+            "Use a separate PCIe Windows desktop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-4kpro-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-4kpro-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato 4K Pro officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable PS5 HDCP.",
+            "Use a separate PCIe Windows desktop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-4kpro-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-4kpro-ps5-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-neo-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "elgato-game-capture-neo",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato Game Capture Neo officially supports PS5 as a capture input source.",
+      "requirements": [
+        "Disable PS5 HDCP.",
+        "Use a separate USB 3.0 desktop or laptop capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+          "evidence_ids": [
+            "ev-elgato-neo-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-neo-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato Game Capture Neo officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable PS5 HDCP.",
+            "Use a separate USB 3.0 desktop or laptop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-neo-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-neo-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "capture_source"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato Game Capture Neo officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable PS5 HDCP.",
+            "Use a separate USB 3.0 desktop or laptop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is an explicit capture input source; the separate PC requirement is not PS5 host support.",
+              "evidence_ids": [
+                "ev-elgato-neo-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-elgato-neo-ps5-20260901"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-g274qpf-e2-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-g274qpf-e2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI G274QPF E2 officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use MSI Console Mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-g274qpf-e2-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-g274qpf-e2-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI G274QPF E2 officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-g274qpf-e2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g274qpf-e2-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI G274QPF E2 officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-g274qpf-e2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-g274qpf-e2-ps5-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-g274qrfw-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-g274qrfw",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI G274QRFW officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use MSI Console Mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI G274QRFW officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI G274QRFW officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-274qrfw-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-mag-274qrfw",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI MAG 274QRFW officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Update monitor firmware to version 009 or later for the documented PS5 Slim HDMI fix."
+      ],
+      "minimum_firmware": "009",
+      "verified_firmware": "009",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-mag274qrfw-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag274qrfw-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI MAG 274QRFW officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Update monitor firmware to version 009 or later for the documented PS5 Slim HDMI fix."
+          ],
+          "minimum_firmware": "009",
+          "verified_firmware": "009",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag274qrfw-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag274qrfw-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI MAG 274QRFW officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Update monitor firmware to version 009 or later for the documented PS5 Slim HDMI fix."
+          ],
+          "minimum_firmware": "009",
+          "verified_firmware": "009",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag274qrfw-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag274qrfw-ps5-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-274qrf-qd-e2-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-mag-274qrf-qd-e2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI MAG 274QRF QD E2 officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use documented Console Mode / PS5 optimization settings."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-mag274qrf-qd-e2-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag274qrf-qd-e2-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI MAG 274QRF QD E2 officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use documented Console Mode / PS5 optimization settings."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag274qrf-qd-e2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag274qrf-qd-e2-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI MAG 274QRF QD E2 officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use documented Console Mode / PS5 optimization settings."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag274qrf-qd-e2-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag274qrf-qd-e2-ps5-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-275qf-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-mag-275qf",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI MAG 275QF officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use documented Console Mode; MSI states QHD 120Hz PS5 support."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-mag275qf-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag275qf-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI MAG 275QF officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use documented Console Mode; MSI states QHD 120Hz PS5 support."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag275qf-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag275qf-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI MAG 275QF officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use documented Console Mode; MSI states QHD 120Hz PS5 support."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag275qf-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag275qf-ps5-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-mag-27cq6pf-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-mag-27cq6pf",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI MAG 27CQ6PF officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use MSI Console Mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-mag27cq6pf-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mag27cq6pf-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI MAG 27CQ6PF officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag27cq6pf-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag27cq6pf-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI MAG 27CQ6PF officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mag27cq6pf-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mag27cq6pf-ps5-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-mpg-275cqrxf-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-mpg-275cqrxf",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI MPG 275CQRXF officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use MSI Console Mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-mpg275cqrxf-ps5-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-mpg275cqrxf-ps5-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI MPG 275CQRXF officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mpg275cqrxf-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mpg275cqrxf-ps5-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI MPG 275CQRXF officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-mpg275cqrxf-ps5-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-mpg275cqrxf-ps5-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-msi-g32cq5p-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "msi-g32cq5p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "MSI G32CQ5P officially documents PS5 Console Mode support.",
+      "requirements": [
+        "Use MSI Console Mode as documented."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "PS5 display output",
+          "status": "supported_with_requirements",
+          "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+          "evidence_ids": [
+            "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+      ],
+      "created_by": "multi_platform_second_batch_20260901",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-01T22:15:19+09:00",
+      "verified_at": "2026-09-01T15:00:00+09:00",
+      "next_review_at": "2026-12-01T15:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "MSI G32CQ5P officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-01T15:00:00+09:00",
+          "captured_by": "multi_platform_second_batch_20260901",
+          "relationship_role": "display_sink"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-01T22:15:19+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "MSI G32CQ5P officially documents PS5 Console Mode support.",
+          "requirements": [
+            "Use MSI Console Mode as documented."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "PS5 display output",
+              "status": "supported_with_requirements",
+              "notes": "Use only the PS5/Console Mode capability stated by MSI; monitor maximum refresh is not a PS5-output claim.",
+              "evidence_ids": [
+                "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-msi-console-mode-g274qrfw-g32cq5p-20260901"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-01T15:00:00+09:00",
+          "changed_by": "multi_platform_second_batch_20260901",
+          "change_reason": "Initial official-primary-source second multi-platform batch assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-01T22:15:19+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -32387,6 +35378,402 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Official product page identifies Steam Deck and ROG Ally dock use, 4K30 one-touch recording, 4K60 HDMI output, and 65W charging.",
       "created_by": "multi_platform_first_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-f700-elite-ps5-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/Wireless_Arcade_Stick_F700_Elite.html",
+      "source_title": "MAYFLASH F700 Elite",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official page lists PS5 and Steam Deck. PS5 use is for fighting games and uses 2.4G or wired USB.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-s-ultimate-ps5-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/magic_s_ultimate.html",
+      "source_title": "MAYFLASH Magic-S Ultimate",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official page lists Steam Deck and documents PS5 compatibility from M1.06/S1.31 beta, mainly for fighting games; current listed release is M1.08/S1.39.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-s-pro2-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/magic_s_pro_2.html",
+      "source_title": "MAYFLASH Magic-S PRO 2",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official firmware history identifies Steam Deck compatibility at M1.10/S1.25 using green indicator mode.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-ns2-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/magic_ns_2.html",
+      "source_title": "MAYFLASH Magic-NS 2",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official product/firmware information identifies Steam Deck compatibility in green indicator mode and directs users to update firmware.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-ns-lite-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/magic_ns_lite.html",
+      "source_title": "MAYFLASH Magic-NS Lite",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official firmware history identifies Steam Deck compatibility at M1.05/S1.25 in green indicator mode; current listed release is M1.06/S1.27.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-mayflash-magic-x-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/magic_x.html",
+      "source_title": "MAYFLASH Magic-X",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official firmware history identifies Steam Deck compatibility at M1.05/S1.25 in green indicator mode; current listed release is M1.12/S1.39.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-8bitdo-pro2-bluetooth-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/pro2/",
+      "source_title": "8BitDo Pro 2 Bluetooth Gamepad",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": "SteamOS 3.7.13+",
+      "excerpt_or_location": "Official compatibility lists SteamOS 3.7.13 or above and controller mode choices.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-8bitdo-pro2-wired-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/pro2-wired-controller/",
+      "source_title": "8BitDo Pro 2 Wired Controller",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": "SteamOS Holo 3.4+",
+      "excerpt_or_location": "Official page states Steam Deck support with SteamOS Holo 3.4+ and Xinput mode.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-8bitdo-ultimate-bluetooth-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/ultimate-bluetooth-controller/",
+      "source_title": "8BitDo Ultimate Bluetooth Controller",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": "SteamOS Holo 3.4+",
+      "excerpt_or_location": "Official page states Steam Deck support with SteamOS Holo 3.4+ and Xinput mode.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-8bitdo-ultimate-wired-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/ultimate-wired-controller/",
+      "source_title": "8BitDo Ultimate Wired Controller",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": "SteamOS Holo 3.4+",
+      "excerpt_or_location": "Official page states Steam Deck support with SteamOS Holo 3.4+ and Xinput mode.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-8bitdo-usb-adapter2-steam-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.8bitdo.com/wireless-usb-adapter-2/",
+      "source_title": "8BitDo USB Wireless Adapter 2",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": "SteamOS Holo 3.4+",
+      "excerpt_or_location": "Official page states Steam Deck support with SteamOS Holo 3.4+ and Xinput mode; Bluetooth controllers only, not 2.4G controllers.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-elgato-4ks-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/37196014096017-Elgato-Game-Capture-4K-S-Technical-Specifications",
+      "source_title": "Elgato 4K S technical specifications",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official supported sources list PS5; HDMI input must be unencrypted and capture needs a separate supported host.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-elgato-4kx-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/23660104191117-Elgato-Game-Capture-4K-X-PlayStation-5-Setup",
+      "source_title": "Elgato 4K X PS5 setup",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official setup requires PS5 HDCP disabled and a separate USB 3.2 capture host.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-elgato-4kpro-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/23706314592269-Elgato-Game-Capture-4K-Pro-PlayStation-5-Setup",
+      "source_title": "Elgato 4K Pro PS5 setup",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official setup requires PS5 HDCP disabled; 4K Pro is a PCIe capture device requiring a separate Windows desktop capture host.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-elgato-neo-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/25653778851853-Elgato-Game-Capture-Neo-PlayStation-5-Setup",
+      "source_title": "Elgato Game Capture Neo PS5 setup",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official setup requires PS5 HDCP disabled and a separate USB 3.0 desktop/laptop capture host.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-g274qpf-e2-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://storage-asset.msi.com/datasheet/monitor/global/G274QPF-E2.pdf",
+      "source_title": "MSI G274QPF E2 datasheet",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official datasheet identifies Console Mode optimized for PS5; monitor maximum refresh is not a PS5-output assertion.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-console-mode-g274qrfw-g32cq5p-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.msi.com/blog/msi-monitor-console-mode-designed-to-answer-your-concern",
+      "source_title": "MSI Console Mode support list",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official MSI Console Mode support list explicitly includes G274QRFW and G32CQ5P.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-mag274qrfw-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://tw.msi.com/faq/11129",
+      "source_title": "MSI MAG 274QRFW PS5 Slim FAQ",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official MSI FAQ says firmware version 009 improves MAG 274QRFW HDMI compatibility with PS5 Slim.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-mag274qrf-qd-e2-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://storage-asset.msi.com/datasheet/monitor/global/MAG-274QRF-QD-E2.pdf",
+      "source_title": "MSI MAG 274QRF QD E2 datasheet",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official datasheet identifies PS5 optimization and Console Mode; documented console modes must be retained.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-mag275qf-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://storage-asset.msi.com/datasheet/monitor/us/MAG-275QF.pdf",
+      "source_title": "MSI MAG 275QF datasheet",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official datasheet says Console Mode supports QHD 120Hz with PS5.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-mag27cq6pf-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://storage-asset.msi.com/datasheet/monitor/global/MAG-27CQ6PF.pdf",
+      "source_title": "MSI MAG 27CQ6PF datasheet",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official datasheet identifies Console Mode optimized for PS5.",
+      "created_by": "multi_platform_second_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-msi-mpg275cqrxf-ps5-20260901",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://storage-asset.msi.com/datasheet/monitor/global/MPG-275CQRXF.pdf",
+      "source_title": "MSI MPG 275CQRXF datasheet",
+      "source_label": "Official product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-01T15:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official datasheet identifies Console Mode optimized for PS5.",
+      "created_by": "multi_platform_second_batch_20260901"
     }
   ]
 }
