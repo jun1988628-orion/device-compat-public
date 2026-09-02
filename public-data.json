@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-01T22:31:24+09:00",
+  "dataset_generated_at": "2026-09-02T23:00:37+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -3486,6 +3486,263 @@
       "region": "JP",
       "hardware_revision": null,
       "sku": "HB1101",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-usb-3-hdmi-capture-card-cv0089",
+      "manufacturer": "AVerMedia",
+      "product_name": "USB 3.0 HDMI Capture Card",
+      "model_number": "CV0089",
+      "aliases": [
+        "USB 3.0 HDMI Capture Card",
+        "CV0089"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "CV0089",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "USB-A",
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-hb0612-dock",
+      "manufacturer": "JSAUX",
+      "product_name": "6-in-1 Docking Station",
+      "model_number": "HB0612",
+      "aliases": [
+        "6-in-1 Docking Station",
+        "HB0612"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "HB0612",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C",
+        "USB-A",
+        "Ethernet"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f500-flat-elite",
+      "manufacturer": "MAYFLASH",
+      "product_name": "All-Button Arcade Controller F500 FLAT Elite",
+      "model_number": "F500 FLAT Elite",
+      "aliases": [
+        "All-Button Arcade Controller F500 FLAT Elite",
+        "F500 FLAT Elite"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "F500 FLAT Elite",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f500-flat",
+      "manufacturer": "MAYFLASH",
+      "product_name": "All-Button Arcade Controller F500 FLAT",
+      "model_number": "F500 FLAT",
+      "aliases": [
+        "All-Button Arcade Controller F500 FLAT",
+        "F500 FLAT"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "F500 FLAT",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f300",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Arcade Stick F300",
+      "model_number": "F300",
+      "aliases": [
+        "Arcade Stick F300",
+        "F300"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "F300",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f300-elite",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Arcade Stick F300 Elite",
+      "model_number": "F300 Elite",
+      "aliases": [
+        "Arcade Stick F300 Elite",
+        "F300 Elite"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "F300 Elite",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "mayflash-f500-elite",
+      "manufacturer": "MAYFLASH",
+      "product_name": "Arcade Stick F500 Elite",
+      "model_number": "F500 Elite",
+      "aliases": [
+        "Arcade Stick F500 Elite",
+        "F500 Elite"
+      ],
+      "category": "arcade_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "F500 Elite",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-gen5w-fighting-board",
+      "manufacturer": "Brook",
+      "product_name": "Gen-5W Wireless Fighting Board",
+      "model_number": "Gen-5W",
+      "aliases": [
+        "Gen-5W Wireless Fighting Board",
+        "Gen-5W"
+      ],
+      "category": "diy_controller_board",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Gen-5W",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "brook-gen5-series-fighting-board",
+      "manufacturer": "Brook",
+      "product_name": "Gen-5 Series Fighting Board",
+      "model_number": "Gen-5 Series",
+      "aliases": [
+        "Gen-5 Series Fighting Board",
+        "Gen-5 Fighting Board",
+        "Gen-5 mini Fighting Board"
+      ],
+      "category": "diy_controller_board",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "Gen-5 Series",
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "gulikit-7in1-docking-station",
+      "manufacturer": "JSAUX",
+      "product_name": "7 In 1 Docking Station",
+      "model_number": null,
+      "aliases": [
+        "7 In 1 Docking Station",
+        "GuliKit 7 In 1 Docking Station"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C",
+        "USB-A",
+        "Ethernet"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc553pro",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Gamer ULTRA S",
+      "model_number": "GC553Pro",
+      "aliases": [
+        "Live Gamer ULTRA S",
+        "GC553Pro"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "GC553Pro",
       "jan": null,
       "upc": null,
       "connection_methods": [
@@ -34507,6 +34764,3048 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-cv0089-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-usb-3-hdmi-capture-card-cv0089",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "CV0089 officially lists Switch 2 as a capture input source.",
+      "requirements": [
+        "Connect Switch 2 to the bottom USB-C port for video output/capture.",
+        "Use a separate supported capture host/software; Switch 2 is the input source, not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2 is explicitly listed as the USB-C video input source.",
+          "evidence_ids": [
+            "ev-jsaux-cv0089-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-cv0089-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "CV0089 officially lists Switch 2 as a capture input source.",
+          "requirements": [
+            "Connect Switch 2 to the bottom USB-C port for video output/capture.",
+            "Use a separate supported capture host/software; Switch 2 is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 is explicitly listed as the USB-C video input source.",
+              "evidence_ids": [
+                "ev-jsaux-cv0089-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-cv0089-switch2-20260902"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "CV0089 officially lists Switch 2 as a capture input source.",
+          "requirements": [
+            "Connect Switch 2 to the bottom USB-C port for video output/capture.",
+            "Use a separate supported capture host/software; Switch 2 is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2 is explicitly listed as the USB-C video input source.",
+              "evidence_ids": [
+                "ev-jsaux-cv0089-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-cv0089-switch2-20260902"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-cv0089-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "jsaux-usb-3-hdmi-capture-card-cv0089",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "CV0089 officially lists Steam Deck as a capture input source.",
+      "requirements": [
+        "Use a full-featured USB-C video-output connection.",
+        "Use a separate supported capture host/software; Steam Deck is the input source, not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Steam Deck is explicitly listed as a compatible capture input source.",
+          "evidence_ids": [
+            "ev-jsaux-cv0089-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-cv0089-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "CV0089 officially lists Steam Deck as a capture input source.",
+          "requirements": [
+            "Use a full-featured USB-C video-output connection.",
+            "Use a separate supported capture host/software; Steam Deck is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly listed as a compatible capture input source.",
+              "evidence_ids": [
+                "ev-jsaux-cv0089-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-cv0089-steamdeck-20260902"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "CV0089 officially lists Steam Deck as a capture input source.",
+          "requirements": [
+            "Use a full-featured USB-C video-output connection.",
+            "Use a separate supported capture host/software; Steam Deck is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly listed as a compatible capture input source.",
+              "evidence_ids": [
+                "ev-jsaux-cv0089-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-cv0089-steamdeck-20260902"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-cv0089-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "jsaux-usb-3-hdmi-capture-card-cv0089",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "CV0089 officially lists ROG Ally as a capture input source.",
+      "requirements": [
+        "Use a full-featured USB-C video-output connection.",
+        "Use a separate supported capture host/software; ROG Ally is the input source, not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "ROG Ally is explicitly listed as a compatible capture input source.",
+          "evidence_ids": [
+            "ev-jsaux-cv0089-rog-ally-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-cv0089-rog-ally-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "CV0089 officially lists ROG Ally as a capture input source.",
+          "requirements": [
+            "Use a full-featured USB-C video-output connection.",
+            "Use a separate supported capture host/software; ROG Ally is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "ROG Ally is explicitly listed as a compatible capture input source.",
+              "evidence_ids": [
+                "ev-jsaux-cv0089-rog-ally-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-cv0089-rog-ally-20260902"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "CV0089 officially lists ROG Ally as a capture input source.",
+          "requirements": [
+            "Use a full-featured USB-C video-output connection.",
+            "Use a separate supported capture host/software; ROG Ally is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "ROG Ally is explicitly listed as a compatible capture input source.",
+              "evidence_ids": [
+                "ev-jsaux-cv0089-rog-ally-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-cv0089-rog-ally-20260902"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0612-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "jsaux-hb0612-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "HB0612 is explicitly listed for Steam Deck.",
+      "requirements": [
+        "Use the documented USB-C power-delivery and display-output setup."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "Steam Deck LCD/OLED is in the official compatibility list.",
+          "evidence_ids": [
+            "ev-jsaux-hb0612-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-hb0612-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "HB0612 is explicitly listed for Steam Deck.",
+          "requirements": [
+            "Use the documented USB-C power-delivery and display-output setup."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck LCD/OLED is in the official compatibility list.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-hb0612-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "HB0612 is explicitly listed for Steam Deck.",
+          "requirements": [
+            "Use the documented USB-C power-delivery and display-output setup."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck LCD/OLED is in the official compatibility list.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-hb0612-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0612-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "jsaux-hb0612-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "HB0612 is explicitly listed for ROG Ally.",
+      "requirements": [
+        "Use a PD charger appropriate to the documented mode: <=45W 25W; 45–65W normal charging; >=65W 30W enhanced mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "ROG Ally is in the official compatibility list.",
+          "evidence_ids": [
+            "ev-jsaux-hb0612-rog-ally-20260902"
+          ]
+        },
+        {
+          "feature_id": "power_mode",
+          "feature_name": "ROG Ally power mode",
+          "status": "supported_with_requirements",
+          "notes": "Documented charging mode depends on PD charger wattage.",
+          "evidence_ids": [
+            "ev-jsaux-hb0612-rog-ally-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-hb0612-rog-ally-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "HB0612 is explicitly listed for ROG Ally.",
+          "requirements": [
+            "Use a PD charger appropriate to the documented mode: <=45W 25W; 45–65W normal charging; >=65W 30W enhanced mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "ROG Ally is in the official compatibility list.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-rog-ally-20260902"
+              ]
+            },
+            {
+              "feature_id": "power_mode",
+              "feature_name": "ROG Ally power mode",
+              "status": "supported_with_requirements",
+              "notes": "Documented charging mode depends on PD charger wattage.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-rog-ally-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-hb0612-rog-ally-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "HB0612 is explicitly listed for ROG Ally.",
+          "requirements": [
+            "Use a PD charger appropriate to the documented mode: <=45W 25W; 45–65W normal charging; >=65W 30W enhanced mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "ROG Ally is in the official compatibility list.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-rog-ally-20260902"
+              ]
+            },
+            {
+              "feature_id": "power_mode",
+              "feature_name": "ROG Ally power mode",
+              "status": "supported_with_requirements",
+              "notes": "Documented charging mode depends on PD charger wattage.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-rog-ally-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-hb0612-rog-ally-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0612-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "jsaux-hb0612-dock",
+      "region": "JP",
+      "overall_status": "incompatible",
+      "publication_status": "published",
+      "summary": "JSAUX explicitly marks HB0612 incompatible with Switch 2.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "unsupported",
+          "notes": "The exact product page says HB0612 is not compatible with Nintendo Switch 2.",
+          "evidence_ids": [
+            "ev-jsaux-hb0612-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-jsaux-hb0612-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "incompatible",
+          "publication_status": "under_review",
+          "summary": "JSAUX explicitly marks HB0612 incompatible with Switch 2.",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "unsupported",
+              "notes": "The exact product page says HB0612 is not compatible with Nintendo Switch 2.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-hb0612-switch2-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "incompatible",
+          "publication_status": "published",
+          "summary": "JSAUX explicitly marks HB0612 incompatible with Switch 2.",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "unsupported",
+              "notes": "The exact product page says HB0612 is not compatible with Nintendo Switch 2.",
+              "evidence_ids": [
+                "ev-jsaux-hb0612-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-jsaux-hb0612-switch2-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "incompatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "incompatible",
+          "new_status": "incompatible"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-flat-elite-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f500-flat-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for switch2.",
+      "requirements": [
+        "Use Game Console mode and wired USB."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Game Console mode supports Switch 2.",
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-flat-elite-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Game Console mode supports Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-elite-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-switch2-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Game Console mode supports Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-elite-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-switch2-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-flat-elite-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f500-flat-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for steamdeck.",
+      "requirements": [
+        "Use XInput mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Steam Deck is supported in XInput mode.",
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-flat-elite-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for steamdeck.",
+          "requirements": [
+            "Use XInput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is supported in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-elite-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for steamdeck.",
+          "requirements": [
+            "Use XInput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is supported in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-elite-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-flat-elite-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f500-flat-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for ps5.",
+      "requirements": [
+        "Update controller firmware to V1.04 or later.",
+        "Use a separately purchased MagicBoots-S5 adapter."
+      ],
+      "minimum_firmware": "V1.04",
+      "verified_firmware": "V1.05",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.04 supports all PS5 games with MagicBoots-S5; older adapter wording was fighting-game only.",
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-flat-elite-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.04 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.04",
+          "verified_firmware": "V1.05",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.04 supports all PS5 games with MagicBoots-S5; older adapter wording was fighting-game only.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-elite-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F500 FLAT Elite is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.04 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.04",
+          "verified_firmware": "V1.05",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.04 supports all PS5 games with MagicBoots-S5; older adapter wording was fighting-game only.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-elite-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-elite-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-flat-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f500-flat",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F500 FLAT is officially documented for switch2.",
+      "requirements": [
+        "Use Game Console mode and wired USB."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Game Console mode supports Switch 2.",
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-flat-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F500 FLAT is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Game Console mode supports Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-switch2-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F500 FLAT is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Game Console mode supports Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-switch2-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-flat-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f500-flat",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F500 FLAT is officially documented for steamdeck.",
+      "requirements": [
+        "Update controller firmware to V1.02 or later.",
+        "Use XInput mode."
+      ],
+      "minimum_firmware": "V1.02",
+      "verified_firmware": "V1.10",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.02 fixes Steam/Steam Deck detection in XInput mode.",
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-flat-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F500 FLAT is officially documented for steamdeck.",
+          "requirements": [
+            "Update controller firmware to V1.02 or later.",
+            "Use XInput mode."
+          ],
+          "minimum_firmware": "V1.02",
+          "verified_firmware": "V1.10",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.02 fixes Steam/Steam Deck detection in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F500 FLAT is officially documented for steamdeck.",
+          "requirements": [
+            "Update controller firmware to V1.02 or later.",
+            "Use XInput mode."
+          ],
+          "minimum_firmware": "V1.02",
+          "verified_firmware": "V1.10",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.02 fixes Steam/Steam Deck detection in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-flat-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f500-flat",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "All-Button Arcade Controller F500 FLAT is officially documented for ps5.",
+      "requirements": [
+        "Update controller firmware to V1.09 or later.",
+        "Use a separately purchased MagicBoots-S5 adapter."
+      ],
+      "minimum_firmware": "V1.09",
+      "verified_firmware": "V1.10",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.09 supports all PS5 games with MagicBoots-S5.",
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-flat-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "All-Button Arcade Controller F500 FLAT is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.09 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.09",
+          "verified_firmware": "V1.10",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.09 supports all PS5 games with MagicBoots-S5.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "All-Button Arcade Controller F500 FLAT is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.09 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.09",
+          "verified_firmware": "V1.10",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.09 supports all PS5 games with MagicBoots-S5.",
+              "evidence_ids": [
+                "ev-mayflash-f500-flat-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-flat-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f300-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f300",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F300 is officially documented for switch2.",
+      "requirements": [
+        "Use Game Console mode and wired USB."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "The exact product page lists Nintendo Switch 2.",
+          "evidence_ids": [
+            "ev-mayflash-f300-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f300-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F300 is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "The exact product page lists Nintendo Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f300-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-switch2-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F300 is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "The exact product page lists Nintendo Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f300-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-switch2-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f300-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f300",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F300 is officially documented for steamdeck.",
+      "requirements": [
+        "Use XInput mode."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Steam Deck is explicitly supported in XInput mode.",
+          "evidence_ids": [
+            "ev-mayflash-f300-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f300-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F300 is officially documented for steamdeck.",
+          "requirements": [
+            "Use XInput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly supported in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f300-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F300 is officially documented for steamdeck.",
+          "requirements": [
+            "Use XInput mode."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly supported in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f300-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f300-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f300",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F300 is officially documented for ps5.",
+      "requirements": [
+        "Update controller firmware to V1.27 or later.",
+        "Use a separately purchased MagicBoots-S5 adapter."
+      ],
+      "minimum_firmware": "V1.27",
+      "verified_firmware": "V1.27",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.27 adds MagicBoots-S5 support for all PS5 games.",
+          "evidence_ids": [
+            "ev-mayflash-f300-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f300-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F300 is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.27 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.27",
+          "verified_firmware": "V1.27",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.27 adds MagicBoots-S5 support for all PS5 games.",
+              "evidence_ids": [
+                "ev-mayflash-f300-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F300 is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.27 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.27",
+          "verified_firmware": "V1.27",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.27 adds MagicBoots-S5 support for all PS5 games.",
+              "evidence_ids": [
+                "ev-mayflash-f300-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f300-elite-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "mayflash-f300-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F300 Elite is officially documented for steamdeck.",
+      "requirements": [
+        "Update controller firmware to V1.11 or later.",
+        "Use XInput mode."
+      ],
+      "minimum_firmware": "V1.11",
+      "verified_firmware": "V1.15",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.11 explicitly adds Steam Deck support in XInput mode.",
+          "evidence_ids": [
+            "ev-mayflash-f300-elite-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f300-elite-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F300 Elite is officially documented for steamdeck.",
+          "requirements": [
+            "Update controller firmware to V1.11 or later.",
+            "Use XInput mode."
+          ],
+          "minimum_firmware": "V1.11",
+          "verified_firmware": "V1.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.11 explicitly adds Steam Deck support in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f300-elite-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-elite-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F300 Elite is officially documented for steamdeck.",
+          "requirements": [
+            "Update controller firmware to V1.11 or later.",
+            "Use XInput mode."
+          ],
+          "minimum_firmware": "V1.11",
+          "verified_firmware": "V1.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.11 explicitly adds Steam Deck support in XInput mode.",
+              "evidence_ids": [
+                "ev-mayflash-f300-elite-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-elite-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f300-elite-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f300-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F300 Elite is officially documented for ps5.",
+      "requirements": [
+        "Update controller firmware to V1.15 or later.",
+        "Use a separately purchased MagicBoots-S5 adapter."
+      ],
+      "minimum_firmware": "V1.15",
+      "verified_firmware": "V1.15",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.15 adds MagicBoots-S5 support for all PS5 games.",
+          "evidence_ids": [
+            "ev-mayflash-f300-elite-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f300-elite-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F300 Elite is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.15 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.15",
+          "verified_firmware": "V1.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.15 adds MagicBoots-S5 support for all PS5 games.",
+              "evidence_ids": [
+                "ev-mayflash-f300-elite-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-elite-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F300 Elite is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.15 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.15",
+          "verified_firmware": "V1.15",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.15 adds MagicBoots-S5 support for all PS5 games.",
+              "evidence_ids": [
+                "ev-mayflash-f300-elite-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f300-elite-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-elite-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "mayflash-f500-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F500 Elite is officially documented for switch2.",
+      "requirements": [
+        "Use Game Console mode and wired USB."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "The exact product page lists Nintendo Switch 2.",
+          "evidence_ids": [
+            "ev-mayflash-f500-elite-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-elite-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F500 Elite is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "The exact product page lists Nintendo Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f500-elite-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-elite-switch2-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F500 Elite is officially documented for switch2.",
+          "requirements": [
+            "Use Game Console mode and wired USB."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "The exact product page lists Nintendo Switch 2.",
+              "evidence_ids": [
+                "ev-mayflash-f500-elite-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-elite-switch2-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-mayflash-f500-elite-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "mayflash-f500-elite",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arcade Stick F500 Elite is officially documented for ps5.",
+      "requirements": [
+        "Update controller firmware to V1.19 or later.",
+        "Use a separately purchased MagicBoots-S5 adapter."
+      ],
+      "minimum_firmware": "V1.19",
+      "verified_firmware": "V1.20",
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Firmware V1.19 adds MagicBoots-S5 support for all PS5 games.",
+          "evidence_ids": [
+            "ev-mayflash-f500-elite-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-mayflash-f500-elite-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Arcade Stick F500 Elite is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.19 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.19",
+          "verified_firmware": "V1.20",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.19 adds MagicBoots-S5 support for all PS5 games.",
+              "evidence_ids": [
+                "ev-mayflash-f500-elite-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-elite-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arcade Stick F500 Elite is officially documented for ps5.",
+          "requirements": [
+            "Update controller firmware to V1.19 or later.",
+            "Use a separately purchased MagicBoots-S5 adapter."
+          ],
+          "minimum_firmware": "V1.19",
+          "verified_firmware": "V1.20",
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Firmware V1.19 adds MagicBoots-S5 support for all PS5 games.",
+              "evidence_ids": [
+                "ev-mayflash-f500-elite-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-mayflash-f500-elite-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5w-fighting-board-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "brook-gen5w-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5W is officially supported on PS5.",
+      "requirements": [
+        "Set PS5 Communication Method to Use USB Cable.",
+        "This is a DIY board: installation, wiring, enclosure, and controls are outside the product compatibility claim.",
+        "Install battery and antenna for wireless operation."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is explicitly supported with the documented USB communication setting.",
+          "evidence_ids": [
+            "ev-brook-gen5w-fighting-board-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5w-fighting-board-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5W is officially supported on PS5.",
+          "requirements": [
+            "Set PS5 Communication Method to Use USB Cable.",
+            "This is a DIY board: installation, wiring, enclosure, and controls are outside the product compatibility claim.",
+            "Install battery and antenna for wireless operation."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is explicitly supported with the documented USB communication setting.",
+              "evidence_ids": [
+                "ev-brook-gen5w-fighting-board-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5w-fighting-board-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5W is officially supported on PS5.",
+          "requirements": [
+            "Set PS5 Communication Method to Use USB Cable.",
+            "This is a DIY board: installation, wiring, enclosure, and controls are outside the product compatibility claim.",
+            "Install battery and antenna for wireless operation."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is explicitly supported with the documented USB communication setting.",
+              "evidence_ids": [
+                "ev-brook-gen5w-fighting-board-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5w-fighting-board-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5w-fighting-board-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "brook-gen5w-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5W is officially supported on Steam Deck.",
+      "requirements": [
+        "This is a DIY board: installation, wiring, enclosure, and controls are outside the product compatibility claim.",
+        "Install battery and antenna for wireless operation."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Steam Deck is explicitly listed as supported.",
+          "evidence_ids": [
+            "ev-brook-gen5w-fighting-board-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5w-fighting-board-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5W is officially supported on Steam Deck.",
+          "requirements": [
+            "This is a DIY board: installation, wiring, enclosure, and controls are outside the product compatibility claim.",
+            "Install battery and antenna for wireless operation."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly listed as supported.",
+              "evidence_ids": [
+                "ev-brook-gen5w-fighting-board-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5w-fighting-board-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5W is officially supported on Steam Deck.",
+          "requirements": [
+            "This is a DIY board: installation, wiring, enclosure, and controls are outside the product compatibility claim.",
+            "Install battery and antenna for wireless operation."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly listed as supported.",
+              "evidence_ids": [
+                "ev-brook-gen5w-fighting-board-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5w-fighting-board-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5-series-fighting-board-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "brook-gen5-series-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5 Series is officially supported on PS5.",
+      "requirements": [
+        "Set PS5 Communication Method to Use USB Cable.",
+        "This is a DIY board family; installation, wiring, enclosure, and controls are outside the compatibility claim."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is explicitly listed with the documented USB communication setting.",
+          "evidence_ids": [
+            "ev-brook-gen5-series-fighting-board-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5-series-fighting-board-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5 Series is officially supported on PS5.",
+          "requirements": [
+            "Set PS5 Communication Method to Use USB Cable.",
+            "This is a DIY board family; installation, wiring, enclosure, and controls are outside the compatibility claim."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is explicitly listed with the documented USB communication setting.",
+              "evidence_ids": [
+                "ev-brook-gen5-series-fighting-board-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5-series-fighting-board-ps5-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5 Series is officially supported on PS5.",
+          "requirements": [
+            "Set PS5 Communication Method to Use USB Cable.",
+            "This is a DIY board family; installation, wiring, enclosure, and controls are outside the compatibility claim."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is explicitly listed with the documented USB communication setting.",
+              "evidence_ids": [
+                "ev-brook-gen5-series-fighting-board-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5-series-fighting-board-ps5-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5-series-fighting-board-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "brook-gen5-series-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Gen-5 Series is officially supported on Switch 2.",
+      "requirements": [
+        "This is a DIY board family; installation, wiring, enclosure, and controls are outside the compatibility claim."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "SWITCH 2 is explicitly listed as supported.",
+          "evidence_ids": [
+            "ev-brook-gen5-series-fighting-board-switch2-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-brook-gen5-series-fighting-board-switch2-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Gen-5 Series is officially supported on Switch 2.",
+          "requirements": [
+            "This is a DIY board family; installation, wiring, enclosure, and controls are outside the compatibility claim."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "SWITCH 2 is explicitly listed as supported.",
+              "evidence_ids": [
+                "ev-brook-gen5-series-fighting-board-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5-series-fighting-board-switch2-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Gen-5 Series is officially supported on Switch 2.",
+          "requirements": [
+            "This is a DIY board family; installation, wiring, enclosure, and controls are outside the compatibility claim."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "SWITCH 2 is explicitly listed as supported.",
+              "evidence_ids": [
+                "ev-brook-gen5-series-fighting-board-switch2-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-brook-gen5-series-fighting-board-switch2-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-gulikit-7in1-docking-station-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "gulikit-7in1-docking-station",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GuliKit officially lists Steam Deck.",
+      "requirements": [
+        "Use the dock’s documented USB-C power-delivery and display-output setup; its 4K60 capability is not a Steam Deck output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "Steam Deck is explicitly listed on the product page.",
+          "evidence_ids": [
+            "ev-gulikit-7in1-docking-station-steamdeck-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-gulikit-7in1-docking-station-steamdeck-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GuliKit officially lists Steam Deck.",
+          "requirements": [
+            "Use the dock’s documented USB-C power-delivery and display-output setup; its 4K60 capability is not a Steam Deck output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly listed on the product page.",
+              "evidence_ids": [
+                "ev-gulikit-7in1-docking-station-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-gulikit-7in1-docking-station-steamdeck-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GuliKit officially lists Steam Deck.",
+          "requirements": [
+            "Use the dock’s documented USB-C power-delivery and display-output setup; its 4K60 capability is not a Steam Deck output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "Steam Deck is explicitly listed on the product page.",
+              "evidence_ids": [
+                "ev-gulikit-7in1-docking-station-steamdeck-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-gulikit-7in1-docking-station-steamdeck-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-gulikit-7in1-docking-station-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "gulikit-7in1-docking-station",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GuliKit officially lists ROG Ally.",
+      "requirements": [
+        "Use the dock’s documented USB-C power-delivery and display-output setup; its 4K60 capability is not a ROG Ally output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "ROG Ally is explicitly listed on the product page.",
+          "evidence_ids": [
+            "ev-gulikit-7in1-docking-station-rog-ally-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-gulikit-7in1-docking-station-rog-ally-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GuliKit officially lists ROG Ally.",
+          "requirements": [
+            "Use the dock’s documented USB-C power-delivery and display-output setup; its 4K60 capability is not a ROG Ally output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "ROG Ally is explicitly listed on the product page.",
+              "evidence_ids": [
+                "ev-gulikit-7in1-docking-station-rog-ally-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-gulikit-7in1-docking-station-rog-ally-20260902"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GuliKit officially lists ROG Ally.",
+          "requirements": [
+            "Use the dock’s documented USB-C power-delivery and display-output setup; its 4K60 capability is not a ROG Ally output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "ROG Ally is explicitly listed on the product page.",
+              "evidence_ids": [
+                "ev-gulikit-7in1-docking-station-rog-ally-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-gulikit-7in1-docking-station-rog-ally-20260902"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc553pro-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "avermedia-gc553pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC553Pro officially supports PS5 as a capture input source.",
+      "requirements": [
+        "Disable or avoid HDCP-protected source output.",
+        "Use a separate supported PC, laptop, or iPad as the capture host; PS5 is the input source, not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "PS5 is explicitly listed as a supported console source.",
+          "evidence_ids": [
+            "ev-avermedia-gc553pro-ps5-20260902"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-avermedia-gc553pro-ps5-20260902"
+      ],
+      "created_by": "multi_platform_fourth_batch_20260902",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-02T23:00:37+09:00",
+      "verified_at": "2026-09-02T18:00:00+09:00",
+      "next_review_at": "2026-12-02T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC553Pro officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable or avoid HDCP-protected source output.",
+            "Use a separate supported PC, laptop, or iPad as the capture host; PS5 is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is explicitly listed as a supported console source.",
+              "evidence_ids": [
+                "ev-avermedia-gc553pro-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc553pro-ps5-20260902"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-02T18:00:00+09:00",
+          "captured_by": "multi_platform_fourth_batch_20260902"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-02T23:00:37+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC553Pro officially supports PS5 as a capture input source.",
+          "requirements": [
+            "Disable or avoid HDCP-protected source output.",
+            "Use a separate supported PC, laptop, or iPad as the capture host; PS5 is the input source, not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "PS5 is explicitly listed as a supported console source.",
+              "evidence_ids": [
+                "ev-avermedia-gc553pro-ps5-20260902"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-avermedia-gc553pro-ps5-20260902"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-02T18:00:00+09:00",
+          "changed_by": "multi_platform_fourth_batch_20260902",
+          "change_reason": "Fourth multi-platform batch official-primary-source assessment; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-02T23:00:37+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -38415,6 +41714,474 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Exact HB1101 row explicitly lists ROG Ally.",
       "created_by": "multi_platform_third_batch_20260901"
+    },
+    {
+      "evidence_id": "ev-jsaux-cv0089-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/usb-3-0-hdmi-capture-card",
+      "source_title": "JSAUX USB 3.0 HDMI Capture Card CV0089",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "CV0089 explicitly lists Nintendo Switch 2; Switch 2 must connect through its bottom USB-C port for video output/capture.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-jsaux-cv0089-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/usb-3-0-hdmi-capture-card",
+      "source_title": "JSAUX USB 3.0 HDMI Capture Card CV0089",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "CV0089 explicitly lists Steam Deck and Steam Deck OLED as compatible handheld gaming consoles.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-jsaux-cv0089-rog-ally-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/usb-3-0-hdmi-capture-card",
+      "source_title": "JSAUX USB 3.0 HDMI Capture Card CV0089",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "CV0089 explicitly lists ROG Ally as a compatible handheld gaming console.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-jsaux-hb0612-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/6-in-1-docking-station-for-rog-xbox-ally-x-rog-xbox-ally",
+      "source_title": "JSAUX 6-in-1 Docking Station HB0612",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "HB0612 explicitly supports Steam Deck LCD/OLED.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-jsaux-hb0612-rog-ally-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/6-in-1-docking-station-for-rog-xbox-ally-x-rog-xbox-ally",
+      "source_title": "JSAUX 6-in-1 Docking Station HB0612",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "HB0612 explicitly supports ROG Ally; its documented charging modes vary with the PD charger wattage.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-jsaux-hb0612-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/6-in-1-docking-station-for-rog-xbox-ally-x-rog-xbox-ally",
+      "source_title": "JSAUX 6-in-1 Docking Station HB0612",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The exact HB0612 page states that it is not compatible with Nintendo Switch 2.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-flat-elite-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/All_Button_Arcade_Controller_F500_FLAT_Elite.html",
+      "source_title": "MAYFLASH All-Button Arcade Controller F500 FLAT Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Game Console mode supports Switch 2.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-flat-elite-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/All_Button_Arcade_Controller_F500_FLAT_Elite.html",
+      "source_title": "MAYFLASH All-Button Arcade Controller F500 FLAT Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Steam Deck is supported in XInput mode.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-flat-elite-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/All_Button_Arcade_Controller_F500_FLAT_Elite.html",
+      "source_title": "MAYFLASH All-Button Arcade Controller F500 FLAT Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.04 supports all PS5 games with MagicBoots-S5; older adapter wording was fighting-game only.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-flat-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/All_Button_Arcade_Controller_F500_FLAT.html",
+      "source_title": "MAYFLASH All-Button Arcade Controller F500 FLAT",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Game Console mode supports Switch 2.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-flat-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/All_Button_Arcade_Controller_F500_FLAT.html",
+      "source_title": "MAYFLASH All-Button Arcade Controller F500 FLAT",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.02 fixes Steam/Steam Deck detection in XInput mode.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-flat-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/All_Button_Arcade_Controller_F500_FLAT.html",
+      "source_title": "MAYFLASH All-Button Arcade Controller F500 FLAT",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.09 supports all PS5 games with MagicBoots-S5.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f300-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/mayflash_arcade_stick_f300.html",
+      "source_title": "MAYFLASH Arcade Stick F300",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The exact product page lists Nintendo Switch 2.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f300-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/mayflash_arcade_stick_f300.html",
+      "source_title": "MAYFLASH Arcade Stick F300",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Steam Deck is explicitly supported in XInput mode.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f300-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/mayflash_arcade_stick_f300.html",
+      "source_title": "MAYFLASH Arcade Stick F300",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.27 adds MagicBoots-S5 support for all PS5 games.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f300-elite-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/mayflash_arcade_stick_f300_elite.html",
+      "source_title": "MAYFLASH Arcade Stick F300 Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.11 explicitly adds Steam Deck support in XInput mode.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f300-elite-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mayflash.com/product/mayflash_arcade_stick_f300_elite.html",
+      "source_title": "MAYFLASH Arcade Stick F300 Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.15 adds MagicBoots-S5 support for all PS5 games.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-elite-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/1.html",
+      "source_title": "MAYFLASH Arcade Stick F500 Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The exact product page lists Nintendo Switch 2.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-mayflash-f500-elite-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.mayflash.com/product/1.html",
+      "source_title": "MAYFLASH Arcade Stick F500 Elite",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Firmware V1.19 adds MagicBoots-S5 support for all PS5 games.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-brook-gen5w-fighting-board-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5w/index.html",
+      "source_title": "Brook Gen-5W Fighting Board",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Gen-5W explicitly supports PS5; Brook recommends PS5 Communication Method: Use USB Cable.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-brook-gen5w-fighting-board-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5w/index.html",
+      "source_title": "Brook Gen-5W Fighting Board",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Gen-5W explicitly supports Steam Deck.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-brook-gen5-series-fighting-board-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5series/index.html",
+      "source_title": "Brook Gen-5 Series Fighting Board",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Gen-5 Series support lists PS5; Brook recommends PS5 Communication Method: Use USB Cable.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-brook-gen5-series-fighting-board-switch2-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5series/index.html",
+      "source_title": "Brook Gen-5 Series Fighting Board",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Gen-5 Series supported consoles explicitly include SWITCH 2.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-gulikit-7in1-docking-station-steamdeck-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.gulikit.com/productinfo/1134332.html",
+      "source_title": "GuliKit 7 In 1 Docking Station",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Exact official product page names Steam Deck.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-gulikit-7in1-docking-station-rog-ally-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.gulikit.com/productinfo/1134332.html",
+      "source_title": "GuliKit 7 In 1 Docking Station",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Exact official product page names ROG Ally.",
+      "created_by": "multi_platform_fourth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-avermedia-gc553pro-ps5-20260902",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/AV/product-detail/capture-card-GC553Pro",
+      "source_title": "AVerMedia Live Gamer ULTRA S GC553Pro",
+      "source_label": "Official product/support or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-02T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC553Pro explicitly lists PS5 as a console source; product page separately identifies PC/laptop/iPad as the streaming/capture host.",
+      "created_by": "multi_platform_fourth_batch_20260902"
     }
   ]
 }
