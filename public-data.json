@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-02T23:52:33+09:00",
+  "dataset_generated_at": "2026-09-03T00:26:30+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -4033,6 +4033,126 @@
         "USB-C",
         "Bluetooth",
         "2.4GHz"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-ps5-pro",
+      "manufacturer": "Sony Interactive Entertainment",
+      "product_name": "PlayStation 5 Pro",
+      "model_number": "CFI-71XX",
+      "aliases": [
+        "PS5 Pro",
+        "PlayStation 5 Pro"
+      ],
+      "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-rog-ally-x",
+      "manufacturer": "ASUS",
+      "product_name": "ROG Ally X",
+      "model_number": "RC72LA",
+      "aliases": [
+        "ROG Ally X",
+        "ROG Ally X (2024)"
+      ],
+      "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-legion-go",
+      "manufacturer": "Lenovo",
+      "product_name": "Legion Go",
+      "model_number": "8APU1",
+      "aliases": [
+        "Legion Go",
+        "Legion Go 8APU1"
+      ],
+      "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-hb0604-m2-dock",
+      "manufacturer": "JSAUX",
+      "product_name": "M.2 6-in-1 Docking Station",
+      "model_number": "HB0604",
+      "aliases": [
+        "HB0604",
+        "M.2 Docking Station HB0604"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "HDMI",
+        "USB-A",
+        "Ethernet"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "jsaux-hb0702-dock",
+      "manufacturer": "JSAUX",
+      "product_name": "7-in-1 Docking Station",
+      "model_number": "HB0702",
+      "aliases": [
+        "HB0702",
+        "7-in-1 Docking Station HB0702"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "HDMI",
+        "DisplayPort",
+        "USB-A",
+        "Ethernet"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -42450,6 +42570,3099 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-ps5-pro-r1",
+      "host_product_id": "host-ps5-pro",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+      "requirements": [
+        "Use an unencrypted HDMI signal and a PCIe desktop capture host; 8K DSC from PS5 Pro is not captured/passed through."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture source input",
+          "status": "supported_with_requirements",
+          "notes": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+          "requirements": [
+            "Use an unencrypted HDMI signal and a PCIe desktop capture host; 8K DSC from PS5 Pro is not captured/passed through."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+              "evidence_ids": [
+                "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1"
+          ],
+          "revision": 1,
+          "relationship_role": "capture_source",
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+          "requirements": [
+            "Use an unencrypted HDMI signal and a PCIe desktop capture host; 8K DSC from PS5 Pro is not captured/passed through."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+              "evidence_ids": [
+                "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "relationship_role": "capture_source"
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc553pro-ps5-pro-r1",
+      "host_product_id": "host-ps5-pro",
+      "accessory_product_id": "avermedia-gc553pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+      "requirements": [
+        "Connect HDMI input from PS5 Pro and USB-C output to a separate PC, laptop, or iPad streaming host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture source input",
+          "status": "supported_with_requirements",
+          "notes": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+          "evidence_ids": [
+            "ev-phase6-avermedia-gc553pro-ps5-pro-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-avermedia-gc553pro-ps5-pro-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+          "requirements": [
+            "Connect HDMI input from PS5 Pro and USB-C output to a separate PC, laptop, or iPad streaming host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+              "evidence_ids": [
+                "ev-phase6-avermedia-gc553pro-ps5-pro-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-avermedia-gc553pro-ps5-pro-r1"
+          ],
+          "revision": 1,
+          "relationship_role": "capture_source",
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+          "requirements": [
+            "Connect HDMI input from PS5 Pro and USB-C output to a separate PC, laptop, or iPad streaming host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+              "evidence_ids": [
+                "ev-phase6-avermedia-gc553pro-ps5-pro-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-avermedia-gc553pro-ps5-pro-r1"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "relationship_role": "capture_source"
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc311g2-ps5-pro-r1",
+      "host_product_id": "host-ps5-pro",
+      "accessory_product_id": "avermedia-gc311g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+      "requirements": [
+        "Use the separate PC capture host; capture ceiling is 1080p60 with 4K60 passthrough."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture source input",
+          "status": "supported_with_requirements",
+          "notes": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+          "evidence_ids": [
+            "ev-phase6-avermedia-gc311g2-ps5-pro-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-avermedia-gc311g2-ps5-pro-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+          "requirements": [
+            "Use the separate PC capture host; capture ceiling is 1080p60 with 4K60 passthrough."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+              "evidence_ids": [
+                "ev-phase6-avermedia-gc311g2-ps5-pro-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-avermedia-gc311g2-ps5-pro-r1"
+          ],
+          "revision": 1,
+          "relationship_role": "capture_source",
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+          "requirements": [
+            "Use the separate PC capture host; capture ceiling is 1080p60 with 4K60 passthrough."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+              "evidence_ids": [
+                "ev-phase6-avermedia-gc311g2-ps5-pro-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-avermedia-gc311g2-ps5-pro-r1"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "relationship_role": "capture_source"
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+      "requirements": [
+        "Use an unencrypted HDMI signal and a separate PCIe desktop capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture source input",
+          "status": "supported_with_requirements",
+          "notes": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+          "requirements": [
+            "Use an unencrypted HDMI signal and a separate PCIe desktop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+              "evidence_ids": [
+                "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1"
+          ],
+          "revision": 1,
+          "relationship_role": "capture_source",
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+          "requirements": [
+            "Use an unencrypted HDMI signal and a separate PCIe desktop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+              "evidence_ids": [
+                "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "relationship_role": "capture_source"
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+      "requirements": [
+        "Use an unencrypted HDMI signal and a separate PCIe desktop capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture source input",
+          "status": "supported_with_requirements",
+          "notes": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+          "requirements": [
+            "Use an unencrypted HDMI signal and a separate PCIe desktop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+              "evidence_ids": [
+                "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1"
+          ],
+          "revision": 1,
+          "relationship_role": "capture_source",
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+          "requirements": [
+            "Use an unencrypted HDMI signal and a separate PCIe desktop capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture source input",
+              "status": "supported_with_requirements",
+              "notes": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+              "evidence_ids": [
+                "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "relationship_role": "capture_source"
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0503-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0503-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0503-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0503-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0503-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0503-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0503-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0503-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0602s-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0602s-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0602s-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0602s-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0602s-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0602s-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0602s-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0602s-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0603s-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0603s-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0603s-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0603s-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0603s-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0603s-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0603s-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0603s-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0609b-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0609b-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0609b-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0609b-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0609b-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0609b-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0609b-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0609b-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0612-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0612-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0612-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0612-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0612-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0612-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0612-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0612-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0705-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0705-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0705-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0705-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0705-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0705-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0705-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0705-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0801s-rgb-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb0801s-rgb-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb1201s-rgb-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb1201s-rgb-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb1101-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-hb1101-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1101-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb1101-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb1101-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1101-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb1101-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1101-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-omnicentro-charger-rog-ally-x-r1",
+      "host_product_id": "host-rog-ally-x",
+      "accessory_product_id": "jsaux-omnicentro-charger-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD charger; 30 W Turbo behavior depends on the stated charger and connection order."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0503-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0503-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0503-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0503-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0503-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0503-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0503-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0503-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0602s-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0602s-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0602s-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0602s-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0602s-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0602s-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0602s-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0602s-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0603s-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0603s-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0603s-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0603s-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0603s-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0603s-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0603s-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0603s-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0609b-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0609b-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0609b-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0609b-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0609b-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0609b-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0609b-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0609b-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0612-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0612-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0612-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0612-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0612-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0612-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0612-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0612-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0705-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0705-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0705-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0705-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0705-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0705-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0705-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0705-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb1101-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb1101-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1101-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb1101-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb1101-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1101-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb1101-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb1101-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-omnicentro-charger-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-omnicentro-charger-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "requirements": [
+        "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-omnicentro-charger-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-omnicentro-charger-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-omnicentro-charger-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-omnicentro-charger-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+          "requirements": [
+            "Use the documented USB-C input and PD/display requirements; dock resolution is not a Legion Go output guarantee."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-omnicentro-charger-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-omnicentro-charger-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0702-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "jsaux-hb0702-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+      "requirements": [
+        "Use the documented USB-C PD input and HDMI/DisplayPort connections; external display limits are dock specifications."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-steam-deck-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0702-steam-deck-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+          "requirements": [
+            "Use the documented USB-C PD input and HDMI/DisplayPort connections; external display limits are dock specifications."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0702-steam-deck-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-steam-deck-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+          "requirements": [
+            "Use the documented USB-C PD input and HDMI/DisplayPort connections; external display limits are dock specifications."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0702-steam-deck-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-steam-deck-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0702-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "jsaux-hb0702-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+      "requirements": [
+        "Use a suitable PD charger; 30 W Turbo depends on the charger and the documented dock conditions."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-rog-ally-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0702-rog-ally-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+          "requirements": [
+            "Use a suitable PD charger; 30 W Turbo depends on the charger and the documented dock conditions."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0702-rog-ally-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-rog-ally-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+          "requirements": [
+            "Use a suitable PD charger; 30 W Turbo depends on the charger and the documented dock conditions."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0702-rog-ally-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-rog-ally-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0702-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "jsaux-hb0702-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+      "requirements": [
+        "Use the documented USB-C PD input and display connections; dock output specifications are not host output guarantees."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-legion-go-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0702-legion-go-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+          "requirements": [
+            "Use the documented USB-C PD input and display connections; dock output specifications are not host output guarantees."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0702-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-legion-go-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+          "requirements": [
+            "Use the documented USB-C PD input and display connections; dock output specifications are not host output guarantees."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0702-legion-go-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0702-legion-go-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-jsaux-hb0604-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "jsaux-hb0604-m2-dock",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+      "requirements": [
+        "Use M.2 2280 NVMe/SATA storage as documented; the official follow-up notes Steam Deck desktop-mode handling for SSD recognition."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "dock_connection",
+          "feature_name": "Dock connection",
+          "status": "supported_with_requirements",
+          "notes": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0604-steam-deck-r1"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-phase6-jsaux-hb0604-steam-deck-r1"
+      ],
+      "created_by": "phase6_ready27_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T00:26:30+09:00",
+      "verified_at": "2026-09-03T12:00:00+09:00",
+      "next_review_at": "2026-12-03T12:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+          "requirements": [
+            "Use M.2 2280 NVMe/SATA storage as documented; the official follow-up notes Steam Deck desktop-mode handling for SSD recognition."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0604-steam-deck-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0604-steam-deck-r1"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T12:00:00+09:00",
+          "captured_by": "phase6_ready27_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T00:26:30+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+          "requirements": [
+            "Use M.2 2280 NVMe/SATA storage as documented; the official follow-up notes Steam Deck desktop-mode handling for SSD recognition."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "dock_connection",
+              "feature_name": "Dock connection",
+              "status": "supported_with_requirements",
+              "notes": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+              "evidence_ids": [
+                "ev-phase6-jsaux-hb0604-steam-deck-r1"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-phase6-jsaux-hb0604-steam-deck-r1"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T12:00:00+09:00",
+          "changed_by": "phase6_ready27_20260903",
+          "change_reason": "Phase 6 READY candidate; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T00:26:30+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -47150,6 +50363,492 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "The official manual specifies SteamOS 3.7.13+ and Bluetooth pairing steps for the exact Ultimate 2 Wireless Controller.",
       "created_by": "multi_platform_fifth_batch_20260902"
+    },
+    {
+      "evidence_id": "ev-phase6-elgato-game-capture-4k-pro-ps5-pro-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/23710571317517-Elgato-Game-Capture-4K-Pro-Technical-Specifications",
+      "source_title": "Elgato 4K Pro technical specifications",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Elgato explicitly lists Sony PlayStation 5/Pro as the HDMI capture source.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-avermedia-gc553pro-ps5-pro-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/de/product-detail/capture-card-GC553Pro",
+      "source_title": "AVerMedia GC553Pro",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "GC553Pro explicitly lists PS5 Pro as a console video input source.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-avermedia-gc311g2-ps5-pro-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/en/solution-detail?slug=best-beginner-capture-cards-ps5-switch-2-steam-deck-and-dslr-setups",
+      "source_title": "AVerMedia GC311G2 platform guide",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official GC311G2 platform material identifies PS5-class console capture for the exact model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-elgato-game-capture-4k-pro-steam-deck-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/23710571317517-Elgato-Game-Capture-4K-Pro-Technical-Specifications",
+      "source_title": "Elgato 4K Pro technical specifications",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Elgato identifies Steam Deck as an HDMI capture source for 4K Pro.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-elgato-game-capture-4k-pro-rog-ally-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/23710571317517-Elgato-Game-Capture-4K-Pro-Technical-Specifications",
+      "source_title": "Elgato 4K Pro technical specifications",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Elgato identifies ROG Ally as an HDMI capture source for 4K Pro.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0503-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/5-in-1-docking-station-for-handheld-consoles",
+      "source_title": "JSAUX hb0503",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0602s-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/steam-deck-docking-station",
+      "source_title": "JSAUX hb0602s",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0603s-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/upgraded-docking-station-for-steam-deck?variant=48331160518876",
+      "source_title": "JSAUX hb0603s",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0609b-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/blogs/news/is-it-a-stand-or-a-docking-station-meet-our-new-two-in-one-solution-for-rog-ally-x-and-other-handheld-devices",
+      "source_title": "JSAUX hb0609b",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0612-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/6-in-1-docking-station-for-rog-xbox-ally-x-rog-xbox-ally",
+      "source_title": "JSAUX hb0612",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0705-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/7-in-1-rgb-cooling-docking-station",
+      "source_title": "JSAUX hb0705",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0801s-rgb-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/rgb-docking-station-for-steam-deck",
+      "source_title": "JSAUX hb0801s-rgb",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb1201s-rgb-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/rgb-docking-station-for-steam-deck",
+      "source_title": "JSAUX hb1201s-rgb",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb1101-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/11-in-1-multi-function-docking-station-hb1101",
+      "source_title": "JSAUX hb1101",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-omnicentro-charger-rog-ally-x-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/omnicentro-charger-dock-for-switch-2",
+      "source_title": "JSAUX omnicentro-charger",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product page explicitly lists ROG Ally X for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0503-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/5-in-1-docking-station-for-handheld-consoles",
+      "source_title": "JSAUX hb0503",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0602s-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/steam-deck-docking-station",
+      "source_title": "JSAUX hb0602s",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0603s-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/upgraded-docking-station-for-steam-deck?variant=48331160518876",
+      "source_title": "JSAUX hb0603s",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0609b-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/blogs/news/is-it-a-stand-or-a-docking-station-meet-our-new-two-in-one-solution-for-rog-ally-x-and-other-handheld-devices",
+      "source_title": "JSAUX hb0609b",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0612-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/6-in-1-docking-station-for-rog-xbox-ally-x-rog-xbox-ally",
+      "source_title": "JSAUX hb0612",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0705-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/7-in-1-rgb-cooling-docking-station",
+      "source_title": "JSAUX hb0705",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb1101-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/11-in-1-multi-function-docking-station-hb1101",
+      "source_title": "JSAUX hb1101",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-omnicentro-charger-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/omnicentro-charger-dock-for-switch-2",
+      "source_title": "JSAUX omnicentro-charger",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX product information explicitly lists Legion Go for this exact dock model.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0702-steam-deck-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/upgraded-docking-station-for-steam-deck",
+      "source_title": "JSAUX HB0702",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX page identifies HB0702 and lists Steam Deck.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0702-rog-ally-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/upgraded-docking-station-for-steam-deck",
+      "source_title": "JSAUX HB0702",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX page identifies HB0702 and lists ROG Ally.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0702-legion-go-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/products/upgraded-docking-station-for-steam-deck",
+      "source_title": "JSAUX HB0702",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The official JSAUX page identifies HB0702 and lists Legion Go.",
+      "created_by": "phase6_ready27_20260903"
+    },
+    {
+      "evidence_id": "ev-phase6-jsaux-hb0604-steam-deck-r1",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://jsaux.com/blogs/news/introducing-hb0604-our-brand-new-m-2-ssd-docking-station-for-steam-deck",
+      "source_title": "JSAUX HB0604 M.2 docking station",
+      "source_label": "Official manufacturer product, support, or firmware page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T12:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "JSAUX explicitly identifies HB0604 as a Steam Deck docking station with M.2 storage expansion.",
+      "created_by": "phase6_ready27_20260903"
     }
   ]
 }
