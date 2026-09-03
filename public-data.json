@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T21:34:33+09:00",
+  "dataset_generated_at": "2026-09-03T22:10:10+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -5926,6 +5926,252 @@
       "upc": null,
       "connection_methods": [
         "2.4GHz USB receiver"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-1",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 1",
+      "model_number": "Arctis 1",
+      "aliases": [
+        "Arctis 1"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-5",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 5",
+      "model_number": "Arctis 5",
+      "aliases": [
+        "Arctis 5"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-7",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 7",
+      "model_number": "Arctis 7",
+      "aliases": [
+        "Arctis 7"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-9",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 9",
+      "model_number": "Arctis 9",
+      "aliases": [
+        "Arctis 9"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-7p",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 7P",
+      "model_number": "Arctis 7P",
+      "aliases": [
+        "Arctis 7P"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-pro-wireless",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis Pro Wireless",
+      "model_number": "Arctis Pro Wireless",
+      "aliases": [
+        "Arctis Pro Wireless"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "razer-kaira-x-xbox",
+      "manufacturer": "Razer",
+      "product_name": "Kaira X for Xbox",
+      "model_number": "RZ04-03970",
+      "aliases": [
+        "Kaira X for Xbox",
+        "RZ04-03970"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "razer-kaira-playstation",
+      "manufacturer": "Razer",
+      "product_name": "Kaira for PlayStation",
+      "model_number": "RZ04-03980",
+      "aliases": [
+        "Kaira for PlayStation",
+        "RZ04-03980"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "razer-kaira-pro-playstation",
+      "manufacturer": "Razer",
+      "product_name": "Kaira Pro for PlayStation",
+      "model_number": "RZ04-0403",
+      "aliases": [
+        "Kaira Pro for PlayStation",
+        "RZ04-0403"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "razer-kaira-pro-hyperspeed-playstation",
+      "manufacturer": "Razer",
+      "product_name": "Kaira Pro HyperSpeed for PlayStation",
+      "model_number": "RZ04-040302",
+      "aliases": [
+        "Kaira Pro HyperSpeed for PlayStation",
+        "RZ04-040302"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "razer-turret-xbox-one",
+      "manufacturer": "Razer",
+      "product_name": "Turret for Xbox One",
+      "model_number": "RZ84-02820",
+      "aliases": [
+        "Turret for Xbox One",
+        "RZ84-02820"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "2.4GHz wireless"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -71529,6 +71775,1944 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-1-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-1",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 1は公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "接続方式は3.5mmで、PS5側のコントローラーへ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-1-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 1はPS5対応。3D Audio対応、3.5mm接続。",
+          "evidence_ids": [
+            "ev-audio17-01"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-01"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 1は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "接続方式は3.5mmで、PS5側のコントローラーへ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-1-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 1はPS5対応。3D Audio対応、3.5mm接続。",
+              "evidence_ids": [
+                "ev-audio17-01"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-01"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 1は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "接続方式は3.5mmで、PS5側のコントローラーへ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-1-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 1はPS5対応。3D Audio対応、3.5mm接続。",
+              "evidence_ids": [
+                "ev-audio17-01"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-01"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-1-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "steelseries-arctis-1",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 1は公式情報でhost-xbox-series-x向けに確認済み。",
+      "requirements": [
+        "Xboxコントローラーの3.5mm端子へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-1-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 1はXbox Series X対応。Xbox向け設計・3.5mm接続。",
+          "evidence_ids": [
+            "ev-audio17-02"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-02"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 1は公式情報でhost-xbox-series-x向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-1-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 1はXbox Series X対応。Xbox向け設計・3.5mm接続。",
+              "evidence_ids": [
+                "ev-audio17-02"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-02"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 1は公式情報でhost-xbox-series-x向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-1-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 1はXbox Series X対応。Xbox向け設計・3.5mm接続。",
+              "evidence_ids": [
+                "ev-audio17-02"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-02"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-1-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "steelseries-arctis-1",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 1は公式情報でhost-xbox-series-s向けに確認済み。",
+      "requirements": [
+        "Xboxコントローラーの3.5mm端子へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-1-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 1はXbox Series S対応。Xbox向け設計・3.5mm接続。",
+          "evidence_ids": [
+            "ev-audio17-03"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-03"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 1は公式情報でhost-xbox-series-s向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-1-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 1はXbox Series S対応。Xbox向け設計・3.5mm接続。",
+              "evidence_ids": [
+                "ev-audio17-03"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-03"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 1は公式情報でhost-xbox-series-s向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-1-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 1はXbox Series S対応。Xbox向け設計・3.5mm接続。",
+              "evidence_ids": [
+                "ev-audio17-03"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-03"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-5-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-5",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 5は公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "PS5のUSBポートへ付属USB送受信機を接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-5-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 5はPS5対応。USB接続、3D Audio対応。",
+          "evidence_ids": [
+            "ev-audio17-04"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-04"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 5は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-5-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 5はPS5対応。USB接続、3D Audio対応。",
+              "evidence_ids": [
+                "ev-audio17-04"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-04"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 5は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-5-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 5はPS5対応。USB接続、3D Audio対応。",
+              "evidence_ids": [
+                "ev-audio17-04"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-04"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-7-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-7",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 7は公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "PS5のUSBポートへ付属USB送受信機を接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-7-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 7はPS5対応。USB無線接続、3D Audio対応。",
+          "evidence_ids": [
+            "ev-audio17-05"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-05"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 7は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-7-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 7はPS5対応。USB無線接続、3D Audio対応。",
+              "evidence_ids": [
+                "ev-audio17-05"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-05"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 7は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-7-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 7はPS5対応。USB無線接続、3D Audio対応。",
+              "evidence_ids": [
+                "ev-audio17-05"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-05"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-9-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-9",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 9は公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "PS5のUSBポートへ付属USB送受信機を接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-9-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 9はPS5対応。USB無線接続、3D Audio対応。",
+          "evidence_ids": [
+            "ev-audio17-06"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-06"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 9は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-9-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 9はPS5対応。USB無線接続、3D Audio対応。",
+              "evidence_ids": [
+                "ev-audio17-06"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-06"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 9は公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-9-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 9はPS5対応。USB無線接続、3D Audio対応。",
+              "evidence_ids": [
+                "ev-audio17-06"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-06"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-7p-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-7p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 7Pは公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "PS5のUSBポートへ付属USB送受信機を接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-7p-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 7PはPS5対応。USB無線接続。",
+          "evidence_ids": [
+            "ev-audio17-07"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-07"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 7Pは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-7p-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 7PはPS5対応。USB無線接続。",
+              "evidence_ids": [
+                "ev-audio17-07"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-07"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 7Pは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-7p-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 7PはPS5対応。USB無線接続。",
+              "evidence_ids": [
+                "ev-audio17-07"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-07"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-pro-wireless-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-pro-wireless",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis Pro Wirelessは公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "PS5のUSBポートへ付属USB送受信機を接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-pro-wireless-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis Pro WirelessはPS5対応。USB無線接続。",
+          "evidence_ids": [
+            "ev-audio17-08"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-08"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis Pro Wirelessは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-pro-wireless-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis Pro WirelessはPS5対応。USB無線接続。",
+              "evidence_ids": [
+                "ev-audio17-08"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-08"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis Pro Wirelessは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "PS5のUSBポートへ付属USB送受信機を接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-pro-wireless-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis Pro WirelessはPS5対応。USB無線接続。",
+              "evidence_ids": [
+                "ev-audio17-08"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-08"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-kaira-x-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "razer-kaira-x-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kaira X for Xboxは公式情報でhost-xbox-series-x向けに確認済み。",
+      "requirements": [
+        "Xbox Series X|S向け公式モデル。3.5mm接続を使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-kaira-x-xbox-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+          "evidence_ids": [
+            "ev-audio17-09"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-09"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Kaira X for Xboxは公式情報でhost-xbox-series-x向けに確認済み。",
+          "requirements": [
+            "Xbox Series X|S向け公式モデル。3.5mm接続を使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-x-xbox-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+              "evidence_ids": [
+                "ev-audio17-09"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-09"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kaira X for Xboxは公式情報でhost-xbox-series-x向けに確認済み。",
+          "requirements": [
+            "Xbox Series X|S向け公式モデル。3.5mm接続を使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-x-xbox-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+              "evidence_ids": [
+                "ev-audio17-09"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-09"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-kaira-x-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "razer-kaira-x-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kaira X for Xboxは公式情報でhost-xbox-series-s向けに確認済み。",
+      "requirements": [
+        "Xbox Series X|S向け公式モデル。3.5mm接続を使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-kaira-x-xbox-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+          "evidence_ids": [
+            "ev-audio17-10"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-10"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Kaira X for Xboxは公式情報でhost-xbox-series-s向けに確認済み。",
+          "requirements": [
+            "Xbox Series X|S向け公式モデル。3.5mm接続を使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-x-xbox-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+              "evidence_ids": [
+                "ev-audio17-10"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-10"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kaira X for Xboxは公式情報でhost-xbox-series-s向けに確認済み。",
+          "requirements": [
+            "Xbox Series X|S向け公式モデル。3.5mm接続を使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-x-xbox-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+              "evidence_ids": [
+                "ev-audio17-10"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-10"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-kaira-playstation-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "razer-kaira-playstation",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kaira for PlayStationは公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "付属2.4GHz USB-CドングルをPS5へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-kaira-playstation-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Kaira for PlayStationはPS5対応。2.4GHz USB-Cドングル/Bluetooth、マイク対応。",
+          "evidence_ids": [
+            "ev-audio17-11"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-11"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Kaira for PlayStationは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "付属2.4GHz USB-CドングルをPS5へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-playstation-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira for PlayStationはPS5対応。2.4GHz USB-Cドングル/Bluetooth、マイク対応。",
+              "evidence_ids": [
+                "ev-audio17-11"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-11"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kaira for PlayStationは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "付属2.4GHz USB-CドングルをPS5へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-playstation-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira for PlayStationはPS5対応。2.4GHz USB-Cドングル/Bluetooth、マイク対応。",
+              "evidence_ids": [
+                "ev-audio17-11"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-11"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-kaira-pro-playstation-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "razer-kaira-pro-playstation",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kaira Pro for PlayStationは公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "付属2.4GHz USB-CドングルをPS5へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-kaira-pro-playstation-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Kaira Pro for PlayStationはPS5対応。HyperSense、マイク、FW更新情報を掲載。",
+          "evidence_ids": [
+            "ev-audio17-12"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-12"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Kaira Pro for PlayStationは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "付属2.4GHz USB-CドングルをPS5へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-pro-playstation-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira Pro for PlayStationはPS5対応。HyperSense、マイク、FW更新情報を掲載。",
+              "evidence_ids": [
+                "ev-audio17-12"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-12"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kaira Pro for PlayStationは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "付属2.4GHz USB-CドングルをPS5へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-pro-playstation-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira Pro for PlayStationはPS5対応。HyperSense、マイク、FW更新情報を掲載。",
+              "evidence_ids": [
+                "ev-audio17-12"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-12"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-kaira-pro-hyperspeed-playstation-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "razer-kaira-pro-hyperspeed-playstation",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kaira Pro HyperSpeed for PlayStationは公式情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "付属USB-C 2.4GHzドングルをPS5へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-kaira-pro-hyperspeed-playstation-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Kaira Pro HyperSpeed (PS5)はPS5対応。FW v1.1.13_r3、マイク入力を掲載。",
+          "evidence_ids": [
+            "ev-audio17-13"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-13"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Kaira Pro HyperSpeed for PlayStationは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "付属USB-C 2.4GHzドングルをPS5へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-pro-hyperspeed-playstation-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira Pro HyperSpeed (PS5)はPS5対応。FW v1.1.13_r3、マイク入力を掲載。",
+              "evidence_ids": [
+                "ev-audio17-13"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-13"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kaira Pro HyperSpeed for PlayStationは公式情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "付属USB-C 2.4GHzドングルをPS5へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-kaira-pro-hyperspeed-playstation-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Kaira Pro HyperSpeed (PS5)はPS5対応。FW v1.1.13_r3、マイク入力を掲載。",
+              "evidence_ids": [
+                "ev-audio17-13"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-13"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-turret-xbox-one-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "razer-turret-xbox-one",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Turret for Xbox Oneは公式情報でhost-xbox-series-x向けに確認済み。",
+      "requirements": [
+        "対応ゲーム・アプリでのみキーボード/マウス入力が使用できます。Xbox UI全体のマウス操作には対応しません。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-turret-xbox-one-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Turret for Xbox OneはXbox Series Xへforward compatible。",
+          "evidence_ids": [
+            "ev-audio17-14"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-14"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "limited_compatibility",
+          "summary": "Turret for Xbox Oneは公式情報でhost-xbox-series-x向けに確認済み。",
+          "requirements": [
+            "対応ゲーム・アプリでのみキーボード/マウス入力が使用できます。Xbox UI全体のマウス操作には対応しません。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-turret-xbox-one-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Turret for Xbox OneはXbox Series Xへforward compatible。",
+              "evidence_ids": [
+                "ev-audio17-14"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-14"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Turret for Xbox Oneは公式情報でhost-xbox-series-x向けに確認済み。",
+          "requirements": [
+            "対応ゲーム・アプリでのみキーボード/マウス入力が使用できます。Xbox UI全体のマウス操作には対応しません。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-turret-xbox-one-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Turret for Xbox OneはXbox Series Xへforward compatible。",
+              "evidence_ids": [
+                "ev-audio17-14"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-14"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-razer-turret-xbox-one-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "razer-turret-xbox-one",
+      "region": "JP",
+      "overall_status": "limited_compatibility",
+      "publication_status": "published",
+      "summary": "Turret for Xbox Oneは公式情報でhost-xbox-series-s向けに確認済み。",
+      "requirements": [
+        "対応ゲーム・アプリでのみキーボード/マウス入力が使用できます。Xbox UI全体のマウス操作には対応しません。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "razer-turret-xbox-one-feature-1",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Turret for Xbox OneはXbox Series Sへforward compatible。",
+          "evidence_ids": [
+            "ev-audio17-15"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-15"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:07:56+09:00",
+      "next_review_at": "2026-11-02T22:07:56+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "limited_compatibility",
+          "summary": "Turret for Xbox Oneは公式情報でhost-xbox-series-s向けに確認済み。",
+          "requirements": [
+            "対応ゲーム・アプリでのみキーボード/マウス入力が使用できます。Xbox UI全体のマウス操作には対応しません。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-turret-xbox-one-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Turret for Xbox OneはXbox Series Sへforward compatible。",
+              "evidence_ids": [
+                "ev-audio17-15"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-15"
+          ],
+          "captured_at": "2026-09-03T22:07:56+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "limited_compatibility",
+          "publication_status": "published",
+          "summary": "Turret for Xbox Oneは公式情報でhost-xbox-series-s向けに確認済み。",
+          "requirements": [
+            "対応ゲーム・アプリでのみキーボード/マウス入力が使用できます。Xbox UI全体のマウス操作には対応しません。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "razer-turret-xbox-one-feature-1",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Turret for Xbox OneはXbox Series Sへforward compatible。",
+              "evidence_ids": [
+                "ev-audio17-15"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-15"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:07:56+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "公式対応表/サポートに基づく新規under_review登録。",
+          "previous_status": null,
+          "new_status": "limited_compatibility"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "limited_compatibility",
+          "new_status": "limited_compatibility"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-3-console-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "steelseries-arctis-3-console",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 3 Consoleは公式対応表でXbox向けに確認済み。",
+      "requirements": [
+        "Xboxコントローラーの3.5mm端子へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-3-console-feature-xbox-series-x",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 3 ConsoleはXbox Series X/S対応。3.5mmでコントローラーへ接続。",
+          "evidence_ids": [
+            "ev-audio17-16"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-16"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:08:26+09:00",
+      "next_review_at": "2026-11-02T22:08:26+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 3 Consoleは公式対応表でXbox向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-3-console-feature-xbox-series-x",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 3 ConsoleはXbox Series X/S対応。3.5mmでコントローラーへ接続。",
+              "evidence_ids": [
+                "ev-audio17-16"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-16"
+          ],
+          "captured_at": "2026-09-03T22:08:26+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 3 Consoleは公式対応表でXbox向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-3-console-feature-xbox-series-x",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 3 ConsoleはXbox Series X/S対応。3.5mmでコントローラーへ接続。",
+              "evidence_ids": [
+                "ev-audio17-16"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-16"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:08:26+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "SteelSeries公式対応表のXbox Series X/S行に基づくunder_review追加。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-3-console-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "steelseries-arctis-3-console",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Arctis 3 Consoleは公式対応表でXbox向けに確認済み。",
+      "requirements": [
+        "Xboxコントローラーの3.5mm端子へ接続してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "steelseries-arctis-3-console-feature-xbox-series-s",
+          "feature_name": "音声出力・マイク",
+          "status": "supported",
+          "notes": "Arctis 3 ConsoleはXbox Series X/S対応。3.5mmでコントローラーへ接続。",
+          "evidence_ids": [
+            "ev-audio17-17"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-audio17-17"
+      ],
+      "created_by": "batch-audio17-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T22:10:10+09:00",
+      "verified_at": "2026-09-03T22:08:26+09:00",
+      "next_review_at": "2026-11-02T22:08:26+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "Arctis 3 Consoleは公式対応表でXbox向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-3-console-feature-xbox-series-s",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 3 ConsoleはXbox Series X/S対応。3.5mmでコントローラーへ接続。",
+              "evidence_ids": [
+                "ev-audio17-17"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-17"
+          ],
+          "captured_at": "2026-09-03T22:08:26+09:00",
+          "captured_by": "batch-audio17-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T22:10:10+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Arctis 3 Consoleは公式対応表でXbox向けに確認済み。",
+          "requirements": [
+            "Xboxコントローラーの3.5mm端子へ接続してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "steelseries-arctis-3-console-feature-xbox-series-s",
+              "feature_name": "音声出力・マイク",
+              "status": "supported",
+              "notes": "Arctis 3 ConsoleはXbox Series X/S対応。3.5mmでコントローラーへ接続。",
+              "evidence_ids": [
+                "ev-audio17-17"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-audio17-17"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T22:08:26+09:00",
+          "changed_by": "batch-audio17-20260903",
+          "change_reason": "SteelSeries公式対応表のXbox Series X/S行に基づくunder_review追加。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T22:10:10+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -80459,6 +82643,312 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "TK-FCP097系をNintendo Switch2キーボードとして対応○で掲載.",
       "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-01",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 1はPS5対応。3D Audio対応、3.5mm接続。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-02",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 1はXbox Series X対応。Xbox向け設計・3.5mm接続。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-03",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 1はXbox Series S対応。Xbox向け設計・3.5mm接続。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-04",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 5はPS5対応。USB接続、3D Audio対応。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-05",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 7はPS5対応。USB無線接続、3D Audio対応。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-06",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 9はPS5対応。USB無線接続、3D Audio対応。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-07",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 7PはPS5対応。USB無線接続。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-08",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis Pro WirelessはPS5対応。USB無線接続。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-09",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.razer.com/console-headsets/razer-kaira-x-for-xbox",
+      "source_title": "Razer公式製品ページ",
+      "source_label": "Razer公式製品ページ",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-10",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.razer.com/console-headsets/razer-kaira-x-for-xbox",
+      "source_title": "Razer公式製品ページ",
+      "source_label": "Razer公式製品ページ",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kaira X for XboxはXbox Series X|S向け。マイク・音量操作あり。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-11",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.razer.com/console-headsets/razer-kaira-for-playstation-5",
+      "source_title": "Razer公式製品ページ",
+      "source_label": "Razer公式製品ページ",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kaira for PlayStationはPS5対応。2.4GHz USB-Cドングル/Bluetooth、マイク対応。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-12",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mysupport.razer.com/app/answers/detail/a_id/5800/kw/Razer%20kaira%20pro%20ps5",
+      "source_title": "Razer公式サポート",
+      "source_label": "Razer公式サポート",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kaira Pro for PlayStationはPS5対応。HyperSense、マイク、FW更新情報を掲載。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-13",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mysupport.razer.com/app/answers/detail/a_id/6354/kw/Razer%20kaira%20pro%20ps5",
+      "source_title": "Razer公式サポート",
+      "source_label": "Razer公式サポート",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kaira Pro HyperSpeed (PS5)はPS5対応。FW v1.1.13_r3、マイク入力を掲載。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-14",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mysupport.razer.com/app/answers/detail/a_id/3613/kw/keyboards%2Bfaqs",
+      "source_title": "Razer公式サポート",
+      "source_label": "Razer公式サポート",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Turret for Xbox OneはXbox Series Xへforward compatible。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-15",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://mysupport.razer.com/app/answers/detail/a_id/3613/kw/keyboards%2Bfaqs",
+      "source_title": "Razer公式サポート",
+      "source_label": "Razer公式サポート",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:07:56+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Turret for Xbox OneはXbox Series Sへforward compatible。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-16",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:08:26+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 3 ConsoleのXbox Series X/S対応、3.5mm接続を掲載。",
+      "created_by": "batch-audio17-20260903"
+    },
+    {
+      "evidence_id": "ev-audio17-17",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "SteelSeries公式対応表",
+      "source_label": "SteelSeries公式対応表",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T22:08:26+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Arctis 3 ConsoleのXbox Series X/S対応、3.5mm接続を掲載。",
+      "created_by": "batch-audio17-20260903"
     }
   ]
 }
