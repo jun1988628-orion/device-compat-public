@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T20:41:25+09:00",
+  "dataset_generated_at": "2026-09-03T20:48:41+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -4717,6 +4717,121 @@
         "USB",
         "3.5mm",
         "Wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-xl2411k",
+      "manufacturer": "BenQ",
+      "product_name": "ZOWIE XL2411K",
+      "model_number": "XL2411K",
+      "aliases": [
+        "ZOWIE XL2411K",
+        "XL2411K"
+      ],
+      "category": "display_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "DisplayPort"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-xl2586x-plus",
+      "manufacturer": "BenQ",
+      "product_name": "ZOWIE XL2586X+",
+      "model_number": "XL2586X+",
+      "aliases": [
+        "ZOWIE XL2586X+",
+        "XL2586X+"
+      ],
+      "category": "display_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "DisplayPort"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-ex271q",
+      "manufacturer": "BenQ",
+      "product_name": "MOBIUZ EX271Q",
+      "model_number": "EX271Q",
+      "aliases": [
+        "MOBIUZ EX271Q",
+        "EX271Q"
+      ],
+      "category": "display_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "DisplayPort"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-ex480uz",
+      "manufacturer": "BenQ",
+      "product_name": "MOBIUZ EX480UZ",
+      "model_number": "EX480UZ",
+      "aliases": [
+        "MOBIUZ EX480UZ",
+        "EX480UZ"
+      ],
+      "category": "display_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "DisplayPort"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "benq-ex271uz",
+      "manufacturer": "BenQ",
+      "product_name": "MOBIUZ EX271UZ",
+      "model_number": "EX271UZ",
+      "aliases": [
+        "MOBIUZ EX271UZ",
+        "EX271UZ"
+      ],
+      "category": "display_monitor",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "DisplayPort"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -59541,6 +59656,2046 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2411k-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "benq-xl2411k",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2411k-ps5-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2411k-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-ps5-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2411k-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-ps5-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2411k-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "benq-xl2411k",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2411k-xbox-series-x-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2411k-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2411k-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2411k-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "benq-xl2411k",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2411k-xbox-series-s-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2411k-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2411k-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2411k-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2586x-plus-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "benq-xl2586x-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2586x-plus-ps5-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-ps5-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-ps5-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2586x-plus-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "benq-xl2586x-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2586x-plus-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "benq-xl2586x-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-xl2586x-plus-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "benq-xl2586x-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-xl2586x-plus-switch-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-switch-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-xl2586x-plus-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-xl2586x-plus-switch-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271q-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "benq-ex271q",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271q-ps5-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-ps5-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-ps5-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271q-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "benq-ex271q",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271q-xbox-series-x-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271q-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "benq-ex271q",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271q-xbox-series-s-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271q-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "benq-ex271q",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271q-switch-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-switch-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271q-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271q-switch-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex480uz-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "benq-ex480uz",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex480uz-ps5-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex480uz-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-ps5-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex480uz-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-ps5-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex480uz-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "benq-ex480uz",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex480uz-xbox-series-x-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex480uz-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex480uz-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex480uz-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "benq-ex480uz",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex480uz-xbox-series-s-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex480uz-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex480uz-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex480uz-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271uz-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "benq-ex271uz",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271uz-ps5-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271uz-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-ps5-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271uz-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-ps5-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271uz-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "benq-ex271uz",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271uz-xbox-series-x-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271uz-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271uz-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-xbox-series-x-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-benq-ex271uz-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "benq-ex271uz",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "requirements": [
+        "Use the documented HDMI connection and model-specific console mode.",
+        "Do not interpret the monitor maximum refresh rate as the host console output capability."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "display_output",
+          "feature_name": "Display output",
+          "status": "supported_with_requirements",
+          "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-benq17-benq-ex271uz-xbox-series-s-20260903"
+      ],
+      "created_by": "benq17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:48:41+09:00",
+      "verified_at": "2026-09-03T21:00:00+09:00",
+      "next_review_at": "2026-12-03T21:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "display_sink",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271uz-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink",
+          "revision": 1,
+          "captured_at": "2026-09-03T21:00:00+09:00",
+          "captured_by": "benq17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:48:41+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+          "requirements": [
+            "Use the documented HDMI connection and model-specific console mode.",
+            "Do not interpret the monitor maximum refresh rate as the host console output capability."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "display_output",
+              "feature_name": "Display output",
+              "status": "supported_with_requirements",
+              "notes": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+              "evidence_ids": [
+                "ev-benq17-benq-ex271uz-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-benq17-benq-ex271uz-xbox-series-s-20260903"
+          ],
+          "relationship_role": "display_sink"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:00:00+09:00",
+          "changed_by": "benq17_20260903",
+          "change_reason": "BenQ display READY expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:48:41+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -66779,6 +68934,312 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
       "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2411k-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/ja-jp/monitor/xl2411k.html",
+      "source_title": "benq-xl2411k official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2411k as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2411k-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/ja-jp/monitor/xl2411k.html",
+      "source_title": "benq-xl2411k official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2411k-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/ja-jp/monitor/xl2411k.html",
+      "source_title": "benq-xl2411k official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2411k as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2586x-plus-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/en-us/monitor/xl2586x-plus.html",
+      "source_title": "benq-xl2586x-plus official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2586x-plus-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/en-us/monitor/xl2586x-plus.html",
+      "source_title": "benq-xl2586x-plus official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2586x-plus-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/en-us/monitor/xl2586x-plus.html",
+      "source_title": "benq-xl2586x-plus official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-xl2586x-plus-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://zowie.benq.com/en-us/monitor/xl2586x-plus.html",
+      "source_title": "benq-xl2586x-plus official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-xl2586x-plus as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271q-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ko-kr/monitor/gaming/ex271q.html",
+      "source_title": "benq-ex271q official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271q as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271q-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ko-kr/monitor/gaming/ex271q.html",
+      "source_title": "benq-ex271q official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271q-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ko-kr/monitor/gaming/ex271q.html",
+      "source_title": "benq-ex271q official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271q as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271q-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ko-kr/monitor/gaming/ex271q.html",
+      "source_title": "benq-ex271q official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271q as console-compatible for switch; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex480uz-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/en-us/monitor/gaming/ex480uz/.html",
+      "source_title": "benq-ex480uz official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex480uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex480uz-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/en-us/monitor/gaming/ex480uz/.html",
+      "source_title": "benq-ex480uz official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex480uz-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/en-us/monitor/gaming/ex480uz/.html",
+      "source_title": "benq-ex480uz official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex480uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271uz-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ja-jp/monitor/gaming/ex271u.html",
+      "source_title": "benq-ex271uz official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271uz as console-compatible for ps5; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271uz-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ja-jp/monitor/gaming/ex271u.html",
+      "source_title": "benq-ex271uz official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-x; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-benq17-benq-ex271uz-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.benq.com/ja-jp/monitor/gaming/ex271u.html",
+      "source_title": "benq-ex271uz official console compatibility",
+      "source_label": "Official BenQ product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
+      "created_by": "benq17_20260903"
     }
   ]
 }
