@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T19:38:18+09:00",
+  "dataset_generated_at": "2026-09-03T20:29:45+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -4401,6 +4401,94 @@
       "connection_methods": [
         "HDMI",
         "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "hori-fighting-commander-octa-ps5",
+      "manufacturer": "HORI",
+      "product_name": "Fighting Commander OCTA for PlayStation 5",
+      "model_number": "SPF-040U",
+      "aliases": [
+        "Fighting Commander OCTA for PlayStation 5",
+        "SPF-040U"
+      ],
+      "category": "racing_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "hori-fighting-commander-octa-xbox",
+      "manufacturer": "HORI",
+      "product_name": "Fighting Commander OCTA for Xbox Series X|S",
+      "model_number": "AB03-001U",
+      "aliases": [
+        "Fighting Commander OCTA for Xbox Series X|S",
+        "AB03-001U"
+      ],
+      "category": "racing_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "logitech-g923-playstation",
+      "manufacturer": "Logitech G",
+      "product_name": "G923 TRUEFORCE Racing Wheel (PlayStation)",
+      "model_number": "941-000147",
+      "aliases": [
+        "G923 TRUEFORCE Racing Wheel (PlayStation)",
+        "941-000147"
+      ],
+      "category": "racing_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "logitech-g923-xbox",
+      "manufacturer": "Logitech G",
+      "product_name": "G923 TRUEFORCE Racing Wheel (Xbox)",
+      "model_number": "941-000158",
+      "aliases": [
+        "G923 TRUEFORCE Racing Wheel (Xbox)",
+        "941-000158"
+      ],
+      "category": "racing_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -56066,6 +56154,708 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-hori-fighting-commander-octa-ps5-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "hori-fighting-commander-octa-ps5",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+      "requirements": [
+        "Use the exact model variant and its documented USB connection.",
+        "Follow the manufacturer platform-specific setup and firmware guidance."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903"
+      ],
+      "created_by": "newready6_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:29:45+09:00",
+      "verified_at": "2026-09-03T19:00:00+09:00",
+      "next_review_at": "2026-12-03T19:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T19:00:00+09:00",
+          "captured_by": "newready6_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:29:45+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T19:00:00+09:00",
+          "changed_by": "newready6_20260903",
+          "change_reason": "NEW_READY six-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:29:45+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-fighting-commander-octa-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "hori-fighting-commander-octa-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+      "requirements": [
+        "Use the exact model variant and its documented USB connection.",
+        "Follow the manufacturer platform-specific setup and firmware guidance."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903"
+      ],
+      "created_by": "newready6_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:29:45+09:00",
+      "verified_at": "2026-09-03T19:00:00+09:00",
+      "next_review_at": "2026-12-03T19:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T19:00:00+09:00",
+          "captured_by": "newready6_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:29:45+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T19:00:00+09:00",
+          "changed_by": "newready6_20260903",
+          "change_reason": "NEW_READY six-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:29:45+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-fighting-commander-octa-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "hori-fighting-commander-octa-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+      "requirements": [
+        "Use the exact model variant and its documented USB connection.",
+        "Follow the manufacturer platform-specific setup and firmware guidance."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903"
+      ],
+      "created_by": "newready6_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:29:45+09:00",
+      "verified_at": "2026-09-03T19:00:00+09:00",
+      "next_review_at": "2026-12-03T19:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T19:00:00+09:00",
+          "captured_by": "newready6_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:29:45+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T19:00:00+09:00",
+          "changed_by": "newready6_20260903",
+          "change_reason": "NEW_READY six-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:29:45+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-logitech-g923-playstation-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "logitech-g923-playstation",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+      "requirements": [
+        "Use the exact model variant and its documented USB connection.",
+        "Follow the manufacturer platform-specific setup and firmware guidance."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-playstation-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-newready6-logitech-g923-playstation-ps5-20260903"
+      ],
+      "created_by": "newready6_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:29:45+09:00",
+      "verified_at": "2026-09-03T19:00:00+09:00",
+      "next_review_at": "2026-12-03T19:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-logitech-g923-playstation-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-playstation-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T19:00:00+09:00",
+          "captured_by": "newready6_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:29:45+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-logitech-g923-playstation-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-playstation-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T19:00:00+09:00",
+          "changed_by": "newready6_20260903",
+          "change_reason": "NEW_READY six-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:29:45+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-logitech-g923-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "logitech-g923-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+      "requirements": [
+        "Use the exact model variant and its documented USB connection.",
+        "Follow the manufacturer platform-specific setup and firmware guidance."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903"
+      ],
+      "created_by": "newready6_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:29:45+09:00",
+      "verified_at": "2026-09-03T19:00:00+09:00",
+      "next_review_at": "2026-12-03T19:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T19:00:00+09:00",
+          "captured_by": "newready6_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:29:45+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T19:00:00+09:00",
+          "changed_by": "newready6_20260903",
+          "change_reason": "NEW_READY six-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:29:45+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-logitech-g923-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "logitech-g923-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+      "requirements": [
+        "Use the exact model variant and its documented USB connection.",
+        "Follow the manufacturer platform-specific setup and firmware guidance."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903"
+      ],
+      "created_by": "newready6_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:29:45+09:00",
+      "verified_at": "2026-09-03T19:00:00+09:00",
+      "next_review_at": "2026-12-03T19:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T19:00:00+09:00",
+          "captured_by": "newready6_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:29:45+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+          "requirements": [
+            "Use the exact model variant and its documented USB connection.",
+            "Follow the manufacturer platform-specific setup and firmware guidance."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+              "evidence_ids": [
+                "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T19:00:00+09:00",
+          "changed_by": "newready6_20260903",
+          "change_reason": "NEW_READY six-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:29:45+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -62818,6 +63608,114 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
       "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-newready6-hori-fighting-commander-octa-ps5-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/fighting-commander-octa-for-playstation-5-playstation-4-and-windows-11-10",
+      "source_title": "hori-fighting-commander-octa-ps5 official compatibility",
+      "source_label": "Official manufacturer product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T19:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer page identifies the exact hori-fighting-commander-octa-ps5 variant for ps5; this record does not extend compatibility to other host generations or variants.",
+      "created_by": "newready6_20260903"
+    },
+    {
+      "evidence_id": "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://hori.jp/products/xsx/fc_octa/",
+      "source_title": "hori-fighting-commander-octa-xbox official compatibility",
+      "source_label": "Official manufacturer product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T19:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+      "created_by": "newready6_20260903"
+    },
+    {
+      "evidence_id": "ev-newready6-hori-fighting-commander-octa-xbox-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://hori.jp/products/xsx/fc_octa/",
+      "source_title": "hori-fighting-commander-octa-xbox official compatibility",
+      "source_label": "Official manufacturer product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T19:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer page identifies the exact hori-fighting-commander-octa-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+      "created_by": "newready6_20260903"
+    },
+    {
+      "evidence_id": "ev-newready6-logitech-g923-playstation-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.logitechg.com/en-us/products/driving/g923-trueforce-sim-racing-wheel.html",
+      "source_title": "logitech-g923-playstation official compatibility",
+      "source_label": "Official manufacturer product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T19:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer page identifies the exact logitech-g923-playstation variant for ps5; this record does not extend compatibility to other host generations or variants.",
+      "created_by": "newready6_20260903"
+    },
+    {
+      "evidence_id": "ev-newready6-logitech-g923-xbox-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.logitechg.com/en-us/products/driving/g923-trueforce-sim-racing-wheel.html",
+      "source_title": "logitech-g923-xbox official compatibility",
+      "source_label": "Official manufacturer product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T19:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-x; this record does not extend compatibility to other host generations or variants.",
+      "created_by": "newready6_20260903"
+    },
+    {
+      "evidence_id": "ev-newready6-logitech-g923-xbox-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.logitechg.com/en-us/products/driving/g923-trueforce-sim-racing-wheel.html",
+      "source_title": "logitech-g923-xbox official compatibility",
+      "source_label": "Official manufacturer product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T19:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
+      "created_by": "newready6_20260903"
     }
   ]
 }
