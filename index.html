@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Nintendo Switch 2と周辺機器の互換性を、メーカー公式情報を中心とした公開承認済みデータから検索できます。型番・製品名・メーカー名に対応。">
+  <meta name="description" content="ゲーム機・ゲーミングデバイスと周辺機器の互換性を、メーカー公式情報を中心とした公開承認済みデータから確認できます。">
   <meta name="robots" content="index,follow">
   <meta name="theme-color" content="#111827">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ja_JP">
-  <meta property="og:title" content="これ、使える？ — Nintendo Switch 2 互換性検索">
-  <meta property="og:description" content="Nintendo Switch 2と周辺機器の互換性を、公開承認済みデータから確認。条件・機能別判定・公式根拠も表示します。">
-  <title>これ、使える？ — Nintendo Switch 2 互換性検索</title>
+  <meta property="og:title" content="これ、使える？ — ゲーム機・周辺機器の互換性検索">
+  <meta property="og:description" content="ゲーム機・ゲーミングデバイスと周辺機器の互換性を、公開承認済みデータから確認。条件・機能別判定・公式根拠も表示します。">
+  <title>これ、使える？ — ゲーム機・周辺機器の互換性検索</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -21,28 +21,30 @@
           <p class="eyebrow">DEVICE COMPATIBILITY SEARCH</p>
           <h1>これ、使える？</h1>
         </div>
-        <span class="host-badge">Nintendo Switch 2</span>
+        <span class="host-badge">マルチプラットフォーム</span>
       </div>
 
-      <p class="lead">周辺機器がNintendo Switch 2で使えるかを、メーカー公式情報を中心とした公開承認済みデータから確認できます。</p>
+      <p class="lead">ゲーム機・ゲーミングデバイスと周辺機器の互換性を、メーカー公式情報を中心に確認できます。</p>
 
       <form id="searchForm" class="search-box" role="search">
         <label class="sr-only" for="query">製品名または型番を検索</label>
-        <input id="query" name="q" autocomplete="off" maxlength="120" placeholder="型番・製品名・メーカー名  例: HAC-013 / Pro Controller / 8BitDo">
+        <input id="query" name="q" autocomplete="off" maxlength="120" placeholder="型番・製品名・メーカー名  例: G923 / Arctis / HD60 X">
         <button type="submit">検索する</button>
       </form>
 
       <div class="search-examples" aria-label="検索例">
         <span>検索例</span>
-        <button type="button" class="example-query" data-query="HAC-013">HAC-013</button>
-        <button type="button" class="example-query" data-query="Pro Controller">Pro Controller</button>
-        <button type="button" class="example-query" data-query="8BitDo">8BitDo</button>
+        <button type="button" class="example-query" data-query="G923">G923</button>
+        <button type="button" class="example-query" data-query="Arctis">Arctis</button>
+        <button type="button" class="example-query" data-query="HD60 X">HD60 X</button>
+        <button type="button" class="example-query" data-query="Lexar">Lexar</button>
       </div>
 
       <div class="hero-meta">
         <div id="stats" class="stats">データ読込中...</div>
+        <div id="hostSummary" class="updated-at" aria-live="polite"></div>
         <div id="updatedAt" class="updated-at"></div>
-        <div class="product-list-link"><a href="/products/">公開済み製品一覧（151件）を見る</a></div>
+        <div class="product-list-link"><a id="productListLink" href="/products/">公開済み製品一覧を見る</a></div>
       </div>
     </header>
 

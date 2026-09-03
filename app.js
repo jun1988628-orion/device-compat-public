@@ -92,11 +92,18 @@ async function loadDataset() {
 }
 
 function updateStats() {
-  const published = DATASET.compatibility_records.filter(
+  const publishedRecords = DATASET.compatibility_records.filter(
     (r) => r.publication_status === "published"
-  ).length;
+  );
+  const accessoryProductIds = new Set(publishedRecords.map((r) => r.accessory_product_id));
+  const hostIds = [...new Set(publishedRecords.map((r) => r.host_product_id))];
+  const hostNames = hostIds.map((id) => PRODUCTS.get(id)?.product_name || id);
   $("#stats").textContent =
-    `公開済み ${published}件 / 登録 ${DATASET.compatibility_records.length}件`;
+    `公開済み互換性 ${publishedRecords.length}件 / 製品 ${accessoryProductIds.size}件 / プラットフォーム ${hostIds.length}件`;
+  const hostSummary = $("#hostSummary");
+  if (hostSummary) hostSummary.textContent = `対応状況を掲載: ${hostNames.join(" / ")}`;
+  const productListLink = $("#productListLink");
+  if (productListLink) productListLink.textContent = `公開済み製品一覧（${accessoryProductIds.size}件）を見る`;
 }
 
 function searchProducts(query) {
