@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T21:06:18+09:00",
+  "dataset_generated_at": "2026-09-03T21:14:05+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -5365,6 +5365,90 @@
       "upc": null,
       "connection_methods": [
         "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "lexar-gold-microsd",
+      "manufacturer": "Lexar",
+      "product_name": "GOLD microSD",
+      "model_number": "GOLD microSD",
+      "aliases": [
+        "GOLD microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "lexar-play-microsd",
+      "manufacturer": "Lexar",
+      "product_name": "PLAY microSD",
+      "model_number": "PLAY microSD",
+      "aliases": [
+        "PLAY microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "lexar-1066x-microsd",
+      "manufacturer": "Lexar",
+      "product_name": "1066x microSD",
+      "model_number": "1066x microSD",
+      "aliases": [
+        "1066x microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "lexar-silver-plus-microsd",
+      "manufacturer": "Lexar",
+      "product_name": "SILVER PLUS microSD",
+      "model_number": "SILVER PLUS microSD",
+      "aliases": [
+        "SILVER PLUS microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -65214,6 +65298,1944 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-gold-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "lexar-gold-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-gold-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-gold-microsd-switch-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-gold-microsd-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "lexar-gold-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-gold-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-gold-microsd-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "lexar-gold-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-gold-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-gold-microsd-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "lexar-gold-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-gold-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-gold-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "lexar-play-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-microsd-switch-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-microsd-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "lexar-play-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-microsd-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "lexar-play-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-microsd-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "lexar-play-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-1066x-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "lexar-1066x-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-1066x-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-1066x-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-1066x-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-1066x-microsd-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "lexar-1066x-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-1066x-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-1066x-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-1066x-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-1066x-microsd-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "lexar-1066x-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-1066x-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-1066x-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-1066x-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-silver-plus-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "lexar-silver-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-silver-plus-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-silver-plus-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-silver-plus-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-silver-plus-microsd-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "lexar-silver-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-silver-plus-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-silver-plus-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-silver-plus-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-silver-plus-microsd-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "lexar-silver-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-silver-plus-microsd-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-silver-plus-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-silver-plus-microsd-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-pro-microsd-express-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "lexar-play-pro-microsd-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-pro-microsd-express-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-pro-microsd-express-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "lexar-play-pro-microsd-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-pro-microsd-express-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-lexar-play-pro-microsd-express-legion-go-r1",
+      "host_product_id": "host-legion-go",
+      "accessory_product_id": "lexar-play-pro-microsd-express",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "requirements": [
+        "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "lexar-play-pro-microsd-express-feature",
+          "feature_name": "microSDストレージ",
+          "status": "supported",
+          "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903"
+      ],
+      "created_by": "lexar_storage17_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:14:05+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible",
+          "publication_status": "under_review",
+          "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "lexar_storage17_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:14:05+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+          "requirements": [
+            "公式互換表に掲載された製品family・対象host・容量variantの範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "lexar-play-pro-microsd-express-feature",
+              "feature_name": "microSDストレージ",
+              "status": "supported",
+              "notes": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+              "evidence_ids": [
+                "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "lexar_storage17_20260903",
+          "change_reason": "Lexar公式互換表に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:14:05+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -73226,6 +75248,312 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
       "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-gold-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でGOLD microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-gold-microsd-steam-deck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でGOLD microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-gold-microsd-rog-ally-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でGOLD microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-gold-microsd-legion-go-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でGOLD microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-microsd-steam-deck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-microsd-rog-ally-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-microsd-legion-go-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-1066x-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表で1066x microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-1066x-microsd-steam-deck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表で1066x microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-1066x-microsd-legion-go-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表で1066x microSDのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-silver-plus-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でSILVER PLUS microSDのhost-switch対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-silver-plus-microsd-steam-deck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でSILVER PLUS microSDのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-silver-plus-microsd-rog-ally-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でSILVER PLUS microSDのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-pro-microsd-express-steam-deck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY PRO microSD Expressのhost-steam-deck対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-pro-microsd-express-rog-ally-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY PRO microSD Expressのhost-rog-ally対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-lexar-storage17-lexar-play-pro-microsd-express-legion-go-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www-oss.lexar.com/lexar/resource/files/2026-03-23/mircoSD_Compatiblity_GL%26NA_2026Q1.pdf",
+      "source_title": "Lexar microSD Card Compatibility Table",
+      "source_label": "Lexar公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
+      "created_by": "lexar_storage17_20260903"
     }
   ]
 }
