@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T20:29:45+09:00",
+  "dataset_generated_at": "2026-09-03T20:41:25+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -4489,6 +4489,234 @@
       "upc": null,
       "connection_methods": [
         "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "hori-wireless-racing-wheel-overdrive-xbox",
+      "manufacturer": "HORI",
+      "product_name": "Wireless Racing Wheel Overdrive for Xbox Series X|S",
+      "model_number": "MBF-016U",
+      "aliases": [
+        "Wireless Racing Wheel Overdrive for Xbox Series X|S",
+        "MBF-016U"
+      ],
+      "category": "racing_wheel",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "hori-force-feedback-racing-wheel-dlx-xbox",
+      "manufacturer": "HORI",
+      "product_name": "Force Feedback Racing Wheel DLX for Xbox Series X|S",
+      "model_number": "AB05-001U",
+      "aliases": [
+        "Force Feedback Racing Wheel DLX for Xbox Series X|S",
+        "AB05-001U"
+      ],
+      "category": "racing_wheel",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "hori-fighting-stick-alpha-xbox",
+      "manufacturer": "HORI",
+      "product_name": "Fighting Stick α for Xbox Series X|S",
+      "model_number": "SPF-004U",
+      "aliases": [
+        "Fighting Stick α for Xbox Series X|S",
+        "SPF-004U"
+      ],
+      "category": "game_controller",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "logitech-g29",
+      "manufacturer": "Logitech G",
+      "product_name": "G29 Driving Force Racing Wheel",
+      "model_number": "G29",
+      "aliases": [
+        "G29 Driving Force Racing Wheel",
+        "G29"
+      ],
+      "category": "racing_wheel",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "logitech-g920",
+      "manufacturer": "Logitech G",
+      "product_name": "G920 Driving Force Racing Wheel",
+      "model_number": "G920",
+      "aliases": [
+        "G920 Driving Force Racing Wheel",
+        "G920"
+      ],
+      "category": "racing_wheel",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-nova-7p",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis Nova 7P Wireless",
+      "model_number": "Nova 7P",
+      "aliases": [
+        "Arctis Nova 7P Wireless",
+        "Nova 7P"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "3.5mm",
+        "Wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-nova-7x",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis Nova 7X Wireless",
+      "model_number": "Nova 7X",
+      "aliases": [
+        "Arctis Nova 7X Wireless",
+        "Nova 7X"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "3.5mm",
+        "Wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-1-wireless-xbox",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 1 Wireless for Xbox",
+      "model_number": "Arctis 1 Wireless",
+      "aliases": [
+        "Arctis 1 Wireless for Xbox",
+        "Arctis 1 Wireless"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "3.5mm",
+        "Wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-3-console",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis 3 Console",
+      "model_number": "Arctis 3 Console",
+      "aliases": [
+        "Arctis 3 Console"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "3.5mm",
+        "Wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "steelseries-arctis-pro-gamedac",
+      "manufacturer": "SteelSeries",
+      "product_name": "Arctis Pro + GameDAC",
+      "model_number": "Arctis Pro + GameDAC",
+      "aliases": [
+        "Arctis Pro + GameDAC"
+      ],
+      "category": "audio_headset",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB",
+        "3.5mm",
+        "Wireless"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -56856,6 +57084,2463 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "hori-wireless-racing-wheel-overdrive-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "hori-wireless-racing-wheel-overdrive-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "hori-force-feedback-racing-wheel-dlx-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "hori-force-feedback-racing-wheel-dlx-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-fighting-stick-alpha-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "hori-fighting-stick-alpha-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-hori-fighting-stick-alpha-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "hori-fighting-stick-alpha-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-logitech-g29-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "logitech-g29",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-logitech-g29-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-logitech-g29-ps5-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-logitech-g29-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-logitech-g29-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-logitech-g29-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-logitech-g29-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-logitech-g920-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "logitech-g920",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-logitech-g920-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-logitech-g920-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-logitech-g920-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-logitech-g920-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-logitech-g920-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-logitech-g920-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-logitech-g920-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "logitech-g920",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-logitech-g920-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-logitech-g920-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-logitech-g920-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-logitech-g920-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-logitech-g920-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-logitech-g920-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-nova-7p-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-nova-7p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-nova-7x-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-nova-7x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-1-wireless-xbox-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-1-wireless-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-3-console-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "steelseries-arctis-3-console",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-3-console-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-steelseries-arctis-3-console-ps5-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-3-console-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-3-console-ps5-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-3-console-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-3-console-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-pro-gamedac-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "steelseries-arctis-pro-gamedac",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-pro-gamedac-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "steelseries-arctis-pro-gamedac",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio / controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio / controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+              "evidence_ids": [
+                "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-nova-7p-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "steelseries-arctis-nova-7p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio connection",
+          "status": "supported_with_requirements",
+          "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-nova-7p-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "steelseries-arctis-nova-7p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio connection",
+          "status": "supported_with_requirements",
+          "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-nova-7x-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "steelseries-arctis-nova-7x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio connection",
+          "status": "supported_with_requirements",
+          "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-nova-7x-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "steelseries-arctis-nova-7x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio connection",
+          "status": "supported_with_requirements",
+          "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-1-wireless-xbox-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "steelseries-arctis-1-wireless-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio connection",
+          "status": "supported_with_requirements",
+          "notes": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-steelseries-arctis-1-wireless-xbox-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "steelseries-arctis-1-wireless-xbox",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+      "requirements": [
+        "Use the exact platform variant and documented connection method.",
+        "Follow manufacturer firmware and setup guidance where applicable."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "audio_connection",
+          "feature_name": "Audio connection",
+          "status": "supported_with_requirements",
+          "notes": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903"
+      ],
+      "created_by": "ready21_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:41:25+09:00",
+      "verified_at": "2026-09-03T20:00:00+09:00",
+      "next_review_at": "2026-12-03T20:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T20:00:00+09:00",
+          "captured_by": "ready21_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:41:25+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+          "requirements": [
+            "Use the exact platform variant and documented connection method.",
+            "Follow manufacturer firmware and setup guidance where applicable."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "audio_connection",
+              "feature_name": "Audio connection",
+              "status": "supported_with_requirements",
+              "notes": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+              "evidence_ids": [
+                "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T20:00:00+09:00",
+          "changed_by": "ready21_20260903",
+          "change_reason": "READY 21-record expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:41:25+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -63716,6 +66401,384 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Official manufacturer page identifies the exact logitech-g923-xbox variant for xbox-series-s; this record does not extend compatibility to other host generations or variants.",
       "created_by": "newready6_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/mbs-016/",
+      "source_title": "hori-wireless-racing-wheel-overdrive-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-hori-wireless-racing-wheel-overdrive-xbox-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/mbs-016/",
+      "source_title": "hori-wireless-racing-wheel-overdrive-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact hori-wireless-racing-wheel-overdrive-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/force-feedback-racing-wheel-dlx-designed-for-xbox-series-x-s-xbox-one/",
+      "source_title": "hori-force-feedback-racing-wheel-dlx-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-hori-force-feedback-racing-wheel-dlx-xbox-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/force-feedback-racing-wheel-dlx-designed-for-xbox-series-x-s-xbox-one/",
+      "source_title": "hori-force-feedback-racing-wheel-dlx-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact hori-force-feedback-racing-wheel-dlx-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/xbox-series-x-s/",
+      "source_title": "hori-fighting-stick-alpha-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-hori-fighting-stick-alpha-xbox-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://stores.horiusa.com/xbox-series-x-s/",
+      "source_title": "hori-fighting-stick-alpha-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact hori-fighting-stick-alpha-xbox variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-logitech-g29-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.logitechg.com/en-us/shop/p/driving-force-racing-wheel",
+      "source_title": "logitech-g29 official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact logitech-g29 variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-logitech-g920-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.logitechg.com/en-us/shop/p/driving-force-racing-wheel",
+      "source_title": "logitech-g920 official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-logitech-g920-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.logitechg.com/en-us/shop/p/driving-force-racing-wheel",
+      "source_title": "logitech-g920 official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact logitech-g920 variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-steelseries-arctis-nova-7p-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://steelseries.com/gaming-headsets/arctis-nova-7",
+      "source_title": "steelseries-arctis-nova-7p official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact steelseries-arctis-nova-7p variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-steelseries-arctis-nova-7x-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/29671903726477-What-is-the-difference-between-Nova-7-7P-and-7X",
+      "source_title": "steelseries-arctis-nova-7x official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact steelseries-arctis-nova-7x variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-steelseries-arctis-1-wireless-xbox-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-1-wireless-xbox official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact steelseries-arctis-1-wireless-xbox variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-steelseries-arctis-3-console-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-3-console official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact steelseries-arctis-3-console variant for ps5; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-pro-gamedac official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-x; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-steelseries-arctis-pro-gamedac-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-pro-gamedac official compatibility",
+      "source_label": "Official manufacturer product/support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official manufacturer source identifies the exact steelseries-arctis-pro-gamedac variant for xbox-series-s; platform-specific model and connection requirements are kept separate.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-nova-7p official compatibility",
+      "source_label": "Official manufacturer support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-x.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-extra-steelseries-arctis-nova-7p-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-nova-7p official compatibility",
+      "source_label": "Official manufacturer support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-nova-7p for xbox-series-s.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-nova-7x official compatibility",
+      "source_label": "Official manufacturer support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-x.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-extra-steelseries-arctis-nova-7x-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-nova-7x official compatibility",
+      "source_label": "Official manufacturer support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-nova-7x for xbox-series-s.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-1-wireless-xbox official compatibility",
+      "source_label": "Official manufacturer support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-x.",
+      "created_by": "ready21_20260903"
+    },
+    {
+      "evidence_id": "ev-ready21-extra-steelseries-arctis-1-wireless-xbox-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support.steelseries.com/hc/en-us/articles/360049667072-All-Arctis-headset-compatibilitywith-PlayStation-5-Xbox-Series-X-Xbox-Series-S",
+      "source_title": "steelseries-arctis-1-wireless-xbox official compatibility",
+      "source_label": "Official manufacturer support page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T20:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SteelSeries source identifies steelseries-arctis-1-wireless-xbox for xbox-series-s.",
+      "created_by": "ready21_20260903"
     }
   ]
 }
