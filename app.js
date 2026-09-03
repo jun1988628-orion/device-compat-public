@@ -144,6 +144,32 @@ function relationshipRoleNotice(role) {
   return "";
 }
 
+function requirementGroupsHtml(record) {
+  const groups = { "接続": [], "電源": [], "firmware / system": [], "本体設定": [], "用途制約": [], "その他": [] };
+  for (const item of (record.requirements || [])) {
+    const t = String(item), l = t.toLowerCase();
+    let key = "その他";
+    if (/firmware|ファーム|system version|os version|fw要件/.test(l)) key = "firmware / system";
+    else if (/電源|給電|充電|power|charger|\bpd\b/.test(l)) key = "電源";
+    else if (/設定|setting|enable|有効|hdcp/.test(l)) key = "本体設定";
+    else if (/保存|移動|起動|用途|game|録画|capture|限定/.test(l)) key = "用途制約";
+    else if (/接続|usb|hdmi|bluetooth|wired|wireless|adapter|ドック/.test(l)) key = "接続";
+    groups[key].push(t);
+  }
+  return Object.entries(groups).filter(([, v]) => v.length).map(([k, v]) => `<div class="requirement-group"><h4>${escapeHtml(k)}</h4><ul>${v.map(x => `<li>${escapeHtml(x)}</li>`).join("")}</ul></div>`).join("");
+}
+
+function recordDetailsHtml(record, product) {
+  const methods = (product.connection_methods || []).filter(Boolean);
+  const connection = methods.length ? `<section class="record-detail"><h4>接続情報</h4><p>${escapeHtml(methods.join(" / "))}</p></section>` : "";
+  const system = [["最低FW", record.minimum_firmware], ["公式掲載FW", record.verified_firmware], ["対象OS / system", record.host_os_version]].filter(([, v]) => v).map(([k, v]) => `<div><strong>${k}:</strong> ${escapeHtml(v)}</div>`).join("");
+  const firmware = system ? `<section class="record-detail"><h4>Firmware / system</h4>${system}</section>` : "";
+  const storage = /storage|microSD|SSD|保存|移動|起動/i.test(`${product.category || ""} ${record.summary || ""}`) && record.feature_assessments?.length
+    ? `<section class="record-detail"><h4>用途別</h4><ul>${record.feature_assessments.map(f => `<li><strong>${escapeHtml(f.feature_name)}</strong>: ${escapeHtml(featureLabel(f.status))} — ${escapeHtml(f.notes)}</li>`).join("")}</ul></section>` : "";
+  const capture = record.relationship_role === "capture_source" ? `<section class="record-detail"><h4>映像入力源 / capture host</h4><p>このplatformは映像入力源として確認されています。PC/Mac側のcapture host要件とは別です。</p></section>` : "";
+  return connection + firmware + storage + capture;
+}
+
 function publishedRecords(productId) {
   return publishedRecordsForProduct(DATASET, productId);
 }
@@ -237,11 +263,8 @@ function renderProduct(productId) {
           </span>
         </div>
 
-        ${r.requirements.length ? `
-          <section>
-            <h3>必要条件</h3>
-            <ul>${r.requirements.map((x) => `<li>${escapeHtml(x)}</li>`).join("")}</ul>
-          </section>` : ""}
+        ${r.requirements.length ? `<section><h3>必要条件</h3>${requirementGroupsHtml(r)}</section>` : ""}
+        ${recordDetailsHtml(r, p)}
 
         ${relationshipRoleNotice(r.relationship_role)}
 
@@ -293,7 +316,8 @@ function renderProduct(productId) {
           <div class="head"><div><h3>${escapeHtml(host?.product_name || r.host_product_id)}</h3><p>${escapeHtml(r.summary)}</p></div>
           <span class="status ${statusClass(r.overall_status)}">${escapeHtml(overallLabel(r.overall_status))}</span></div>
           ${relationshipRoleNotice(r.relationship_role)}
-          ${r.requirements.length ? `<h4>必要条件</h4><ul>${r.requirements.map((x) => `<li>${escapeHtml(x)}</li>`).join("")}</ul>` : ""}
+          ${r.requirements.length ? `<h4>必要条件</h4>${requirementGroupsHtml(r)}` : ""}
+          ${recordDetailsHtml(r, p)}
           <h4>機能別</h4><ul>${r.feature_assessments.map((f) => `<li><strong>${escapeHtml(f.feature_name)}</strong>: ${escapeHtml(featureLabel(f.status))} — ${escapeHtml(f.notes)}</li>`).join("")}</ul>
           <h4>根拠</h4>${renderEvidence(allEvidence)}
         </section>`;
