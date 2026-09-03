@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T19:27:35+09:00",
+  "dataset_generated_at": "2026-09-03T19:38:18+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -4255,6 +4255,144 @@
         "Legion Go S"
       ],
       "category": "game_console",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-hd60-s",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture HD60 S",
+      "model_number": "HD60 S",
+      "aliases": [
+        "Game Capture HD60 S",
+        "HD60 S"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-hd60-s-plus",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture HD60 S+",
+      "model_number": "HD60 S+",
+      "aliases": [
+        "Game Capture HD60 S+",
+        "HD60 S+"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elgato-game-capture-4k60-pro",
+      "manufacturer": "Elgato",
+      "product_name": "Game Capture 4K60 Pro",
+      "model_number": "4K60 Pro",
+      "aliases": [
+        "Game Capture 4K60 Pro",
+        "4K60 Pro"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc575",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Gamer 4K 2.1 GC575",
+      "model_number": "GC575",
+      "aliases": [
+        "Live Gamer 4K 2.1 GC575",
+        "GC575"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc553g2",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Gamer ULTRA 2.1 GC553G2",
+      "model_number": "GC553G2",
+      "aliases": [
+        "Live Gamer ULTRA 2.1 GC553G2",
+        "GC553G2"
+      ],
+      "category": "capture_device",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "HDMI",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "avermedia-gc573",
+      "manufacturer": "AVerMedia",
+      "product_name": "Live Gamer 4K GC573",
+      "model_number": "GC573",
+      "aliases": [
+        "Live Gamer 4K GC573",
+        "GC573"
+      ],
+      "category": "capture_device",
       "region": "JP",
       "hardware_revision": null,
       "sku": null,
@@ -53648,6 +53786,2286 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-hd60-s-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "elgato-game-capture-hd60-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-hd60-s-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "elgato-game-capture-hd60-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-hd60-s-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-hd60-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-hd60-s-switch-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-hd60-s-plus-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "elgato-game-capture-hd60-s-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-hd60-s-plus-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "elgato-game-capture-hd60-s-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-hd60-s-plus-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-hd60-s-plus",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k60-pro-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "elgato-game-capture-4k60-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k60-pro-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "elgato-game-capture-4k60-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k60-pro-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-4k60-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc575-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "avermedia-gc575",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc575-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc575-xbox-series-x-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc575-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc575-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc575-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc575-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc575-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "avermedia-gc575",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc575-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc575-xbox-series-s-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc575-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc575-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc575-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc575-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc553g2-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "avermedia-gc553g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc553g2-ps5-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-ps5-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-ps5-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc553g2-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "avermedia-gc553g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc553g2-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "avermedia-gc553g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc573-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "avermedia-gc573",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc573-ps5-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc573-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-ps5-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc573-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-ps5-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc573-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "avermedia-gc573",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc573-xbox-series-x-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc573-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc573-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc573-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "avermedia-gc573",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc573-xbox-series-s-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc573-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc573-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc573-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc551g2-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "avermedia-gc551g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "requirements": [
+        "Connect the specified host as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc551g2-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc551g2-switch-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc551g2-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc551g2-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+          "requirements": [
+            "Connect the specified host as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; the platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc551g2-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc551g2-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc553g2-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "avermedia-gc553g2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+      "requirements": [
+        "Connect Nintendo Switch as HDMI input source.",
+        "Use a separate compatible Windows/macOS capture host; Nintendo Switch is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ready19-avermedia-gc553g2-switch-20260903"
+      ],
+      "created_by": "ready19_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:38:18+09:00",
+      "verified_at": "2026-09-03T18:00:00+09:00",
+      "next_review_at": "2026-12-03T18:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+          "requirements": [
+            "Connect Nintendo Switch as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; Nintendo Switch is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T18:00:00+09:00",
+          "captured_by": "ready19_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:38:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+          "requirements": [
+            "Connect Nintendo Switch as HDMI input source.",
+            "Use a separate compatible Windows/macOS capture host; Nintendo Switch is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+              "evidence_ids": [
+                "ev-ready19-avermedia-gc553g2-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-ready19-avermedia-gc553g2-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T18:00:00+09:00",
+          "changed_by": "ready19_20260903",
+          "change_reason": "READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:38:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -60058,6 +62476,348 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
       "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-hd60-s-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/4409972421133-Elgato-Game-Capture-HD60-S-Technical-Specifications",
+      "source_title": "elgato-game-capture-hd60-s official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-hd60-s-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/4409972421133-Elgato-Game-Capture-HD60-S-Technical-Specifications",
+      "source_title": "elgato-game-capture-hd60-s official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-hd60-s for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-hd60-s-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/4409972421133-Elgato-Game-Capture-HD60-S-Technical-Specifications",
+      "source_title": "elgato-game-capture-hd60-s official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-hd60-s for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/360034170131-Elgato-Game-Capture-HD60-S-Technical-Specifications",
+      "source_title": "elgato-game-capture-hd60-s-plus official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-hd60-s-plus-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/360034170131-Elgato-Game-Capture-HD60-S-Technical-Specifications",
+      "source_title": "elgato-game-capture-hd60-s-plus official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-hd60-s-plus-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/360034170131-Elgato-Game-Capture-HD60-S-Technical-Specifications",
+      "source_title": "elgato-game-capture-hd60-s-plus official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-hd60-s-plus for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/360028240751-Elgato-Game-Capture-4K60-Pro-Technical-Specifications",
+      "source_title": "elgato-game-capture-4k60-pro official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-4k60-pro-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/360028240751-Elgato-Game-Capture-4K60-Pro-Technical-Specifications",
+      "source_title": "elgato-game-capture-4k60-pro official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k60-pro for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-elgato-game-capture-4k60-pro-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/360028240751-Elgato-Game-Capture-4K60-Pro-Technical-Specifications",
+      "source_title": "elgato-game-capture-4k60-pro official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k60-pro for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc575-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC575",
+      "source_title": "avermedia-gc575 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc575 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc575-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC575",
+      "source_title": "avermedia-gc575 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc575 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc553g2-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC553G2",
+      "source_title": "avermedia-gc553g2 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc553g2 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc553g2-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC553G2",
+      "source_title": "avermedia-gc553g2 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc553g2-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC553G2",
+      "source_title": "avermedia-gc553g2 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc553g2 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc573-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC573",
+      "source_title": "avermedia-gc573 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc573 for ps5. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc573-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC573",
+      "source_title": "avermedia-gc573 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc573 for xbox-series-x. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc573-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC573",
+      "source_title": "avermedia-gc573 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc573 for xbox-series-s. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc551g2-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC551G2",
+      "source_title": "avermedia-gc551g2 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc551g2 for switch. The host is the video source; use a separate PC or Mac capture host.",
+      "created_by": "ready19_20260903"
+    },
+    {
+      "evidence_id": "ev-ready19-avermedia-gc553g2-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/capture-card-GC553G2",
+      "source_title": "AVerMedia GC553G2 official compatibility",
+      "source_label": "Official manufacturer page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T18:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "AVerMedia official GC553G2 source identifies Nintendo Switch as a supported HDMI source; use a separate PC capture host.",
+      "created_by": "ready19_20260903"
     }
   ]
 }
