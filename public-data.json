@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T20:48:41+09:00",
+  "dataset_generated_at": "2026-09-03T20:58:04+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -4832,6 +4832,341 @@
       "connection_methods": [
         "HDMI",
         "DisplayPort"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-lua6-u3-cgte",
+      "manufacturer": "BUFFALO",
+      "product_name": "Giga Type-C USB LAN adapter LUA6-U3-CGTE family",
+      "model_number": "LUA6-U3-CGTE",
+      "aliases": [
+        "LUA6-U3-CGTE",
+        "Giga Type-C USB LAN adapter LUA6-U3-CGTE family"
+      ],
+      "category": "usb_ethernet_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bsh4u500c1p",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB-C 4-port hub BSH4U500C1P family",
+      "model_number": "BSH4U500C1P",
+      "aliases": [
+        "BSH4U500C1P",
+        "USB-C 4-port hub BSH4U500C1P family"
+      ],
+      "category": "usb_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bsh4u505c1p",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB-C 4-port hub BSH4U505C1P family",
+      "model_number": "BSH4U505C1P",
+      "aliases": [
+        "BSH4U505C1P",
+        "USB-C 4-port hub BSH4U505C1P family"
+      ],
+      "category": "usb_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bsacpd6500c2",
+      "manufacturer": "BUFFALO",
+      "product_name": "65W USB PD charger BSACPD6500C2 family",
+      "model_number": "BSACPD6500C2",
+      "aliases": [
+        "BSACPD6500C2",
+        "65W USB PD charger BSACPD6500C2 family"
+      ],
+      "category": "charger",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wxr18000be10p",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 7 router WXR18000BE10P family",
+      "model_number": "WXR18000BE10P",
+      "aliases": [
+        "WXR18000BE10P",
+        "Wi-Fi 7 router WXR18000BE10P family"
+      ],
+      "category": "network_router",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Ethernet",
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wxr9300be6p",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 7 router WXR9300BE6P family",
+      "model_number": "WXR9300BE6P",
+      "aliases": [
+        "WXR9300BE6P",
+        "Wi-Fi 7 router WXR9300BE6P family"
+      ],
+      "category": "network_router",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Ethernet",
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wsr-1500ax2l-pl",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 6 router WSR-1500AX2L/PL family",
+      "model_number": "WSR-1500AX2L/PL",
+      "aliases": [
+        "WSR-1500AX2L/PL",
+        "Wi-Fi 6 router WSR-1500AX2L/PL family"
+      ],
+      "category": "network_router",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Ethernet",
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wcr-1166dhpl",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 5 router WCR-1166DHPL family",
+      "model_number": "WCR-1166DHPL",
+      "aliases": [
+        "WCR-1166DHPL",
+        "Wi-Fi 5 router WCR-1166DHPL family"
+      ],
+      "category": "network_router",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Ethernet",
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wex-5400ax6",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 6 repeater WEX-5400AX6 family",
+      "model_number": "WEX-5400AX6",
+      "aliases": [
+        "WEX-5400AX6",
+        "Wi-Fi 6 repeater WEX-5400AX6 family"
+      ],
+      "category": "wifi_extender",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wex-1166dhpl",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 5 repeater WEX-1166DHPL family",
+      "model_number": "WEX-1166DHPL",
+      "aliases": [
+        "WEX-1166DHPL",
+        "Wi-Fi 5 repeater WEX-1166DHPL family"
+      ],
+      "category": "wifi_extender",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wex-3000ax4ea",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 6 repeater WEX-3000AX4EA family",
+      "model_number": "WEX-3000AX4EA",
+      "aliases": [
+        "WEX-3000AX4EA",
+        "Wi-Fi 6 repeater WEX-3000AX4EA family"
+      ],
+      "category": "wifi_extender",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-wex-3000ax4",
+      "manufacturer": "BUFFALO",
+      "product_name": "Wi-Fi 6 repeater WEX-3000AX4 family",
+      "model_number": "WEX-3000AX4",
+      "aliases": [
+        "WEX-3000AX4",
+        "Wi-Fi 6 repeater WEX-3000AX4 family"
+      ],
+      "category": "wifi_extender",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Wi-Fi"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-lud-u3-au101",
+      "manufacturer": "BUFFALO",
+      "product_name": "Type-A Giga LAN adapter with 3-port hub LUD-U3-AU101 family",
+      "model_number": "LUD-U3-AU101",
+      "aliases": [
+        "LUD-U3-AU101",
+        "Type-A Giga LAN adapter with 3-port hub LUD-U3-AU101 family"
+      ],
+      "category": "usb_ethernet_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A",
+        "Ethernet"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-lua5-u3-agte",
+      "manufacturer": "BUFFALO",
+      "product_name": "Type-A Giga USB LAN adapter LUA5-U3-AGTE family",
+      "model_number": "LUA5-U3-AGTE",
+      "aliases": [
+        "LUA5-U3-AGTE",
+        "Type-A Giga USB LAN adapter LUA5-U3-AGTE family"
+      ],
+      "category": "usb_ethernet_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-edc-gua3v3",
+      "manufacturer": "ELECOM",
+      "product_name": "USB-A Giga LAN adapter EDC-GUA3V3 family",
+      "model_number": "EDC-GUA3V3",
+      "aliases": [
+        "EDC-GUA3V3",
+        "USB-A Giga LAN adapter EDC-GUA3V3 family"
+      ],
+      "category": "usb_ethernet_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -61696,6 +62031,1728 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-buffalo-lua6-u3-cgte-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-lua6-u3-cgte",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。",
+        "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-lua6-u3-cgte-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lua6-u3-cgte-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lua6-u3-cgte-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bsh4u500c1p-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bsh4u500c1p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。",
+        "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bsh4u500c1p-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsh4u500c1p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsh4u500c1p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bsh4u505c1p-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bsh4u505c1p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。",
+        "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bsh4u505c1p-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsh4u505c1p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "Switch 2 DockのType-Cポート／TVモードでの使用は対象外。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsh4u505c1p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bsacpd6500c2-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bsacpd6500c2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。",
+        "充電用途のみ確認済み。TVモード給電やDock代替とは扱わない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bsacpd6500c2-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "充電用途のみ確認済み。TVモード給電やDock代替とは扱わない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsacpd6500c2-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。",
+            "充電用途のみ確認済み。TVモード給電やDock代替とは扱わない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsacpd6500c2-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wxr18000be10p-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wxr18000be10p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wxr18000be10p-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wxr18000be10p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wxr18000be10p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wxr9300be6p-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wxr9300be6p",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wxr9300be6p-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wxr9300be6p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wxr9300be6p-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wsr-1500ax2l-pl-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wsr-1500ax2l-pl",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wsr-1500ax2l-pl-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wsr-1500ax2l-pl-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wsr-1500ax2l-pl-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wcr-1166dhpl-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wcr-1166dhpl",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wcr-1166dhpl-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wcr-1166dhpl-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fiルーター。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wcr-1166dhpl-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fiルーター。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wex-5400ax6-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wex-5400ax6",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wex-5400ax6-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-5400ax6-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-5400ax6-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wex-1166dhpl-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wex-1166dhpl",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wex-1166dhpl-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-1166dhpl-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-1166dhpl-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wex-3000ax4ea-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wex-3000ax4ea",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wex-3000ax4ea-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-3000ax4ea-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-3000ax4ea-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-wex-3000ax4-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-wex-3000ax4",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-wex-3000ax4-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-3000ax4-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Switch 2公式対応表掲載のWi-Fi中継機。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-wex-3000ax4-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Switch 2公式対応表掲載のWi-Fi中継機。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-lud-u3-au101-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-lud-u3-au101",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch公式対応表掲載。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-lud-u3-au101-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch公式対応表掲載。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lud-u3-au101-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-lud-u3-au101-switch-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch公式対応表掲載。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lud-u3-au101-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式対応表掲載。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-lud-u3-au101-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lud-u3-au101-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch公式対応表掲載。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lud-u3-au101-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式対応表掲載。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-lud-u3-au101-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lud-u3-au101-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-lua5-u3-agte-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-lua5-u3-agte",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch公式対応情報掲載。",
+      "requirements": [
+        "公式対応表に記載された接続方法・用途で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-lua5-u3-agte-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch公式対応情報掲載。",
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch公式対応情報掲載。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lua5-u3-agte-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式対応情報掲載。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch公式対応情報掲載。",
+          "requirements": [
+            "公式対応表に記載された接続方法・用途で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-lua5-u3-agte-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式対応情報掲載。",
+              "evidence_ids": [
+                "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-edc-gua3v3-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elecom-edc-gua3v3",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+      "requirements": [
+        "Nintendo Switch Dock背面のUSB-Aポートに接続する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-edc-gua3v3-network-feature",
+          "feature_name": "公式ネットワーク／電源用途",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+          "evidence_ids": [
+            "ev-network-power15-elecom-edc-gua3v3-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-network-power15-elecom-edc-gua3v3-switch-20260903"
+      ],
+      "created_by": "network_power15_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T20:58:04+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+          "requirements": [
+            "Nintendo Switch Dock背面のUSB-Aポートに接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-edc-gua3v3-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+              "evidence_ids": [
+                "ev-network-power15-elecom-edc-gua3v3-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-elecom-edc-gua3v3-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "network_power15_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T20:58:04+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+          "requirements": [
+            "Nintendo Switch Dock背面のUSB-Aポートに接続する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-edc-gua3v3-network-feature",
+              "feature_name": "公式ネットワーク／電源用途",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+              "evidence_ids": [
+                "ev-network-power15-elecom-edc-gua3v3-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-network-power15-elecom-edc-gua3v3-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "network_power15_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T20:58:04+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -69240,6 +71297,276 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "BenQ official model page identifies benq-ex271uz as console-compatible for xbox-series-s; recorded display mode limits apply to this model and host only.",
       "created_by": "benq17_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-lua6-u3-cgte-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/lua6-u3-cgte-nbk.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応。Switch 2 DockのType-Cポートでは使用不可。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-bsh4u500c1p-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/bsh4u500c1pwh.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-bsh4u505c1p-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/bsh4u505c1pwh.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応。TVモードのSwitch 2 Dockには接続不可。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-bsacpd6500c2-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/bsacpd6500c2bk.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2本体の充電確認済み。TVモード給電・Dock代替は根拠なし。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wxr18000be10p-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wxr9300be6p-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wsr-1500ax2l-pl-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wcr-1166dhpl-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fiルーター。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wex-5400ax6-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wex-1166dhpl-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wex-3000ax4ea-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-wex-3000ax4-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Switch 2公式対応表掲載のWi-Fi中継機。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-lud-u3-au101-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?bbcategory=20&bscategory=203&lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2&page=1&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch公式対応表掲載。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-buffalo-lua5-u3-agte-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/lua5-u3-agte-nbk.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch公式対応情報掲載。",
+      "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-network-power15-elecom-edc-gua3v3-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elecom.co.jp/support/manual_web/products/type_01/edc-gua3v3/",
+      "source_title": "ELECOM公式対応情報",
+      "source_label": "ELECOM公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
+      "created_by": "network_power15_20260903"
     }
   ]
 }
