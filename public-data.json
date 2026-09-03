@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T21:14:05+09:00",
+  "dataset_generated_at": "2026-09-03T21:22:11+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -5449,6 +5449,216 @@
       "upc": null,
       "connection_methods": [
         "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-extreme-pro-microsd",
+      "manufacturer": "SanDisk",
+      "product_name": "Extreme PRO microSDXC UHS-I Card",
+      "model_number": "Extreme PRO microSDXC",
+      "aliases": [
+        "Extreme PRO microSDXC"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-extreme-plus-microsd",
+      "manufacturer": "SanDisk",
+      "product_name": "Extreme PLUS microSDXC UHS-I Card",
+      "model_number": "Extreme PLUS microSDXC",
+      "aliases": [
+        "Extreme PLUS microSDXC"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-extreme-microsd",
+      "manufacturer": "SanDisk",
+      "product_name": "Extreme microSDXC UHS-I Card",
+      "model_number": "Extreme microSDXC",
+      "aliases": [
+        "Extreme microSDXC"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-gameplay-microsd",
+      "manufacturer": "SanDisk",
+      "product_name": "GamePlay microSD Card for Mobile and Handheld Console Gaming",
+      "model_number": "GamePlay microSD",
+      "aliases": [
+        "GamePlay microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-creator-microsd",
+      "manufacturer": "SanDisk",
+      "product_name": "Creator microSD Card",
+      "model_number": "Creator microSD",
+      "aliases": [
+        "Creator microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-max-endurance-microsd",
+      "manufacturer": "SanDisk",
+      "product_name": "MAX ENDURANCE microSD Card",
+      "model_number": "MAX ENDURANCE microSD",
+      "aliases": [
+        "MAX ENDURANCE microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-extreme-portable-ssd-ps5",
+      "manufacturer": "SanDisk",
+      "product_name": "Extreme Portable SSD for PlayStation 5 Console and PC",
+      "model_number": "SDSSDE62P",
+      "aliases": [
+        "SDSSDE62P"
+      ],
+      "category": "portable_ssd",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "samsung-pro-plus-microsd",
+      "manufacturer": "Samsung",
+      "product_name": "PRO Plus microSD Card",
+      "model_number": "PRO Plus microSD",
+      "aliases": [
+        "PRO Plus microSD"
+      ],
+      "category": "microSD_card",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "samsung-t7-shield",
+      "manufacturer": "Samsung",
+      "product_name": "Portable SSD T7 Shield",
+      "model_number": "T7 Shield",
+      "aliases": [
+        "T7 Shield"
+      ],
+      "category": "portable_ssd",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "samsung-990-pro-heatsink",
+      "manufacturer": "Samsung",
+      "product_name": "990 PRO with Heatsink SSD",
+      "model_number": "990 PRO with Heatsink",
+      "aliases": [
+        "990 PRO with Heatsink"
+      ],
+      "category": "internal_ssd",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "M.2 NVMe"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -67236,6 +67446,1602 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-extreme-pro-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "sandisk-extreme-pro-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-extreme-pro-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-pro-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-pro-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-extreme-plus-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "sandisk-extreme-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "SanDisk公式互換表でNintendo Switch対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-extreme-plus-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "SanDisk公式互換表でNintendo Switch対応。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-extreme-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "sandisk-extreme-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "SanDisk公式互換表でNintendo Switch対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-extreme-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "SanDisk公式互換表でNintendo Switch対応。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-extreme-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-gameplay-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "sandisk-gameplay-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "SanDisk公式互換表でNintendo Switch対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-gameplay-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "SanDisk公式互換表でNintendo Switch対応。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-gameplay-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-gameplay-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-gameplay-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-gameplay-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-gameplay-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-gameplay-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-gameplay-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-gameplay-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-creator-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "sandisk-creator-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "SanDisk公式互換表でNintendo Switch対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-creator-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "SanDisk公式互換表でNintendo Switch対応。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-creator-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-creator-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-creator-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-creator-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-creator-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-creator-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-creator-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-creator-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-max-endurance-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "sandisk-max-endurance-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "SanDisk公式互換表でNintendo Switch対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-max-endurance-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "SanDisk公式互換表でNintendo Switch対応。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-max-endurance-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-max-endurance-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-max-endurance-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-max-endurance-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-max-endurance-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "SanDisk公式互換表でNintendo Switch対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-max-endurance-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "SanDisk公式互換表でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-max-endurance-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-max-endurance-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-sandisk-extreme-portable-ssd-ps5-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "sandisk-extreme-portable-ssd-ps5",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+      "requirements": [
+        "PS5のUSB拡張ストレージとして使用する。PS5ゲームの直接実行用途とは扱わない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-extreme-portable-ssd-ps5-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+          "requirements": [
+            "PS5のUSB拡張ストレージとして使用する。PS5ゲームの直接実行用途とは扱わない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-portable-ssd-ps5-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+          "requirements": [
+            "PS5のUSB拡張ストレージとして使用する。PS5ゲームの直接実行用途とは扱わない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "sandisk-extreme-portable-ssd-ps5-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+              "evidence_ids": [
+                "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-pro-plus-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "samsung-pro-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-pro-plus-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-pro-plus-microsd-switch-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-pro-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+              "evidence_ids": [
+                "ev-storage14-samsung-pro-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-pro-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+              "evidence_ids": [
+                "ev-storage14-samsung-pro-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-pro-plus-microsd-steam-deck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "samsung-pro-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-pro-plus-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-pro-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+              "evidence_ids": [
+                "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-pro-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+              "evidence_ids": [
+                "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-pro-plus-microsd-rog-ally-r1",
+      "host_product_id": "host-rog-ally",
+      "accessory_product_id": "samsung-pro-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+      "requirements": [
+        "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-pro-plus-microsd-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-pro-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+              "evidence_ids": [
+                "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+          "requirements": [
+            "公式compatibility table／product pageに記載されたhost・用途・容量範囲で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-pro-plus-microsd-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+              "evidence_ids": [
+                "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-shield-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "samsung-t7-shield",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+      "requirements": [
+        "PS5ではPS4ゲームの保存・移動用途に限定する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-shield-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-t7-shield-ps5-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "requirements": [
+            "PS5ではPS4ゲームの保存・移動用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-t7-shield-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+              "evidence_ids": [
+                "ev-storage14-samsung-t7-shield-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-ps5-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "requirements": [
+            "PS5ではPS4ゲームの保存・移動用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-t7-shield-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+              "evidence_ids": [
+                "ev-storage14-samsung-t7-shield-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-shield-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "samsung-t7-shield",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+      "requirements": [
+        "Xbox Seriesでは旧世代Xboxゲームの保存・移動用途に限定する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-shield-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-t7-shield-xbox-series-x-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "requirements": [
+            "Xbox Seriesでは旧世代Xboxゲームの保存・移動用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-t7-shield-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+              "evidence_ids": [
+                "ev-storage14-samsung-t7-shield-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-xbox-series-x-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "requirements": [
+            "Xbox Seriesでは旧世代Xboxゲームの保存・移動用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-t7-shield-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+              "evidence_ids": [
+                "ev-storage14-samsung-t7-shield-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-shield-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "samsung-t7-shield",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+      "requirements": [
+        "Xbox Seriesでは旧世代Xboxゲームの保存・移動用途に限定する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-shield-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-t7-shield-xbox-series-s-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "requirements": [
+            "Xbox Seriesでは旧世代Xboxゲームの保存・移動用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-t7-shield-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+              "evidence_ids": [
+                "ev-storage14-samsung-t7-shield-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-xbox-series-s-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+          "requirements": [
+            "Xbox Seriesでは旧世代Xboxゲームの保存・移動用途に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-t7-shield-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+              "evidence_ids": [
+                "ev-storage14-samsung-t7-shield-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-t7-shield-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-samsung-990-pro-heatsink-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "samsung-990-pro-heatsink",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+      "requirements": [
+        "PS5内部M.2拡張スロットへの装着用途。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-990-pro-heatsink-feature",
+          "feature_name": "ストレージ用途",
+          "status": "supported_with_requirements",
+          "notes": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+          "evidence_ids": [
+            "ev-storage14-samsung-990-pro-heatsink-ps5-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage14-samsung-990-pro-heatsink-ps5-20260903"
+      ],
+      "created_by": "storage14_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:22:11+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+          "requirements": [
+            "PS5内部M.2拡張スロットへの装着用途。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-990-pro-heatsink-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+              "evidence_ids": [
+                "ev-storage14-samsung-990-pro-heatsink-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-990-pro-heatsink-ps5-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage14_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:22:11+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+          "requirements": [
+            "PS5内部M.2拡張スロットへの装着用途。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "samsung-990-pro-heatsink-feature",
+              "feature_name": "ストレージ用途",
+              "status": "supported_with_requirements",
+              "notes": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+              "evidence_ids": [
+                "ev-storage14-samsung-990-pro-heatsink-ps5-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage14-samsung-990-pro-heatsink-ps5-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage14_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:22:11+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -75554,6 +77360,258 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Lexar公式互換表でPLAY PRO microSD Expressのhost-legion-go対応を明示。容量variantは同一familyとして統合。",
       "created_by": "lexar_storage17_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-extreme-pro-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/52753/",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表でNintendo Switch対応。Switch 2ではmicroSD Expressが必要で、本製品は対象外。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-extreme-plus-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/52753/",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表でNintendo Switch対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-extreme-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/52753/",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表でNintendo Switch対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-gameplay-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/52753/",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表でNintendo Switch対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-creator-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/52753/",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表でNintendo Switch対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-max-endurance-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/52753/",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表でNintendo Switch対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-sandisk-extreme-portable-ssd-ps5-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.sandisk.com/ja-jp/products/ssd/external-ssd/sandisk-extreme-portable-ssd-ps5",
+      "source_title": "SanDisk公式互換表／製品ページ",
+      "source_label": "SanDisk公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-pro-plus-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-pro-plus-microsd-steam-deck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-pro-plus-microsd-rog-ally-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "product_family",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でNintendo Switch、Steam Deck、ROG Ally対応。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-t7-shield-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-t7-shield-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-t7-shield-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でPS5およびXbox Series S|X対応。PS5ではPS4ゲームの保存・移動用途、Xbox Seriesでは旧世代ゲームの保存・移動用途に限定される。",
+      "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-storage14-samsung-990-pro-heatsink-ps5-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/support/memory-storage/speichermedien-kompatibilitaet/",
+      "source_title": "Samsung公式互換表／製品ページ",
+      "source_label": "Samsung公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
+      "created_by": "storage14_20260903"
     }
   ]
 }
