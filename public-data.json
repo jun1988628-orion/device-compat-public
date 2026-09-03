@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T21:22:11+09:00",
+  "dataset_generated_at": "2026-09-03T21:34:33+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -5659,6 +5659,273 @@
       "upc": null,
       "connection_methods": [
         "M.2 NVMe"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "hori-usb-camera-nsx023",
+      "manufacturer": "HORI",
+      "product_name": "USB Camera for Nintendo Switch 2",
+      "model_number": "NSX-023",
+      "aliases": [
+        "NSX-023",
+        "USB Camera for Nintendo Switch 2"
+      ],
+      "category": "webcam",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-ucam-c820abbk",
+      "manufacturer": "ELECOM",
+      "product_name": "UCAM-C820ABBK Web Camera",
+      "model_number": "UCAM-C820ABBK",
+      "aliases": [
+        "UCAM-C820ABBK",
+        "UCAM-C820ABBK Web Camera"
+      ],
+      "category": "webcam",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-osmod-six-m-my35mbsx-family",
+      "manufacturer": "ELECOM",
+      "product_name": "OSMOD Six wireless mouse M-MY35MBSX family",
+      "model_number": "M-MY35MBSX",
+      "aliases": [
+        "M-MY35MBSX",
+        "OSMOD Six wireless mouse M-MY35MBSX family"
+      ],
+      "category": "mouse",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-precisionist-tk-pn1075mpwh",
+      "manufacturer": "ELECOM",
+      "product_name": "Precisionist mini keyboard TK-PN1075MPWH",
+      "model_number": "TK-PN1075MPWH",
+      "aliases": [
+        "TK-PN1075MPWH",
+        "Precisionist mini keyboard TK-PN1075MPWH"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-precisionist-tk-pn10fmpa-family",
+      "manufacturer": "ELECOM",
+      "product_name": "Precisionist full keyboard TK-PN10FMPA family",
+      "model_number": "TK-PN10FMPA",
+      "aliases": [
+        "TK-PN10FMPA",
+        "Precisionist full keyboard TK-PN10FMPA family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-tk-fcp096-family",
+      "manufacturer": "ELECOM",
+      "product_name": "Ultra-thin mini keyboard TK-FCP096 family",
+      "model_number": "TK-FCP096",
+      "aliases": [
+        "TK-FCP096",
+        "Ultra-thin mini keyboard TK-FCP096 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "elecom-tk-fcp097-family",
+      "manufacturer": "ELECOM",
+      "product_name": "Ultra-thin compact keyboard TK-FCP097 family",
+      "model_number": "TK-FCP097",
+      "aliases": [
+        "TK-FCP097",
+        "Ultra-thin compact keyboard TK-FCP097 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu340",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB wired quiet keyboard BSKBU340 family",
+      "model_number": "BSKBU340",
+      "aliases": [
+        "BSKBU340",
+        "USB wired quiet keyboard BSKBU340 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu345",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB wired quiet keyboard BSKBU345 family",
+      "model_number": "BSKBU345",
+      "aliases": [
+        "BSKBU345",
+        "USB wired quiet keyboard BSKBU345 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu525",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB washable antibacterial keyboard BSKBU525 family",
+      "model_number": "BSKBU525",
+      "aliases": [
+        "BSKBU525",
+        "USB washable antibacterial keyboard BSKBU525 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu528",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB washable antibacterial keyboard BSKBU528 family",
+      "model_number": "BSKBU528",
+      "aliases": [
+        "BSKBU528",
+        "USB washable antibacterial keyboard BSKBU528 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbw125",
+      "manufacturer": "BUFFALO",
+      "product_name": "2.4GHz wireless keyboard BSKBW125 family",
+      "model_number": "BSKBW125",
+      "aliases": [
+        "BSKBW125",
+        "2.4GHz wireless keyboard BSKBW125 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "2.4GHz USB receiver"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -69042,6 +69309,2226 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu340-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu340",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu340-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-01"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-01"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu340-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-01"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-01"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu340-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-01"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-01"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu345-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu345",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu345-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-02"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-02"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu345-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-02"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-02"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu345-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-02"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-02"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu525-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu525",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu525-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-03"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-03"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu525-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-03"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-03"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu525-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-03"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-03"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu340-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbu340",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-switch向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu340-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-04"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-04"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu340-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-04"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-04"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu340-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-04"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-04"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu345-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbu345",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-switch向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu345-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-05"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-05"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu345-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-05"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-05"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu345-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-05"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-05"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu525-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbu525",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-switch向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu525-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-06"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-06"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu525-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-06"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-06"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu525-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-06"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-06"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu340-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "buffalo-bskbu340",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu340-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-07"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-07"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu340-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-07"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-07"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB wired quiet keyboard BSKBU340 familyは公式対応情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu340-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU340シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-07"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-07"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu345-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "buffalo-bskbu345",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu345-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-08"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-08"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu345-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-08"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-08"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB wired quiet keyboard BSKBU345 familyは公式対応情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu345-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU345シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-08"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-08"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu525-ps5-r1",
+      "host_product_id": "host-ps5",
+      "accessory_product_id": "buffalo-bskbu525",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-ps5向けに確認済み。",
+      "requirements": [
+        "TVモードで使用してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu525-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-09"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-09"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu525-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-09"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-09"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB washable antibacterial keyboard BSKBU525 familyは公式対応情報でhost-ps5向けに確認済み。",
+          "requirements": [
+            "TVモードで使用してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu525-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU525シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-09"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-09"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu528-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu528",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB washable antibacterial keyboard BSKBU528 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu528-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU528シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-10"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-10"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "USB washable antibacterial keyboard BSKBU528 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu528-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU528シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-10"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-10"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "USB washable antibacterial keyboard BSKBU528 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu528-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU528シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-10"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-10"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu528-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbu528",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB washable antibacterial keyboard BSKBU528 familyは公式対応情報でhost-switch向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu528-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBU528シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-11"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-11"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "USB washable antibacterial keyboard BSKBU528 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu528-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU528シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-11"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-11"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "USB washable antibacterial keyboard BSKBU528 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu528-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBU528シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-11"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-11"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbw125-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbw125",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "2.4GHz wireless keyboard BSKBW125 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbw125-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBW125シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-12"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-12"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "2.4GHz wireless keyboard BSKBW125 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw125-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBW125シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-12"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-12"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "2.4GHz wireless keyboard BSKBW125 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw125-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBW125シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-12"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-12"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbw125-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbw125",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "2.4GHz wireless keyboard BSKBW125 familyは公式対応情報でhost-switch向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbw125-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "BSKBW125シリーズの型番行で対応状況○を確認。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-13"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-13"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "2.4GHz wireless keyboard BSKBW125 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw125-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBW125シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-13"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-13"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "2.4GHz wireless keyboard BSKBW125 familyは公式対応情報でhost-switch向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw125-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "BSKBW125シリーズの型番行で対応状況○を確認。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-13"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-13"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-hori-usb-camera-nsx023-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "hori-usb-camera-nsx023",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "USB Camera for Nintendo Switch 2は公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [
+        "Nintendo Switch 2本体を最新システムに更新してください。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "hori-usb-camera-nsx023-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "製品型番NSX-023、対応種類Nintendo Switch 2、最新システム更新要件を記載。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-14"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-14"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible_with_requirements",
+          "summary": "USB Camera for Nintendo Switch 2は公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "Nintendo Switch 2本体を最新システムに更新してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "hori-usb-camera-nsx023-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "製品型番NSX-023、対応種類Nintendo Switch 2、最新システム更新要件を記載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-14"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-14"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "USB Camera for Nintendo Switch 2は公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [
+            "Nintendo Switch 2本体を最新システムに更新してください。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "hori-usb-camera-nsx023-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "製品型番NSX-023、対応種類Nintendo Switch 2、最新システム更新要件を記載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-14"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-14"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-ucam-c820abbk-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elecom-ucam-c820abbk",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "UCAM-C820ABBK Web Cameraは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-ucam-c820abbk-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "UCAM-C820ABBKをNintendo Switch 2向けWebカメラとして掲載。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-15"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-15"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "UCAM-C820ABBK Web Cameraは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-ucam-c820abbk-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "UCAM-C820ABBKをNintendo Switch 2向けWebカメラとして掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-15"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-15"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "UCAM-C820ABBK Web Cameraは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-ucam-c820abbk-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "UCAM-C820ABBKをNintendo Switch 2向けWebカメラとして掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-15"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-15"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-osmod-six-m-my35mbsx-family-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elecom-osmod-six-m-my35mbsx-family",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "OSMOD Six wireless mouse M-MY35MBSX familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-osmod-six-m-my35mbsx-family-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "M-MY35MBSX系をNintendo Switch2マウスとして対応○で掲載。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-16"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-16"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "OSMOD Six wireless mouse M-MY35MBSX familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-osmod-six-m-my35mbsx-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "M-MY35MBSX系をNintendo Switch2マウスとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-16"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-16"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "OSMOD Six wireless mouse M-MY35MBSX familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-osmod-six-m-my35mbsx-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "M-MY35MBSX系をNintendo Switch2マウスとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-16"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-16"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-precisionist-tk-pn1075mpwh-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elecom-precisionist-tk-pn1075mpwh",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Precisionist mini keyboard TK-PN1075MPWHは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-precisionist-tk-pn1075mpwh-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "TK-PN1075MPWHをNintendo Switch2キーボードとして対応○で掲載。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-17"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-17"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "Precisionist mini keyboard TK-PN1075MPWHは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-precisionist-tk-pn1075mpwh-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-PN1075MPWHをNintendo Switch2キーボードとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-17"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-17"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Precisionist mini keyboard TK-PN1075MPWHは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-precisionist-tk-pn1075mpwh-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-PN1075MPWHをNintendo Switch2キーボードとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-17"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-17"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-precisionist-tk-pn10fmpa-family-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elecom-precisionist-tk-pn10fmpa-family",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Precisionist full keyboard TK-PN10FMPA familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-precisionist-tk-pn10fmpa-family-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "TK-PN10FMPA系をNintendo Switch2キーボードとして対応○で掲載。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-18"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-18"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "Precisionist full keyboard TK-PN10FMPA familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-precisionist-tk-pn10fmpa-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-PN10FMPA系をNintendo Switch2キーボードとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-18"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-18"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Precisionist full keyboard TK-PN10FMPA familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-precisionist-tk-pn10fmpa-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-PN10FMPA系をNintendo Switch2キーボードとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-18"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-18"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-tk-fcp096-family-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elecom-tk-fcp096-family",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Ultra-thin mini keyboard TK-FCP096 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-tk-fcp096-family-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "TK-FCP096系をNintendo Switch2キーボードとして対応○で掲載。",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-19"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-19"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "Ultra-thin mini keyboard TK-FCP096 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-tk-fcp096-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-FCP096系をNintendo Switch2キーボードとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-19"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-19"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Ultra-thin mini keyboard TK-FCP096 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-tk-fcp096-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-FCP096系をNintendo Switch2キーボードとして対応○で掲載。",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-19"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-19"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-elecom-tk-fcp097-family-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "elecom-tk-fcp097-family",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Ultra-thin compact keyboard TK-FCP097 familyは公式対応情報でhost-switch2向けに確認済み。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "elecom-tk-fcp097-family-feature-1",
+          "feature_name": "接続・基本入力",
+          "status": "supported",
+          "notes": "TK-FCP097系をNintendo Switch2キーボードとして対応○で掲載.",
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-20"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-next-mic-web-keyboard-20"
+      ],
+      "created_by": "batch-mic-web-keyboard-20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:34:33+09:00",
+      "verified_at": "2026-09-03T21:32:03+09:00",
+      "next_review_at": "2026-11-02T21:32:03+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "publication_status": "under_review",
+          "overall_status": "compatible",
+          "summary": "Ultra-thin compact keyboard TK-FCP097 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-tk-fcp097-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-FCP097系をNintendo Switch2キーボードとして対応○で掲載.",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-20"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-20"
+          ],
+          "captured_at": "2026-09-03T21:32:03+09:00",
+          "captured_by": "batch-mic-web-keyboard-20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:34:33+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible",
+          "publication_status": "published",
+          "summary": "Ultra-thin compact keyboard TK-FCP097 familyは公式対応情報でhost-switch2向けに確認済み。",
+          "requirements": [],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "elecom-tk-fcp097-family-feature-1",
+              "feature_name": "接続・基本入力",
+              "status": "supported",
+              "notes": "TK-FCP097系をNintendo Switch2キーボードとして対応○で掲載.",
+              "evidence_ids": [
+                "ev-next-mic-web-keyboard-20"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-next-mic-web-keyboard-20"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T21:32:03+09:00",
+          "changed_by": "batch-mic-web-keyboard-20260903",
+          "change_reason": "公式一次情報に基づく新規候補の初回登録。承認前。",
+          "previous_status": null,
+          "new_status": "compatible"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:34:33+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible",
+          "new_status": "compatible"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -77612,6 +80099,366 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Samsung公式互換表でPlayStation 5対応の内蔵SSDとして掲載。",
       "created_by": "storage14_20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-01",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2+2&page=2&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU340シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-02",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2+2&page=2&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU345シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-03",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2+2&page=2&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU525シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-04",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2&page=1&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU340シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-05",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2&page=1&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU345シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-06",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2&page=1&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU525シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-07",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88&lv2=PlayStation%C2%AE5&lv3=%E6%9C%AC%E4%BD%93&page=6&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU340シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-08",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88&lv2=PlayStation%C2%AE5&lv3=%E6%9C%AC%E4%BD%93&page=6&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU345シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-09",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88&lv2=PlayStation%C2%AE5&lv3=%E6%9C%AC%E4%BD%93&page=6&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU525シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-10",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2+2&page=2&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU528シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-11",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2&page=1&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBU528シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-12",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2+2&page=2&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBW125シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-13",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/taiou/product/search/?lv1=Nintendo&lv2=Nintendo+Switch%E2%84%A2&page=1&type=400",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式対応情報",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "BSKBW125シリーズの型番行で対応状況○を確認。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-14",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://hori.jp/products/nsx/nsx-023/",
+      "source_title": "HORI公式製品ページ",
+      "source_label": "HORI公式製品ページ",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "製品型番NSX-023、対応種類Nintendo Switch 2、最新システム更新要件を記載。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-15",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elecom.co.jp/category/cat_game_switch-2/",
+      "source_title": "ELECOM公式Switch 2対応製品",
+      "source_label": "ELECOM公式Switch 2対応製品",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "UCAM-C820ABBKをNintendo Switch 2向けWebカメラとして掲載。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-16",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www2.elecom.co.jp/tables/game/top.aspx?_dispnum=20&_end=&_isquery=&_pagepos=4141",
+      "source_title": "ELECOM公式ゲーム機対応検索",
+      "source_label": "ELECOM公式ゲーム機対応検索",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "M-MY35MBSX系をNintendo Switch2マウスとして対応○で掲載。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-17",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www2.elecom.co.jp/tables/game/top.aspx?_dispnum=100&_end=&_pagepos=101&categoryInput=%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89",
+      "source_title": "ELECOM公式ゲーム機対応検索",
+      "source_label": "ELECOM公式ゲーム機対応検索",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "TK-PN1075MPWHをNintendo Switch2キーボードとして対応○で掲載。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-18",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www2.elecom.co.jp/tables/game/top.aspx?_dispnum=100&_end=&_pagepos=101&categoryInput=%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89",
+      "source_title": "ELECOM公式ゲーム機対応検索",
+      "source_label": "ELECOM公式ゲーム機対応検索",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "TK-PN10FMPA系をNintendo Switch2キーボードとして対応○で掲載。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-19",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www2.elecom.co.jp/tables/game/top.aspx?_dispnum=20&_end=&_pagepos=3861",
+      "source_title": "ELECOM公式ゲーム機対応検索",
+      "source_label": "ELECOM公式ゲーム機対応検索",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "TK-FCP096系をNintendo Switch2キーボードとして対応○で掲載。",
+      "created_by": "batch-mic-web-keyboard-20260903"
+    },
+    {
+      "evidence_id": "ev-next-mic-web-keyboard-20",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www2.elecom.co.jp/tables/game/top.aspx?_dispnum=20&_end=&_pagepos=3861",
+      "source_title": "ELECOM公式ゲーム機対応検索",
+      "source_label": "ELECOM公式ゲーム機対応検索",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T21:32:03+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "TK-FCP097系をNintendo Switch2キーボードとして対応○で掲載.",
+      "created_by": "batch-mic-web-keyboard-20260903"
     }
   ]
 }
