@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T20:58:04+09:00",
+  "dataset_generated_at": "2026-09-03T21:06:18+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -5160,6 +5160,204 @@
         "USB-A Giga LAN adapter EDC-GUA3V3 family"
       ],
       "category": "usb_ethernet_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bsw300mbk",
+      "manufacturer": "BUFFALO",
+      "product_name": "200万画素WEBカメラ BSW300MBK",
+      "model_number": "BSW300MBK",
+      "aliases": [
+        "BSW300MBK",
+        "200万画素WEBカメラ BSW300MBK"
+      ],
+      "category": "usb_camera",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bsw500mbk",
+      "manufacturer": "BUFFALO",
+      "product_name": "200万画素WEBカメラ BSW500MBK",
+      "model_number": "BSW500MBK",
+      "aliases": [
+        "BSW500MBK",
+        "200万画素WEBカメラ BSW500MBK"
+      ],
+      "category": "usb_camera",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu110",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB有線スタンダードキーボード BSKBU110 family",
+      "model_number": "BSKBU110",
+      "aliases": [
+        "BSKBU110",
+        "USB有線スタンダードキーボード BSKBU110 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu115",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB有線スタンダードキーボード BSKBU115 family",
+      "model_number": "BSKBU115",
+      "aliases": [
+        "BSKBU115",
+        "USB有線スタンダードキーボード BSKBU115 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu100",
+      "manufacturer": "BUFFALO",
+      "product_name": "USB有線スタンダードキーボード BSKBU100 family",
+      "model_number": "BSKBU100",
+      "aliases": [
+        "BSKBU100",
+        "USB有線スタンダードキーボード BSKBU100 family"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbu520",
+      "manufacturer": "BUFFALO",
+      "product_name": "抗菌USB有線キーボード BSKBU520BK",
+      "model_number": "BSKBU520BK",
+      "aliases": [
+        "BSKBU520BK",
+        "抗菌USB有線キーボード BSKBU520BK"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-A"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbw320",
+      "manufacturer": "BUFFALO",
+      "product_name": "静音2.4GHz無線キーボード BSKBW320BK",
+      "model_number": "BSKBW320BK",
+      "aliases": [
+        "BSKBW320BK",
+        "静音2.4GHz無線キーボード BSKBW320BK"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bskbw120",
+      "manufacturer": "BUFFALO",
+      "product_name": "省電力2.4GHz無線キーボード BSKBW120BK",
+      "model_number": "BSKBW120BK",
+      "aliases": [
+        "BSKBW120BK",
+        "省電力2.4GHz無線キーボード BSKBW120BK"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "2.4GHz wireless"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "buffalo-bsmru050",
+      "manufacturer": "BUFFALO",
+      "product_name": "BlueLEDマウス BSMRU050 family",
+      "model_number": "BSMRU050",
+      "aliases": [
+        "BSMRU050",
+        "BlueLEDマウス BSMRU050 family"
+      ],
+      "category": "mouse",
       "region": "JP",
       "hardware_revision": null,
       "sku": null,
@@ -63753,6 +63951,1269 @@
       "withdrawn_at": null,
       "withdrawal_reason": null,
       "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-kingston-canvas-go-plus-microsd-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "kingston-canvas-go-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kingston公式記事でNintendo Switch対応。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "kingston-canvas-go-plus-microsd-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Kingston公式記事でNintendo Switch対応。",
+          "evidence_ids": [
+            "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Kingston公式記事でNintendo Switch対応。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Kingston公式記事でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kingston公式記事でNintendo Switch対応。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Kingston公式記事でNintendo Switch対応。",
+              "evidence_ids": [
+                "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-kingston-canvas-go-plus-microsd-steamdeck-r1",
+      "host_product_id": "host-steam-deck",
+      "accessory_product_id": "kingston-canvas-go-plus-microsd",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Kingston公式記事でValve Steam Deck対応。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "kingston-canvas-go-plus-microsd-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Kingston公式記事でValve Steam Deck対応。",
+          "evidence_ids": [
+            "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Kingston公式記事でValve Steam Deck対応。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Kingston公式記事でValve Steam Deck対応。",
+              "evidence_ids": [
+                "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Kingston公式記事でValve Steam Deck対応。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "kingston-canvas-go-plus-microsd-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Kingston公式記事でValve Steam Deck対応。",
+              "evidence_ids": [
+                "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bsw300mbk-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bsw300mbk",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。",
+        "Switch 2の対応USBポートへ接続する。一般USBカメラへの互換性は推測しない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bsw300mbk-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。",
+            "Switch 2の対応USBポートへ接続する。一般USBカメラへの互換性は推測しない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsw300mbk-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。",
+            "Switch 2の対応USBポートへ接続する。一般USBカメラへの互換性は推測しない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsw300mbk-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bsw500mbk-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bsw500mbk",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。",
+        "Switch 2の対応USBポートへ接続する。一般USBカメラへの互換性は推測しない。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bsw500mbk-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。",
+            "Switch 2の対応USBポートへ接続する。一般USBカメラへの互換性は推測しない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsw500mbk-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。",
+            "Switch 2の対応USBポートへ接続する。一般USBカメラへの互換性は推測しない。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsw500mbk-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu110-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu110",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu110-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu110-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bskbu110-switch2-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu110-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu110-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu110-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu110-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu110-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu110-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu115-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu115",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu115-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu115-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bskbu115-switch2-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu115-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu115-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu115-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu115-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu115-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu115-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu100-switch2-r1",
+      "host_product_id": "host-switch2",
+      "accessory_product_id": "buffalo-bskbu100",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch 2公式対応表掲載。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu100-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch 2公式対応表掲載。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu100-switch2-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bskbu100-switch2-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch 2公式対応表掲載。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu100-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu100-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu100-switch2-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch 2公式対応表掲載。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu100-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch 2公式対応表掲載。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu100-switch2-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu100-switch2-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbu520-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbu520",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbu520-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu520-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bskbu520-switch-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu520-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu520-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu520-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbu520-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbu520-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbu520-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbw320-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbw320",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbw320-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbw320-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bskbw320-switch-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw320-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbw320-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbw320-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw320-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbw320-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbw320-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bskbw120-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bskbw120",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch公式カタログで対応。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bskbw120-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch公式カタログで対応。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbw120-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bskbw120-switch-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch公式カタログで対応。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw120-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbw120-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbw120-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch公式カタログで対応。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bskbw120-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bskbw120-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bskbw120-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
+    },
+    {
+      "compatibility_id": "cmp-buffalo-bsmru050-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "buffalo-bsmru050",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+      "requirements": [
+        "公式に対応確認された接続方式で使用する。",
+        "Nintendo Switchで公式に記載された用途・接続方式に限定する。"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "buffalo-bsmru050-feature",
+          "feature_name": "入力／カメラ接続",
+          "status": "supported_with_requirements",
+          "notes": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsmru050-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-storage-input11-buffalo-bsmru050-switch-20260903"
+      ],
+      "created_by": "storage_input11_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T21:06:18+09:00",
+      "verified_at": "2026-09-03T00:00:00+09:00",
+      "next_review_at": "2026-12-03T00:00:00+09:00",
+      "revision": 2,
+      "revision_snapshots": [
+        {
+          "revision": 1,
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。",
+            "Nintendo Switchで公式に記載された用途・接続方式に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsmru050-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bsmru050-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsmru050-switch-20260903"
+          ],
+          "captured_at": "2026-09-03T00:00:00+09:00",
+          "captured_by": "storage_input11_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T21:06:18+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+          "requirements": [
+            "公式に対応確認された接続方式で使用する。",
+            "Nintendo Switchで公式に記載された用途・接続方式に限定する。"
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "buffalo-bsmru050-feature",
+              "feature_name": "入力／カメラ接続",
+              "status": "supported_with_requirements",
+              "notes": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+              "evidence_ids": [
+                "ev-storage-input11-buffalo-bsmru050-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-storage-input11-buffalo-bsmru050-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T00:00:00+09:00",
+          "changed_by": "storage_input11_20260903",
+          "change_reason": "公式一次情報に基づくunder_review登録。",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T21:06:18+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ],
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null
     }
   ],
   "evidence": [
@@ -71567,6 +73028,204 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch Dock背面USB-A接続、ドライバー不要。",
       "created_by": "network_power15_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-kingston-canvas-go-plus-microsd-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.kingston.com/unitedkingdom/en/blog/personal-storage/choosing-a-microsd-card-for-your-nintendo-switch",
+      "source_title": "Kingston公式対応情報",
+      "source_label": "Kingston公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kingston公式記事でNintendo Switch対応。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-kingston-canvas-go-plus-microsd-steamdeck-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.kingston.com/unitedkingdom/en/blog/personal-storage/choosing-a-microsd-card-for-your-nintendo-switch",
+      "source_title": "Kingston公式対応情報",
+      "source_label": "Kingston公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Kingston公式記事でValve Steam Deck対応。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bsw300mbk-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bsw500mbk-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2公式対応表掲載のWEBカメラ。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bskbu110-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2公式対応表掲載。色・簡易パッケージ・英語配列SKUは同familyとして扱う。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bskbu115-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2公式対応表掲載。英語配列SKUは同familyとして扱う。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bskbu100-switch2-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/r/taiou-switch2.html",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch 2公式対応表掲載。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bskbu520-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/vol234.pdf",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch公式カタログで対応。PS5使用時の同時接続制限等は製品注記に従う。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bskbw320-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/vol234.pdf",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch公式カタログで対応。ゲーム機では一部キーが使えない場合がある。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bskbw120-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/vol234.pdf",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch公式カタログで対応。",
+      "created_by": "storage_input11_20260903"
+    },
+    {
+      "evidence_id": "ev-storage-input11-buffalo-bsmru050-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.buffalo.jp/product/detail/vol236-2.pdf",
+      "source_title": "BUFFALO公式対応情報",
+      "source_label": "BUFFALO公式",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T00:00:00+09:00",
+      "region": "JP",
+      "language": "ja",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Nintendo Switch公式カタログで対応。色違いは同familyとして扱う。",
+      "created_by": "storage_input11_20260903"
     }
   ]
 }
