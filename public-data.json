@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-03T14:05:13+09:00",
+  "dataset_generated_at": "2026-09-03T19:27:35+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -51740,6 +51740,1914 @@
           "new_status": "compatible_with_requirements"
         }
       ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-neo-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "elgato-game-capture-neo",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-hd60-x-xbox-series-x-r1",
+      "host_product_id": "host-xbox-series-x",
+      "accessory_product_id": "elgato-hd60-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-neo-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "elgato-game-capture-neo",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-hd60-x-xbox-series-s-r1",
+      "host_product_id": "host-xbox-series-s",
+      "accessory_product_id": "elgato-hd60-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-x-ps5-pro-r1",
+      "host_product_id": "host-ps5-pro",
+      "accessory_product_id": "elgato-game-capture-4k-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-s-ps5-pro-r1",
+      "host_product_id": "host-ps5-pro",
+      "accessory_product_id": "elgato-game-capture-4k-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-x-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-4k-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-x-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-4k-x-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-x-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-x-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-x-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-x-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-s-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-4k-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-s-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-4k-s-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-s-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-s-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-4k-s-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-4k-s-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-neo-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-game-capture-neo",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-game-capture-neo-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-neo-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-game-capture-neo-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-game-capture-neo-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-elgato-hd60-x-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "elgato-hd60-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-elgato-hd60-x-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-hd60-x-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-elgato-hd60-x-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-elgato-hd60-x-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "avermedia-gc313",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc313-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-avermedia-gc313-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-avermedia-gc313-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc313-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-avermedia-gc313-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc313-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc313pro-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "avermedia-gc313pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc313pro-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-avermedia-gc313pro-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-avermedia-gc313pro-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc313pro-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-avermedia-gc313pro-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc313pro-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-avermedia-gc515-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "avermedia-gc515",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Connect the specified host as the documented HDMI or USB video source.",
+        "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "capture_source_input",
+          "feature_name": "Capture-source input",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc515-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-avermedia-gc515-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "capture_source",
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-avermedia-gc515-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc515-switch-20260903"
+          ],
+          "relationship_role": "capture_source",
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Connect the specified host as the documented HDMI or USB video source.",
+            "Use a separate compatible PC or capture host where required; the game platform is not the capture host."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "capture_source_input",
+              "feature_name": "Capture-source input",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-avermedia-gc515-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-avermedia-gc515-switch-20260903"
+          ],
+          "relationship_role": "capture_source"
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5x-fighting-board-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "brook-gen5x-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Use the manufacturer-documented connection and firmware conditions."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-brook-gen5x-fighting-board-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-brook-gen5x-fighting-board-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Use the manufacturer-documented connection and firmware conditions."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-brook-gen5x-fighting-board-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-brook-gen5x-fighting-board-switch-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Use the manufacturer-documented connection and firmware conditions."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-brook-gen5x-fighting-board-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-brook-gen5x-fighting-board-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
+    },
+    {
+      "compatibility_id": "cmp-brook-gen5x-mini-fighting-board-switch-r1",
+      "host_product_id": "host-switch",
+      "accessory_product_id": "brook-gen5x-mini-fighting-board",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "requirements": [
+        "Use the manufacturer-documented connection and firmware conditions."
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "controller_connection",
+          "feature_name": "Controller connection",
+          "status": "supported_with_requirements",
+          "notes": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "evidence_ids": [
+            "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903"
+      ],
+      "created_by": "sixteen_ready_20260903",
+      "reviewed_by": "codex_technical_review",
+      "approved_at": "2026-09-03T19:27:35+09:00",
+      "verified_at": "2026-09-03T16:00:00+09:00",
+      "next_review_at": "2026-12-03T16:00:00+09:00",
+      "revision": 2,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "revision_snapshots": [
+        {
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "under_review",
+          "summary": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Use the manufacturer-documented connection and firmware conditions."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903"
+          ],
+          "revision": 1,
+          "captured_at": "2026-09-03T16:00:00+09:00",
+          "captured_by": "sixteen_ready_20260903"
+        },
+        {
+          "revision": 2,
+          "captured_at": "2026-09-03T19:27:35+09:00",
+          "captured_by": "jun19",
+          "overall_status": "compatible_with_requirements",
+          "publication_status": "published",
+          "summary": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+          "requirements": [
+            "Use the manufacturer-documented connection and firmware conditions."
+          ],
+          "minimum_firmware": null,
+          "verified_firmware": null,
+          "host_os_version": null,
+          "feature_assessments": [
+            {
+              "feature_id": "controller_connection",
+              "feature_name": "Controller connection",
+              "status": "supported_with_requirements",
+              "notes": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+              "evidence_ids": [
+                "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903"
+              ]
+            }
+          ],
+          "evidence_ids": [
+            "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903"
+          ]
+        }
+      ],
+      "change_history": [
+        {
+          "revision": 1,
+          "changed_at": "2026-09-03T16:00:00+09:00",
+          "changed_by": "sixteen_ready_20260903",
+          "change_reason": "Sixteenth READY differential expansion; awaiting human approval.",
+          "previous_status": null,
+          "new_status": "compatible_with_requirements"
+        },
+        {
+          "revision": 2,
+          "changed_at": "2026-09-03T19:27:35+09:00",
+          "changed_by": "jun19",
+          "change_reason": "Second review completed by codex_technical_review; publication_status: under_review -> published.",
+          "previous_status": "compatible_with_requirements",
+          "new_status": "compatible_with_requirements"
+        }
+      ]
     }
   ],
   "evidence": [
@@ -57862,6 +59770,294 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Official source identifies jsaux-omnicentro-charger-dock for the specified host; record is under review.",
       "created_by": "phase6_host52_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-neo-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/26022609172749-Elgato-Game-Capture-Neo-Technical-Specifications",
+      "source_title": "elgato-game-capture-neo official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-hd60-x-xbox-series-x-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/5293216945805-Elgato-Game-Capture-HD60-X-Technical-Specifications",
+      "source_title": "elgato-hd60-x official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-hd60-x for xbox-series-x; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-neo-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/25665316701325-Elgato-Game-Capture-Neo-Xbox-Series-X-S-Setup",
+      "source_title": "elgato-game-capture-neo official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-neo for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-hd60-x-xbox-series-s-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/5328765766541-Elgato-Game-Capture-HD60-X-Xbox-Series-X-S-Setup",
+      "source_title": "elgato-hd60-x official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-hd60-x for xbox-series-s; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-4k-x-ps5-pro-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/ww/en/p/game-capture-4k-x",
+      "source_title": "elgato-game-capture-4k-x official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k-x for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-4k-s-ps5-pro-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/us/en/p/game-capture-4k-s",
+      "source_title": "elgato-game-capture-4k-s official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k-s for ps5-pro; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-4k-pro-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/jp/ja/p/game-capture-4k-pro",
+      "source_title": "elgato-game-capture-4k-pro official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k-pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-4k-x-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/5293216945805-Elgato-Game-Capture-HD60-X-Technical-Specifications",
+      "source_title": "elgato-game-capture-4k-x official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-4k-s-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/us/en/p/game-capture-4k-s",
+      "source_title": "elgato-game-capture-4k-s official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-4k-s for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-game-capture-neo-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/26022609172749-Elgato-Game-Capture-Neo-Technical-Specifications",
+      "source_title": "elgato-game-capture-neo official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-game-capture-neo for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-elgato-hd60-x-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://help.elgato.com/hc/en-us/articles/5293216945805-Elgato-Game-Capture-HD60-X-Technical-Specifications",
+      "source_title": "elgato-hd60-x official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies elgato-hd60-x for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-avermedia-gc313-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/product-detail/charging-dock-GC313",
+      "source_title": "avermedia-gc313 official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc313 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-avermedia-gc313pro-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/gp/product-detail/charging-dock-GC313Pro",
+      "source_title": "avermedia-gc313pro official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc313pro for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-avermedia-gc515-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.avermedia.com/mx/product-detail/capture-dock-GC515",
+      "source_title": "avermedia-gc515 official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies avermedia-gc515 for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-brook-gen5x-fighting-board-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5xseries/index.html",
+      "source_title": "brook-gen5x-fighting-board official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies brook-gen5x-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
+    },
+    {
+      "evidence_id": "ev-sixteen-brook-gen5x-mini-fighting-board-switch-20260903",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.brookaccessory.com/products/gen5xseries/index.html",
+      "source_title": "brook-gen5x-mini-fighting-board official compatibility",
+      "source_label": "Official manufacturer support/product page",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-03T16:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official source explicitly identifies brook-gen5x-mini-fighting-board for switch; this record treats the platform as the video capture source where applicable and keeps capture-host requirements separate.",
+      "created_by": "sixteen_ready_20260903"
     }
   ]
 }
