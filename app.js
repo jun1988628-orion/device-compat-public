@@ -240,70 +240,8 @@ function renderProduct(productId) {
     return;
   }
 
-  // Preserve the established Switch 2-only page rendering byte-for-byte in
-  // structure when exactly one published host record exists.
-  if (records.length === 1) {
-    const r = records[0];
-    const host = PRODUCTS.get(r.host_product_id);
-    const allEvidence = [
-      ...r.evidence_ids,
-      ...r.feature_assessments.flatMap((f) => f.evidence_ids || [])
-    ];
-
-    $("#result").innerHTML = `
-      <article class="card">
-        <div class="head">
-          <div>
-            <div class="kicker">${escapeHtml(p.manufacturer)} · ${escapeHtml(p.category)}</div>
-            <h2>${escapeHtml(p.product_name)} × ${escapeHtml(host?.product_name || r.host_product_id)}</h2>
-            <p>${escapeHtml(r.summary)}</p>
-          </div>
-          <span class="status ${statusClass(r.overall_status)}">
-            ${escapeHtml(overallLabel(r.overall_status))}
-          </span>
-        </div>
-
-        ${r.requirements.length ? `<section><h3>必要条件</h3>${requirementGroupsHtml(r)}</section>` : ""}
-        ${recordDetailsHtml(r, p)}
-
-        ${relationshipRoleNotice(r.relationship_role)}
-
-        <section class="meta">
-          <div><strong>型番:</strong> ${escapeHtml(p.model_number ?? "未記録")}</div>
-          <div><strong>最低FW:</strong> ${escapeHtml(r.minimum_firmware ?? "指定なし")}</div>
-          <div><strong>公式掲載FW:</strong> ${escapeHtml(r.verified_firmware ?? "未記録")}</div>
-          <div><strong>対象OS:</strong> ${escapeHtml(r.host_os_version ?? "指定なし")}</div>
-          <div><strong>最終検証:</strong> ${escapeHtml(r.verified_at)}</div>
-          <div><strong>Revision:</strong> ${r.revision}</div>
-        </section>
-
-        <section>
-          <h3>機能別</h3>
-          <div class="table-wrap">
-            <table>
-              <thead><tr><th>機能</th><th>判定</th><th>補足</th></tr></thead>
-              <tbody>
-                ${r.feature_assessments.map((f) => `
-                  <tr>
-                    <td>${escapeHtml(f.feature_name)}</td>
-                    <td>${escapeHtml(featureLabel(f.status))}</td>
-                    <td>${escapeHtml(f.notes)}</td>
-                  </tr>`).join("")}
-              </tbody>
-            </table>
-          </div>
-        </section>
-
-        <section>
-          <h3>根拠</h3>
-          ${renderEvidence(allEvidence)}
-        </section>
-      </article>`;
-    return;
-  }
-
-  // A missing host record is intentionally not rendered as unknown. Only
-  // published, explicitly recorded platforms appear below.
+  // Use the same platform-grouped renderer for one or more published records.
+  // A missing host record is intentionally not rendered as unknown.
   $("#result").innerHTML = `
     <article class="card">
       <div class="kicker">${escapeHtml(p.manufacturer)} · ${escapeHtml(p.category)}</div>
