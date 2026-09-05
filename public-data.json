@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.4.0",
+  "schema_version": "1.5.0",
   "rules_version": "1.3",
   "dataset_generated_at": "2026-09-03T22:10:10+09:00",
   "products": [
@@ -27880,7 +27880,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Joy-Con項目。Switch 2へ無線接続して使用可能。本体では充電不可で、充電用周辺機器が別途必要。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Joy-ConはSwitch 2へ無線接続して使用できます。Switch 2本体では充電できず、別途充電用周辺機器が必要です。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-sfc-compat-20260828",
@@ -27899,7 +27900,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "スーパーファミコンコントローラー項目。Switch 2へ無線接続して使用可能。Switch 2本体とUSBケーブルで接続して充電可能。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "スーパーファミコンコントローラーはSwitch 2へ無線接続して使用できます。USBケーブルで充電できます。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-n64-compat-20260828",
@@ -27918,7 +27920,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "NINTENDO 64 コントローラー項目。Switch 2へ無線接続して使用可能。Switch 2本体とUSBケーブルで接続して充電可能。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "NINTENDO 64 コントローラーはSwitch 2へ無線接続して使用できます。USBケーブルで充電できます。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-megadrive-compat-20260828",
@@ -27937,7 +27940,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "セガ メガドライブ ファイティングパッド 6B項目。Switch 2へ無線接続して使用可能。Switch 2本体とUSBケーブルで接続して充電可能。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "セガ メガドライブ ファイティングパッド 6BはSwitch 2へ無線接続して使用できます。USBケーブルで充電できます。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-famicom-compat-20260828",
@@ -27956,7 +27960,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "ファミリーコンピュータ コントローラー項目。Switch 2へ無線接続して使用可能。ただしSwitch 2本体では充電できず、充電用周辺機器が別途必要。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "ファミリーコンピュータ コントローラーはSwitch 2へ無線接続して使用できます。Switch 2本体では充電できず、別途充電用周辺機器が必要です。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-gc-adapter-compat-20260828",
@@ -27975,7 +27980,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "ゲームキューブコントローラ接続タップ項目。Switch 2ドックのUSB端子へ接続し、TVモードでゲームキューブコントローラを使用可能。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "ゲームキューブコントローラ接続タップはSwitch 2ドックのUSB端子に接続し、TVモードで使用できます。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-usb-mic-compat-20260828",
@@ -27994,7 +28000,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "ニンテンドーUSBマイク項目。「お使いいただけます」と明記。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "ニンテンドーUSBマイクはSwitch 2で使用できます。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-wireless-mic-compat-20260828",
@@ -28032,7 +28039,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch充電スタンド（フリーストップ式）項目。「お使いいただけません」と明記。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Nintendo Switch充電スタンド（フリーストップ式）はSwitch 2では使用できません。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-switch-dock-20260828",
@@ -28127,7 +28135,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "64 Controller section. Firmware v1.02: Added support for Switch 2.",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "8BitDo 64 ControllerのFirmware v1.02でSwitch 2対応が追加されています。"
     },
     {
       "evidence_id": "ev-8bitdo-ultimate2-bluetooth-switch2-fw-20260828",
