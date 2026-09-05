@@ -51,16 +51,10 @@ function safeHttpsUrl(value) {
   }
 }
 
-function overallLabel(status) {
-  return {
-    compatible: "対応",
-    compatible_with_requirements: "条件付き対応",
-    limited_compatibility: "一部制約あり",
-    incompatible: "非対応",
-    unknown: "確認不能",
-    conflicting_evidence: "情報が矛盾"
-  }[status] || status;
-}
+const statusPresentation = (record) => {
+  if (typeof DeviceCompatibilityStatus !== "undefined") return DeviceCompatibilityStatus.present(record);
+  return { label: record.overall_status, explanation: "", kind: statusClass(record.overall_status) };
+};
 
 function featureLabel(status) {
   return {
@@ -196,7 +190,16 @@ function renderCandidates(products) {
     const small = document.createElement("span");
     small.textContent = `${p.manufacturer} / ${p.model_number || "型番不明"}`;
 
-    btn.append(strong, small);
+    const states = publishedRecords(p.product_id).map((record) => {
+      const host = PRODUCTS.get(record.host_product_id);
+      const presentation = statusPresentation(record);
+      return `${host?.product_name || record.host_product_id}: ${presentation.label}`;
+    });
+    const statuses = document.createElement("span");
+    statuses.className = "candidate-statuses";
+    statuses.textContent = states.join(" / ");
+
+    btn.append(strong, small, statuses);
     btn.addEventListener("click", () => renderProduct(p.product_id));
     box.appendChild(btn);
   }
@@ -252,7 +255,8 @@ function renderProduct(productId) {
         const allEvidence = [...r.evidence_ids, ...r.feature_assessments.flatMap((f) => f.evidence_ids || [])];
         return `<section class="platform-result">
           <div class="head"><div><h3>${escapeHtml(host?.product_name || r.host_product_id)}</h3><p>${escapeHtml(r.summary)}</p></div>
-          <span class="status ${statusClass(r.overall_status)}">${escapeHtml(overallLabel(r.overall_status))}</span></div>
+          <span class="status ${statusClass(r.overall_status)}">${escapeHtml(statusPresentation(r).label)}</span></div>
+          ${statusPresentation(r).explanation ? `<p class="verification-note">${escapeHtml(statusPresentation(r).explanation)}</p>` : ""}
           ${relationshipRoleNotice(r.relationship_role)}
           ${r.requirements.length ? `<h4>必要条件</h4>${requirementGroupsHtml(r)}` : ""}
           ${recordDetailsHtml(r, p)}
@@ -388,7 +392,7 @@ function renderNotFound(query) {
 }
 
 if (typeof module !== "undefined") {
-  module.exports = { publishedRecordsForProduct };
+  module.exports = { publishedRecordsForProduct, statusPresentation };
 }
 
 if (typeof document !== "undefined") document.addEventListener("DOMContentLoaded", async () => {

@@ -2,6 +2,7 @@ const fs = require("fs");
 const assert = require("assert");
 const search = require("./search-utils.js");
 const app = require("./app.js");
+const status = require("./status-labels.js");
 const dataset = JSON.parse(fs.readFileSync("public-data.json", "utf8"));
 
 function ids(query) {
@@ -68,4 +69,9 @@ assert.strictEqual(aggregate.records.length, 2, "platform records must remain av
 const renderedRecords = app.publishedRecordsForProduct(multiHostDataset, "8bitdo-usb-adapter");
 assert.strictEqual(renderedRecords.length, 2, "renderer must retain two explicit host records");
 assert(!renderedRecords.some((record) => record.host_product_id === "host-ps5"), "absent host must be omitted, never represented as unknown");
-console.log("SEARCH TESTS: PASS (19 assertions)");
+assert.strictEqual(status.present({overall_status:"compatible", verification_state:"directly_verified"}).label, "対応確認済み");
+assert.strictEqual(status.present({overall_status:"compatible_with_requirements", verification_state:"directly_verified"}).label, "条件付き対応");
+assert.strictEqual(status.present({overall_status:"unknown", verification_state:"searched_no_confirmation"}).label, "公式確認できず");
+assert(status.present({overall_status:"unknown", verification_state:"searched_no_confirmation"}).explanation.includes("直接確認できる情報は見つかっていません"));
+assert.strictEqual(status.present({overall_status:"conflicting_evidence", verification_state:"conflicting_sources"}).label, "情報が矛盾");
+console.log("SEARCH TESTS: PASS (24 assertions)");

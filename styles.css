@@ -17,6 +17,7 @@ form button{border:0;border-radius:10px;padding:0 20px;background:#111827;color:
 .status.warn{background:#fff1cf;color:#7a5800}
 .status.bad{background:#fdeaea;color:#8c1d1d}
 .status.unknown{background:#eceff3;color:#4e5661}
+.verification-note{margin:-6px 0 12px;color:#616974;font-size:.9rem;line-height:1.6}
 .meta{background:#f0f2f5;border-radius:12px;padding:14px;line-height:1.85;margin:18px 0}
 section{margin-top:24px}
 section h3{margin-bottom:10px}
