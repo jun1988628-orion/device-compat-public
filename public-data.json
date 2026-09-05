@@ -28020,7 +28020,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "ニンテンドーUSBワイヤレスマイク項目。「お使いいただけます」と明記。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "ニンテンドーUSBワイヤレスマイクはNintendo Switch 2で使用できます。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-charging-stand-compat-20260828",
@@ -28078,7 +28079,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch ACアダプター[HAC-002(JPN)]。Switch 2本体の充電には使用可能だが、Switch 2ドック接続時はTVモードでは遊べない。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Nintendo Switch ACアダプター（HAC-002(JPN)）は、Nintendo Switch 2本体の充電に使用できますが、ドック接続時はTVモードで遊べません。"
     },
     {
       "evidence_id": "ev-nintendo-switch2-hdmi-20260828",
@@ -28116,7 +28118,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "microSDカードスロットはmicroSD Expressのみ対応。非ExpressカードはNintendo Switchからの画面写真／動画のコピーにのみ利用可能。",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Nintendo Switch 2では従来規格のmicroSDカードは、画面写真・動画のコピーに限って使えます。"
     },
     {
       "evidence_id": "ev-8bitdo-64-controller-switch2-fw-20260828",
@@ -28155,7 +28158,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Ultimate 2 Bluetooth Controller section. Firmware v1.04: Added support for Switch 2. v2.00 adds Switch 2 shake-to-wake.",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Ultimate 2 Bluetooth Controllerは、FW v1.04でNintendo Switch 2対応が追加されています。"
     },
     {
       "evidence_id": "ev-8bitdo-ultimate2c-bluetooth-switch2-fw-20260828",
@@ -28174,7 +28178,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Ultimate 2C Bluetooth Controller section. Firmware v1.01: Added support for Switch 2.",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Ultimate 2C Bluetooth Controllerは、FW v1.01でNintendo Switch 2対応が追加されています。"
     },
     {
       "evidence_id": "ev-8bitdo-ultimate-c-bluetooth-switch2-fw-20260828",
@@ -28193,7 +28198,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Ultimate C Bluetooth Controller section. Firmware v1.07: Added support for Switch 2.",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Ultimate C Bluetooth Controllerは、FW v1.07でNintendo Switch 2対応が追加されています。"
     },
     {
       "evidence_id": "ev-8bitdo-micro-switch2-fw-20260828",
@@ -28212,7 +28218,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Micro section. Firmware v1.05: Added support for Switch 2.",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Microは、FW v1.05でNintendo Switch 2対応が追加されています。"
     },
     {
       "evidence_id": "ev-8bitdo-m30-bluetooth-switch2-fw-20260828",
@@ -28269,7 +28276,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Arcade Stick section. Arcade firmware v1.04 and adapter firmware v1.01 add Switch 2 support.",
       "created_by": "revalidation_20260828",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Arcade Stickは、Arcade FW v1.04とAdapter FW v1.01でNintendo Switch 2対応が追加されています。"
     },
     {
       "evidence_id": "ev-8bitdo-zero2-switch2-fw-20260828",
@@ -28535,7 +28543,8 @@
       "applies_to_host_os": "20.1.5",
       "excerpt_or_location": "2026年1月更新の動作確認一覧画像に 太鼓の達人専用コントローラー 太鼓とバチ for Nintendo Switch（NSW-079）を掲載。Switch 2 本体システム20.1.5で動作確認。",
       "created_by": "revalidation_20260829_hori6",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "NSW-079の太鼓の達人専用コントローラーは、Nintendo Switch 2のシステム20.1.5で動作確認されています。"
     },
     {
       "evidence_id": "ev-hori-taiko-tb-nsw-079-spec-20260829",
@@ -28573,7 +28582,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "MAGIC NS 2はNintendo Switch 2で使用できます。Switch Proモードでは本体のProコントローラー有線通信をONにする必要があります。"
     },
     {
       "evidence_id": "ev-mayflash-magic-s-ultimate-switch2-20260829",
@@ -28592,7 +28602,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Magic-S UltimateはNintendo Switch 2で使用できます。Switch Proモードでは本体のProコントローラー有線通信をONにする必要があります。"
     },
     {
       "evidence_id": "ev-mayflash-magic-ns-lite-switch2-20260829",
@@ -28611,7 +28622,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "MAGIC-NS LiteはNintendo Switch 2で使用できます。Switch Proモードでは本体のProコントローラー有線通信をONにする必要があります。"
     },
     {
       "evidence_id": "ev-mayflash-magic-s-pro-2-switch2-20260829",
@@ -28630,7 +28642,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2/Switch対応と公式ファームウェア更新を掲載。Switch Pro ModeではPro Controller Wired CommunicationをONにする案内があり、モーション・振動の対応は選択モードに依存する。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "MAGIC-S PRO 2はNintendo Switch 2で使用できます。Switch Proモードでは本体のProコントローラー有線通信をONにする必要があります。"
     },
     {
       "evidence_id": "ev-mayflash-magic-x-switch2-20260829",
@@ -28668,7 +28681,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch 2/Switch対応、SKU MF103、N64コントローラー最大2台接続を掲載。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "MF103 Nintendo 64 Controller Adapterは、Nintendo Switch 2でN64コントローラーを最大2台接続できます。"
     },
     {
       "evidence_id": "ev-mayflash-mega-drive-adapter-mf104-switch2-20260829",
@@ -28725,7 +28739,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch 2/Switch対応、SKU W012、GameCubeコントローラー最大4台接続を掲載。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "W012 GameCube Controller Adapter 4 Portは、Nintendo Switch 2でGameCubeコントローラーを最大4台接続できます。"
     },
     {
       "evidence_id": "ev-brook-ras1ution-2-switch2-20260829",
@@ -28763,7 +28778,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2で使う手順として最新ファームウェア、Proコントローラー有線通信ON、NSモードへの切替を案内。",
       "created_by": "candidate_research_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Wingman XE 2は、最新FWに更新し、Switch 2のProコントローラー有線通信をONにしてNSモードへ切り替えることで使用できます。"
     },
     {
       "evidence_id": "ev-nyko-playpad-glow-switch2-20260829",
@@ -28877,7 +28893,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2では無線接続のみ対応。携帯モードにはC70 Proアダプターと事前の無線ペアリングが必要。One-Touch Wake、NFC、6軸モーション、HD Rumbleを掲載。",
       "created_by": "candidate_revalidation_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "M6 HD Switch JoyConはNintendo Switch 2で無線接続できます。携帯モードではC70 Proアダプターと事前の無線ペアリングが必要です。"
     },
     {
       "evidence_id": "ev-retrobit-legacy16-24g-v2-switch2-20260829",
@@ -28896,7 +28913,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Switch 2互換FW更新を掲載。V1 FWはV2デバイスと互換でなく、受信機にV2表記がある製品が対象。",
       "created_by": "candidate_revalidation_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Legacy16 2.4 GHz Wireless Controller V2は、受信機にV2表記があり、Switch 2対応FWを適用した構成でNintendo Switch 2に対応します。"
     },
     {
       "evidence_id": "ev-retrobit-tribute64-24g-v2-switch2-20260829",
@@ -28953,7 +28971,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Nintendo Switch 2向けに設計・試験・承認済み。容量違いは同一シリーズとして統合。",
       "created_by": "candidate_revalidation_20260829",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "SanDisk microSD Express Cardは、Nintendo Switch 2向けに設計・試験・承認されています。"
     },
     {
       "evidence_id": "ev-sandisk-gameplay-microsd-express-switch2-20260829",
@@ -36515,7 +36534,8 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "PlayStation 5向けに設計・テスト・認定された外付けSSD。PS5ゲームは内蔵ストレージへ移動して使用する。",
       "created_by": "storage14_20260903",
-      "evidence_scope": "direct_pair"
+      "evidence_scope": "direct_pair",
+      "reviewed_summary_ja_text": "Extreme Portable SSD for PlayStation 5 Console and PCは、PS5の拡張ストレージとして使えますが、PS5ゲームは内蔵ストレージへ移動してから実行します。"
     },
     {
       "evidence_id": "ev-storage14-samsung-pro-plus-microsd-switch-20260903",
