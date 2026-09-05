@@ -177,6 +177,11 @@ function requirementGroupsHtml(record) {
   return Object.entries(groups).filter(([, v]) => v.length).map(([k, v]) => `<div class="requirement-group"><h4>${escapeHtml(k)}</h4><ul>${v.map(x => `<li>${escapeHtml(x)}</li>`).join("")}</ul></div>`).join("");
 }
 
+function importantRequirementsHtml(record) {
+  if (!record.requirements || !record.requirements.length) return "";
+  return `<section class="important-conditions"><h4>重要条件</h4><ul>${record.requirements.slice(0, 2).map((x) => `<li>${escapeHtml(x)}</li>`).join("")}</ul></section>`;
+}
+
 function recordDetailsHtml(record, product) {
   const methods = (product.connection_methods || []).filter(Boolean);
   const connection = methods.length ? `<section class="record-detail"><h4>接続情報</h4><p>${escapeHtml(methods.join(" / "))}</p></section>` : "";
@@ -281,6 +286,7 @@ function renderProduct(productId) {
           <div class="head"><div><h3>${escapeHtml(host?.product_name || r.host_product_id)}</h3><p>${escapeHtml(r.summary)}</p></div>
           <span class="status ${statusClass(r.overall_status)}">${escapeHtml(statusPresentation(r).label)}</span></div>
           ${statusPresentation(r).explanation ? `<p class="verification-note">${escapeHtml(statusPresentation(r).explanation)}</p>` : ""}
+          ${importantRequirementsHtml(r)}
           ${relationshipRoleNotice(r.relationship_role)}
           ${r.requirements.length ? `<h4>必要条件</h4>${requirementGroupsHtml(r)}` : ""}
           ${recordDetailsHtml(r, p)}
