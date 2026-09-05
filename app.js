@@ -100,6 +100,30 @@ function updateStats() {
   if (productListLink) productListLink.textContent = `公開済み製品一覧（${accessoryProductIds.size}件）を見る`;
 }
 
+function featureDisplayLabel(name) {
+  if (typeof DeviceCompatibilityStatus !== "undefined") return DeviceCompatibilityStatus.featureName(name);
+  return {
+    "Audio / controller connection": "音声 / コントローラー接続",
+    "Audio connection": "音声接続",
+    "Controller adapter connection": "コントローラーアダプター接続",
+    "Controller connection": "コントローラー接続",
+    "Dock connection": "ドック接続",
+    "Dock video output": "ドック映像出力",
+    "Host connection": "接続先機器との接続",
+    "Platform compatibility": "プラットフォーム互換性",
+    "Capture passthrough": "キャプチャーパススルー",
+    "Capture resolution": "キャプチャー解像度",
+    "Capture source input": "キャプチャー入力源",
+    "Capture-source input": "キャプチャー入力源",
+    "Display output": "映像出力",
+    "Power delivery": "給電",
+    "Power supply": "電源供給",
+    "Separate capture host": "別のキャプチャーホスト",
+    "Separate capture/display host": "別のキャプチャー / 表示ホスト",
+    "Video output": "映像出力"
+  }[name] || name;
+}
+
 function searchProducts(query) {
   if (!window.DeviceCompatibilitySearch) {
     console.error("検索モジュールを読み込めませんでした。");
@@ -260,7 +284,7 @@ function renderProduct(productId) {
           ${relationshipRoleNotice(r.relationship_role)}
           ${r.requirements.length ? `<h4>必要条件</h4>${requirementGroupsHtml(r)}` : ""}
           ${recordDetailsHtml(r, p)}
-          <h4>機能別</h4><ul>${r.feature_assessments.map((f) => `<li><strong>${escapeHtml(f.feature_name)}</strong>: ${escapeHtml(featureLabel(f.status))} — ${escapeHtml(f.notes)}</li>`).join("")}</ul>
+          <h4>機能別</h4><ul>${r.feature_assessments.map((f) => `<li><strong>${escapeHtml(featureDisplayLabel(f.feature_name))}</strong>: ${escapeHtml(featureLabel(f.status))} — ${escapeHtml(f.notes)}</li>`).join("")}</ul>
           <h4>根拠</h4>${renderEvidence(allEvidence)}
         </section>`;
       }).join("")}

@@ -31,5 +31,25 @@
     }
     return { label: fallback[status] || status || "判定未表示", explanation: "", kind: status === "incompatible" ? "bad" : status === "compatible" ? "ok" : status === "unknown" || status === "conflicting_evidence" ? "unknown" : "warn" };
   }
-  return { present };
+  const featureNames = {
+    "Audio / controller connection": "音声 / コントローラー接続",
+    "Audio connection": "音声接続",
+    "Controller adapter connection": "コントローラーアダプター接続",
+    "Controller connection": "コントローラー接続",
+    "Dock connection": "ドック接続",
+    "Dock video output": "ドック映像出力",
+    "Host connection": "接続先機器との接続",
+    "Platform compatibility": "プラットフォーム互換性",
+    "Capture passthrough": "キャプチャーパススルー",
+    "Capture resolution": "キャプチャー解像度",
+    "Capture source input": "キャプチャー入力源",
+    "Capture-source input": "キャプチャー入力源",
+    "Display output": "映像出力",
+    "Power delivery": "給電",
+    "Power supply": "電源供給",
+    "Separate capture host": "別のキャプチャーホスト",
+    "Separate capture/display host": "別のキャプチャー / 表示ホスト",
+    "Video output": "映像出力"
+  };
+  return { present, featureName: (name) => featureNames[name] || name };
 });
