@@ -6261,6 +6261,96 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "samsung-t7",
+      "manufacturer": "Samsung",
+      "product_name": "Portable SSD T7",
+      "model_number": "T7",
+      "aliases": [
+        "Samsung Portable SSD T7",
+        "T7"
+      ],
+      "category": "portable_ssd",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "samsung-t9",
+      "manufacturer": "Samsung",
+      "product_name": "Portable SSD T9",
+      "model_number": "T9",
+      "aliases": [
+        "Samsung Portable SSD T9",
+        "T9"
+      ],
+      "category": "portable_ssd",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-wireless-go-3rd-gen",
+      "manufacturer": "RØDE",
+      "product_name": "Wireless GO (3rd Gen)",
+      "model_number": "Wireless GO (3rd Gen)",
+      "aliases": [
+        "RØDE Wireless GO (3rd Gen)",
+        "Wireless GO 3rd Gen"
+      ],
+      "category": "microphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-ai-1",
+      "manufacturer": "RØDE",
+      "product_name": "AI-1",
+      "model_number": "AI-1",
+      "aliases": [
+        "RØDE AI-1",
+        "AI-1 audio interface"
+      ],
+      "category": "audio_interface",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "XLR"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -28646,6 +28736,336 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-host-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "samsung-t7",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Portable SSD T7は、公式FAQでiPhone 15での認識・データ転送が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-samsung-t7-host-iphone-15-r1-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式FAQが対象製品の認識を明記。",
+          "evidence_ids": [
+            "ev-samsung-t7-host-iphone-15-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-samsung-t7-host-iphone-15-r1-feature-2",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "公式FAQがデータ転送を明記。",
+          "evidence_ids": [
+            "ev-samsung-t7-host-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t7-host-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-host-iphone-15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "samsung-t7",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Portable SSD T7は、公式FAQでiPhone 15 Proでの認識・データ転送が確認されています。 ProRes 4K60は条件付きで使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-samsung-t7-host-iphone-15-pro-r1-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式FAQが対象製品の認識を明記。",
+          "evidence_ids": [
+            "ev-samsung-t7-host-iphone-15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-samsung-t7-host-iphone-15-pro-r1-feature-2",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "公式FAQがデータ転送を明記。",
+          "evidence_ids": [
+            "ev-samsung-t7-host-iphone-15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-samsung-t7-host-iphone-15-pro-r1-feature-3",
+          "feature_name": "prores_4k_60fps_external_recording",
+          "status": "supported_with_requirements",
+          "notes": "ProRes 4K60は最大消費電力4.5W未満、持続性能220MB/s以上の条件付き。",
+          "evidence_ids": [
+            "ev-samsung-t7-host-iphone-15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t7-host-iphone-15-pro-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t9-host-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "samsung-t9",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Portable SSD T9は、公式FAQでiPhone 15での認識・データ転送が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-samsung-t9-host-iphone-15-r1-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式FAQが対象製品の認識を明記。",
+          "evidence_ids": [
+            "ev-samsung-t9-host-iphone-15-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-samsung-t9-host-iphone-15-r1-feature-2",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "公式FAQがデータ転送を明記。",
+          "evidence_ids": [
+            "ev-samsung-t9-host-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t9-host-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t9-host-iphone-15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "samsung-t9",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Portable SSD T9は、公式FAQでiPhone 15 Proでの認識・データ転送が確認されています。 ProRes 4K60は条件付きで使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-samsung-t9-host-iphone-15-pro-r1-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式FAQが対象製品の認識を明記。",
+          "evidence_ids": [
+            "ev-samsung-t9-host-iphone-15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-samsung-t9-host-iphone-15-pro-r1-feature-2",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "公式FAQがデータ転送を明記。",
+          "evidence_ids": [
+            "ev-samsung-t9-host-iphone-15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-samsung-t9-host-iphone-15-pro-r1-feature-3",
+          "feature_name": "prores_4k_60fps_external_recording",
+          "status": "supported_with_requirements",
+          "notes": "ProRes 4K60は最大消費電力4.5W未満、持続性能220MB/s以上の条件付き。",
+          "evidence_ids": [
+            "ev-samsung-t9-host-iphone-15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t9-host-iphone-15-pro-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-wireless-go-3rd-gen-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-wireless-go-3rd-gen",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wireless GO (3rd Gen)は、USB-C to USB-CケーブルでiPhone 15に接続して音声を録音できます。",
+      "requirements": [
+        "USB-C to USB-C cable"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-rode-wireless-go-3rd-gen-iphone15-r1-feature-1",
+          "feature_name": "usb_audio_recording",
+          "status": "supported_with_requirements",
+          "notes": "公式サポートが製品名とiPhone 15の接続を明記。",
+          "evidence_ids": [
+            "ev-rode-wireless-go-3rd-gen-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-wireless-go-3rd-gen-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-ai-1-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-ai-1",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "AI-1は、USB-C経由でiPhone 15に接続し、XLRマイクを録音する構成に使用できます。",
+      "requirements": [
+        "USB-C connection",
+        "XLR microphone required"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-rode-ai-1-iphone15-r1-feature-1",
+          "feature_name": "xlr_audio_recording",
+          "status": "supported_with_requirements",
+          "notes": "公式記事がAI-1とiPhone 15/16 USB-C接続、XLR録音を明記。",
+          "evidence_ids": [
+            "ev-rode-ai-1-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-ai-1-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-pro-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "elgato-game-capture-4k-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Game Capture 4K Proは、iPhone 15の映像をApple USB-C HDMIアダプタ経由でキャプチャする構成に使用できます。",
+      "requirements": [
+        "Apple USB-C HDMI adapter",
+        "HDMI cable",
+        "desktop PC with available PCIe slot",
+        "Elgato Studio or OBS Studio"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-elgato-game-capture-4k-pro-iphone15-r1-feature-1",
+          "feature_name": "iphone_video_capture",
+          "status": "supported_with_requirements",
+          "notes": "公式ガイドがiPhone 15用構成と4K Proを明記。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-pro-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-4k-pro-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch03_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -38404,6 +38824,139 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "For iPhone 15 and above, the Lightning receiver is not physically compatible with USB-C. Direct Connect connects the transmitters to the USB-C iPhone over Bluetooth, exclusively with RØDE Capture, and requires firmware v2.08 or later.",
       "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_configuration"
+    },
+    {
+      "evidence_id": "ev-samsung-t7-host-iphone-15-20260906",
+      "source_type": "manufacturer_faq",
+      "source_authority": "official",
+      "source_url": "https://semiconductor.samsung.com/consumer-storage/support/faqs/portablessd-product-information/",
+      "source_title": "Portable SSD Product Information",
+      "source_label": "Portable SSD Product Information",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Portable SSD T7 is successfully recognized and able to transfer data on iPhone 15.",
+      "created_by": "iphone_batch03_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t7-host-iphone-15-pro-20260906",
+      "source_type": "manufacturer_faq",
+      "source_authority": "official",
+      "source_url": "https://semiconductor.samsung.com/consumer-storage/support/faqs/portablessd-product-information/",
+      "source_title": "Portable SSD Product Information",
+      "source_label": "Portable SSD Product Information",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Portable SSD T7 is successfully recognized and able to transfer data on iPhone 15 Pro. The product is capable of recording ProRes 4K60 on iPhone 15 Pro and 15 Pro Max when the connected drive meets the maximum power consumption below 4.5W and sustained performance of 220MB/s or higher.",
+      "created_by": "iphone_batch03_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t9-host-iphone-15-20260906",
+      "source_type": "manufacturer_faq",
+      "source_authority": "official",
+      "source_url": "https://semiconductor.samsung.com/consumer-storage/support/faqs/portablessd-product-information/",
+      "source_title": "Portable SSD Product Information",
+      "source_label": "Portable SSD Product Information",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Portable SSD T9 is successfully recognized and able to transfer data on iPhone 15.",
+      "created_by": "iphone_batch03_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t9-host-iphone-15-pro-20260906",
+      "source_type": "manufacturer_faq",
+      "source_authority": "official",
+      "source_url": "https://semiconductor.samsung.com/consumer-storage/support/faqs/portablessd-product-information/",
+      "source_title": "Portable SSD Product Information",
+      "source_label": "Portable SSD Product Information",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Portable SSD T9 is successfully recognized and able to transfer data on iPhone 15 Pro. The product is capable of recording ProRes 4K60 on iPhone 15 Pro and 15 Pro Max when the connected drive meets the maximum power consumption below 4.5W and sustained performance of 220MB/s or higher.",
+      "created_by": "iphone_batch03_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-rode-wireless-go-3rd-gen-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/15968469334159-Why-Isn-t-My-Wireless-Receiver-Being-Detected-on-My-Phone?",
+      "source_title": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "source_label": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Wireless GO (3rd Gen): use a USB-C to USB-C cable when connecting to iPhone 15 and newer; the wireless system provides digital audio output for direct recording.",
+      "created_by": "iphone_batch03_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-rode-ai-1-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/9211527854735-Can-I-connect-an-XLR-microphone-with-my-Android-or-iPhone",
+      "source_title": "Can I connect an XLR microphone with my Android or iPhone?",
+      "source_label": "Can I connect an XLR microphone with my Android or iPhone?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "An audio interface such as the AI-1 can connect directly to iPhone 15/16 with USB-C; this enables XLR microphones for recording purposes.",
+      "created_by": "iphone_batch03_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-4k-pro-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/us/en/explorer/products/capture/how-to-stream-or-record-iphone-gameplay/",
+      "source_title": "How to stream or record iPhone gameplay",
+      "source_label": "How to stream or record iPhone gameplay",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "What you need includes an iPhone with the matching USB-C HDMI adapter for iPhone 15 or newer and a capture card; Game Capture 4K Pro is described as an internal PCIe option for desktop PCs.",
+      "created_by": "iphone_batch03_candidate",
       "evidence_scope": "direct_configuration"
     }
   ]
