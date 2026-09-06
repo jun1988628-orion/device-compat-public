@@ -6351,6 +6351,123 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "manufacturer": "Apple",
+      "product_name": "USB-C Digital AV Multiport Adapter",
+      "model_number": "MW5M3AM/A",
+      "aliases": [
+        "Apple USB-C Digital AV Multiport Adapter",
+        "MW5M3AM/A"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "HDMI",
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-usb-c-to-sd-card-reader",
+      "manufacturer": "Apple",
+      "product_name": "USB-C to SD Card Reader",
+      "model_number": "MW653ZM/A",
+      "aliases": [
+        "Apple USB-C to SD Card Reader",
+        "MW653ZM/A"
+      ],
+      "category": "storage_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "UHS-II"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-usb-c-to-35mm-headphone-jack-adapter",
+      "manufacturer": "Apple",
+      "product_name": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "model_number": "MW2Q3AM/A",
+      "aliases": [
+        "Apple USB-C to 3.5 mm Headphone Jack Adapter",
+        "MW2Q3AM/A"
+      ],
+      "category": "audio_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "ik-multimedia-irig-usb",
+      "manufacturer": "IK Multimedia",
+      "product_name": "iRig USB",
+      "model_number": "iRig USB",
+      "aliases": [
+        "IK Multimedia iRig USB",
+        "iRig USB"
+      ],
+      "category": "audio_interface",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "1/4-inch",
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "ik-multimedia-irig-2",
+      "manufacturer": "IK Multimedia",
+      "product_name": "iRig 2",
+      "model_number": "iRig 2",
+      "aliases": [
+        "IK Multimedia iRig 2",
+        "iRig 2"
+      ],
+      "category": "audio_interface",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "3.5mm",
+        "1/4-inch"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -29066,6 +29183,396 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C Digital AV Multiport AdapterはiPhone 15で使用できます。",
+      "requirements": [
+        "iOS 12.4 or later",
+        "HDMI cable required"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes mirroring the iPhone to an HDMI display.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-r1-feature-2",
+          "feature_name": "usb_device_connection",
+          "status": "supported",
+          "notes": "Official product page describes connecting a standard USB device.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-r1-feature-3",
+          "feature_name": "usb_c_charging_passthrough",
+          "status": "supported",
+          "notes": "Official product page describes connecting a USB-C charging cable.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C Digital AV Multiport AdapterはiPhone 15 Proで使用できます。",
+      "requirements": [
+        "iOS 12.4 or later",
+        "HDMI cable required"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes mirroring the iPhone to an HDMI display.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-r1-feature-2",
+          "feature_name": "usb_device_connection",
+          "status": "supported",
+          "notes": "Official product page describes connecting a standard USB device.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-r1-feature-3",
+          "feature_name": "usb_c_charging_passthrough",
+          "status": "supported",
+          "notes": "Official product page describes connecting a USB-C charging cable.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-sd-card-reader-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "apple-usb-c-to-sd-card-reader",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to SD Card ReaderはiPhone 15で写真・動画の転送に使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-sd-card-reader-iphone-15-r1-feature-1",
+          "feature_name": "sd_photo_video_import_export",
+          "status": "supported",
+          "notes": "Official Apple product and support pages describe transfer and import/export of photos and videos.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-sd-card-reader-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-sd-card-reader-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-sd-card-reader-iphone-15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "apple-usb-c-to-sd-card-reader",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to SD Card ReaderはiPhone 15 Proで写真・動画の転送に使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-sd-card-reader-iphone-15-pro-r1-feature-1",
+          "feature_name": "sd_photo_video_import_export",
+          "status": "supported",
+          "notes": "Official Apple product and support pages describe transfer and import/export of photos and videos.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-sd-card-reader-iphone-15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-sd-card-reader-iphone-15-pro-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "apple-usb-c-to-35mm-headphone-jack-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to 3.5 mm Headphone Jack AdapterはiPhone 15で3.5 mm音声機器を接続できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-r1-feature-1",
+          "feature_name": "analog_audio_output",
+          "status": "supported",
+          "notes": "Official product page limits the described use to connecting 3.5 mm headphones or speakers.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "apple-usb-c-to-35mm-headphone-jack-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to 3.5 mm Headphone Jack AdapterはiPhone 15 Proで3.5 mm音声機器を接続できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-pro-r1-feature-1",
+          "feature_name": "analog_audio_output",
+          "status": "supported",
+          "notes": "Official product page limits the described use to connecting 3.5 mm headphones or speakers.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-pro-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-ik-multimedia-irig-usb-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "ik-multimedia-irig-usb",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "iRig USBはiPhone 15でギター／ベース入力とiOSアプリでの録音に使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-ik-multimedia-irig-usb-iphone-15-r1-feature-1",
+          "feature_name": "guitar_bass_audio_recording",
+          "status": "supported",
+          "notes": "Official page describes iPhone 15 use and recording a DI or processed guitar part with iOS apps.",
+          "evidence_ids": [
+            "ev-ik-multimedia-irig-usb-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ik-multimedia-irig-usb-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-ik-multimedia-irig-2-iphone-15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "ik-multimedia-irig-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "iRig 2はiPhone 15で、USB-C to 3.5 mmアダプターとCTIA/AHJ準拠条件のもと使用できます。",
+      "requirements": [
+        "USB-C to 3.5 mm adapter",
+        "CTIA/AHJ compliant wiring"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-ik-multimedia-irig-2-iphone-15-r1-feature-1",
+          "feature_name": "guitar_audio_interface",
+          "status": "supported_with_requirements",
+          "notes": "Official specifications describe iRig 2 as a guitar interface and list the exact iPhone model with the USB-C to 3.5 mm adapter and CTIA/AHJ conditions.",
+          "evidence_ids": [
+            "ev-ik-multimedia-irig-2-iphone-15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ik-multimedia-irig-2-iphone-15-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-ik-multimedia-irig-2-iphone-15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "ik-multimedia-irig-2",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "iRig 2はiPhone 15 Proで、USB-C to 3.5 mmアダプターとCTIA/AHJ準拠条件のもと使用できます。",
+      "requirements": [
+        "USB-C to 3.5 mm adapter",
+        "CTIA/AHJ compliant wiring"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-ik-multimedia-irig-2-iphone-15-pro-r1-feature-1",
+          "feature_name": "guitar_audio_interface",
+          "status": "supported_with_requirements",
+          "notes": "Official specifications describe iRig 2 as a guitar interface and list the exact iPhone model with the USB-C to 3.5 mm adapter and CTIA/AHJ conditions.",
+          "evidence_ids": [
+            "ev-ik-multimedia-irig-2-iphone-15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-ik-multimedia-irig-2-iphone-15-pro-20260906"
+      ],
+      "created_by": "iphone_batch04_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -38958,6 +39465,177 @@
       "excerpt_or_location": "What you need includes an iPhone with the matching USB-C HDMI adapter for iPhone 15 or newer and a capture card; Game Capture 4K Pro is described as an internal PCIe option for desktop PCs.",
       "created_by": "iphone_batch03_candidate",
       "evidence_scope": "direct_configuration"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MW5M3AM/A/usb-c-digital-av-multiport-adapter",
+      "source_title": "USB-C Digital AV Multiport Adapter",
+      "source_label": "USB-C Digital AV Multiport Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iPhone Models lists iPhone 15. The overview says the adapter connects a USB-C iPhone to an HDMI display while also connecting a standard USB device and a USB-C charging cable. System Requirements specify iOS 12.4 or later and require an HDMI cable.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-digital-av-multiport-adapter-iphone-15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MW5M3AM/A/usb-c-digital-av-multiport-adapter",
+      "source_title": "USB-C Digital AV Multiport Adapter",
+      "source_label": "USB-C Digital AV Multiport Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iPhone Models lists iPhone 15 Pro. The overview says the adapter connects a USB-C iPhone to an HDMI display while also connecting a standard USB device and a USB-C charging cable. System Requirements specify iOS 12.4 or later and require an HDMI cable.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-sd-card-reader-iphone-15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/uk/shop/product/MW653ZM/A/usb-c-to-sd-card-reader",
+      "source_title": "USB-C to SD Card Reader",
+      "source_label": "USB-C to SD Card Reader",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iPhone Models lists iPhone 15. The product overview states that the reader transfers high-resolution photos and videos to a USB-C-enabled iPhone. Apple Support documents importing and exporting photos and videos using the Apple USB-C to SD Card Reader.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-sd-card-reader-iphone-15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/uk/shop/product/MW653ZM/A/usb-c-to-sd-card-reader",
+      "source_title": "USB-C to SD Card Reader",
+      "source_label": "USB-C to SD Card Reader",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iPhone Models lists iPhone 15 Pro. The product overview states that the reader transfers high-resolution photos and videos to a USB-C-enabled iPhone. Apple Support documents importing and exporting photos and videos using the Apple USB-C to SD Card Reader.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MW2Q3AM/A/usb-c-to-35-mm-headphone-jack-adapter",
+      "source_title": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "source_label": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iPhone Models lists iPhone 15. The overview states that the adapter connects devices using a standard 3.5 mm audio plug, such as headphones or speakers, to USB-C devices.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone-15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MW2Q3AM/A/usb-c-to-35-mm-headphone-jack-adapter",
+      "source_title": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "source_label": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iPhone Models lists iPhone 15 Pro. The overview states that the adapter connects devices using a standard 3.5 mm audio plug, such as headphones or speakers, to USB-C devices.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-ik-multimedia-irig-usb-iphone-15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.ikmultimedia.com/products/irigusb/index.php",
+      "source_title": "iRig USB",
+      "source_label": "iRig USB",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Key features explicitly state “Works with iPad, Mac, PC and iPhone 15” and “USB-C connection for iPad, Mac, PC and iPhone 15.” The product page also describes recording a DI or processed guitar part with iOS apps.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-ik-multimedia-irig-2-iphone-15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.ikmultimedia.com/products/irig2/?p=specs",
+      "source_title": "IK Multimedia - iRig 2 Specifications",
+      "source_label": "IK Multimedia - iRig 2 Specifications",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iOS Devices explicitly lists iPhone 15. The page states that the listed devices are compatible using a Lightning to 1/8-inch or USB-C to 1/8-inch (3.5 mm) adapter and requires CTIA/AHJ compliant wiring.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-ik-multimedia-irig-2-iphone-15-pro-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.ikmultimedia.com/products/irig2/?p=specs",
+      "source_title": "IK Multimedia - iRig 2 Specifications",
+      "source_label": "IK Multimedia - iRig 2 Specifications",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility > iOS Devices explicitly lists iPhone 15 Pro. The page states that the listed devices are compatible using a Lightning to 1/8-inch or USB-C to 1/8-inch (3.5 mm) adapter and requires CTIA/AHJ compliant wiring.",
+      "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
     }
   ]
 }
