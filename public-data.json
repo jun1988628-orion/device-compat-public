@@ -6169,6 +6169,98 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-wireless-pro",
+      "manufacturer": "RØDE",
+      "product_name": "Wireless PRO",
+      "model_number": "Wireless PRO",
+      "aliases": [
+        "RØDE Wireless PRO",
+        "Wireless PRO"
+      ],
+      "category": "microphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-wireless-go-ii",
+      "manufacturer": "RØDE",
+      "product_name": "Wireless GO II",
+      "model_number": "Wireless GO II",
+      "aliases": [
+        "RØDE Wireless GO II",
+        "Wireless GO II"
+      ],
+      "category": "microphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-wireless-me",
+      "manufacturer": "RØDE",
+      "product_name": "Wireless ME",
+      "model_number": "Wireless ME",
+      "aliases": [
+        "RØDE Wireless ME",
+        "Wireless ME"
+      ],
+      "category": "microphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-wireless-micro-lightning-kit",
+      "manufacturer": "RØDE",
+      "product_name": "Wireless Micro Lightning Kit",
+      "model_number": "Wireless Micro Lightning Kit",
+      "aliases": [
+        "RØDE Wireless Micro Lightning Kit",
+        "Wireless Micro Lightning"
+      ],
+      "category": "microphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Lightning",
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -28269,6 +28361,291 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-belkin-avc007btsgy-iphone15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "belkin-avc007btsgy",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C 5-in-1 Multiport Adapterは、公式Compatibility欄でiPhone 15 Proに対応しています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-belkin-avc007btsgy-iphone15-pro-r1-feature-1",
+          "feature_name": "hub_compatibility",
+          "status": "supported",
+          "notes": "公式Compatibility欄にiPhone 15 Proを明記。",
+          "evidence_ids": [
+            "ev-belkin-avc007btsgy-iphone15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-belkin-avc007btsgy-iphone15-pro-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-s-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "elgato-game-capture-4k-s",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Game Capture 4K Sは、iPhone 15をApple USB-C HDMIアダプタ経由でキャプチャする構成に使用できます。",
+      "requirements": [
+        "Apple USB-C HDMI adapter",
+        "HDMI cable",
+        "computer with Elgato Studio or streaming software"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-elgato-game-capture-4k-s-iphone15-r1-feature-1",
+          "feature_name": "iphone_video_capture",
+          "status": "supported_with_requirements",
+          "notes": "iPhone 15と対象capture cardを同一構成で説明。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-s-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-4k-s-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-elgato-game-capture-4k-x-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "elgato-game-capture-4k-x",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Game Capture 4K Xは、iPhone 15をApple USB-C HDMIアダプタ経由でキャプチャする構成に使用できます。",
+      "requirements": [
+        "Apple USB-C HDMI adapter",
+        "HDMI cable",
+        "computer with Elgato Studio or streaming software"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-elgato-game-capture-4k-x-iphone15-r1-feature-1",
+          "feature_name": "iphone_video_capture",
+          "status": "supported_with_requirements",
+          "notes": "iPhone 15と対象capture cardを同一構成で説明。",
+          "evidence_ids": [
+            "ev-elgato-game-capture-4k-x-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-elgato-game-capture-4k-x-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-wireless-pro-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-wireless-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wireless PROは、USB-C to USB-CケーブルでiPhone 15に接続して音声を録音できます。",
+      "requirements": [
+        "USB-C to USB-C cable"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-rode-wireless-pro-iphone15-r1-feature-1",
+          "feature_name": "usb_audio_recording",
+          "status": "supported_with_requirements",
+          "notes": "公式サポートが製品名とiPhone 15の接続を明記。",
+          "evidence_ids": [
+            "ev-rode-wireless-pro-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-wireless-pro-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-wireless-go-ii-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-wireless-go-ii",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wireless GO IIは、USB-C to USB-CケーブルでiPhone 15に接続して音声を録音できます。",
+      "requirements": [
+        "USB-C to USB-C cable"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-rode-wireless-go-ii-iphone15-r1-feature-1",
+          "feature_name": "usb_audio_recording",
+          "status": "supported_with_requirements",
+          "notes": "公式サポートが製品名とiPhone 15の接続を明記。",
+          "evidence_ids": [
+            "ev-rode-wireless-go-ii-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-wireless-go-ii-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-wireless-me-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-wireless-me",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wireless MEは、USB-C to USB-CケーブルでiPhone 15に接続して音声を録音できます。",
+      "requirements": [
+        "USB-C to USB-C cable"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-rode-wireless-me-iphone15-r1-feature-1",
+          "feature_name": "usb_audio_recording",
+          "status": "supported_with_requirements",
+          "notes": "公式サポートが製品名とiPhone 15の接続を明記。",
+          "evidence_ids": [
+            "ev-rode-wireless-me-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-wireless-me-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-wireless-micro-lightning-kit-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-wireless-micro-lightning-kit",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Wireless Micro Lightning Kitは、iPhone 15ではLightning受信機を直接接続できませんが、Bluetooth Direct ConnectをRØDE Captureで使用できます。",
+      "requirements": [
+        "Lightning receiver cannot connect directly to iPhone 15 USB-C port",
+        "Bluetooth Direct Connect",
+        "RØDE Capture app only",
+        "Firmware v2.08 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-rode-wireless-micro-lightning-kit-iphone15-r1-feature-1",
+          "feature_name": "rode_capture_direct_connect",
+          "status": "supported_with_requirements",
+          "notes": "iPhone 15との代替接続方法を公式サポートが明記。",
+          "evidence_ids": [
+            "ev-rode-wireless-micro-lightning-kit-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-wireless-micro-lightning-kit-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch02_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -37895,6 +38272,139 @@
       "excerpt_or_location": "The VideoMic Me-C+ is made and designed to be fully compatible with iOS devices with USB-C ports, such as the iPhone 15. The original VideoMic Me-C is not compatible with iOS devices.",
       "created_by": "iphone_batch01_candidate",
       "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-belkin-avc007btsgy-iphone15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.belkin.com/in/p/usb-c-5-in-1-multiport-adapter-hub/P-AVC007.html",
+      "source_title": "USB-C 5-in-1 Multiport Adapter Hub",
+      "source_label": "USB-C 5-in-1 Multiport Adapter Hub",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility section: SKU AVC007btSGY lists iPhone 15 Pro.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-4k-s-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/us/en/explorer/products/capture/how-to-stream-or-record-iphone-gameplay/",
+      "source_title": "How to stream or record iPhone gameplay",
+      "source_label": "How to stream or record iPhone gameplay",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "What you need: an iPhone and matching Apple HDMI adapter (USB-C for iPhone 15 or newer), an HDMI cable, and a capture card like Game Capture 4K S. Setup connects the adapter to the capture card HDMI IN.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_configuration"
+    },
+    {
+      "evidence_id": "ev-elgato-game-capture-4k-x-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://www.elgato.com/us/en/explorer/products/capture/how-to-stream-or-record-iphone-gameplay/",
+      "source_title": "How to stream or record iPhone gameplay",
+      "source_label": "How to stream or record iPhone gameplay",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "What you need: an iPhone and matching Apple HDMI adapter (USB-C for iPhone 15 or newer), an HDMI cable, and a capture card like Game Capture 4K X. Setup connects the adapter to the capture card HDMI IN.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_configuration"
+    },
+    {
+      "evidence_id": "ev-rode-wireless-pro-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/15968469334159-Why-Isn-t-My-Wireless-Receiver-Being-Detected-on-My-Phone?",
+      "source_title": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "source_label": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Wireless PRO: use a USB-C to USB-C cable when connecting to iPhone 15 and newer. The wireless system provides digital audio output for direct recording.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-rode-wireless-go-ii-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/15968469334159-Why-Isn-t-My-Wireless-Receiver-Being-Detected-on-My-Phone?",
+      "source_title": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "source_label": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Wireless GO II: use a USB-C to USB-C cable when connecting to iPhone 15 and newer. The wireless system provides digital audio output for direct recording.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-rode-wireless-me-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/15968469334159-Why-Isn-t-My-Wireless-Receiver-Being-Detected-on-My-Phone?",
+      "source_title": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "source_label": "Why Isn't My Wireless Receiver Being Detected on My Phone?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Wireless ME: use a USB-C to USB-C cable when connecting to iPhone 15 and newer. The wireless system provides digital audio output for direct recording.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-rode-wireless-micro-lightning-kit-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/15037308937359-Can-I-Use-the-Wireless-Micro-Lightning-Kit-with-a-USB-C-Mobile-Device?",
+      "source_title": "Can I Use the Wireless Micro Lightning Kit with a USB-C Mobile Device?",
+      "source_label": "Can I Use the Wireless Micro Lightning Kit with a USB-C Mobile Device?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "For iPhone 15 and above, the Lightning receiver is not physically compatible with USB-C. Direct Connect connects the transmitters to the USB-C iPhone over Bluetooth, exclusively with RØDE Capture, and requires firmware v2.08 or later.",
+      "created_by": "iphone_batch02_candidate",
+      "evidence_scope": "direct_configuration"
     }
   ]
 }
