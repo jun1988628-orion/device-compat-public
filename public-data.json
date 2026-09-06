@@ -6468,6 +6468,72 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "insta360-flow-pro",
+      "manufacturer": "Insta360",
+      "product_name": "Insta360 Flow Pro",
+      "model_number": "Flow Pro",
+      "aliases": [
+        "Flow Pro",
+        "Insta360 Flow Pro"
+      ],
+      "category": "camera_gimbal",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "dji-osmo-nano",
+      "manufacturer": "DJI",
+      "product_name": "Osmo Nano",
+      "model_number": "Osmo Nano",
+      "aliases": [
+        "DJI Osmo Nano",
+        "Osmo Nano"
+      ],
+      "category": "camera_gimbal",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-extreme-portable-ssd-sdssde61",
+      "manufacturer": "SanDisk",
+      "product_name": "Extreme Portable SSD",
+      "model_number": "SDSSDE61",
+      "aliases": [
+        "SanDisk Extreme Portable SSD",
+        "SDSSDE61"
+      ],
+      "category": "external_storage",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -29573,6 +29639,289 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-insta360-flow-pro-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "insta360-flow-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Insta360 Flow ProはiPhone 15で、公式互換表に記載されたカメラ制御・写真撮影・動画撮影に使用できます。",
+      "requirements": [
+        "Phone thickness 6.9-10 mm; width 64-84 mm; weight under 300 g"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-insta360-flow-pro-iphone15-r1-feature-1",
+          "feature_name": "phone_camera_control",
+          "status": "supported",
+          "notes": "Official compatibility table marks Phone Camera Control for iPhone 15.",
+          "evidence_ids": [
+            "ev-insta360-flow-pro-iphone15-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-insta360-flow-pro-iphone15-r1-feature-2",
+          "feature_name": "photo_capture",
+          "status": "supported",
+          "notes": "Official compatibility table lists Photo capture for iPhone 15.",
+          "evidence_ids": [
+            "ev-insta360-flow-pro-iphone15-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-insta360-flow-pro-iphone15-r1-feature-3",
+          "feature_name": "video_recording",
+          "status": "supported",
+          "notes": "Official compatibility table lists Video recording for iPhone 15.",
+          "evidence_ids": [
+            "ev-insta360-flow-pro-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-insta360-flow-pro-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch05_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026/09/06 0:00:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-insta360-flow-pro-iphone15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "insta360-flow-pro",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Insta360 Flow ProはiPhone 15 Proで、公式互換表に記載されたカメラ制御・写真撮影・動画撮影に使用できます。",
+      "requirements": [
+        "Phone thickness 6.9-10 mm; width 64-84 mm; weight under 300 g"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-insta360-flow-pro-iphone15-pro-r1-feature-1",
+          "feature_name": "phone_camera_control",
+          "status": "supported",
+          "notes": "Official compatibility table marks Phone Camera Control for iPhone 15 Pro.",
+          "evidence_ids": [
+            "ev-insta360-flow-pro-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-insta360-flow-pro-iphone15-pro-r1-feature-2",
+          "feature_name": "photo_capture",
+          "status": "supported",
+          "notes": "Official compatibility table lists Photo capture for iPhone 15 Pro.",
+          "evidence_ids": [
+            "ev-insta360-flow-pro-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-insta360-flow-pro-iphone15-pro-r1-feature-3",
+          "feature_name": "video_recording",
+          "status": "supported",
+          "notes": "Official compatibility table lists Video recording for iPhone 15 Pro.",
+          "evidence_ids": [
+            "ev-insta360-flow-pro-iphone15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-insta360-flow-pro-iphone15-pro-20260906"
+      ],
+      "created_by": "iphone_batch05_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026/09/06 0:00:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-dji-osmo-nano-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "dji-osmo-nano",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Osmo NanoはiPhone 15でDJI Mimoを使用する構成に対応します。",
+      "requirements": [
+        "iOS 15.0 or above",
+        "DJI Mimo"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-dji-osmo-nano-iphone15-r1-feature-1",
+          "feature_name": "dji_mimo_app_compatibility",
+          "status": "supported",
+          "notes": "DJI Download Center lists iPhone 15 as compatible and provides DJI Mimo for Osmo Nano.",
+          "evidence_ids": [
+            "ev-dji-osmo-nano-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-dji-osmo-nano-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch05_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026/09/06 0:00:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-dji-osmo-nano-iphone15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "dji-osmo-nano",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Osmo NanoはiPhone 15 ProでDJI Mimoを使用する構成に対応します。",
+      "requirements": [
+        "iOS 15.0 or above",
+        "DJI Mimo"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-dji-osmo-nano-iphone15-pro-r1-feature-1",
+          "feature_name": "dji_mimo_app_compatibility",
+          "status": "supported",
+          "notes": "DJI Download Center lists iPhone 15 Pro as compatible and provides DJI Mimo for Osmo Nano.",
+          "evidence_ids": [
+            "ev-dji-osmo-nano-iphone15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-dji-osmo-nano-iphone15-pro-20260906"
+      ],
+      "created_by": "iphone_batch05_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026/09/06 0:00:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-sandisk-extreme-portable-ssd-sdssde61-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "sandisk-extreme-portable-ssd-sdssde61",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "SanDisk Extreme Portable SSD（SDSSDE61）はiPhone 15でFiles Appによるファイル転送に使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-sandisk-extreme-portable-ssd-sdssde61-iphone15-r1-feature-1",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "Official SanDisk compatibility table marks file transfer for SDSSDE61 in the iPhone 15 column group.",
+          "evidence_ids": [
+            "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch05_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026/09/06 0:00:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "sandisk-extreme-portable-ssd-sdssde61",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "SanDisk Extreme Portable SSD（SDSSDE61）はiPhone 15 ProでFiles Appによるファイル転送に使用でき、互換表でProRes対応表示があります。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-r1-feature-1",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "Official SanDisk compatibility table marks file transfer for SDSSDE61 in the iPhone 15 Pro column group.",
+          "evidence_ids": [
+            "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-r1-feature-2",
+          "feature_name": "prores_recording",
+          "status": "supported",
+          "notes": "Official SanDisk compatibility table marks ProRes support for SDSSDE61 in the iPhone 15 Pro column group; resolution and frame rate are not specified here.",
+          "evidence_ids": [
+            "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-20260906"
+      ],
+      "created_by": "iphone_batch05_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026/09/06 0:00:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -39635,6 +39984,120 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Compatibility > iOS Devices explicitly lists iPhone 15 Pro. The page states that the listed devices are compatible using a Lightning to 1/8-inch or USB-C to 1/8-inch (3.5 mm) adapter and requires CTIA/AHJ compliant wiring.",
       "created_by": "iphone_batch04_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-insta360-flow-pro-iphone15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://res.insta360.com/static/b905179c9a2ab6382136e190b0ba464f/EN.pdf?r_from=%2Fflowpro%2Fen-us%2Ffaq%2Fcompatibility%2Fdockkitsoftwarecompatibility",
+      "source_title": "Insta360 Flow Pro Mobile Phone Compatibility List",
+      "source_label": "Insta360 Flow Pro Mobile Phone Compatibility List",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "iPhone 15 row: supported cameras include Ultra wide camera and Wide-angle camera; zoom 0.5x-3x; supported functions include Phone Camera Control, Photo capture, and Video recording. Footnote: update the phone to the latest software version for the best user experience.",
+      "created_by": "iphone_batch05_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-insta360-flow-pro-iphone15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://res.insta360.com/static/b905179c9a2ab6382136e190b0ba464f/EN.pdf?r_from=%2Fflowpro%2Fen-us%2Ffaq%2Fcompatibility%2Fdockkitsoftwarecompatibility",
+      "source_title": "Insta360 Flow Pro Mobile Phone Compatibility List",
+      "source_label": "Insta360 Flow Pro Mobile Phone Compatibility List",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "iPhone 15 Pro row: supported cameras include Ultra wide camera, Wide-angle camera, and telephoto camera; zoom 0.5x-9x; supported functions include Phone Camera Control, Photo capture, and Video recording. Footnote: update the phone to the latest software version for the best user experience.",
+      "created_by": "iphone_batch05_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-dji-osmo-nano-iphone15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.dji.com/ca/downloads/products/nano",
+      "source_title": "Osmo Nano - Download Center",
+      "source_label": "Osmo Nano - Download Center",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Osmo Nano Download Center: DJI Mimo requires iOS 15.0 or above; Recommended Models lists iPhone 15 as Compatible with Osmo Nano.",
+      "created_by": "iphone_batch05_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-dji-osmo-nano-iphone15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.dji.com/ca/downloads/products/nano",
+      "source_title": "Osmo Nano - Download Center",
+      "source_label": "Osmo Nano - Download Center",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Osmo Nano Download Center: DJI Mimo requires iOS 15.0 or above; Recommended Models lists iPhone 15 Pro as Compatible with Osmo Nano.",
+      "created_by": "iphone_batch05_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/51452/~/learn-about-iphone-16,-15-series-support-for-sandisk,-wd-usb-flash,-and-ssd",
+      "source_title": "Learn About iPhone 16, 15 Series Support for SanDisk, WD USB Flash, and SSD",
+      "source_label": "Learn About iPhone 16, 15 Series Support for SanDisk, WD USB Flash, and SSD",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk compatibility table: iPhone 15 column group lists SanDisk Extreme Portable SSD, model family SDSSDE61, with file transfer support. The table does not assign the ProRes column to iPhone 15.",
+      "created_by": "iphone_batch05_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-sandisk-extreme-portable-ssd-sdssde61-iphone15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://support-en.sandisk.com/app/answers/detailweb/a_id/51452/~/learn-about-iphone-16,-15-series-support-for-sandisk,-wd-usb-flash,-and-ssd",
+      "source_title": "Learn About iPhone 16, 15 Series Support for SanDisk, WD USB Flash, and SSD",
+      "source_label": "Learn About iPhone 16, 15 Series Support for SanDisk, WD USB Flash, and SSD",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk compatibility table: iPhone 15 Pro column group lists SanDisk Extreme Portable SSD, model family SDSSDE61, with file transfer and the table’s ProRes support mark. Resolution and frame rate are not asserted here.",
+      "created_by": "iphone_batch05_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
