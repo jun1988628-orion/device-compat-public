@@ -6534,6 +6534,141 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "host-ipad-air-11-m3",
+      "manufacturer": "Apple",
+      "product_name": "iPad Air 11-inch (M3)",
+      "model_number": "iPad Air 11-inch (M3)",
+      "aliases": [
+        "iPad Air 11-inch (M3)",
+        "iPad Air M3"
+      ],
+      "category": "tablet",
+      "region": "JP",
+      "hardware_revision": "M3",
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-usb-c-to-usb-adapter",
+      "manufacturer": "Apple",
+      "product_name": "USB-C to USB Adapter",
+      "model_number": "MW5L3ZM/A",
+      "aliases": [
+        "USB-C to USB Adapter",
+        "Apple USB-C to USB Adapter"
+      ],
+      "category": "usb_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "USB"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-usb-c-to-lightning-adapter",
+      "manufacturer": "Apple",
+      "product_name": "USB-C to Lightning Adapter",
+      "model_number": "MUQX3AM/A",
+      "aliases": [
+        "USB-C to Lightning Adapter",
+        "Apple USB-C to Lightning Adapter"
+      ],
+      "category": "adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Lightning"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-pencil-usb-c",
+      "manufacturer": "Apple",
+      "product_name": "Apple Pencil (USB-C)",
+      "model_number": "MUWA3AM/A",
+      "aliases": [
+        "Apple Pencil (USB-C)",
+        "Apple Pencil USB-C"
+      ],
+      "category": "stylus",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-pencil-pro",
+      "manufacturer": "Apple",
+      "product_name": "Apple Pencil Pro",
+      "model_number": "MX2D3AM/A",
+      "aliases": [
+        "Apple Pencil Pro"
+      ],
+      "category": "stylus",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-magic-keyboard-ipad-air-11-m3",
+      "manufacturer": "Apple",
+      "product_name": "Magic Keyboard for iPad Air 11-inch (M3)",
+      "model_number": "MDFV4LL/A",
+      "aliases": [
+        "Magic Keyboard for iPad Air 11-inch (M3)",
+        "Magic Keyboard iPad Air M3"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Smart Connector",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -29922,6 +30057,363 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C Digital AV Multiport AdapterはiPad Air 11-inch (M3)で、公式記載範囲のHDMI表示・USB機器接続・充電接続に使用できます.",
+      "requirements": [
+        "iOS 12.4 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes HDMI display connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-r1-feature-2",
+          "feature_name": "usb_device_connection",
+          "status": "supported",
+          "notes": "Official product page describes standard USB device connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-r1-feature-3",
+          "feature_name": "usb_c_charging_connection",
+          "status": "supported",
+          "notes": "Official product page describes USB-C charging cable connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-sd-card-reader-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-usb-c-to-sd-card-reader",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to SD Card ReaderはiPad Air 11-inch (M3)で、SDカードから写真・動画を読み込む用途に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-sd-card-reader-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "photo_video_import",
+          "status": "supported",
+          "notes": "Official guide describes importing photos and video from SD card to USB-C iPad.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-sd-card-reader-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-sd-card-reader-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-usb-c-to-35mm-headphone-jack-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to 3.5 mm Headphone Jack AdapterはiPad Air 11-inch (M3)で標準3.5mmヘッドホンまたはスピーカー接続に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "audio_output",
+          "status": "supported",
+          "notes": "Official product page describes standard 3.5 mm headphones or speakers.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-35mm-headphone-jack-adapter-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-35mm-headphone-jack-adapter-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-usb-adapter-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-usb-c-to-usb-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to USB AdapterはiPad Air 11-inch (M3)で標準USBアクセサリ、フラッシュドライブ、カメラ接続に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-usb-adapter-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "usb_accessory_connection",
+          "status": "supported",
+          "notes": "Official product page describes standard USB accessories, flash drives, and cameras.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-usb-adapter-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-usb-adapter-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-lightning-adapter-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-usb-c-to-lightning-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to Lightning AdapterはiPad Air 11-inch (M3)でLightningアクセサリ接続に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-lightning-adapter-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "lightning_accessory_connection",
+          "status": "supported",
+          "notes": "Official product page describes connecting Lightning accessories to USB-C devices.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-lightning-adapter-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-lightning-adapter-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-pencil-usb-c-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-pencil-usb-c",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Apple Pencil (USB-C)はiPad Air 11-inch (M3)で使用できます.",
+      "requirements": [
+        "iPadOS 17.1.1 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-pencil-usb-c-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "pencil_input",
+          "status": "supported",
+          "notes": "Official product page lists compatibility with iPad Air 11-inch (M3).",
+          "evidence_ids": [
+            "ev-apple-pencil-usb-c-ipad-air-11-m3-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-pencil-usb-c-ipad-air-11-m3-r1-feature-2",
+          "feature_name": "apple_pencil_hover",
+          "status": "supported",
+          "notes": "Official product page states hover support with iPad Air 11-inch (M3).",
+          "evidence_ids": [
+            "ev-apple-pencil-usb-c-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-pencil-usb-c-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-pencil-pro-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-pencil-pro",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Apple Pencil ProはiPad Air 11-inch (M3)で使用できます.",
+      "requirements": [
+        "iPadOS 17.5 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-pencil-pro-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "pencil_pro_input",
+          "status": "supported",
+          "notes": "Official product page lists compatibility with iPad Air 11-inch (M3).",
+          "evidence_ids": [
+            "ev-apple-pencil-pro-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-pencil-pro-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-magic-keyboard-ipad-air-11-m3-r1",
+      "host_product_id": "host-ipad-air-11-m3",
+      "accessory_product_id": "apple-magic-keyboard-ipad-air-11-m3",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic Keyboard for iPad Air 11-inch (M3)は、iPadOS 18.3以降でキーボード・トラックパッド・パススルー充電に使用できます.",
+      "requirements": [
+        "iPadOS 18.3 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-magic-keyboard-ipad-air-11-m3-r1-feature-1",
+          "feature_name": "keyboard_input",
+          "status": "supported",
+          "notes": "Official product page describes keyboard use.",
+          "evidence_ids": [
+            "ev-apple-magic-keyboard-ipad-air-11-m3-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-magic-keyboard-ipad-air-11-m3-r1-feature-2",
+          "feature_name": "trackpad_input",
+          "status": "supported",
+          "notes": "Official product page describes trackpad use.",
+          "evidence_ids": [
+            "ev-apple-magic-keyboard-ipad-air-11-m3-20260906"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-magic-keyboard-ipad-air-11-m3-r1-feature-3",
+          "feature_name": "pass_through_charging",
+          "status": "supported",
+          "notes": "Official product page describes USB-C pass-through charging.",
+          "evidence_ids": [
+            "ev-apple-magic-keyboard-ipad-air-11-m3-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-magic-keyboard-ipad-air-11-m3-20260906"
+      ],
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-07T00:04:13+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -40098,6 +40590,158 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "SanDisk compatibility table: iPhone 15 Pro column group lists SanDisk Extreme Portable SSD, model family SDSSDE61, with file transfer and the table’s ProRes support mark. Resolution and frame rate are not asserted here.",
       "created_by": "iphone_batch05_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-digital-av-multiport-adapter-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+      "source_title": "USB-C Digital AV Multiport Adapter",
+      "source_label": "USB-C Digital AV Multiport Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Air 11-inch (M3). Product description connects a USB-C iPad to an HDMI display, standard USB device, and USB-C charging cable.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-sd-card-reader-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/ipad/accessories/content-creation/media-readers-ipad-air-11-inch-m2",
+      "source_title": "USB-C to SD Card Reader",
+      "source_label": "USB-C to SD Card Reader",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Apple iPad Air 11-inch (M3) accessory listing includes USB-C to SD Card Reader. Official guide describes importing photos and video from an SD card to a USB-C iPad.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-35mm-headphone-jack-adapter-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mw2q3am/a/usb-c-to-35-mm-headphone-jack-adapter",
+      "source_title": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "source_label": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Air 11-inch (M3). Product description supports connecting standard 3.5 mm headphones or speakers to USB-C devices.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-usb-adapter-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5l3zm/a/usb-c-to-usb-adapter?n=display",
+      "source_title": "USB-C to USB Adapter",
+      "source_label": "USB-C to USB Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Air 11-inch (M3). Product description supports standard USB accessories, flash drives, and cameras.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-lightning-adapter-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/muqx3am/a/usb-c-to-lightning-adapter",
+      "source_title": "USB-C to Lightning Adapter",
+      "source_label": "USB-C to Lightning Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Air 11-inch (M3). Product description covers connecting Lightning accessories to USB-C devices for supported connection, sync, or charging functions.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-pencil-usb-c-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/muwa3am/a/apple-pencil-usb-c",
+      "source_title": "Apple Pencil (USB-C)",
+      "source_label": "Apple Pencil (USB-C)",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Product page lists iPad Air 11-inch (M3) compatibility and describes pairing and charging through USB-C; hover is supported with this iPad model.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-pencil-pro-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MX2D3AM/A/apple-pencil-pro",
+      "source_title": "Apple Pencil Pro",
+      "source_label": "Apple Pencil Pro",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Air 11-inch (M3). Product page describes Apple Pencil Pro use with compatible iPad models.",
+      "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-magic-keyboard-ipad-air-11-m3-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MDFV4LL/A/magic-keyboard-for-ipad-air-11-inch-m3-us-english",
+      "source_title": "Magic Keyboard for iPad Air 11-inch (M3)",
+      "source_label": "Magic Keyboard for iPad Air 11-inch (M3)",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Product page is model-specific to iPad Air 11-inch (M3), with keyboard, trackpad, USB-C pass-through charging, and iPadOS 18.3 or later requirement.",
+      "created_by": "ipad_air_m3_batch01_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
