@@ -6060,6 +6060,115 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "host-iphone-15",
+      "manufacturer": "Apple",
+      "product_name": "iPhone 15",
+      "model_number": "iPhone 15",
+      "aliases": [
+        "iPhone 15"
+      ],
+      "category": "smartphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-iphone-15-pro",
+      "manufacturer": "Apple",
+      "product_name": "iPhone 15 Pro",
+      "model_number": "iPhone 15 Pro",
+      "aliases": [
+        "iPhone 15 Pro"
+      ],
+      "category": "smartphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "sandisk-creator-phone-ssd",
+      "manufacturer": "SanDisk",
+      "product_name": "SanDisk Creator Phone SSD",
+      "model_number": "SDSSDE62C",
+      "aliases": [
+        "SanDisk Creator Phone SSD",
+        "SDSSDE62C-1T00-G25",
+        "SDSSDE62C-2T00-G25"
+      ],
+      "category": "portable_ssd",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "belkin-avc007btsgy",
+      "manufacturer": "Belkin",
+      "product_name": "USB-C 5-in-1 Multiport Adapter",
+      "model_number": "AVC007btSGY",
+      "aliases": [
+        "Belkin AVC007btSGY",
+        "AVC007"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "rode-videomic-me-c-plus",
+      "manufacturer": "RØDE",
+      "product_name": "VideoMic Me-C+",
+      "model_number": "VideoMic Me-C+",
+      "aliases": [
+        "RØDE VideoMic Me-C+",
+        "VideoMic Me-C Plus"
+      ],
+      "category": "microphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -27860,6 +27969,306 @@
       "withdrawal_reason": null,
       "superseded_by": null,
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-shield-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "samsung-t7-shield",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Portable SSD T7 Shieldは、Samsungの公式情報でiPhone 15での認識・データ転送が確認されています.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-shield-iphone15-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式情報に基づく外部ストレージ利用。",
+          "evidence_ids": [
+            "ev-samsung-t7-shield-iphone15-20260906"
+          ]
+        },
+        {
+          "feature_id": "samsung-t7-shield-iphone15-feature-2",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "公式情報に基づくデータ転送。",
+          "evidence_ids": [
+            "ev-samsung-t7-shield-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t7-shield-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-shield-iphone15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "samsung-t7-shield",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Portable SSD T7 Shieldは、Samsungの公式情報でiPhone 15 Proでの認識・データ転送が確認されています。ProRes 4K 60fpsには電力・持続性能条件があります.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-shield-iphone15-pro-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式情報に基づく外部ストレージ利用。",
+          "evidence_ids": [
+            "ev-samsung-t7-shield-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "samsung-t7-shield-iphone15-pro-feature-2",
+          "feature_name": "file_transfer",
+          "status": "supported",
+          "notes": "公式情報に基づくデータ転送。",
+          "evidence_ids": [
+            "ev-samsung-t7-shield-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "samsung-t7-shield-iphone15-pro-feature-3",
+          "feature_name": "prores_external_recording",
+          "status": "supported_with_requirements",
+          "notes": "4.5W未満、持続性能220MB/s以上の条件はProRes機能に限る。",
+          "evidence_ids": [
+            "ev-samsung-t7-shield-iphone15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t7-shield-iphone15-pro-20260906"
+      ],
+      "created_by": "iphone_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-sandisk-creator-phone-ssd-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "sandisk-creator-phone-ssd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "SanDisk Creator Phone SSDは、公式互換表でiPhone 15の対応製品として掲載されています.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式互換表の記載。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-20260906"
+          ]
+        },
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-feature-2",
+          "feature_name": "files_app",
+          "status": "supported",
+          "notes": "公式互換表の記載。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-20260906"
+          ]
+        },
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-feature-3",
+          "feature_name": "sandisk_app",
+          "status": "supported",
+          "notes": "公式互換表の記載。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-creator-phone-ssd-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-sandisk-creator-phone-ssd-iphone15-pro-r1",
+      "host_product_id": "host-iphone-15-pro",
+      "accessory_product_id": "sandisk-creator-phone-ssd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "SanDisk Creator Phone SSDは、公式互換表でiPhone 15 Proの対応製品として掲載されています.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-pro-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "公式互換表の記載。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-pro-feature-2",
+          "feature_name": "files_app",
+          "status": "supported",
+          "notes": "公式互換表の記載。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-pro-feature-3",
+          "feature_name": "sandisk_app",
+          "status": "supported",
+          "notes": "公式互換表の記載。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-pro-20260906"
+          ]
+        },
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone15-pro-feature-4",
+          "feature_name": "prores_4k_60fps_external_recording",
+          "status": "supported",
+          "notes": "公式互換表が示す範囲のProRes機能。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone15-pro-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-creator-phone-ssd-iphone15-pro-20260906"
+      ],
+      "created_by": "iphone_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-belkin-avc007btsgy-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "belkin-avc007btsgy",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C 5-in-1 Multiport Adapter（AVC007btSGY）は、公式Compatibility欄でiPhone 15に対応機種として掲載されています.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "belkin-avc007btsgy-iphone15-feature-1",
+          "feature_name": "hub_compatibility",
+          "status": "supported",
+          "notes": "公式Compatibility欄の記載。",
+          "evidence_ids": [
+            "ev-belkin-avc007btsgy-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-belkin-avc007btsgy-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-rode-videomic-me-c-plus-iphone15-r1",
+      "host_product_id": "host-iphone-15",
+      "accessory_product_id": "rode-videomic-me-c-plus",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "VideoMic Me-C+は、USB-Cポート搭載iOS機器の例としてiPhone 15への完全対応が案内されています.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "rode-videomic-me-c-plus-iphone15-feature-1",
+          "feature_name": "usb_audio_recording",
+          "status": "supported",
+          "notes": "USB audio recordingの範囲。",
+          "evidence_ids": [
+            "ev-rode-videomic-me-c-plus-iphone15-20260906"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-rode-videomic-me-c-plus-iphone15-20260906"
+      ],
+      "created_by": "iphone_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-06T00:00:00+09:00",
+      "verified_at": "2026-09-06T00:00:00+09:00",
+      "next_review_at": "2026-10-06T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -37371,6 +37780,120 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Arctis 3 ConsoleのXbox Series X/S対応、3.5mm接続を掲載。",
       "created_by": "batch-audio17-20260903",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t7-shield-iphone15-20260906",
+      "source_type": "manufacturer_faq",
+      "source_authority": "official",
+      "source_url": "https://semiconductor.samsung.com/consumer-storage/support/faqs/portablessd-product-information/",
+      "source_title": "Samsung Portable SSD Product Information FAQ",
+      "source_label": "Samsung Portable SSD Product Information FAQ",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Portable SSD T7 Shield is recognized on iPhone 15 and can transfer data.",
+      "created_by": "iphone_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t7-shield-iphone15-pro-20260906",
+      "source_type": "manufacturer_faq",
+      "source_authority": "official",
+      "source_url": "https://semiconductor.samsung.com/consumer-storage/support/faqs/portablessd-product-information/",
+      "source_title": "Samsung Portable SSD Product Information FAQ",
+      "source_label": "Samsung Portable SSD Product Information FAQ",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Portable SSD T7 Shield is recognized on iPhone 15 Pro and can transfer data; for ProRes recording, requirements include less than 4.5 W and sustained write performance of at least 220 MB/s.",
+      "created_by": "iphone_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-sandisk-creator-phone-ssd-iphone15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.sandisk.com/en-sg/solutions/iphone-external-storage",
+      "source_title": "iPhone External Storage",
+      "source_label": "iPhone External Storage",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表のiPhone 15行で、列見出し「Compatible with iOS Files App」は✓、「Compatible with SANDISK App」は✓。同じ行の「Compatible with Apple ProRes 4K 60fps」はこのrecordではsupportedとして扱わない。対象製品はSanDisk Creator Phone SSD（1TB: SDSSDE62C-1T00-G25、2TB: SDSSDE62C-2T00-G25）。",
+      "created_by": "iphone_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-sandisk-creator-phone-ssd-iphone15-pro-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.sandisk.com/en-sg/solutions/iphone-external-storage",
+      "source_title": "iPhone External Storage",
+      "source_label": "iPhone External Storage",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "SanDisk公式互換表のiPhone 15 Pro行で、列見出し「Compatible with iOS Files App」は✓、「Compatible with SANDISK App」は✓、「Compatible with Apple ProRes 4K 60fps」は✓。対象製品はSanDisk Creator Phone SSD（1TB: SDSSDE62C-1T00-G25、2TB: SDSSDE62C-2T00-G25）。",
+      "created_by": "iphone_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-belkin-avc007btsgy-iphone15-20260906",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.belkin.com/in/p/usb-c-5-in-1-multiport-adapter-hub/P-AVC007.html",
+      "source_title": "5-in-1 Multiport USB-C Adapter Hub",
+      "source_label": "5-in-1 Multiport USB-C Adapter Hub",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility section lists iPhone 15 for USB-C 5-in-1 Multiport Adapter Hub, SKU AVC007btSGY.",
+      "created_by": "iphone_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-rode-videomic-me-c-plus-iphone15-20260906",
+      "source_type": "manufacturer_support",
+      "source_authority": "official",
+      "source_url": "https://help.rode.com/hc/en-us/articles/8002727100687-Is-the-VideoMic-Me-C-compatible-with-iOS-devices",
+      "source_title": "Is the VideoMic Me-C compatible with iOS devices?",
+      "source_label": "Is the VideoMic Me-C compatible with iOS devices?",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-06T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "The VideoMic Me-C+ is made and designed to be fully compatible with iOS devices with USB-C ports, such as the iPhone 15. The original VideoMic Me-C is not compatible with iOS devices.",
+      "created_by": "iphone_batch01_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
