@@ -6669,6 +6669,51 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "host-ipad-pro-11-m5",
+      "manufacturer": "Apple",
+      "product_name": "iPad Pro 11-inch (M5)",
+      "model_number": "iPad Pro 11-inch (M5)",
+      "aliases": [
+        "iPad Pro 11-inch (M5)",
+        "iPad Pro M5"
+      ],
+      "category": "tablet",
+      "region": "JP",
+      "hardware_revision": "M5",
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-magic-keyboard-ipad-pro-11-m5",
+      "manufacturer": "Apple",
+      "product_name": "Magic Keyboard for iPad Pro 11-inch (M5)",
+      "model_number": "MWR03B/A",
+      "aliases": [
+        "Magic Keyboard for iPad Pro 11-inch (M5)",
+        "Magic Keyboard iPad Pro M5"
+      ],
+      "category": "keyboard",
+      "region": "JP",
+      "hardware_revision": "M5",
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "Smart Connector",
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -30414,6 +30459,279 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-r1",
+      "host_product_id": "host-ipad-pro-11-m5",
+      "accessory_product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C Digital AV Multiport AdapterはiPad Pro 11-inch (M5)で、公式記載範囲のHDMI表示・USB機器接続・USB-C充電接続に使用できます.",
+      "requirements": [
+        "iOS 12.4 or later",
+        "HDMI cable required for HDMI display output"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes HDMI display connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-20260908"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-r1-feature-2",
+          "feature_name": "usb_device_connection",
+          "status": "supported",
+          "notes": "Official product page describes standard USB device connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-20260908"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-r1-feature-3",
+          "feature_name": "usb_c_charging_connection",
+          "status": "supported",
+          "notes": "Official product page describes USB-C charging connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-20260908"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-20260908"
+      ],
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-08T00:00:00+09:00",
+      "verified_at": "2026-09-08T00:00:00+09:00",
+      "next_review_at": "2026-10-08T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-usb-adapter-ipad-pro-11-m5-r1",
+      "host_product_id": "host-ipad-pro-11-m5",
+      "accessory_product_id": "apple-usb-c-to-usb-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to USB AdapterはiPad Pro 11-inch (M5)で、公式記載範囲のUSBアクセサリ・フラッシュドライブ・カメラ接続に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-usb-adapter-ipad-pro-11-m5-r1-feature-1",
+          "feature_name": "usb_accessory_connection",
+          "status": "supported",
+          "notes": "Official product page describes standard USB accessories, flash drives, and cameras.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-usb-adapter-ipad-pro-11-m5-20260908"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-usb-adapter-ipad-pro-11-m5-20260908"
+      ],
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-08T00:00:00+09:00",
+      "verified_at": "2026-09-08T00:00:00+09:00",
+      "next_review_at": "2026-10-08T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-lightning-adapter-ipad-pro-11-m5-r1",
+      "host_product_id": "host-ipad-pro-11-m5",
+      "accessory_product_id": "apple-usb-c-to-lightning-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to Lightning AdapterはiPad Pro 11-inch (M5)で、公式記載範囲のLightningアクセサリ接続・同期・充電に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-lightning-adapter-ipad-pro-11-m5-r1-feature-1",
+          "feature_name": "lightning_accessory_connection",
+          "status": "supported",
+          "notes": "Official product page describes connecting Lightning accessories to USB-C devices for supported connection, sync, and charging functions.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-lightning-adapter-ipad-pro-11-m5-20260908"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-lightning-adapter-ipad-pro-11-m5-20260908"
+      ],
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-08T00:00:00+09:00",
+      "verified_at": "2026-09-08T00:00:00+09:00",
+      "next_review_at": "2026-10-08T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-pencil-usb-c-ipad-pro-11-m5-r1",
+      "host_product_id": "host-ipad-pro-11-m5",
+      "accessory_product_id": "apple-pencil-usb-c",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Apple Pencil (USB-C)はiPad Pro 11-inch (M5)で使用できます.",
+      "requirements": [
+        "iPadOS 17.1.1 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-pencil-usb-c-ipad-pro-11-m5-r1-feature-1",
+          "feature_name": "pencil_input",
+          "status": "supported",
+          "notes": "Official product page lists compatibility with iPad Pro 11-inch (M5).",
+          "evidence_ids": [
+            "ev-apple-pencil-usb-c-ipad-pro-11-m5-20260908"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-pencil-usb-c-ipad-pro-11-m5-20260908"
+      ],
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-08T00:00:00+09:00",
+      "verified_at": "2026-09-08T00:00:00+09:00",
+      "next_review_at": "2026-10-08T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-pencil-pro-ipad-pro-11-m5-r1",
+      "host_product_id": "host-ipad-pro-11-m5",
+      "accessory_product_id": "apple-pencil-pro",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Apple Pencil ProはiPad Pro 11-inch (M5)で使用できます.",
+      "requirements": [
+        "iPadOS 17.5 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-pencil-pro-ipad-pro-11-m5-r1-feature-1",
+          "feature_name": "pencil_pro_input",
+          "status": "supported",
+          "notes": "Official product page lists compatibility with iPad Pro 11-inch (M5).",
+          "evidence_ids": [
+            "ev-apple-pencil-pro-ipad-pro-11-m5-20260908"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-pencil-pro-ipad-pro-11-m5-20260908"
+      ],
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-08T00:00:00+09:00",
+      "verified_at": "2026-09-08T00:00:00+09:00",
+      "next_review_at": "2026-10-08T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-magic-keyboard-ipad-pro-11-m5-r1",
+      "host_product_id": "host-ipad-pro-11-m5",
+      "accessory_product_id": "apple-magic-keyboard-ipad-pro-11-m5",
+      "region": "JP",
+      "overall_status": "compatible_with_requirements",
+      "publication_status": "published",
+      "summary": "Magic Keyboard for iPad Pro 11-inch (M5)は、Apple公式記載のiPadOS条件下でキーボード・トラックパッド・USB-Cパススルー充電に使用できます.",
+      "requirements": [
+        "iPadOS 17.4 or later"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-magic-keyboard-ipad-pro-11-m5-r1-feature-1",
+          "feature_name": "keyboard_input",
+          "status": "supported",
+          "notes": "Official product page describes keyboard use.",
+          "evidence_ids": [
+            "ev-apple-magic-keyboard-ipad-pro-11-m5-20260908"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-magic-keyboard-ipad-pro-11-m5-r1-feature-2",
+          "feature_name": "trackpad_input",
+          "status": "supported",
+          "notes": "Official product page describes trackpad use.",
+          "evidence_ids": [
+            "ev-apple-magic-keyboard-ipad-pro-11-m5-20260908"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-magic-keyboard-ipad-pro-11-m5-r1-feature-3",
+          "feature_name": "pass_through_charging",
+          "status": "supported",
+          "notes": "Official product page describes USB-C pass-through charging.",
+          "evidence_ids": [
+            "ev-apple-magic-keyboard-ipad-pro-11-m5-20260908"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-magic-keyboard-ipad-pro-11-m5-20260908"
+      ],
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-08T00:00:00+09:00",
+      "verified_at": "2026-09-08T00:00:00+09:00",
+      "next_review_at": "2026-10-08T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -40742,6 +41060,120 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Product page is model-specific to iPad Air 11-inch (M3), with keyboard, trackpad, USB-C pass-through charging, and iPadOS 18.3 or later requirement.",
       "created_by": "ipad_air_m3_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-digital-av-multiport-adapter-ipad-pro-11-m5-20260908",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+      "source_title": "USB-C Digital AV Multiport Adapter",
+      "source_label": "USB-C Digital AV Multiport Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-08T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Pro 11-inch (M5). Product description connects a USB-C iPad to an HDMI display, standard USB device, and USB-C charging cable; system requirements state iOS 12.4 or later.",
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-usb-adapter-ipad-pro-11-m5-20260908",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/uk/shop/product/mw5l3zm/a/usb-c-to-usb-adapter?n=display",
+      "source_title": "USB-C to USB Adapter",
+      "source_label": "USB-C to USB Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-08T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Pro 11-inch (M5). Product description supports standard USB accessories, flash drives, and cameras.",
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-lightning-adapter-ipad-pro-11-m5-20260908",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/muqx3am/a/usb-c-to-lightning-adapter",
+      "source_title": "USB-C to Lightning Adapter",
+      "source_label": "USB-C to Lightning Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-08T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Pro 11-inch (M5). Product description covers connecting Lightning accessories to USB-C devices for supported connection, sync, or charging functions.",
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-pencil-usb-c-ipad-pro-11-m5-20260908",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/muwa3am/a/apple-pencil-usb-c",
+      "source_title": "Apple Pencil (USB-C)",
+      "source_label": "Apple Pencil (USB-C)",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-08T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Product page lists iPad Pro 11-inch (M5) compatibility; system requirements state iPadOS 17.1.1 or later.",
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-pencil-pro-ipad-pro-11-m5-20260908",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/MX2D3AM/A/apple-pencil-pro",
+      "source_title": "Apple Pencil Pro",
+      "source_label": "Apple Pencil Pro",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-08T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility list includes iPad Pro 11-inch (M5); system requirements state iPadOS 17.5 or later.",
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-magic-keyboard-ipad-pro-11-m5-20260908",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mwr03b/a/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m5-british-english-white",
+      "source_title": "Magic Keyboard for iPad Pro 11-inch (M5)",
+      "source_label": "Magic Keyboard for iPad Pro 11-inch (M5)",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-08T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Product page is model-specific to iPad Pro 11-inch (M5), with keyboard, trackpad, USB-C pass-through charging, and iPadOS 17.4 or later requirement.",
+      "created_by": "ipad_pro_11_m5_batch01_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
