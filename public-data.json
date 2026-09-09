@@ -6761,6 +6761,101 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "host-macbook-pro-14-m5",
+      "manufacturer": "Apple",
+      "product_name": "MacBook Pro 14-inch (M5)",
+      "model_number": "MacBook Pro 14-inch (M5)",
+      "aliases": [
+        "MacBook Pro 14-inch (M5)",
+        "MacBook Pro M5"
+      ],
+      "category": "laptop",
+      "region": "JP",
+      "hardware_revision": "M5",
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Thunderbolt 4",
+        "MagSafe 3"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "belkin-connect-usb-c-data-charge-adapter",
+      "manufacturer": "Belkin",
+      "product_name": "Belkin Connect USB-C Data + Charge Adapter",
+      "model_number": "WCZ002dsWH-APL",
+      "aliases": [
+        "Belkin Connect USB-C Data + Charge Adapter",
+        "WCZ002dsWH-APL"
+      ],
+      "category": "usb_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "WCZ002dsWH-APL",
+      "jan": null,
+      "upc": "745883904051",
+      "connection_methods": [
+        "USB-C"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "belkin-connect-usb-c-to-hdmi-adapter",
+      "manufacturer": "Belkin",
+      "product_name": "Belkin Connect USB-C to HDMI Adapter",
+      "model_number": "AVC013dsWH",
+      "aliases": [
+        "Belkin Connect USB-C to HDMI Adapter",
+        "AVC013dsWH"
+      ],
+      "category": "display_adapter",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "AVC013dsWH",
+      "jan": null,
+      "upc": "745883887163",
+      "connection_methods": [
+        "USB-C",
+        "HDMI"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "satechi-multiport-pro-adapter-v2",
+      "manufacturer": "Satechi",
+      "product_name": "Satechi Multiport Pro Adapter V2",
+      "model_number": "AP-PCMPAM",
+      "aliases": [
+        "Satechi Multiport Pro Adapter V2",
+        "AP-PCMPAM"
+      ],
+      "category": "dock_usb_c_hub",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": "AP-PCMPAM",
+      "jan": null,
+      "upc": "879961007829",
+      "connection_methods": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "SD",
+        "microSD"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -30951,6 +31046,165 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-r1",
+      "host_product_id": "host-macbook-pro-14-m5",
+      "accessory_product_id": "belkin-connect-usb-c-data-charge-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Belkin Connect USB-C Data + Charge AdapterはMacBook Pro 14-inch (M5)で、公式記載範囲のデータ転送・USB-PDパススルー充電・USB-Cオーディオパススルーに使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-r1-feature-1",
+          "feature_name": "data_transfer",
+          "status": "supported",
+          "notes": "Official product page describes USB data transfer.",
+          "evidence_ids": [
+            "ev-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-r1-feature-2",
+          "feature_name": "usb_pd_pass_through_charging",
+          "status": "supported",
+          "notes": "Official product page describes USB-PD pass-through power.",
+          "evidence_ids": [
+            "ev-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-r1-feature-3",
+          "feature_name": "usb_c_audio_pass_through",
+          "status": "supported",
+          "notes": "Official product page describes USB-C audio pass-through.",
+          "evidence_ids": [
+            "ev-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-20260909"
+      ],
+      "created_by": "macbook_pro_14_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-belkin-connect-usb-c-to-hdmi-adapter-macbook-pro-14-m5-r1",
+      "host_product_id": "host-macbook-pro-14-m5",
+      "accessory_product_id": "belkin-connect-usb-c-to-hdmi-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Belkin Connect USB-C to HDMI AdapterはMacBook Pro 14-inch (M5)で、公式記載範囲のHDMI映像出力に使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-belkin-connect-usb-c-to-hdmi-adapter-macbook-pro-14-m5-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes HDMI output up to 4K at 60Hz.",
+          "evidence_ids": [
+            "ev-belkin-connect-usb-c-to-hdmi-adapter-macbook-pro-14-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-belkin-connect-usb-c-to-hdmi-adapter-macbook-pro-14-m5-20260909"
+      ],
+      "created_by": "macbook_pro_14_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-r1",
+      "host_product_id": "host-macbook-pro-14-m5",
+      "accessory_product_id": "satechi-multiport-pro-adapter-v2",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Satechi Multiport Pro Adapter V2はMacBook Pro 14-inch (M5)で、公式記載範囲のHDMI・USB 3.2・SD/microSD・USB-C PD機能を使用できます。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes HDMI output up to 4K at 60Hz.",
+          "evidence_ids": [
+            "ev-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-r1-feature-2",
+          "feature_name": "usb_3_2_data_transfer",
+          "status": "supported",
+          "notes": "Official product page describes USB 3.2 data transfer.",
+          "evidence_ids": [
+            "ev-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-r1-feature-3",
+          "feature_name": "sd_microsd_card_access",
+          "status": "supported",
+          "notes": "Official product page describes SD and microSD card access.",
+          "evidence_ids": [
+            "ev-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-r1-feature-4",
+          "feature_name": "usb_c_pd_pass_through",
+          "status": "supported",
+          "notes": "Official product page describes USB-C Power Delivery.",
+          "evidence_ids": [
+            "ev-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-20260909"
+      ],
+      "created_by": "macbook_pro_14_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -41469,6 +41723,63 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "MacBook Air (13-inch, M5) is listed on the official product page. Product description states bidirectional 3.5 mm audio-out and audio-in use; it does not establish microphone or recording compatibility.",
       "created_by": "macbook_air_13_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-belkin-connect-usb-c-data-charge-adapter-macbook-pro-14-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/hr862zm/b/belkin-connect-usb-c-data-charge-adapter",
+      "source_title": "Belkin Connect USB-C Data + Charge Adapter",
+      "source_label": "Belkin Connect USB-C Data + Charge Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Mac Models compatibility list includes MacBook Pro (14-inch, M5). Product description states USB data transfer, up to 100W USB-PD pass-through power, and USB-C audio pass-through.",
+      "created_by": "macbook_pro_14_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-belkin-connect-usb-c-to-hdmi-adapter-macbook-pro-14-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/hrg42zm/a/belkin-connect-usb-c-to-hdmi-adapter",
+      "source_title": "Belkin Connect USB-C to HDMI Adapter",
+      "source_label": "Belkin Connect USB-C to HDMI Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Mac Models compatibility list includes MacBook Pro (14-inch, M5). Product description states HDMI display output up to 4K at 60Hz.",
+      "created_by": "macbook_pro_14_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-satechi-multiport-pro-adapter-v2-macbook-pro-14-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/ca/shop/product/hrdp2zm/a/satechi-multiport-pro-adapter-v2",
+      "source_title": "Satechi Multiport Pro Adapter V2",
+      "source_label": "Satechi Multiport Pro Adapter V2",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Mac Models compatibility list includes MacBook Pro (14-inch, M5). Product description and highlights state HDMI output, USB 3.2 data transfer, SD/microSD card access, and USB-C Power Delivery.",
+      "created_by": "macbook_pro_14_m5_batch01_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
