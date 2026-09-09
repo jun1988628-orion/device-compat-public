@@ -6714,6 +6714,53 @@
       "lifecycle_status": "current",
       "successor_product_id": null,
       "safety_class": "normal"
+    },
+    {
+      "product_id": "host-macbook-air-13-m5",
+      "manufacturer": "Apple",
+      "product_name": "MacBook Air 13-inch (M5)",
+      "model_number": "MacBook Air 13-inch (M5)",
+      "aliases": [
+        "MacBook Air 13-inch (M5)",
+        "MacBook Air M5"
+      ],
+      "category": "laptop",
+      "region": "JP",
+      "hardware_revision": "M5",
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "Thunderbolt 4",
+        "MagSafe 3"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "apple-usb-c-to-35mm-audio-cable",
+      "manufacturer": "Apple",
+      "product_name": "USB-C to 3.5 mm Audio Cable (1.2 m)",
+      "model_number": "MDV84AM/A",
+      "aliases": [
+        "USB-C to 3.5 mm Audio Cable (1.2 m)",
+        "MDV84AM/A"
+      ],
+      "category": "audio_cable",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C",
+        "3.5mm"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
     }
   ],
   "compatibility_records": [
@@ -30732,6 +30779,178 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-r1",
+      "host_product_id": "host-macbook-air-13-m5",
+      "accessory_product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C Digital AV Multiport AdapterはMacBook Air 13-inch (M5)で、公式記載範囲のHDMI表示・USB機器接続・USB-C充電接続に使用できます.",
+      "requirements": [
+        "HDMI cable required for HDMI display output"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-r1-feature-1",
+          "feature_name": "hdmi_display_output",
+          "status": "supported",
+          "notes": "Official product page describes HDMI display connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-r1-feature-2",
+          "feature_name": "usb_device_connection",
+          "status": "supported",
+          "notes": "Official product page describes standard USB device connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-20260909"
+          ]
+        },
+        {
+          "feature_id": "cmp-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-r1-feature-3",
+          "feature_name": "usb_c_charging_connection",
+          "status": "supported",
+          "notes": "Official product page describes USB-C charging connection.",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-20260909"
+      ],
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-usb-adapter-macbook-air-13-m5-r1",
+      "host_product_id": "host-macbook-air-13-m5",
+      "accessory_product_id": "apple-usb-c-to-usb-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to USB AdapterはMacBook Air 13-inch (M5)で、公式記載範囲のフラッシュドライブ・カメラ・標準USB機器接続に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-usb-adapter-macbook-air-13-m5-r1-feature-1",
+          "feature_name": "usb_accessory_connection",
+          "status": "supported",
+          "notes": "Official product page describes flash drives, cameras, and other standard USB devices.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-usb-adapter-macbook-air-13-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-usb-adapter-macbook-air-13-m5-20260909"
+      ],
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-sd-card-reader-macbook-air-13-m5-r1",
+      "host_product_id": "host-macbook-air-13-m5",
+      "accessory_product_id": "apple-usb-c-to-sd-card-reader",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to SD Card ReaderはMacBook Air 13-inch (M5)で、UHS-II速度の写真・動画転送に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-sd-card-reader-macbook-air-13-m5-r1-feature-1",
+          "feature_name": "photo_video_transfer",
+          "status": "supported",
+          "notes": "Official product page describes transferring high-resolution photos and videos at UHS-II speeds.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-sd-card-reader-macbook-air-13-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-sd-card-reader-macbook-air-13-m5-20260909"
+      ],
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-35mm-audio-cable-macbook-air-13-m5-r1",
+      "host_product_id": "host-macbook-air-13-m5",
+      "accessory_product_id": "apple-usb-c-to-35mm-audio-cable",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to 3.5 mm Audio Cable (1.2 m)はMacBook Air 13-inch (M5)で、公式記載範囲の3.5mm音声入出力に使用できます.",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "cmp-apple-usb-c-to-35mm-audio-cable-macbook-air-13-m5-r1-feature-1",
+          "feature_name": "audio_input_output",
+          "status": "supported",
+          "notes": "Official product page describes bidirectional 3.5 mm audio-out and audio-in use.",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-35mm-audio-cable-macbook-air-13-m5-20260909"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-35mm-audio-cable-macbook-air-13-m5-20260909"
+      ],
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-09T00:00:00+09:00",
+      "verified_at": "2026-09-09T00:00:00+09:00",
+      "next_review_at": "2026-10-09T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -41174,6 +41393,82 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Product page is model-specific to iPad Pro 11-inch (M5), with keyboard, trackpad, USB-C pass-through charging, and iPadOS 17.4 or later requirement.",
       "created_by": "ipad_pro_11_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-digital-av-multiport-adapter-macbook-air-13-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+      "source_title": "USB-C Digital AV Multiport Adapter",
+      "source_label": "USB-C Digital AV Multiport Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Mac models compatibility list includes MacBook Air (13-inch, M5). Product description connects a USB-C or Thunderbolt 3 (USB-C) Mac to an HDMI display, standard USB device, and USB-C charging cable; HDMI cable is sold separately.",
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-usb-adapter-macbook-air-13-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/ca/shop/product/mw5l3am/a/usb-c-to-usb-adapter",
+      "source_title": "USB-C to USB Adapter",
+      "source_label": "USB-C to USB Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Mac models compatibility list includes MacBook Air (13-inch, M5). Product description covers flash drives, cameras, and other standard USB devices.",
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-sd-card-reader-macbook-air-13-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mw653am/a/usb-c-to-sd-card-reader",
+      "source_title": "USB-C to SD Card Reader",
+      "source_label": "USB-C to SD Card Reader",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Mac models compatibility list includes MacBook Air (13-inch, M5). Product description covers transferring high-resolution photos and videos at UHS-II speeds to a USB-C-enabled Mac.",
+      "created_by": "macbook_air_13_m5_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-35mm-audio-cable-macbook-air-13-m5-20260909",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mdv84am/a/usb-c-to-35-mm-audio-cable-12-m",
+      "source_title": "USB-C to 3.5 mm Audio Cable (1.2 m)",
+      "source_label": "USB-C to 3.5 mm Audio Cable (1.2 m)",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-09T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "MacBook Air (13-inch, M5) is listed on the official product page. Product description states bidirectional 3.5 mm audio-out and audio-in use; it does not establish microphone or recording compatibility.",
+      "created_by": "macbook_air_13_m5_batch01_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
