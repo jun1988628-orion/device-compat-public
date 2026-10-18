@@ -1,7 +1,7 @@
 {
   "schema_version": "1.5.0",
   "rules_version": "1.3",
-  "dataset_generated_at": "2026-09-10T21:43:58+09:00",
+  "dataset_generated_at": "2026-09-19T23:01:44+09:00",
   "products": [
     {
       "product_id": "host-switch2",
@@ -6877,6 +6877,27 @@
         "USB-C",
         "Thunderbolt 4",
         "MagSafe 3"
+      ],
+      "lifecycle_status": "current",
+      "successor_product_id": null,
+      "safety_class": "normal"
+    },
+    {
+      "product_id": "host-iphone-16-pro",
+      "manufacturer": "Apple",
+      "product_name": "iPhone 16 Pro",
+      "model_number": "iPhone 16 Pro",
+      "aliases": [
+        "iPhone 16 Pro"
+      ],
+      "category": "smartphone",
+      "region": "JP",
+      "hardware_revision": null,
+      "sku": null,
+      "jan": null,
+      "upc": null,
+      "connection_methods": [
+        "USB-C"
       ],
       "lifecycle_status": "current",
       "successor_product_id": null,
@@ -31333,6 +31354,422 @@
       "superseded_by": null,
       "relationship_role": "peripheral",
       "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "samsung-t7",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Samsung Portable SSD T7は、Samsung公式互換表でiPhone 16 ProのProRes外部収録対応が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-iphone16-pro-feature-1",
+          "feature_name": "prores_external_recording",
+          "status": "supported",
+          "notes": "ProRes 4K 120fpsおよび60fpsの互換表記載範囲に限定。一般ストレージ互換はこのevidenceから推論しない。",
+          "evidence_ids": [
+            "ev-samsung-t7-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t7-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t7-shield-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "samsung-t7-shield",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Samsung Portable SSD T7 Shieldは、Samsung公式互換表でiPhone 16 ProのProRes外部収録対応が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t7-shield-iphone16-pro-feature-1",
+          "feature_name": "prores_external_recording",
+          "status": "supported",
+          "notes": "ProRes 4K 120fpsおよび60fpsの互換表記載範囲に限定。一般ストレージ互換はこのevidenceから推論しない。",
+          "evidence_ids": [
+            "ev-samsung-t7-shield-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t7-shield-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-samsung-t9-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "samsung-t9",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "Samsung Portable SSD T9は、Samsung公式互換表でiPhone 16 ProのProRes外部収録対応が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "samsung-t9-iphone16-pro-feature-1",
+          "feature_name": "prores_external_recording",
+          "status": "supported",
+          "notes": "ProRes 4K 120fpsおよび60fpsの互換表記載範囲に限定。一般ストレージ互換はこのevidenceから推論しない。",
+          "evidence_ids": [
+            "ev-samsung-t9-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-samsung-t9-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-sandisk-creator-phone-ssd-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "sandisk-creator-phone-ssd",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "SanDisk Creator Phone SSDは、公式製品ページでiPhone 16 Pro/Pro Maxとの互換性とProRes 4K 60fpsの直接保存が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone16-pro-feature-1",
+          "feature_name": "external_storage",
+          "status": "supported",
+          "notes": "製品ページ記載のiPhone 16 Pro/Pro Max互換範囲。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "sandisk-creator-phone-ssd-iphone16-pro-feature-2",
+          "feature_name": "prores_4k_60fps_external_recording",
+          "status": "supported",
+          "notes": "Apple ProRes 4K 60fpsの直接保存に限定。",
+          "evidence_ids": [
+            "ev-sandisk-creator-phone-ssd-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-sandisk-creator-phone-ssd-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-digital-av-multiport-adapter-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "apple-usb-c-digital-av-multiport-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C Digital AV Multiport Adapterは、Apple公式製品ページでiPhone 16 ProのHDMI表示・USB機器接続・USB-C充電が確認されています。",
+      "requirements": [
+        "HDMI cable required"
+      ],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "apple-usb-c-digital-av-multiport-adapter-iphone16-pro-feature-1",
+          "feature_name": "hdmi_output",
+          "status": "supported",
+          "notes": "HDMI表示。",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-digital-av-multiport-adapter-iphone16-pro-feature-2",
+          "feature_name": "usb_device_connection",
+          "status": "supported",
+          "notes": "標準USB機器接続。",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-digital-av-multiport-adapter-iphone16-pro-feature-3",
+          "feature_name": "usb_c_charging",
+          "status": "supported",
+          "notes": "USB-C充電。",
+          "evidence_ids": [
+            "ev-apple-usb-c-digital-av-multiport-adapter-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-digital-av-multiport-adapter-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-usb-adapter-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "apple-usb-c-to-usb-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to USB Adapterは、Apple公式製品ページでiPhone 16 Proへのフラッシュドライブ・カメラ・標準USB機器接続が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "apple-usb-c-to-usb-adapter-iphone16-pro-feature-1",
+          "feature_name": "flash_drive_connection",
+          "status": "supported",
+          "notes": "フラッシュドライブ接続。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-usb-adapter-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-to-usb-adapter-iphone16-pro-feature-2",
+          "feature_name": "camera_connection",
+          "status": "supported",
+          "notes": "カメラ接続。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-usb-adapter-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-to-usb-adapter-iphone16-pro-feature-3",
+          "feature_name": "standard_usb_device_connection",
+          "status": "supported",
+          "notes": "標準USB機器接続。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-usb-adapter-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-usb-adapter-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-sd-card-reader-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "apple-usb-c-to-sd-card-reader",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to SD Card Readerは、Apple公式製品ページでiPhone 16 Proの写真・動画転送とUHS-II速度が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "apple-usb-c-to-sd-card-reader-iphone16-pro-feature-1",
+          "feature_name": "photo_video_transfer",
+          "status": "supported",
+          "notes": "高解像度写真・動画転送。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-sd-card-reader-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-to-sd-card-reader-iphone16-pro-feature-2",
+          "feature_name": "uhs_ii_transfer",
+          "status": "supported",
+          "notes": "UHS-II速度。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-sd-card-reader-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-sd-card-reader-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-35mm-headphone-jack-adapter-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "apple-usb-c-to-35mm-headphone-jack-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to 3.5-mm Headphone Jack Adapterは、Apple公式製品ページでiPhone 16 Proへの3.5mmヘッドホン・スピーカー接続が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "apple-usb-c-to-35mm-headphone-jack-adapter-iphone16-pro-feature-1",
+          "feature_name": "audio_output",
+          "status": "supported",
+          "notes": "3.5mmヘッドホン・スピーカー接続による音声出力。入力・録音は含めない。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
+    },
+    {
+      "compatibility_id": "cmp-apple-usb-c-to-lightning-adapter-iphone16-pro-r1",
+      "host_product_id": "host-iphone-16-pro",
+      "accessory_product_id": "apple-usb-c-to-lightning-adapter",
+      "region": "JP",
+      "overall_status": "compatible",
+      "publication_status": "published",
+      "summary": "USB-C to Lightning Adapterは、Apple公式製品ページでiPhone 16 ProのLightningアクセサリ接続（充電・データ・音声）が確認されています。",
+      "requirements": [],
+      "minimum_firmware": null,
+      "verified_firmware": null,
+      "host_os_version": null,
+      "feature_assessments": [
+        {
+          "feature_id": "apple-usb-c-to-lightning-adapter-iphone16-pro-feature-1",
+          "feature_name": "charging",
+          "status": "supported",
+          "notes": "Lightningアクセサリの充電。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-lightning-adapter-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-to-lightning-adapter-iphone16-pro-feature-2",
+          "feature_name": "data_connection",
+          "status": "supported",
+          "notes": "Lightningアクセサリのデータ接続。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-lightning-adapter-iphone16-pro-20260919"
+          ]
+        },
+        {
+          "feature_id": "apple-usb-c-to-lightning-adapter-iphone16-pro-feature-3",
+          "feature_name": "audio_connection",
+          "status": "supported",
+          "notes": "Lightningアクセサリの音声接続。",
+          "evidence_ids": [
+            "ev-apple-usb-c-to-lightning-adapter-iphone16-pro-20260919"
+          ]
+        }
+      ],
+      "evidence_ids": [
+        "ev-apple-usb-c-to-lightning-adapter-iphone16-pro-20260919"
+      ],
+      "created_by": "iphone16_pro_batch01_candidate",
+      "reviewed_by": "jun19",
+      "approved_at": "2026-09-19T23:01:44+09:00",
+      "verified_at": "2026-09-19T00:00:00+09:00",
+      "next_review_at": "2026-10-19T00:00:00+09:00",
+      "revision": 1,
+      "withdrawn_at": null,
+      "withdrawal_reason": null,
+      "superseded_by": null,
+      "relationship_role": "peripheral",
+      "verification_state": "directly_verified"
     }
   ],
   "evidence": [
@@ -41946,6 +42383,177 @@
       "applies_to_host_os": null,
       "excerpt_or_location": "Mac Models compatibility list includes MacBook Pro (14-inch, M5 Pro or M5 Max). Product description and highlights state HDMI output, USB 3.2 data transfer, SD/microSD card access, and USB-C Power Delivery.",
       "created_by": "macbook_pro_14_m5_pro_max_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t7-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/memory-storage/portable-ssd/portable-ssd-t7-1tb-blue-mu-pc1t0h-ww/",
+      "source_title": "Samsung Portable SSD compatibility table",
+      "source_label": "Samsung Portable SSD compatibility table",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility table: Apple / iPhone 16 Pro / ProRes 4K 120fps & 60fps; T9, T7 Shield and T7 columns are marked O (tested by Samsung).",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t7-shield-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/memory-storage/portable-ssd/portable-ssd-t7-1tb-blue-mu-pc1t0h-ww/",
+      "source_title": "Samsung Portable SSD compatibility table",
+      "source_label": "Samsung Portable SSD compatibility table",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility table: Apple / iPhone 16 Pro / ProRes 4K 120fps & 60fps; T7 Shield column is marked O (tested by Samsung).",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-samsung-t9-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.samsung.com/de/memory-storage/portable-ssd/portable-ssd-t7-1tb-blue-mu-pc1t0h-ww/",
+      "source_title": "Samsung Portable SSD compatibility table",
+      "source_label": "Samsung Portable SSD compatibility table",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Compatibility table: Apple / iPhone 16 Pro / ProRes 4K 120fps & 60fps; T9 column is marked O (tested by Samsung).",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-sandisk-creator-phone-ssd-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.sandisk.com/products/ssd/external-ssd/sandisk-creator-portable-phone-ssd",
+      "source_title": "SanDisk Creator Phone SSD",
+      "source_label": "SanDisk Creator Phone SSD",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Official SanDisk Creator Phone SSD product page states compatibility including iPhone 16 Pro/Pro Max and direct-to-drive Apple ProRes 4K at 60fps. The page documents both variants: 1TB model SDSSDE62C-1T00-G25 and 2TB model SDSSDE62C-2T00-G25; no other capacities are included.",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-digital-av-multiport-adapter-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+      "source_title": "USB-C Digital AV Multiport Adapter",
+      "source_label": "USB-C Digital AV Multiport Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Apple product page Compatibility lists iPhone 16 Pro; overview states HDMI display mirroring, standard USB device connection and USB-C charging. HDMI cable sold separately.",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-usb-adapter-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/ca/shop/product/mw5l3am/a/usb-c-to-usb-adapter",
+      "source_title": "USB-C to USB Adapter",
+      "source_label": "USB-C to USB Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Apple product page Compatibility lists iPhone 16 Pro; overview states connection of flash drive, camera and other standard USB devices.",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-sd-card-reader-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/au/shop/product/mw653za/a/usb-c-to-sd-card-reader",
+      "source_title": "USB-C to SD Card Reader",
+      "source_label": "USB-C to SD Card Reader",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Apple product page Compatibility lists iPhone 16 Pro; overview states transfer of high-resolution photos and videos at UHS-II speeds.",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-35mm-headphone-jack-adapter-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/au/shop/product/mw2q3fe/a/usb-c-to-35-mm-headphone-jack-adapter",
+      "source_title": "USB-C to 3.5-mm Headphone Jack Adapter",
+      "source_label": "USB-C to 3.5-mm Headphone Jack Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Apple product page Compatibility lists iPhone 16 Pro; overview states connection of standard 3.5-mm headphones or speakers to USB-C devices.",
+      "created_by": "iphone16_pro_batch01_candidate",
+      "evidence_scope": "direct_pair"
+    },
+    {
+      "evidence_id": "ev-apple-usb-c-to-lightning-adapter-iphone16-pro-20260919",
+      "source_type": "manufacturer_compatibility_page",
+      "source_authority": "official",
+      "source_url": "https://www.apple.com/ca/shop/product/muqx3am/a/usb-c-to-lightning-adapter",
+      "source_title": "USB-C to Lightning Adapter",
+      "source_label": "USB-C to Lightning Adapter",
+      "product_specificity": "exact_model",
+      "directness": "explicit",
+      "published_at": null,
+      "accessed_at": "2026-09-19T00:00:00+09:00",
+      "region": "JP",
+      "language": "en",
+      "applies_to_firmware": null,
+      "applies_to_host_os": null,
+      "excerpt_or_location": "Apple product page Compatibility lists iPhone 16 Pro; overview states charging, data and audio with Lightning accessories.",
+      "created_by": "iphone16_pro_batch01_candidate",
       "evidence_scope": "direct_pair"
     }
   ]
